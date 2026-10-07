@@ -1,0 +1,260 @@
+
+Description
+BACKGROUND OF THE INVENTION
+Perfluoroelastomers have achieved outstanding commercial success, and are used in a wide variety of applications in which severe environments are encountered, including high temperatures and aggressive chemicals.
+The manufacture of electronic components, such as semiconductor devices, presents unusually stringent requirements for sealing components used in such processing. A remaining unmet need exists for elastomeric compositions that will function satisfactorily in the unusual process conditions found in dry semiconductor manufacturing environments, in which the seal is often exposed to reactive plasmas, corrosive cleaning gases and high temperatures.
+SUMMARY OF THE INVENTION
+The instant invention provides perfluoroelastomer compositions which can be effectively used in the processing conditions found with dry process semiconductor manufacturing environments.
+Specifically, the instant invention provides a perfluoroelastomer composition substantially free of elemental carbon comprising:
+(A) at least one curable elastomeric perfluoropolymer;
+(B) about 0.1-5.0 parts, per 100 parts by weight of the perfluoropolymer, of curative;
+(C) about 1.0-25 parts, per 100 parts by weight of the perfluoropolymer, of at least one metallic reinforcing filler selected from the group consisting of silicon dioxide, barium sulfate, aluminum oxide and aluminum silicate; and
+(D) about 1.0-25 parts, per 100 parts by weight of the perfluoropolymer, of titanium dioxide.
+Preferably, the perfluoroelastomer composition further comprises about 0.1-5.0 parts, per 100 parts by weight of the perfluoropolymer, of at least one acid acceptor selected from organic amines having a pKa of at least about 10 and metal oxides selected from the group consisting of zinc oxide and tin oxide. The composition also preferably further comprises about 1.0-25 parts, per 100 parts by weight of the perfluoropolymer, of at least one fluoropolymer filler.
+DETAILED DESCRIPTION OF THE INVENTION
+The compositions of the present invention are based on elastomeric perfluoropolymers, that is, substantially fully fluorinated fluoropolymers which, when cured, exhibit an elastomeric character. The fluoropolymers contain moieties to render the polymer crosslinkable by use of one or more appropriate curatives.
+Curable elastomeric perfluoropolymers which are the basic component of the present compositions are typically based on and prepared primarily from two or more perfluorinated monomers such as tetrafluoroethylene (TFE) and perfluoro (alkyl vinyl) ether (PAVE) having the formula CF2 =CFO(CF2 CFXO)n Rf wherein X is F or CF3, n is 0-5, and Rf is a perfluoroalkyl group of 1-6 carbon atoms. A preferred PAVE for use in the present invention is perfluoro(methyl vinyl) ether (PMVE). Minor portions of the TFE can be replaced by other perhaloolefins, such as chlorotrifluoro ethylene (CTFE). Preferred PAVEs for use in this invention include (PMVE), perfluoro(propyl vinyl) ether (PPVE), and certain PAVEs for which n is not zero in the formula above. These monomers are typically used in conjunction with a comonomer which facilitates crosslinking. Small concentrations of monomers which are not perfluorinated can also be used. Normally, such monomers are employed to obtain desirable crosslinking characteristics and may be present in concentrations of up to about 3 mole %. Examples of such monomers include bromotetrafluorobutene, bromotrifluoroethylene, vinylidene fluoride and monomers containing nitrile groups.
+Alternatively or additionally, chain transfer agents that are not perfluorinated can be used in the polymerization reaction to introduce desirable fragments into the polymer for curing purposes, and are considered cure site moieties in the context of the present invention. Such agents include di-iodo compounds that result in bound iodine in the polymer, commonly at the end of the molecule. Curable elastomeric perfluoropolymer which can be used in the present invention include those described in U.S. Pat. Nos. 3,467,638 (Pattison); 4,035,565 (Apotheker et al); 4,214,060 (Apotheker et al); 4,243,770 (Tatemoto et al); 4,281,092 (Breazeale); 4,394,489 (Aufdermarsh); 4,525,539 (Feiring); 4,529,784 (Finlay); 4,948,853 (Logothetis); 4,972,028 (Logothetis; 4,983,680 (Ojakaar); 5,173,553 (Albano et al); 5,447,993 (Logothetis); 4,983,680 (Ojakaar).
+The perfluoroelastomer compositions of the present invention further comprise about 0.1-5.0 phr of at least one curative. For peroxide curable perfluropolymers, the curative should comprise organic peroxide and a co-agent for the peroxide. A wide variety of organic peroxides can be used, provided the organic peroxide is of the alkyl type. One organic peroxide that has been found to be particularly satisfactory is 2, 5-dimethyl-2,5-di (t-butylperoxy)hexane, commercially available from Atochem, Inc. as Lupersol 101. The organic peroxide has been found to be particularly satisfactory in concentrations of about 1-3 phr. While some forms of the organic peroxide are available on an inert carrier, such as Luperco 101-XL (45% active ingredient), the concentrations indicated are based on 100% active organic peroxide.
+For peroxide-curable perfluoropolymers, the curative in the perfluoroelastomer compositions of the present invention further comprises organic coagent to aid in the crosslinking reaction. In general, the coagent is present in an mount between about 0.1 and about 10 phr, and preferably between 2 and 5 phr. A wide variety of organic coagents can be used, including triallyl isocyanurate, trimethylallyl isocyanurate and trimethylolpropane trimethacrylate, of which triallyl isocyanurate has been found to be particularly satisfactory. Triallyl isocyanurate and trimethylallyl isocyanurate are available from the DuPont Company as Diak #7 and Diak #8. Trimethylolpropane trimethacrylate is commercially available from the Sartomer Company as Saret 350.
+When the perfluoropolymer is curable by an organotin metallic curative such as tetraphenyltin, this material should be present in the same general amounts. For those perfluoroelastomers containing a plurality of nitrile cure sites, it is often desireable to use both organic peroxide and organotin curatives. This combination of curatives also provides surprisingly improved themal stability and long term compression set resistance when compared to peroxide alone. In this case, the curative can comprise a mixture of tin catalyst, a peroxide capable of crosslinking the perfluoroelastomer, and a coagent which is a diene or triene.
+The compositions of the present invention comprise about 1.0-25 parts, by weight of the perfluoropolymer, of at least one metallic reinforcing filler selected from the group consisting of silicon dioxide, barium sulfate, aluminum oxide and aluminum silicate. The reinforcing fillers of this invention provide the desired mechnical reinforcement while being chemically compatible with the process and equipment used in fabricating silicon wafers for the semiconductor industry. Of these, one or both of the barium sulfate and silicon dioxide have been found to be particularly beneficial in providing outstanding long term compression set and thermal stability.
+The compositions of the present invention comprise about 1.0-25 pars, by weight of the perfluoropolymer, of titanium dioxide. This pigment provides a desireable whiteness to the cured articles resulting from the present compositions, consistent with the absence of elemental carbon.
+The perfluoroelastomer compositions of the present invention preferably further include about 0.1-5.0 phr of an acid acceptor. The acid acceptor can be selected from strongly basic organic amines and metal oxides selected from the group consisting of zinc oxide and tin oxide. These metal oxides have been found to be more desireable than other known acid acceptions such as, magnesium oxide and calcium oxide which can potentially interfere with the curing mechanism of the perfluoroelastomer. When an organic amine is used, it should have a pKa of at least about 10, and preferably at least about 12. One such organic anime that has been found to be particularly satisfactory is 1,8-bis-(dimethylamino) napthalene, commercially available from Aldrich Chemical Company as Proton Sponge. Another particularly satisfactory acid acceptor is octadecylamine, commercially available from Akzo Chemicals, Inc. as Armeen 18-D. When a metal oxide is used, zinc oxide has been found to be particularly satisfactory, and is accordingly preferred.
+The use of an acid acceptor has been found to improve the physical characteristics of the cured perfluoroelastomer. The acid acceptor also has been found to substantially reduce the amount of fluoride evolved from the cured perfluoroelastomer especially at elevated temperatures. In general, about from 0.1 to 5.0 phr of acid acceptor are used, and about from 0.1 to 1.0 phr have been found to be particularly satisfactory.
+The compositions of the present invention preferably further comprise about from 1 to 25 phr of a fluoropolymer filler, and especially at least about 2 phr of the filler. The fluoropolymer filler, if present, improves the mechanical properties of the cured perfluoroelastomer as well as the processability of curable composition.
+The fluoropolymer filler used in the present compositions can be any finely divided, easily dispersed plastic fluoropolymer that is solid at the highest temperature utilized in fabrication and curing of the fluoroelastomer composition. By solid is meant that the fluoroplastic, if partially crystalline, has a crystalline melting temperature above the elastomeric fluoropolymer processing temperature, and, if amorphous, has a glass transition temperature above the elastomeric fluoropolymer processing temperature. Such finely divided, easily dispersed fluoropolymers are commonly called micropowders or fluoroadditives. Micropowders are ordinarily partially crystalline polymers.
+Micropowders that can be used in the compositions of this invention can include those based on the group of polymers known as tetrafluoroethylene (TFE) polymers. This group includes homopolymers of TFE (PTFE) and copolymers of TFE with such small concentrations of copolymerizable modifying monomers that the resins remain non-melt-fabricable (modified PTFE). The modifying monomer can be, for example, hexafluoropropylene (HFP), perfluoro(propyl vinyl) ether (PPVE), perfluorobutyl ethylene, chlorotrifluoroethylene, or other monomers that introduces side groups into the molecule. The concentration of such modifiers is usually less than 1 mole %.
+The PTFE resins used in the compositions of this invention include both those derived from suspension polymerization and from emulsion polymerization. The group of TFE polymers also includes melt-fabricable copolymers of TFE with sufficient concentrations of one or more copolymerizable monomer to reduce the melting point significantly below that of PTFE. Such copolymers generally have a melt viscosity of about 0.5-60×103 Pa-s, but copolymers having viscosities outside of this range can also be used. Comonomers with TFE can include perfluoroolefins and perfluoro(alkyl vinyl) ethers, for example, and these are preferred. Among perfluorinated comonomers, HFP and PPVE are most preferred.
+High molecular weight PTFE used for micropowder is usually subjected to ionizing radiation to reduce its molecular weight. This facilitates grinding and enhances friability if the PTFE is produced by the suspension polymerization process, or suppresses fibrillation and enhances deagglomeration if the PTFE is produced by the emulsion polymerization process. It is also possible to polymerize TFE directly to PTFE micropowder by appropriate control of molecule weight in the emulsion polymerization process. Mogan, in U.S. Pat. No. 4,879,362, discloses a non-melt-fabricable, non-fibrillating TFE copolymer produced by the emulsion (dispersion) polymerization process that can be used in selected fluoroelastomer compositions. This polymer forms platelets on shear blending into elastomeric compositions, instead of fibrillating. Morgan & Stewart, in U.S. Pat. No. 4,904,726, disclose the utility of Morgan's polymer in blends with elastomers, demonstrating benefit to mechanical properties, notably tear strength. If the viscosity of the host fluoroelastomer of the composition of this invention is high, Morgan's polymer may increase viscosity to unacceptable levels and a different micropowder should be selected.
+Melt fabricable TFE copolymers such as FEP (TFE/HFP copolymer) and PFA (TFE/PPVE copolymer) can also be used in the fluoroelastomer compositions of this invention, provided they satisfy the constraint on melting temperature with respect to fluoroelastomer processing temperature. These copolymers can be used in powder form as isolated from the polymerization medium, if particle size is acceptable, or can be ground to suitable particle size starting with stock of larger dimensions.
+In general, at least about 2 phr, based on the elastomeric perfluoropolymer, of the fluoropolymer filler is used. The fluoropolymer filler preferrably consists essentially of at least one tetrafluoryethylene (TFE) polymer, and copolymers of TFE and PPVE have been found to be particularly satisfactory. Those fluropolymer fillers commercially available from the DuPont Company as Teflon® MP-1600 fluoroadditives are particularly preferred for use in the present invention.
+The compositions of the present invention can further include additives to enhance processability, as will be evident to those skilled in the art. The compositions of the present invention can further comprise at least about 1 phr of plasticizer, and generally less than about 20 phr. In general, less than about 10 phr are preferred. Plasticizers which have been found particularly satisfactory include perfluoropolyethers.
+The compositions of the present invention are substantially free from elemental carbon, such as carbon black, graphite or fluorinated graphite. Elemental carbon in the form of carbon black has been found to oxidize in reactive plasma environments, particularly those containing oxygen, used during the fabrication of silicon wafers for the semiconductor industry. As a result of seal degradation, the oxidized carbon black can leach out, contaminating the reactive plasma process stream and adversely affecting wafer production part yields.
+The use of silicon dioxide, barium sulfate, aluminum oxide and aluminum silicate as metallic reinforcing fillers in compositions of the present invention is based on their apparent relative stability in oxygen plasma environments vice elemental carbon. In addition, the reinforcing fillers of the present invention provide the desired mechanical reinforcement, tensile properties and hardness, while being chemically compatible with the processes and equipment used during the fabrication of silicon wafers for the semiconductor industry.
+The compounds of the present invention exhibit outstanding performance characteristics in dry semiconductor processing environments compared with similar perfluoroelastomer compositions. Compared to those compositions containing carbon black as a filler, the present formulations, substantially free of elemental carbon, exhibit significantly lower weight loss on exposure to reactive plasmas, and particularly those containing oxygen. Specifically, the present compositions, containing metallic reinforcing filler, exhibit significantly lower weight loss on exposure to reactive plasmas when compared to formulations containing titanium dioxide and fluoropolymer filler without the metallic reinforcing filler required in the present invention.
+With the unique combination of performance characteristics exhibited by the compositions of the present invention, they can be used effectively as plunger seals, door seals, lip and face seals, gas delivery plate seals, wafer support seals, barrel seals and o-ring seals in semiconductor wafer fabrication and processing equipment.
+Perfluoroelastomer compositions of the present invention are particularly suited for seals used in dry process semiconductor manufacturing environments, in which the seal is often exposed to reactive plasmas, corrosive cleaning gases and high temperatures. The present compositions exhibit outstanding performance in 100 % oxygen and Mixed Plasma sealing applications. By Mixed Plasma is meant mixtures of ionized gases such as the combination of oxygen gas and hexafluoroethylene; SF6 and oxygen; or SF6 and chlorine. The present compositions exhibit lower weight loss and reduced particle generation properties, thereby extending seal life in these environments. The present compositions exhibit outstanding performance in high temperature furnace and in quartz sealing applications. This results from low evolved fluoride emissions, even at markedly elevated temperatures. This minimizes corrosion and surface etching effects on stainless steel and quartz window sealing components. In addition, the present compositions exhibit outstanding long term thermal stability and compression set resistance and high vacuum sealing performance. While the specific parameters that contribute to these performance characteristics are not fully understood, they are believed to be due in part to the combination of components used in the present formulations.
+The present invention is further illustrated by the following examples, in which parts are by weight unless otherwise indicated.
+EXPERIMENTAL PROCEDURES
+In the following examples, compounds of perfluoroelastomer with other specified ingredients were prepared on a two-roll rubber mill with the rolls heated to a temperature not greater than about 60° C., depending on the specific polymer being processed. In the mill mixing process, the perfluoroelastomer polymer is first introduced to the roll nip alone, milled until a band is formed and the polymer is well blended, and milled until a rolling bank is maintained on the mill. Additives which were previously weighed out, were then added to the nip and the resulting composition milled until uniform.
+The compounded blends were converted to a form suitable for physical property testing by compression molding into either dumbells or o-rings. Curing and postcuring followed procedures outlined in the various examples. Specimens for physical property testing were prepared as called for by the test methods summarized in Table I.
+ TABLE I 
+______________________________________ 
+PHYSICAL TEST METHODS 
+Symbol Physical Property Test Method 
+______________________________________ 
+M.sub.100 
+ Modulus at 100% Elongation 
+ ASTM D-412 & 
+ ASTM D-1414 
+T.sub.b Tensile strength at break 
+ ASTM D-412 & 
+ ASTM D-1414 
+E.sub.b Elongation at break 
+ ASTM D-412 & 
+ ASTM D-1414 
+H Durometer A Hardness 
+ ASTM D-2240 
+CS Compression Set ASTM D-395 & 
+ ASTM D-1414 
+HA Heat Aging ASTM D-573 & 
+ ASTM D-1414 
+______________________________________ 
+EVOLVED FLUORIDE TEST PROCEDURE
+Evolved fluoride was measured in parts per million of evolved fluorine after thirty minutes using a fluoride ion selective electrode at 300 degrees C. In this procedure, a sample was placed in a gold furnace and heated for 30 minutes at a constant temperature. The off-gases were collected in two impingers containing a weakly basic solution of water and absorbent. Water/absorbent solution analyzed for evolved Fluoride (F-) Ion using a Dionex Ion Chromatograph. Test results expressed in parts per million of evolved Fluoride Ion at a specific test temperature.
+GOLD FURNACE CONDITIONS
+Sample Weight--0.5 to 1.0 grams
+Test Temperature--various
+Heating Time--30 minutes
+Purge Gas--Nitrogen
+Gas Flow Rate--100 mi/min
+Gas Collection--20 milliliters of absorbent per impinger
+Absorbent Types--30 mM NaHCO3//24 mM Na2CO3
+ION CHROMATOGRAPHY CONDITIONS
+Instrument--Dionex Ion Chromatograph
+Column Type--Dionex AS3
+Flow Rate--3 milliliters per minute
+Sample Loop--250 microliters
+Eluent Types--30 mM NaHCO3//24 mM NaHCO3
+Temperature Compensation--1.7 % per degree C
+PLASMA WEIGHT LOSS TEST PROCEDURE
+Wear protective gloves during handling of o-ring test specimens and test fixture assembly. Wipe/clean surface of o-ring test specimens and test fixture assembly using either Acetone or Isopropyl Alcohol prior to testing. Weigh each o-ring test specimen on an analytical balance to the nearest 0.0001 gram. Measure the cross-sectional diameter (CSD) of each o-ring test specimen using a pair of calipers. Calculate thickness of spacer required to insure an o-ring compression of 25% using the formula CSD×0.75=required spacer thickness.
+Place o-ring test specimen and required spacer into test fixture. Tighten test fixture assembly. Expose o-ring test specimens to reactive plasma. After exposure, remove o-ring test specimens from assembly. Allow o-ring test specimens to cool to ambient temperature. Weigh each o-ring test specimen on an analytical balance to the nearest 0.0001 gram. Calculate % weight loss as a result of plasma exposure using the formula (weight after exposure-weight before exposure)/(weight before exposure)×100=% weight loss.
+PLASMA TEST CONDITIONS
+Plasma Etcher Used--Branson IPC, Model #S3003-181-3ST
+Plasma Types Used--100% Oxygen and 50/50 Mixed Plasma (O2/C2F6)
+Plasma Exposure Conditions--100% Oxygen--120 minutes at 500 watts at 0.5 torr -50/50 Mixed Plasma--120 minutes at 500 watts 1.25 torr
+Gas Flow Rate--200 sccm
+Distance Away from Plasma Source--20 mm
+Number of O-Ring Specimens Tested per Compound--2 per Plasma Type
+EXAMPLES 1-3
+In Examples 1-3, a curable elastomeric perfluoropolymer was prepared from TFE, PMVE and 8-CNVE in which 8-CNVE is the curesite monomer perfluoro-(8-cyano-5-methyl-3, 6-dioxa-1-octene). The polymerization was carried out in a 5 L mechanically stirred, water-jacketed. Stainless steel autoclave operated continuously at 85 C and 6.2 Mpa (900 psi) pressure. An aqueous solution consisting of 20 l of deionized water, 93 g of ammonium persulfate, 553 g of disodium hydrogen phosphate heptahydrate and 182 g of ammonium perfluooctanoate ("Fluorad FC-143, 3M CO.) was pumped into the autoclave at a rate of 688 ml/h. At the same time another aqueous solution consisting of 20 1 of deionized water and 177 g of ammonium perfluooctanoate was also pumped in at a rate of 688 ml/h. A third pump pumped at the same time 30.3 g/h of perfluoro- (8-cyano-5-methyl-3, 6-dioxa-1-octene). By means of a diaphragm compressor a gaseous mixture of tetrafluoroethylene (376 g/h) and perfluoro(methylvinyl ether) (390 g/h) was fed simultaneously as the other streams at a constant rate. The polymer latex was removed continuously by means of a let down valve and unreacted monomers were vented. The latex from 32 h operation was collected. The polymer isolation was carried out as follows: 5 1 of the above latex was added with stirring to a preheated (90-95 C) solution consisting of 225 g of magnesium sulfate heptahydrate and 40 l of deionized water. The coagulated crumb polymer was filtered, washed repeatedly with water and dried in an air oven at 70 c for 48 h. The dried polymer weighed 2280 g and had the following composition, 42.5 wt % perfluoro(methylvinyl ether), 3.3 wt % perfluoro-(8-cyano-5-methyl-3, 6-dioxa-l-octene) the rest being tetrafluoroethylene. The polymer had inherent viscosity of 0.48 dl/g measured in a solution containing 0.1 g of polymer per 100 g of solvent consisting of 60/40/3 volume ratio of heptafluoro-2,2,3-trichlorobutane, perfluoroCoutyltetrahydrofuran) and ethylene glycol dimethyl ether. The mooney viscosity (ML-10) was measured at 150 C and gave a value of 30. The elastomeric perfluoropolymer was compounded with 1 phr of tetraphenyltin curative, either silicon dioxide or barium sulfate reinforcing filler, titanium dioxide and zinc oxide acid acceptor and fluoropolymer filler in the amounts indicated Table II, presscured, postcured and tested according to standard test procedures. Test slabs, pellets, and o-ring test specimens were presscured for 20 minutes at 210° C., then postcured in a nitrogen atmosphere in a circulating oven at 90° C. for 6 hours, followed by a uniform transition to 305° C over 10 hours and in turn followed by 26 hours at 305° C. The specimens were tested for physical properties and the test results are reported in Table II.
+EXAMPLES 4-7
+In Examples 4-7, the procedure of Examples 1-3 was repeated, using a curative comprising a mixture of 2 phr of the tetraphenyltin curative, 1 phr "Luperco 101XL" peroxide curative, and 1 phr of TAIC (DIAK #7) curing coagent. The specimen were tested as before and the test results similarly reported in Table II.
+COMPARATIVE EXAMPLES A and B
+In examples A and B an elastomeric perfluoropolymer was prepared from TFE, PMVE, and 8-CNVE (in an approximate monomer weight ratio of 56/42/2) in which 8-CNVE is the cure site monomer perfluoro-(8-cyano-5-methyl-3,6,-dioxa-1-octene). It was prepared generally as described in U.S. Pat. No. 4,281,092. In Example A, the elastomeric perfluoropolymer was compounded with 3 phr of tetraphenyltin curative, 12 phr carbon black, and 0.3 18 crown 6 crown ether as shown in Table II. In Example B the elastomeric perfluoropolymer was compounded with 2 phr of tetraphenyl tin curative, 10 phr of Teflon micropowder, 3 phr titanium dioxide, and 0.2 phr 18 crown 6 crown ether. The elastomeric compounds were presscured, postcured, and tested according to standard test procedures. Test slabs, pellets, and o-ring test specimens were press cured for 20 minutes at 210° C., then postcured in a nitrogen atmosphere in a circulating oven at 90° C. for 6 hours, followed by a uniform transition to 305° C. over 10 hours and in turn followed by 26 hours at 305° to 305° C. over 10 hours and in turn followed by 26 hours at 305° C. The specimens were tested for physical properties and the test results are also reported in Table II.
+ TABLE II 
+__________________________________________________________________________
+ EXAMPLE 
+ A B 1 2 3 4 5 6 7 
+__________________________________________________________________________
+FORMULATION 
+(phr) 
+PERFLUORO- 
+ 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 100.0 
+POLYMER 
+SILICON DIOXIDE 
+ -- -- 10.0 -- -- -- 17.5 17.5 -- 
+BARIUM -- -- -- 12.5 17.5 12.5 -- -- -- 
+SULFATE 
+FLUORO- -- 10.0 10.0 12.5 5.0 12.5 5.0 5.0 12.5 
+POLYMER 
+FILLER 
+TITANIUM -- 3.0 10.0 12.5 17.5 12.5 17.5 17.5 12.5 
+DIOXIDE 
+ZINC OXIDE 
+ -- -- 1.0 1.0 1.0 1.0 1.0 -- 1.0 
+ALUMINUM -- -- -- -- -- -- -- -- 12.5 
+SILICATE 
+PHYSICAL 
+PROPERTIES 
+ASTM TEST 
+SLABS/PELLETS 
+M.sub.100, psi 
+ 960 330 518 545 680 785 1145 931 1020 
+T.sub.b, psi 
+ 2080 1500 1480 1380 1700 2185 2227 2074 1790 
+E.sub.b, psi 
+ 145 245 212 211 215 205 186 227 201 
+Shore A hardness, 
+ 77 65 76 76 75 79 82 80 78 
+pts 
+Comp. Set, 70 HRS. 
+ 24.5 17.5 26.0 20.0 31.9 34.0 30.5 31.8 41.4 
+AT 200° C., % 
+AS568A-214 
+O-RINGS 
+M.sub.100, psi 
+ 854 318 613 609 584 914 1081 909 -- 
+T.sub.b, psi 
+ 1571 1074 1430 1382 1484 1769 1853 1826 -- 
+E.sub.b, psi 
+ 145 261 205 213 258 178 196 210 -- 
+Shore A hardness, 
+ 80 71 80 81 80 82 83 83 -- 
+pts 
+Comp. Set, 70 HRS. 
+ 37.1 44.1 27.2 26.5 31.9 38.5 39.5 29.6 -- 
+AT 200° C., % 
+PPM EVOLVED F- 
+ 2300 1400 680 340 390 650 670 860 -- 
+AFTER 30' USING 
+FLUORIDE ION 
+SELECTIVE 
+ELECTRODE 
+AT 300° C. 
+PLASMA RESIS- 
+ 0.210 0.125 0.116 0.090 0.096 0.103 0.103 0.097 -- 
+TANCE % 
+WEIGHT LOSS 
+100% OXYGEN 
+PLASMA 
+50/50 OXYGEN/ 
+ 0.453 0.381 0.172 0.148 0.228 0.240 0.155 0.273 -- 
+C2F6 MIXED 
+PLASMA 
+LONG TERM 
+COMPRESSION 
+SET RESIS- 
+TANCE-25% 
+COMPRESSION 
+AS568A-214 
+0-RINGS - % SET 
+672 HRS. 51.6 46.4 37.1 35.9 45.1 47.8 62.5 48.6 -- 
+AT 200° C. 
+672 HRS. 62.8 44.3 55.7 43.9 63.4 61.1 71.9 59.2 -- 
+AT 250° C. 
+LONG TERM 
+THERMAL 
+STABILITY 
+AS568A-214 
+0-RINGS 
+HEAT AGING - 
+672 HRS. 
+AT 200° C. 
+100% MOD, 
+ +6.9 (913) 
+ +3.5 (329) 
+ +38.8 (851) 
+ +48.9 (907) 
+ +84.4 (1079) 
+ +40.7 (1288) 
+ +42.6 (1542) 
+ +39.5 
+ --266) 
+% CHG. 
+T.sub.b, % CHG. 
+ +58.2 (2486) 
+ +34.2 (1441) 
+ +29.7 (1854) 
+ +57.4 (2175 
+ +49.2 (2184) 
+ +30.4 (2307) 
+ +32.1 (2446) 
+ +19.1 
+ --175) 
+E.sub.b, % CHG. 
+ +19.3 (173) 
+ -5.7 (246) 
+ -11.2 (182) 
+ -7.0 (198) 
+ -25.6 (192) 
+ -10.1 (160) 
+ -15.8 (165) 
+ -11.9 
+ --85) 
+DURO, PTS. CHG. 
+ +1 0 +2 +4 +3 +2 +2 +2 -- 
+% WEIGHT -0.8 -0.8 -0.4 -0.3 -0.3 -0.4 -0.4 -0.4 -- 
+CHANGE 
+HEAT AGING - 
+672 HRS. 
+AT 250° C. 
+100% MOD, 
+ -42.0 (495) 
+ -19.8 (256) 
+ -10.9 (546) 
+ +15.3 (702) 
+ +33.4 (779) 
+ -40.5 (544) 
+ -37.9 (671) 
+ -26.1 
+ --72) 
+% CHG. 
+T.sub.b, % CHG. 
+ +13.5 (1783) 
+ -5.4 (1018) 
+ -16.6 (1192) 
+ +10.6 (1526) 
+ +26.6 (1854) 
+ -28.5 (1300) 
+ -32.7 (1246) 
+ -28.6 
+ --304) 
+E.sub.b, % CHG. 
+ +100.0 (290) 
+ +16.5 (304) 
+ +18.0 (241) 
+ -9.4 (198) 
+ -15.9 (217) 
+ +51.1 (269) 
+ +49.5 (293) 
+ +30.9 
+ --75) 
+DURO, PTS. CHG. 
+ -1 -2 0 +2 +2 +1 0 0 -- 
+% WEIGHT -3.8 -2.7 -1.9 -1.8 -1.8 -2.3 -2.2 -2.1 -- 
+CHANGE 
+__________________________________________________________________________
+ 

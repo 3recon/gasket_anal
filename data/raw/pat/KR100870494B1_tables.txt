@@ -1,0 +1,127 @@
+# KR100870494B1 :: KR100870494B1 - 
+        Fluorine rubber with improved chemical resistance
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020070096225A KR100870494B1 (en)	2007-09-21	2007-09-21	Fluorine rubber with improved chemical resistance
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020070096225A KR100870494B1 (en)	2007-09-21	2007-09-21	Fluorine rubber with improved chemical resistance
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR100870494B1 true KR100870494B1 (en)	2008-11-26
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020070096225A Active KR100870494B1 (en)	2007-09-21	2007-09-21	Fluorine rubber with improved chemical resistance
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR100870494B1 (en)
+
+=== TABLE 5 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN104262949A (en) *	2014-10-29	2015-01-07	胡运冲	Preparation method for polyisocyanurate foamed plastic resistant to acid corrosion
+CN104262958A (en) *	2014-10-29	2015-01-07	胡运冲	Preparation method of high-elasticity fluororubber
+KR101553818B1 (en)	2014-04-01	2015-09-17	한국원자력연구원	Submerged bearing for neutron transmutation doping
+CN116948330A (en) *	2022-04-20	2023-10-27	中昊晨光化工研究院有限公司	Fluororubber compound and preparation method and application thereof
+CN118388949A (en) *	2024-05-22	2024-07-26	上海芯密科技有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20010024557A (en) *	1997-10-27	2001-03-26	이노우에 노리유끼	Perfluororubber laminate and process for producing the same
+KR20020077518A (en) *	2000-03-07	2002-10-11	아토피나	Transparent thermoplastic composition containing polytetrafluoroethylene particles
+KR20070080460A (en)	2006-02-07	2007-08-10	엘에스전선 주식회사	Automotive Rubber Hose
+KR20070089863A (en)	2004-12-20	2007-09-03	닛폰 바루카 고교 가부시키가이샤	Rubber composition, sealing material for plasma processing apparatus
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20010024557A (en) *	1997-10-27	2001-03-26	이노우에 노리유끼	Perfluororubber laminate and process for producing the same
+KR20020077518A (en) *	2000-03-07	2002-10-11	아토피나	Transparent thermoplastic composition containing polytetrafluoroethylene particles
+KR20070089863A (en)	2004-12-20	2007-09-03	닛폰 바루카 고교 가부시키가이샤	Rubber composition, sealing material for plasma processing apparatus
+KR20070080460A (en)	2006-02-07	2007-08-10	엘에스전선 주식회사	Automotive Rubber Hose
+
+=== TABLE 8 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR101553818B1 (en)	2014-04-01	2015-09-17	한국원자력연구원	Submerged bearing for neutron transmutation doping
+CN104262949A (en) *	2014-10-29	2015-01-07	胡运冲	Preparation method for polyisocyanurate foamed plastic resistant to acid corrosion
+CN104262958A (en) *	2014-10-29	2015-01-07	胡运冲	Preparation method of high-elasticity fluororubber
+CN116948330A (en) *	2022-04-20	2023-10-27	中昊晨光化工研究院有限公司	Fluororubber compound and preparation method and application thereof
+CN118388949A (en) *	2024-05-22	2024-07-26	上海芯密科技有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+
+=== TABLE 9 (24 rows) ===
+Publication	Publication Date	Title
+CN102753617B (en)	2018-03-02	Peroxide cured partially fluorinated elastomer
+JP6134391B2 (en)	2017-05-24	Seal material and manufacturing method thereof
+EP3467026B1 (en)	2025-10-29	Perfluoroelastomer composition and sealing material
+EP1676879A2 (en)	2006-07-05	Dynamic vulcanization of non-nitrile rubbers in fluoroplastic polymers
+CN101977981B (en)	2013-08-14	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+KR102414805B1 (en)	2022-06-29	Perfluoroelastomer composition and sealing material
+KR102323568B1 (en)	2021-11-05	Perfluoro elastomer composite with improved heat resistance, and method of fabricating the same
+WO2014206833A1 (en)	2014-12-31	Fluoroelastomer composition
+KR100837122B1 (en)	2008-06-11	Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+KR100899134B1 (en)	2009-05-25	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+US12473484B2 (en)	2025-11-18	Polymer blends for use in wellbore applications
+KR101792329B1 (en)	2017-11-20	Rubber composition for sealing material composing silica, carbonblack, and method thereof
+US20250198517A1 (en)	2025-06-19	Annular seal material and manufacturing method
+KR100907491B1 (en)	2009-07-10	Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+KR100894110B1 (en)	2009-04-20	Perfluoro rubbers for semiconductor sealing with improved elongation
+KR20240098438A (en)	2024-06-28	Perfluoro elastomer and fluororubber composite with improved heat resistance
+KR102601335B1 (en)	2023-11-13	Nonfoamed low specific gravity polyolefin-based elastomer composition and molded article formed therefrom
+WO2025100216A1 (en)	2025-05-15	Sealing material composition and sealing material
+CN120865660A (en)	2025-10-31	Fluorine-containing elastomer toughened crystalline fluorine-containing polymer and application of sealing element thereof
+CN114230950A (en)	2022-03-25	Semiconductor equipment sealing element and preparation method thereof
+KR101727672B1 (en)	2017-04-17	Manufacturing method of composite of butyl rubber with no blooming and excellent grip
+CN118879008A (en)	2024-11-01	A high temperature, high pressure and strong radiation resistant fluororubber sealing material and preparation method thereof
+CN117304624A (en)	2023-12-29	Compositions, methods and sealing products for preparing vacuum sealing materials
+
+=== TABLE 10 (45 rows) ===
+Date	Code	Title	Description
+2007-09-21	A201	Request for examination	
+2007-09-21	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2007-09-21	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2008-02-04	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2008-03-18	D14-X000	Search report completed	St.27 status event code: A-1-2-D10-D14-srh-X000
+2008-06-23	E902	Notification of reason for refusal	
+2008-06-23	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2008-08-21	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2008-08-21	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2008-11-14	E701	Decision to grant or registration of patent right	
+2008-11-14	PE0701	Decision of registration	St.27 status event code: A-1-2-D10-D22-exm-PE0701
+2008-11-19	GRNT	Written decision to grant	
+2008-11-19	PR0701	Registration of establishment	St.27 status event code: A-2-4-F10-F11-exm-PR0701
+2008-11-20	PR1002	Payment of registration fee	St.27 status event code: A-2-2-U10-U11-oth-PR1002 Fee payment year number: 1
+2008-11-26	PG1601	Publication of registration	St.27 status event code: A-4-4-Q10-Q13-nap-PG1601
+2011-11-25	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 4
+2012-11-19	FPAY	Annual fee payment	Payment date: 20121119 Year of fee payment: 5
+2012-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 5
+2013-11-19	FPAY	Annual fee payment	Payment date: 20131119 Year of fee payment: 6
+2013-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 6
+2014-06-11	PN2301	Change of applicant	St.27 status event code: A-5-5-R10-R13-asn-PN2301 St.27 status event code: A-5-5-R10-R11-asn-PN2301
+2014-06-19	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2014-11-19	FPAY	Annual fee payment	Payment date: 20141119 Year of fee payment: 7
+2014-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 7
+2015-11-27	FPAY	Annual fee payment	Payment date: 20151127 Year of fee payment: 8
+2015-11-27	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 8
+2016-09-01	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000
+2016-11-18	FPAY	Annual fee payment	Payment date: 20161118 Year of fee payment: 9
+2016-11-18	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 9
+2017-11-20	FPAY	Annual fee payment	Payment date: 20171120 Year of fee payment: 10
+2017-11-20	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 10
+2018-09-07	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000
+2018-11-19	FPAY	Annual fee payment	Payment date: 20181119 Year of fee payment: 11
+2018-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 11
+2019-11-19	FPAY	Annual fee payment	Payment date: 20191119 Year of fee payment: 12
+2019-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 12
+2020-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 13
+2021-11-16	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 14
+2022-05-27	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2022-11-09	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 15
+2023-11-02	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 16
+2024-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 17
+2025-11-11	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 18
+2025-11-11	U11	Full renewal or maintenance fee paid	Free format text: ST27 STATUS EVENT CODE: A-4-4-U10-U11-OTH-PR1001 (AS PROVIDED BY THE NATIONAL OFFICE) Year of fee payment: 18

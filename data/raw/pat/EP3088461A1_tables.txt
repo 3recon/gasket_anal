@@ -1,0 +1,171 @@
+# EP3088461A1 :: EP3088461A1 - Fluorine rubber composition, crosslinked rubber molded body and method for producing same 
+        - Google Patents
+
+=== TABLE 0 (15 rows) ===
+	Examples	Comparative Examples
+1	2	3	4	1	2	3	4	5
+Hydrogen atom-containing fluorine rubbers	FKM 1	100	100	100	100	100	100	100	100	100
+Hydrogen atom-containing fluororesins	PVDF	10	20							
+ETFE			10	20					
+Perfluororesins	PTFE						10	20		
+FEP								10	10
+Crosslinking agent	1	1	1	1	1	1	1	1	1
+Co-crosslinking agent	4	4	4	4	4	4	4	4	4
+Harness	shoreA	63	75	61	67	54	66	72	60	67
+Tensile strength	MPa	13.7	17.7	4.6	6.8	5.8	10.6	13.4	12.9	12.4
+Breaking elongation	%	340	290	260	250	370	400	410	435	430
+100% Modulus	MPa	2.0	4.2	1.8	2.7	1.2	2.2	3.5	1.4	1.8
+Evaluation of deposition on surface	No	No	No	No	No	Yes	Yes	Yes	Yes
+Weight loss	%	6.9	7.0	5.8	7.1	5.7	9.0	9.5	7.4	8.4
+
+=== TABLE 1 (21 rows) ===
+	Examples	Comparative Examples
+5	6	7	8	9	6	7	8
+Hydrogen atom-containing fluorine rubbers	FKM 2	70	70	70	70	70	70	70	70
+FKM 3	30	30	30	30	30	30	30	30
+Hydrogen atom-containing fluororesins	PVDF	10	15						
+ETFE			10	15				
+VDF-HFP					15			
+Perfluororesins	PTFE							10	15
+FEP								
+Crosslinking agent	0.03	0.03	0.03	0.03	0.03	0.03	0.03	0.03
+Co-crosslinking agent	4	4	4	4	4	4	4	4
+First crosslinking step	Crosslinking with heat
+Molding step	Extrusion molding (230°C)
+Second crosslinking step	Crosslinking with radioactive ray (80kGy)
+Harness	shoreA	71	81	71	78	70	63	73	76
+Tensile strength	MPa	10.8	16.4	10.1	12.9	17.2	6.7	7.8	10.2
+Breaking elongation	%	150	180	170	160	170	170	180	160
+100% Modulus	MPa	5.7	8.4	3.8	5.6	4.5	2.5	5.0	7.1
+Evaluation of deposition on surface	No	No	No	No	No	No	Yes	Yes
+Weight loss	%	7.4	75	6.1	6.8	7.4	6.1	9.6	9.9
+Compressive permanent strain	%	27	29	30	32	27	25	31	32
+
+=== TABLE 2 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2013272479		2013-12-27	
+PCT/JP2014/080027 WO2015098338A1 (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+
+=== TABLE 3 (3 rows) ===
+Publication Number	Publication Date
+EP3088461A1 true EP3088461A1 (en)	2016-11-02
+EP3088461A4 EP3088461A4 (en)	2017-08-16
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+EP14874562.3A Withdrawn EP3088461A4 (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+
+=== TABLE 5 (9 rows) ===
+Country	Link
+US (1)	US9908980B2 (en)
+EP (1)	EP3088461A4 (en)
+JP (1)	JP6134391B2 (en)
+KR (1)	KR20160105778A (en)
+CN (1)	CN105849180B (en)
+SG (1)	SG11201605258XA (en)
+TW (1)	TWI617608B (en)
+WO (1)	WO2015098338A1 (en)
+
+=== TABLE 6 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP3234011A4 (en) *	2014-12-19	2018-08-01	3M Innovative Properties Company	Curable partially fluorinated polymer compositions
+
+=== TABLE 7 (23 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US9283455B2 (en)	2011-06-01	2016-03-15	Triad Sports Inc.	Collapsible and portable sports net apparatus
+JP6403246B2 (en) *	2013-12-27	2018-10-10	日本バルカー工業株式会社	Method for producing crosslinked rubber molding
+JP6712445B2 (en) *	2015-05-27	2020-06-24	株式会社バルカー	Thermoplastic fluororesin composition and method for producing crosslinked body
+US9728298B2 (en) *	2015-06-26	2017-08-08	Daikin America, Inc.	Radiation crosslinked fluoropolymer compositions containing low level of extractable fluorides
+US11021581B2 (en) *	2016-02-04	2021-06-01	Eastman Chemical Company	Durable elastomeric compositions employing cyclododecasulfur as a vulcanizing agent
+US10011663B2 (en)	2016-02-04	2018-07-03	Eastman Chemical Company	Vulcanizing composition containing cyclododecasulfur and improved cyclododecasulfur compound
+US10280281B2 (en) *	2016-02-04	2019-05-07	Eastman Chemical Company	Processes for forming vulcanizable elastomeric formulations and vulcanized elastomeric articles
+US11059722B2 (en)	2016-03-02	2021-07-13	Eastman Chemical Company	Method for the manufacture of cyclododecasulfur
+US10000380B2 (en)	2016-03-02	2018-06-19	Eastman Chemical Company	Method for the manufacture of polymeric sulfur
+CN108928118B (en) *	2017-05-26	2020-01-14	精工爱普生株式会社	Nozzle plate, liquid ejecting head, liquid ejecting apparatus, and method of manufacturing nozzle plate
+CN110914354B (en)	2017-07-20	2022-07-19	3M创新有限公司	Fluorinated elastomers cured by actinic radiation and methods thereof
+PL3658614T3 (en) *	2017-07-25	2026-01-19	Flexsys Holdings, Inc.	Processes for forming vulcanizable elastomeric formulations and vulcanized elastomeric articles
+JP6620132B2 (en) *	2017-09-14	2019-12-11	三菱電線工業株式会社	Seal material and manufacturing method thereof
+JP7074467B2 (en) *	2017-12-08	2022-05-24	株式会社クレハ	Manufacturing method of molded product
+JP6918734B2 (en) *	2018-03-29	2021-08-11	三菱電線工業株式会社	An uncrosslinked rubber composition, a rubber product produced using the uncrosslinked rubber composition, and a method for producing the same.
+CN109608795B (en) *	2018-12-27	2021-07-30	江苏金晟元特种阀门股份有限公司	Partially cross-linked high temperature resistant, creep resistant and corrosion resistant valve special gasket material and preparation method thereof
+JP7177694B2 (en)	2018-12-27	2022-11-24	株式会社クレハ	Resin composition, method for producing resin composition, molded article, and method for producing molded article
+CN114106496B (en) *	2020-08-28	2023-04-28	中昊晨光化工研究院有限公司	Rubber material and preparation method and application thereof
+CN112409731B (en) *	2020-10-21	2023-02-24	浙江巨化技术中心有限公司	Fluorine-containing resin composition for 3D printing and preparation method thereof
+CN113402829A (en) *	2021-05-21	2021-09-17	王卫茂	Anti-aging rubber material and preparation method thereof
+CN117304624A (en) *	2022-06-21	2023-12-29	上海森桓新材料科技有限公司	Compositions, methods and sealing products for preparing vacuum sealing materials
+JP2025080928A (en) *	2023-11-15	2025-05-27	ニチアス株式会社	Rubber composition, fluorine-containing elastomer and sealing material
+
+=== TABLE 8 (21 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS51145582A (en) *	1975-06-09	1976-12-14	Shinetsu Chemical Co	Method of making molded fluorineerubber article
+US5109071A (en) *	1986-04-22	1992-04-28	Raychem Corporation	Fluoropolymer compositions
+JP3663519B2 (en) *	1995-03-31	2005-06-22	株式会社日立製作所	Pressure detector
+JP3069288B2 (en)	1996-03-29	2000-07-24	ニチアス株式会社	Fluorine-based resin composition, method for producing the same, and molded article
+JP3867428B2 (en)	1998-03-06	2007-01-10	ユニマテック株式会社	Fluorine-containing copolymer composition
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2000230096A (en)	1999-02-12	2000-08-22	Nippon Mektron Ltd	Fluorine-containing copolymer composition
+JP4345214B2 (en) *	2000-09-20	2009-10-14	ユニマテック株式会社	Fluorine-containing copolymer composition
+JP2004134665A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Semiconductor device sealing material and method for manufacturing the same
+AU2003272956A1 (en)	2002-10-11	2004-05-04	Asahi Glass Co., Ltd.	Sealing material for semiconductor device and method for production thereof
+JP2004131656A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Sealing material for semiconductor devices
+JP4381087B2 (en)	2003-10-08	2009-12-09	日本バルカー工業株式会社	Method for producing fluoro rubber sealant
+CN101035840A (en) *	2004-10-04	2007-09-12	优迈特株式会社	Crosslinked fluorocopolymer moldings
+WO2006057331A1 (en)	2004-11-26	2006-06-01	Daikin Industries, Ltd.	Thermoplastic polymer composition
+JP4628814B2 (en)	2005-02-15	2011-02-09	日本バルカー工業株式会社	Sealant for semiconductor manufacturing equipment
+JP5428150B2 (en) *	2007-11-20	2014-02-26	旭硝子株式会社	Crosslinkable fluorine-containing elastomer having excellent crosslinkability, and method for producing the same
+US20090227726A1 (en) *	2008-03-04	2009-09-10	Dupont Performance Elastomers L.L.C.	Peroxide curable fluoroelastomer compositions and articles made therefrom
+CN102471497B (en) *	2009-07-03	2014-10-22	大金工业株式会社	Crosslinkable fluorine rubber composition, fluorine rubber molded article, and method for producing the same
+JP2013082888A (en) *	2011-09-30	2013-05-09	Daikin Industries Ltd	Cross-linkable fluororubber composition, fluororubber-molded article, and method for producing the article
+JP2013189655A (en) *	2013-07-04	2013-09-26	Asahi Glass Co Ltd	Crosslinked rubber article
+
+=== TABLE 9 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP3234011A4 (en) *	2014-12-19	2018-08-01	3M Innovative Properties Company	Curable partially fluorinated polymer compositions
+
+=== TABLE 10 (13 rows) ===
+Publication number	Publication date
+JPWO2015098338A1 (en)	2017-03-23
+CN105849180B (en)	2018-09-21
+KR20160105778A (en)	2016-09-07
+JP6134391B2 (en)	2017-05-24
+EP3088461A4 (en)	2017-08-16
+CN105849180A (en)	2016-08-10
+WO2015098338A1 (en)	2015-07-02
+SG11201605258XA (en)	2016-08-30
+US9908980B2 (en)	2018-03-06
+TW201533118A (en)	2015-09-01
+US20170002153A1 (en)	2017-01-05
+TWI617608B (en)	2018-03-11
+
+=== TABLE 11 (10 rows) ===
+Publication	Publication Date	Title
+US9908980B2 (en)	2018-03-06	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+EP3467026B1 (en)	2025-10-29	Perfluoroelastomer composition and sealing material
+KR102414274B1 (en)	2022-06-28	Thermoplastic fluorine resin composition and method for producing cross-linked body
+EP3088460A1 (en)	2016-11-02	Perfluoroelastomer composition, sealing material and method for producing same
+KR102414805B1 (en)	2022-06-29	Perfluoroelastomer composition and sealing material
+JP6403246B2 (en)	2018-10-10	Method for producing crosslinked rubber molding
+EP3467025B1 (en)	2024-10-02	Perfluoroelastomer composition and sealing material
+US12180315B2 (en)	2024-12-31	Elastomer composition and sealing material
+JP2011513554A (en)	2011-04-28	Peroxide curable fluoroelastomer compositions and articles made therefrom
+
+=== TABLE 12 (19 rows) ===
+Date	Code	Title	Description
+2016-09-30	PUAI	Public reference made under article 153(3) epc to a published international application that has entered the european phase	Free format text: ORIGINAL CODE: 0009012
+2016-11-02	17P	Request for examination filed	Effective date: 20160726
+2016-11-02	AK	Designated contracting states	Kind code of ref document: A1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2016-11-02	AX	Request for extension of the european patent	Extension state: BA ME
+2017-04-05	DAX	Request for extension of the european patent (deleted)	
+2017-08-16	A4	Supplementary search report drawn up and despatched	Effective date: 20170719
+2017-08-16	RIC1	Information provided on ipc code assigned before grant	Ipc: C08J 7/00 20060101ALI20170713BHEP Ipc: B29C 35/02 20060101ALI20170713BHEP Ipc: C08L 27/12 20060101AFI20170713BHEP
+2019-03-06	RAP1	Party data changed (applicant data changed or rights of an application transferred)	Owner name: VALQUA, LTD.
+2021-11-05	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: EXAMINATION IS IN PROGRESS
+2021-12-08	17Q	First examination report despatched	Effective date: 20211109
+2023-01-13	REG	Reference to a national code	Ref country code: DE Ref legal event code: R079 Free format text: PREVIOUS MAIN CLASS: C08L0027120000 Ipc: C08J0007120000
+2023-01-29	GRAP	Despatch of communication of intention to grant a patent	Free format text: ORIGINAL CODE: EPIDOSNIGR1
+2023-01-29	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: GRANT OF PATENT IS INTENDED
+2023-02-22	RIC1	Information provided on ipc code assigned before grant	Ipc: C08L 27/16 20060101ALI20230113BHEP Ipc: B29C 35/02 20060101ALI20230113BHEP Ipc: C08J 3/24 20060101ALI20230113BHEP Ipc: C08J 7/12 20060101AFI20230113BHEP
+2023-03-01	INTG	Intention to grant announced	Effective date: 20230130
+2023-03-01	RIN1	Information on inventor provided before grant (corrected)	Inventor name: TODA, SAYAKA Inventor name: OSUMI, NAOKI
+2023-10-13	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE APPLICATION IS DEEMED TO BE WITHDRAWN
+2023-11-15	18D	Application deemed to be withdrawn	Effective date: 20230610

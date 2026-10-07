@@ -1,0 +1,241 @@
+# US20090093590A1 :: US20090093590A1 - Seal Material for Semiconductor Production Apparatus 
+        - Google Patents
+
+=== TABLE 0 (4 rows) ===
+TABLE 1
+
+Formulation of composition		Comparative
+for preparing sealing	Examples	Examples
+
+=== TABLE 1 (25 rows) ===
+material (parts by weight)	1	2	3	4	5	6	7	1
+
+FFKM polymer (Tecnoflon PFR	80	70	50	80	50	70	70	90
+94; manufactured by Solvay
+Solexis Inc.)
+FKM polymer-1 (Daiel C 902;	20	30	50	0	0	30	0	10
+manufactured by Daikin
+Industries Ltd.)
+FKM polymer-2 (Daiel LT302;				20	50		30	0
+manufactured by Daikin
+Industries Ltd.)
+TAIC (triallyl isocyanurate;	3	3	3	3	3	3	3	3
+manufactured by Nippon Kasei
+Chemical Co., Ltd.)
+Perhexa 25B-40 (manufactured	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+by NOF Corporation)
+Carbon Black (Thermax N-990;	20	20	20	20	20	0	0	20
+manufactured by Cancarb
+Ltd.)
+Total (parts by weight)	124.5	124.5	124.5	124.5	124.5	104.5	104.5	124.5
+Press (° C. × mm)	160° C. ×	160° C. ×	160° C. ×	160° C. ×	160° C. ×	160° C. ×	160° C. ×	160° C. ×
+	10 min	10 min	10 min	10 min	10 min	10 min	10 min	10 min
+Secondary vulcanization (in	200° C. ×	200° C. ×	200° C. ×	200° C. ×	200° C. ×	200° C. ×	200° C. ×	200° C. ×
+vacuum electric furnace)	16 hr	16 hr	16 hr	16 hr	16 hr	16 hr	16 hr	16 hr
+FFKM/FKN (blend ratio)	80/20	70/30	50/50	80/20	50/50	70/30	70/30	90/10
+
+=== TABLE 2 (6 rows) ===
+Resis-	Rate of weight loss	0.30	0.32	0.40	0.33	0.41	0.32	0.38	0.27
+tance	(%)
+to	Time to crack	no	no	no	no	no	no	no	80 min
+plasma	generation	crack	crack	crack	crack	crack	crack	crack
+	Number of cracks after	0	0	0	0	0	0	0	3
+	1.5 hours of test
+
+=== TABLE 3 (2 rows) ===
+Compression set (%)	33%	32%	30%	30%	33%	29%	33%	32%
+
+
+=== TABLE 4 (2 rows) ===
+	Formulation of composition	
+	for preparing sealing	Comparative Examples
+
+=== TABLE 5 (25 rows) ===
+	material (parts by weight)	2	3	4	5	6	7	8
+	
+	FFKM polymer (Tecnoflon PFR	10	40	20	100	0	40	0
+	94; manufactured by Solvay
+	Solexis Inc.)
+	FKM polymer-1 (Daiel C 902;	90	60	80	0	100	0	0
+	manufactured by Daikin
+	Industries Ltd.)
+	FKM polymer-2 (Daiel LT302;	0			0	0	60	100
+	manufactured by Daikin
+	Industries Ltd.)
+	TAIC (triallyl isocyanurate;	3	3	3	3	3	3	3
+	manufactured by Nippon Kasei
+	Chemical Co., Ltd.)
+	Perhexa 25B-40 (manufactured	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+	by NOF Corporation)
+	Carbon Black (Thermax N-990;	20	20	20	20	20	20	20
+	manufactured by Cancarb
+	Ltd.)
+	Total (parts by weight)	124.5	124.5	124.5	124.5	124.5	124.5	124.5
+	Press (° C. × mm)	160° C. ×	160° C. ×	160° C. ×	160° C. ×	160° C. ×	160° C. ×	160° C. ×
+		10 min	10 min	10 min	10 min	10 min	10 min	10 min
+	Secondary vulcanization (in	200° C. ×	200° C. ×	200° C. ×	200° C. ×	200° C. ×	200° C. ×	200° C. ×
+	vacuum electric furnace)	16 hr	16 hr	16 hr	16 hr	16 hr	16 hr	16 hr
+	FFKM/FKN (blend ratio)	10/90	40/60	20/80	100/0	0/100	20/80	0/100
+
+=== TABLE 6 (4 rows) ===
+	Resis-	Rate of weight loss	1.03	0.68	0.77	0.26	3.85	0.85	4.52
+	tance	(%)
+	to	Time to crack	20 min	90 min	80 min	10 min	10 min	90 min	90 min
+	plasma	generation
+
+=== TABLE 7 (2 rows) ===
+	Number of cracks after	7	4	6	10 or more	2	3
+	1.5 hours of test				(innumerable)
+
+=== TABLE 8 (2 rows) ===
+	Compression set (%)	28%	31%	28%	28%	27%	34%	35%
+	
+
+=== TABLE 9 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2005037746A JP4628814B2 (en)	2005-02-15	2005-02-15	Sealant for semiconductor manufacturing equipment
+JP2005-037746		2005-02-15	
+PCT/JP2006/302082 WO2006087942A1 (en)	2005-02-15	2006-02-07	Seal material for semiconductor production apparatus
+
+=== TABLE 10 (2 rows) ===
+Publication Number	Publication Date
+US20090093590A1 true US20090093590A1 (en)	2009-04-09
+
+=== TABLE 11 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US11/816,338 Abandoned US20090093590A1 (en)	2005-02-15	2006-02-07	Seal Material for Semiconductor Production Apparatus
+
+=== TABLE 12 (9 rows) ===
+Country	Link
+US (1)	US20090093590A1 (en)
+EP (1)	EP1852902A4 (en)
+JP (1)	JP4628814B2 (en)
+KR (1)	KR100918351B1 (en)
+CN (1)	CN101120435B (en)
+IL (1)	IL185252A0 (en)
+TW (1)	TWI369363B (en)
+WO (1)	WO2006087942A1 (en)
+
+=== TABLE 13 (12 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20110009568A1 (en) *	2008-03-18	2011-01-13	Nippon Valqua Industries, Ltd.	Fluororubber Composition Capable of Forming Crack-Resistant Seal and Crack-Resistant Seal Formed from the Composition
+US8450423B2 (en)	2009-03-31	2013-05-28	Daikin Industries, Ltd.	Fluorine-containing elastomer mixture, method for producing same, composition for vulcanizing peroxide, and molded article
+JP2014118510A (en) *	2012-12-18	2014-06-30	Unimatec Co Ltd	Fluororubber composition
+JP2015174988A (en) *	2014-03-18	2015-10-05	日本バルカー工業株式会社	Perfluoroelastomer composition and sealing material
+EP3562876A1 (en) *	2016-12-28	2019-11-06	3M Innovative Properties Company	Silicon-containing halogenated elastomers
+US20210171755A1 (en) *	2017-12-15	2021-06-10	Carl Freudenberg Kg	Curable fluoroelastomers having low swelling tendency
+US20210253762A1 (en) *	2020-02-19	2021-08-19	Cnpc Usa Corporation	Co-cured Fluoroelastomers with Improved Chemical Resistance
+CN114196146A (en) *	2021-12-27	2022-03-18	上海芯密科技有限公司	Preparation method and application of semiconductor sealing element
+CN114230950A (en) *	2021-12-27	2022-03-25	上海芯密科技有限公司	Semiconductor equipment sealing element and preparation method thereof
+US11597816B2 (en)	2017-12-22	2023-03-07	3M Innovative Properties Company	Peroxide-cured halogenated elastomers having a silicon-containing superficial layer
+US12584054B2 (en)	2019-12-11	2026-03-24	Mitsubishi Cable Industries, Ltd.	Semiconductor production device sealing material
+
+=== TABLE 14 (21 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPWO2007119834A1 (en) *	2006-04-19	2009-08-27	旭硝子株式会社	Fluorine-containing elastomer composition and fluorine-containing rubber molded product
+KR100894110B1 (en) *	2007-10-24	2009-04-20	주식회사 엠앤이	Perfluoro rubbers for semiconductor sealing with improved elongation
+CN101868500A (en) *	2008-03-27	2010-10-20	Nok株式会社	Viton composition and crosslinked fluororubber product
+US20110204545A1 (en)	2010-02-25	2011-08-25	Tanner Douglas E	Method of making high performance seals
+JP5837619B2 (en)	2011-02-04	2015-12-24	スリーエム イノベイティブ プロパティズ カンパニー	Amorphous perfluoropolymer containing zirconium oxide nanoparticles
+CN103772857A (en) *	2012-10-23	2014-05-07	上海橡胶制品研究所	Perfluoroether rubber based high oxidation corrosion resistant rubber material
+EP2985307B1 (en) *	2013-04-09	2019-10-02	Nichias Corporation	Method for producing crosslinked fluoroelastomer
+WO2015098338A1 (en)	2013-12-27	2015-07-02	日本バルカー工業株式会社	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+JP6620132B2 (en)	2017-09-14	2019-12-11	三菱電線工業株式会社	Seal material and manufacturing method thereof
+JP7306844B2 (en) *	2019-03-26	2023-07-11	株式会社バルカー	Rubber composition for sealing material and sealing material using the same
+JPWO2021065199A1 (en) *	2019-10-02	2021-04-08		
+EP4047055A4 (en) *	2019-10-17	2023-11-15	Agc Inc.	MOLDED PERFLUOROELASTOMER ARTICLE AND PROTECTIVE ELEMENT
+US20230365800A1 (en)	2020-09-28	2023-11-16	Valqua, Ltd.	Elastomer Composition, Sealing Material, and Method for Producing Sealing Material
+KR20230079086A (en)	2020-09-28	2023-06-05	주식회사 발카	Elastomer composition, sealant and manufacturing method of sealant
+CN113861598A (en) *	2021-09-15	2021-12-31	宁波德固赛密封科技有限公司	FFKM sealing ring for wafer processing process cavity application system and preparation method thereof
+KR102400335B1 (en)	2021-11-04	2022-05-23	주식회사 엠앤이	A sealing material for a semiconductor manufacturing apparatus with improved plasma resistance in an oxygen atmosphere and a fluorine atmosphere plasma process
+JP2023113432A (en) *	2022-02-03	2023-08-16	株式会社バルカー	Annular laminate, sealing material and manufacturing method
+CN116606514A (en) *	2022-02-09	2023-08-18	上海森桓新材料科技有限公司	Fluorine-containing rubber sealing material with plasma resistance and application thereof
+CN117304624A (en) *	2022-06-21	2023-12-29	上海森桓新材料科技有限公司	Compositions, methods and sealing products for preparing vacuum sealing materials
+CN116836499B (en) *	2023-03-20	2025-08-01	浙江圆通新材料有限公司	Preparation method of anti-aging and anti-cracking fluororubber sealing ring for semiconductor
+
+=== TABLE 15 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5459202A (en) *	1994-06-30	1995-10-17	E. I. Du Pont De Nemours And Company	Elastomer seal
+US5782730A (en) *	1996-07-23	1998-07-21	Arai Seisakusho Co., Ltd.	Pressure roller
+US6323283B1 (en) *	1998-06-23	2001-11-27	Ausimont S.P.A.	Peroxide curable fluoroelastomers
+US6417280B2 (en) *	1997-09-05	2002-07-09	Chemfab Corporation	Fluoropolymeric composition
+US6683127B1 (en) *	1998-07-17	2004-01-27	Daikin Industries, Ltd.	Crosslinkable elastromer composition, sealing material produced from the composition, and filler for use therein
+US20050031881A1 (en) *	2002-02-27	2005-02-10	Yoshihiko Nishio	Laminated film comprising a fluororesin
+US20060235140A1 (en) *	2003-04-22	2006-10-19	Hiroyuki Tanaka	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+US7666948B2 (en) *	2004-12-28	2010-02-23	Nichias Corporation	Elastomer composition and molded body
+
+=== TABLE 16 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO1997008239A1 (en) *	1995-08-30	1997-03-06	Morisei Kako Co., Ltd.	Sealing composition and sealant
+EP1160285B1 (en) *	1998-07-17	2005-06-29	Daikin Industries, Ltd.	Fluororubber composition
+JP2001348462A (en) *	2000-06-09	2001-12-18	Nichias Corp	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+JP4345214B2 (en) *	2000-09-20	2009-10-14	ユニマテック株式会社	Fluorine-containing copolymer composition
+JP2003231719A (en) *	2002-02-08	2003-08-19	Daikin Ind Ltd	Fluorine-containing elastomer composition for crosslinking
+US20030211264A1 (en) *	2002-05-09	2003-11-13	Farnsworth Ted Ray	Expanded polytetrafluoroethylene (ePTFE)-reinforced perfluoroelastomers (FFKM)
+JP2004134665A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Semiconductor device sealing material and method for manufacturing the same
+WO2004038781A1 (en) *	2002-10-25	2004-05-06	Nok Corporation	Plasma resistant seal
+JP2004277496A (en) *	2003-03-13	2004-10-07	Nichias Corp	Fluorine elastomer molded body
+
+=== TABLE 17 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5459202A (en) *	1994-06-30	1995-10-17	E. I. Du Pont De Nemours And Company	Elastomer seal
+US5782730A (en) *	1996-07-23	1998-07-21	Arai Seisakusho Co., Ltd.	Pressure roller
+US6417280B2 (en) *	1997-09-05	2002-07-09	Chemfab Corporation	Fluoropolymeric composition
+US6323283B1 (en) *	1998-06-23	2001-11-27	Ausimont S.P.A.	Peroxide curable fluoroelastomers
+US6683127B1 (en) *	1998-07-17	2004-01-27	Daikin Industries, Ltd.	Crosslinkable elastromer composition, sealing material produced from the composition, and filler for use therein
+US20050031881A1 (en) *	2002-02-27	2005-02-10	Yoshihiko Nishio	Laminated film comprising a fluororesin
+US20060235140A1 (en) *	2003-04-22	2006-10-19	Hiroyuki Tanaka	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+US7666948B2 (en) *	2004-12-28	2010-02-23	Nichias Corporation	Elastomer composition and molded body
+
+=== TABLE 18 (15 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US8349965B2 (en)	2008-03-18	2013-01-08	Nippon Valqua Industries, Ltd.	Fluororubber composition capable of forming crack-resistant seal and crack-resistant seal formed from the composition
+US20110009568A1 (en) *	2008-03-18	2011-01-13	Nippon Valqua Industries, Ltd.	Fluororubber Composition Capable of Forming Crack-Resistant Seal and Crack-Resistant Seal Formed from the Composition
+US8450423B2 (en)	2009-03-31	2013-05-28	Daikin Industries, Ltd.	Fluorine-containing elastomer mixture, method for producing same, composition for vulcanizing peroxide, and molded article
+JP2014118510A (en) *	2012-12-18	2014-06-30	Unimatec Co Ltd	Fluororubber composition
+JP2015174988A (en) *	2014-03-18	2015-10-05	日本バルカー工業株式会社	Perfluoroelastomer composition and sealing material
+US11326040B2 (en)	2016-12-28	2022-05-10	3M Innovative Properties Company	Silicon-containing halogenated elastomers
+EP3562876A1 (en) *	2016-12-28	2019-11-06	3M Innovative Properties Company	Silicon-containing halogenated elastomers
+US20210171755A1 (en) *	2017-12-15	2021-06-10	Carl Freudenberg Kg	Curable fluoroelastomers having low swelling tendency
+US11597816B2 (en)	2017-12-22	2023-03-07	3M Innovative Properties Company	Peroxide-cured halogenated elastomers having a silicon-containing superficial layer
+US12584054B2 (en)	2019-12-11	2026-03-24	Mitsubishi Cable Industries, Ltd.	Semiconductor production device sealing material
+US20210253762A1 (en) *	2020-02-19	2021-08-19	Cnpc Usa Corporation	Co-cured Fluoroelastomers with Improved Chemical Resistance
+US11566090B2 (en) *	2020-02-19	2023-01-31	Cnpc Usa Corporation	Co-cured fluoroelastomers with improved chemical resistance
+CN114196146A (en) *	2021-12-27	2022-03-18	上海芯密科技有限公司	Preparation method and application of semiconductor sealing element
+CN114230950A (en) *	2021-12-27	2022-03-25	上海芯密科技有限公司	Semiconductor equipment sealing element and preparation method thereof
+
+=== TABLE 19 (13 rows) ===
+Publication number	Publication date
+EP1852902A4 (en)	2011-03-09
+KR100918351B1 (en)	2009-09-22
+JP4628814B2 (en)	2011-02-09
+EP1852902A1 (en)	2007-11-07
+WO2006087942A1 (en)	2006-08-24
+TW200635956A (en)	2006-10-16
+CN101120435A (en)	2008-02-06
+CN101120435B (en)	2010-05-19
+IL185252A0 (en)	2008-02-09
+KR20070105357A (en)	2007-10-30
+TWI369363B (en)	2012-08-01
+JP2006228805A (en)	2006-08-31
+
+=== TABLE 20 (12 rows) ===
+Publication	Publication Date	Title
+JP4628814B2 (en)	2011-02-09	Sealant for semiconductor manufacturing equipment
+EP2272911B1 (en)	2017-05-03	Fluorine rubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+JP6134391B2 (en)	2017-05-24	Seal material and manufacturing method thereof
+KR101352661B1 (en)	2014-01-16	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+JP2008056739A (en)	2008-03-13	Fluorine rubber composition
+JP4381087B2 (en)	2009-12-09	Method for producing fluoro rubber sealant
+EP4219644B1 (en)	2025-10-22	Sealing material and method for producing sealing material
+US12180315B2 (en)	2024-12-31	Elastomer composition and sealing material
+JP5292815B2 (en)	2013-09-18	Fluorine-containing elastomer composition
+KR101692765B1 (en)	2017-01-04	Fluorine-containing elastomer and vulcanizable composition thereof
+JP2025152618A (en)	2025-10-10	Method for producing recycled perfluoro(co)polymer and method for producing recycled material
+
+=== TABLE 21 (5 rows) ===
+Date	Code	Title	Description
+2007-08-15	AS	Assignment	Owner name: NIPPON VALQUA INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:OKAZAKI, MASANORI;REEL/FRAME:019697/0778 Effective date: 20070723
+2008-07-07	AS	Assignment	Owner name: NIPPON VALQUA INDUSTRIES, LTD., JAPAN Free format text: CHANGE OF ADDRESS;ASSIGNOR:NIPPON VALQUA INDUSTRIES, LTD.;REEL/FRAME:021194/0228 Effective date: 20080707
+2008-11-11	AS	Assignment	Owner name: NIPPON VALQUA INDUSTRIES, LTD., JAPAN Free format text: CORRECTIVE ASSIGNMENT TO CORRECT THE ADDRESS OF ASSIGNEE PREVIOUSLY RECORDED ON REEL 021194 FRAME 0228. ASSIGNOR(S) HEREBY CONFIRMS THE ASSIGNMENT OF ASSIGNOR'S INTEREST;ASSIGNOR:NIPPON VALQUA INDUSTRIES, LTD.;REEL/FRAME:021805/0560 Effective date: 20080707
+2011-01-07	STCB	Information on status: application discontinuation	Free format text: ABANDONED -- FAILURE TO RESPOND TO AN OFFICE ACTION

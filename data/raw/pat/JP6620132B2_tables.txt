@@ -1,0 +1,149 @@
+# JP6620132B2 :: JP6620132B2 - 
+        Seal material and manufacturing method thereof
+       
+      - Google Patents
+
+=== TABLE 0 (11 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2017176309A JP6620132B2 (en)	2017-09-14	2017-09-14	Seal material and manufacturing method thereof
+EP22193385.6A EP4116374B1 (en)	2017-09-14	2018-09-07	Method for manufacturing a rubber product
+EP18856637.6A EP3677642A4 (en)	2017-09-14	2018-09-07	Uncrosslinked rubber composition and rubber product manufactured by using same and manufacturing method therefor
+PCT/JP2018/033206 WO2019054293A1 (en)	2017-09-14	2018-09-07	Uncrosslinked rubber composition and rubber product manufactured by using same and manufacturing method therefor
+US16/647,457 US20200277467A1 (en)	2017-09-14	2018-09-07	Uncrosslinked rubber composition and rubber product manufactured by using same and manufacturing method therefor
+KR1020207009674A KR102517714B1 (en)	2017-09-14	2018-09-07	Sealing material and its manufacturing method
+CN201880059589.9A CN111094437B (en)	2017-09-14	2018-09-07	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+SG11202002349YA SG11202002349YA (en)	2017-09-14	2018-09-07	Uncrosslinked rubber composition and rubber product manufactured by using same and manufacturing method therefor
+TW107132446A TWI761593B (en)	2017-09-14	2018-09-14	Seal and method of making the same
+JP2019009327A JP6924215B2 (en)	2017-09-14	2019-01-23	Sealing material and its manufacturing method
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2017176309A JP6620132B2 (en)	2017-09-14	2017-09-14	Seal material and manufacturing method thereof
+
+=== TABLE 2 (3 rows) ===
+Application Number	Title	Priority Date	Filing Date
+JP2019009327A Division JP6924215B2 (en)	2017-09-14	2019-01-23	Sealing material and its manufacturing method
+JP2019170431A Division JP6788716B2 (en)	2019-09-19	2019-09-19	Rubber products and their manufacturing methods
+
+=== TABLE 3 (3 rows) ===
+Publication Number	Publication Date
+JP2019052226A JP2019052226A (en)	2019-04-04
+JP6620132B2 true JP6620132B2 (en)	2019-12-11
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+JP2017176309A Active JP6620132B2 (en)	2017-09-14	2017-09-14	Seal material and manufacturing method thereof
+
+=== TABLE 5 (9 rows) ===
+Country	Link
+US (1)	US20200277467A1 (en)
+EP (2)	EP3677642A4 (en)
+JP (1)	JP6620132B2 (en)
+KR (1)	KR102517714B1 (en)
+CN (1)	CN111094437B (en)
+SG (1)	SG11202002349YA (en)
+TW (1)	TWI761593B (en)
+WO (1)	WO2019054293A1 (en)
+
+=== TABLE 6 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2019214743A (en) *	2019-09-19	2019-12-19	三菱電線工業株式会社	Rubber product and method for producing the same
+
+=== TABLE 7 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP6918734B2 (en) *	2018-03-29	2021-08-11	三菱電線工業株式会社	An uncrosslinked rubber composition, a rubber product produced using the uncrosslinked rubber composition, and a method for producing the same.
+WO2021230231A1 (en)	2020-05-14	2021-11-18	ニチアス株式会社	Rubber composition, fluoroelastomer, and sealing material
+CN111471186B (en) *	2020-05-29	2023-01-24	中国工程物理研究院化工材料研究所	High-performance copolymerized liquid fluororubber, preparation method and application
+JP7766038B2 (en) *	2020-09-28	2025-11-07	株式会社バルカー	Elastomer composition, sealing material and method for producing sealing material
+US20230365802A1 (en) *	2020-09-28	2023-11-16	Valqua, Ltd	Elastomer Composition, Sealing Material, and Method for Producing Sealing Material
+JP7048713B1 (en) *	2020-12-18	2022-04-05	三菱電線工業株式会社	Fluororubber composition and rubber molded products formed using it
+JP7330230B2 (en) *	2021-06-09	2023-08-21	三菱電線工業株式会社	SEALING MATERIAL AND MANUFACTURING METHOD THEREOF
+WO2024202607A1 (en)	2023-03-30	2024-10-03	株式会社バルカー	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+JP7799140B2 (en) *	2023-08-28	2026-01-14	三菱電線工業株式会社	Uncrosslinked rubber composition and rubber molded product using the same
+JP2025079590A (en) *	2023-11-10	2025-05-22	株式会社バルカー	Sealant composition and sealant
+
+=== TABLE 8 (23 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH04359950A (en) *	1991-06-07	1992-12-14	Asahi Glass Co Ltd	Vulcanizable rubber composition
+CA2055103A1 (en) *	1990-11-16	1992-05-17	Isamu Kaneko	Vulcanizable rubber composition
+JP3048393B2 (en) *	1991-02-06	2000-06-05	旭硝子株式会社	Vulcanizable rubber composition
+JPH07247396A (en) *	1994-01-27	1995-09-26	Kin Yosha Kk	Oil-repellent fluororubber composition
+JP3340285B2 (en) *	1995-07-27	2002-11-05	株式会社金陽社	Method for modifying peroxide-crosslinked fluororubber
+JP2000072902A (en) *	1998-06-17	2000-03-07	Daikin Ind Ltd	Ionizing radiation-irradiated rubber molded article and its production method
+JP2000290430A (en) *	1999-04-02	2000-10-17	Nippon Zeon Co Ltd	Crosslinkable fluororubber composition, crosslinked product, rubber laminate, and method for producing rubber laminate
+JP2001348462A (en)	2000-06-09	2001-12-18	Nichias Corp	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+JP2003277599A (en) *	2002-03-22	2003-10-02	Shin Etsu Chem Co Ltd	Crosslinkable fluororubber composition and method for producing the same
+JP2004131656A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Sealing material for semiconductor devices
+JP4381087B2 (en)	2003-10-08	2009-12-09	日本バルカー工業株式会社	Method for producing fluoro rubber sealant
+JP4844952B2 (en) *	2004-09-02	2011-12-28	ニチアス株式会社	Fluoro rubber composition, rubber material using the same, and method for producing fluoro rubber molding
+JP4675907B2 (en)	2004-12-20	2011-04-27	日本バルカー工業株式会社	Rubber composition, sealing material for plasma processing apparatus
+JP4778782B2 (en)	2004-12-28	2011-09-21	ニチアス株式会社	Sealing material
+JP4628814B2 (en) *	2005-02-15	2011-02-09	日本バルカー工業株式会社	Sealant for semiconductor manufacturing equipment
+JP5189728B2 (en) *	2005-06-08	2013-04-24	日本バルカー工業株式会社	Fluoro rubber sealant
+RU2539009C2 (en) *	2009-10-01	2015-01-10	Асахи Гласс Компани, Лимитед	Crosslinkable fluororubber composition and crosslinked rubber article
+JP5299850B2 (en) *	2010-01-15	2013-09-25	住友電気工業株式会社	Rubber composition and insulated wire coated therewith
+JPWO2012073977A1 (en) *	2010-11-30	2014-05-19	旭硝子株式会社	Crosslinkable fluororubber composition and crosslinked rubber article
+JP2015010225A (en) *	2013-07-02	2015-01-19	三菱電線工業株式会社	Resin composition and seal member
+TWI632185B (en) *	2013-08-07	2018-08-11	旭硝子股份有限公司	Crosslinkable fluoroelastomer composition and crosslinked product thereof
+WO2015098338A1 (en) *	2013-12-27	2015-07-02	日本バルカー工業株式会社	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+
+=== TABLE 9 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2019214743A (en) *	2019-09-19	2019-12-19	三菱電線工業株式会社	Rubber product and method for producing the same
+
+=== TABLE 10 (16 rows) ===
+Publication number	Publication date
+CN111094437A (en)	2020-05-01
+EP4116374A1 (en)	2023-01-11
+KR102517714B1 (en)	2023-04-03
+CN111094437B (en)	2022-05-13
+EP4116374B1 (en)	2025-06-18
+KR20200049835A (en)	2020-05-08
+JP2019052226A (en)	2019-04-04
+EP4116374C0 (en)	2025-06-18
+TW201920434A (en)	2019-06-01
+SG11202002349YA (en)	2020-04-29
+WO2019054293A1 (en)	2019-03-21
+US20200277467A1 (en)	2020-09-03
+EP3677642A4 (en)	2020-10-21
+EP3677642A1 (en)	2020-07-08
+TWI761593B (en)	2022-04-21
+
+=== TABLE 11 (18 rows) ===
+Publication	Publication Date	Title
+CN111094437B (en)	2022-05-13	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+JP6788716B2 (en)	2020-11-25	Rubber products and their manufacturing methods
+JP7562465B2 (en)	2024-10-07	Rubber products and their manufacturing method
+JP6134391B2 (en)	2017-05-24	Seal material and manufacturing method thereof
+JP6924215B2 (en)	2021-08-25	Sealing material and its manufacturing method
+JP7048713B1 (en)	2022-04-05	Fluororubber composition and rubber molded products formed using it
+TWI879943B (en)	2025-04-11	Elastomer composition and sealing article using the same
+WO2019088100A1 (en)	2019-05-09	Fluorine-containing elastomer composition for heat dissipation material and sheet thereof
+JP2020070326A (en)	2020-05-07	Uncrosslinked fluororubber composition and rubber product produced using the same
+JP7630472B2 (en)	2025-02-17	Sealing material and its manufacturing method
+JP4381087B2 (en)	2009-12-09	Method for producing fluoro rubber sealant
+JP2025134878A (en)	2025-09-17	Uncrosslinked fluororubber composition, sealing material produced using the same, and method for producing the same
+JP2005239835A (en)	2005-09-08	Crosslinkable fluororubber composition
+KR20230078695A (en)	2023-06-02	Elastomer composition, sealant and manufacturing method of sealant
+JP2015067659A (en)	2015-04-13	Crosslinkable fluorine-containing elastomer composition and crosslinked rubber article
+JP7155286B2 (en)	2022-10-18	Elastomer composition and sealing material
+JP5969257B2 (en)	2016-08-17	Fluoropolymer composition and cured product thereof
+
+=== TABLE 12 (17 rows) ===
+Date	Code	Title	Description
+2017-09-26	A521	Request for written amendment filed	Free format text: JAPANESE INTERMEDIATE CODE: A523 Effective date: 20170926
+2018-09-07	A621	Written request for application examination	Free format text: JAPANESE INTERMEDIATE CODE: A621 Effective date: 20180907
+2018-11-27	A131	Notification of reasons for refusal	Free format text: JAPANESE INTERMEDIATE CODE: A131 Effective date: 20181127
+2019-01-23	A521	Request for written amendment filed	Free format text: JAPANESE INTERMEDIATE CODE: A523 Effective date: 20190123
+2019-06-25	A02	Decision of refusal	Free format text: JAPANESE INTERMEDIATE CODE: A02 Effective date: 20190625
+2019-09-19	A521	Request for written amendment filed	Free format text: JAPANESE INTERMEDIATE CODE: A523 Effective date: 20190919
+2019-09-30	A911	Transfer to examiner for re-examination before appeal (zenchi)	Free format text: JAPANESE INTERMEDIATE CODE: A911 Effective date: 20190927
+2019-10-31	TRDD	Decision of grant or rejection written	
+2019-11-05	A01	Written decision to grant a patent or to grant a registration (utility model)	Free format text: JAPANESE INTERMEDIATE CODE: A01 Effective date: 20191105
+2019-11-21	A61	First payment of annual fees (during grant procedure)	Free format text: JAPANESE INTERMEDIATE CODE: A61 Effective date: 20191118
+2019-11-22	R150	Certificate of patent or registration of utility model	Ref document number: 6620132 Country of ref document: JP Free format text: JAPANESE INTERMEDIATE CODE: R150
+2021-08-16	R157	Certificate of patent or utility model (correction)	Free format text: JAPANESE INTERMEDIATE CODE: R157
+2022-10-12	R250	Receipt of annual fees	Free format text: JAPANESE INTERMEDIATE CODE: R250
+2023-10-12	R250	Receipt of annual fees	Free format text: JAPANESE INTERMEDIATE CODE: R250
+2024-10-17	R250	Receipt of annual fees	Free format text: JAPANESE INTERMEDIATE CODE: R250
+2025-10-17	R250	Receipt of annual fees	Free format text: JAPANESE INTERMEDIATE CODE: R250

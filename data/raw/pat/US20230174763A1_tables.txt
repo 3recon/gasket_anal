@@ -1,0 +1,173 @@
+# US20230174763A1 :: US20230174763A1 - Elastomer composition and sealing material comprising same 
+        - Google Patents
+
+=== TABLE 0 (15 rows) ===
+	Examples	Comparative Examples
+1	2	3	4	5	1	2	3	4	5	6	7	8	9	10	11
+Base Rubber	FKM (Tecnoflon P959)	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100
+Crosslinking Agent	Organic Peroxide (PERHEXA 25B)	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+Crosslinking Aid	Polyfunctional Compound (TAIC)	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2	2
+Filler	Phenol Resin (BellPearl R100) Phenol Resin (BellPearl R800)	5	10	25	5	25	-	10	25	50	-	-	-	-	-	10	-
+-	-	-	-	-	-	-	-	-	10	-	-	-	-	-	-
+Carbon Black (Thermax N990)	-	-	-	-	-	-	-	-	-	-	-	-	-	25	10	10
+Silica	5	10	5	25	25	-	-	-	-	10	10	25	50	-	-	10
+Ordinary Physical Properties	Hardness (Type-A)	66	74	73	84	92	51	58	69	85	67	65	83	Unproducible	68	64	70
+Tensile Strength (MPa)	20.3	21.5	24.3	23.5	22.4	8.9	14.5	20.3	20.6	15.1	20.3	23.2	24.2	21.5	19.8
+Elongation (%)	280	210	190	250	110	290	210	190	120	230	270	230	260	200	250
+100% Modulus (Mpa)	3.9	6.0	8.3	8.6	20.9	1.3	2.8	7.5	17.2	3.9	3.7	8.4	5.6	5.1	4.5
+Heat Resistance	Compression Set (%)	15	18	23	30	35	27	13	17	24	Broken	36	40	25	13	37
+Resistance to Compression Fracture	The Number of Test Pieces having No Compression Crack	3	3	3	3	3	0	1	2	2	0	1	1	1	2	1
+
+=== TABLE 1 (14 rows) ===
+	Example	Comparative Examples
+6	12	13	14
+Polymer	FKM (Viton A-50)	100	100	100	100
+Crosslinking Agent	Polyol (Curative V50)	2.5	2.5	2.5	2.5
+Acid Acceptor	Magnesium Oxide (Kyowamag 150)	3	3	3	3
+Calcium Hydroxide (CALVIT)	6	6	6	6
+Filler	Phenol Resin (BellPearl R100)	10	-	10	-
+Silica (AEROSIL R972)	10	-	-	10
+Ordinary Physical Properties	Hardness (Type-A)	77	56	64	73
+Tensile Strength (MPa)	13.2	8.2	10.5	15.1
+Elongation (%)	240	290	250	240
+100% Modulus (MPa)	5.6	1.8	2.8	4.7
+Heat Resistance	Compression Set	21	19	20	28
+Resistance to Compression Fracture	The Number of Test Pieces having No Compression Crack	3	0	1	1
+
+=== TABLE 2 (11 rows) ===
+	Example	Comparative Example
+7	15
+Base Rubber	VMQ (KE-961T-U)	100	100
+Crosslinking Agent	Organic Peroxide (C-8)	2	2
+Filler	Phenol Resin (BellPearl R100)	10	-
+Ordinary Physical Properties	Hardness (Type-A)	65	57
+Tensile Strength (MPa)	8.4	8.1
+Elongation (%)	230	393.8
+100% Modulus (MPa)	2.9	2.3
+Heat Resistance	Compression Set	21	14
+Resistance to Compression Fracture	The Number of Test Pieces having No Compression Crack	3	2
+
+=== TABLE 3 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2020-075483		2020-04-21	
+JP2020075483A JP2021172700A (en)	2020-04-21	2020-04-21	Elastomer composition and sealing product comprising the same
+PCT/JP2021/014937 WO2021215263A1 (en)	2020-04-21	2021-04-08	Elastomer composition and sealing material comprising same
+
+=== TABLE 4 (2 rows) ===
+Publication Number	Publication Date
+US20230174763A1 true US20230174763A1 (en)	2023-06-08
+
+=== TABLE 5 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US17/920,002 Pending US20230174763A1 (en)	2020-04-21	2021-04-08	Elastomer composition and sealing material comprising same
+
+=== TABLE 6 (7 rows) ===
+Country	Link
+US (1)	US20230174763A1 (en)
+JP (1)	JP2021172700A (en)
+KR (1)	KR102803202B1 (en)
+CN (1)	CN115443305B (en)
+TW (1)	TWI879943B (en)
+WO (1)	WO2021215263A1 (en)
+
+=== TABLE 7 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US12584054B2 (en)	2019-12-11	2026-03-24	Mitsubishi Cable Industries, Ltd.	Semiconductor production device sealing material
+
+=== TABLE 8 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP7427141B1 (en) *	2022-05-19	2024-02-02	Ｄｉｃグラフィックス株式会社	Product information providing system, product information providing method, terminal device, color information providing device, and program
+CN116814022B (en) *	2023-07-05	2024-06-07	惠州市中茂科技有限公司	Deflection-resistant and liquid medicine-resistant diaphragm pump diaphragm and preparation method thereof
+JP7792487B1 (en) *	2024-10-07	2025-12-25	三菱電線工業株式会社	sealing material
+
+=== TABLE 9 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0285450A2 (en) *	1987-03-31	1988-10-05	Kabushiki Kaisha Toshiba	Epoxy resin composition and a resin-sealed semiconductor device
+JPH06278153A (en) *	1993-03-25	1994-10-04	Yamauchi Corp	Cushioning material for molding press
+JP2003041238A (en) *	2001-07-31	2003-02-13	Tokyo Electron Ltd	Semiconductor processing apparatus, rubber seal material for liquid crystal substrate processing apparatus, manufacturing method thereof, semiconductor processing apparatus, and liquid crystal substrate processing apparatus
+WO2003064523A1 (en) *	2002-01-29	2003-08-07	Dsm Ip Assets B.V.	Process for the preparation of a thermoplastic elastomer comprising a partially vulcanized rubber concentrate
+WO2005083001A1 (en) *	2004-03-01	2005-09-09	Jtekt Corporation	Phenol resin molding material and pulley molded with the molding material
+WO2008047700A1 (en) *	2006-10-20	2008-04-24	Air Water Inc.	Non-thermofusible granular phenol resin, method for producing the same, thermosetting resin composition, sealing material for semiconductor, and adhesive for semiconductor
+CN103910815A (en) *	2014-03-18	2014-07-09	巨化集团技术中心	Terafluoroethylene-propylene post-treatment agent and preparation method
+US20180106321A1 (en) *	2016-04-21	2018-04-19	Hitachi Chemical Company, Ltd.	Friction material composition, and friction material and friction member using the same
+
+=== TABLE 10 (18 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH04318044A (en) *	1991-04-17	1992-11-09	Toyo Tire & Rubber Co Ltd	Rubber composition for tire tread
+JP3757055B2 (en) *	1998-04-30	2006-03-22	Ｎｔｎ株式会社	Lubricating rubber composition and seal member
+JP3772712B2 (en)	2001-08-31	2006-05-10	東海ゴム工業株式会社	Vibration control device
+JP2004018786A (en) *	2002-06-19	2004-01-22	Kyocera Chemical Corp	Sealing resin composition and electronic component sealing device
+US7351769B2 (en) *	2004-01-26	2008-04-01	Freudenberg-Nok General Partnership	Dynamic vulcanization of elastomers with in-situ polymerization
+WO2007148759A1 (en) *	2006-06-23	2007-12-27	Daikin Industries, Ltd.	Fluororubber composition for peroxide crosslinking and method for producing rubber laminate
+WO2009020182A1 (en) *	2007-08-08	2009-02-12	Daikin Industries, Ltd.	Thermoplastic resin composition containing fluorine-containing resin and crosslinked fluororubber
+EP2233528B1 (en) *	2007-12-17	2012-05-16	NOK Corporation	Rubber composition and use thereof
+JP2010024339A (en) *	2008-07-18	2010-02-04	Daikin Ind Ltd	Fluorine-containing elastomer composition and molded product formed of the same
+JP2010083943A (en) *	2008-09-30	2010-04-15	Sumitomo Bakelite Co Ltd	Rubber composition
+CN102177185A (en) *	2008-10-14	2011-09-07	旭化成化学株式会社	Modified conjugated diene polymer, method for producing same, modified conjugated diene polymer composition, and tire
+JP2010235906A (en)	2009-03-30	2010-10-21	Arai Seisakusho Co Ltd	Fluororubber composition and rubber molding using the same
+JP5454670B2 (en) *	2010-02-22	2014-03-26	Ｎｏｋ株式会社	Fluoro rubber metal laminate
+JP5406964B2 (en) *	2011-11-08	2014-02-05	住友ゴム工業株式会社	Rubber composition for tire cord covering, breaker edge strip, breaker cushion or cord adjacent strip, and pneumatic tire
+JPWO2014084082A1 (en) *	2012-11-29	2017-01-05	旭硝子株式会社	Fluoro rubber composition and cross-linked rubber article using the same
+JP2014114383A (en) *	2012-12-10	2014-06-26	Mitsubishi Cable Ind Ltd	Fluorine-containing elastomer composition and rubber member
+JP6618507B2 (en) *	2016-05-30	2019-12-11	株式会社バルカー	Perfluoroelastomer composition and sealing material
+
+=== TABLE 11 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0285450A2 (en) *	1987-03-31	1988-10-05	Kabushiki Kaisha Toshiba	Epoxy resin composition and a resin-sealed semiconductor device
+JPH06278153A (en) *	1993-03-25	1994-10-04	Yamauchi Corp	Cushioning material for molding press
+JP2003041238A (en) *	2001-07-31	2003-02-13	Tokyo Electron Ltd	Semiconductor processing apparatus, rubber seal material for liquid crystal substrate processing apparatus, manufacturing method thereof, semiconductor processing apparatus, and liquid crystal substrate processing apparatus
+WO2003064523A1 (en) *	2002-01-29	2003-08-07	Dsm Ip Assets B.V.	Process for the preparation of a thermoplastic elastomer comprising a partially vulcanized rubber concentrate
+WO2005083001A1 (en) *	2004-03-01	2005-09-09	Jtekt Corporation	Phenol resin molding material and pulley molded with the molding material
+WO2008047700A1 (en) *	2006-10-20	2008-04-24	Air Water Inc.	Non-thermofusible granular phenol resin, method for producing the same, thermosetting resin composition, sealing material for semiconductor, and adhesive for semiconductor
+CN103910815A (en) *	2014-03-18	2014-07-09	巨化集团技术中心	Terafluoroethylene-propylene post-treatment agent and preparation method
+US20180106321A1 (en) *	2016-04-21	2018-04-19	Hitachi Chemical Company, Ltd.	Friction material composition, and friction material and friction member using the same
+
+=== TABLE 12 (2 rows) ===
+Title
+JPH 06-278153 translation (Year: 1994) *
+
+=== TABLE 13 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US12584054B2 (en)	2019-12-11	2026-03-24	Mitsubishi Cable Industries, Ltd.	Semiconductor production device sealing material
+
+=== TABLE 14 (9 rows) ===
+Publication number	Publication date
+TWI879943B (en)	2025-04-11
+JP2021172700A (en)	2021-11-01
+CN115443305B (en)	2024-07-19
+CN115443305A (en)	2022-12-06
+WO2021215263A1 (en)	2021-10-28
+TW202146572A (en)	2021-12-16
+KR20220158012A (en)	2022-11-29
+KR102803202B1 (en)	2025-05-07
+
+=== TABLE 15 (13 rows) ===
+Publication	Publication Date	Title
+KR102803202B1 (en)	2025-05-07	Elastomer composition and sealing material comprising the same
+JP6620132B2 (en)	2019-12-11	Seal material and manufacturing method thereof
+EP2272911B1 (en)	2017-05-03	Fluorine rubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+CN111194333B (en)	2022-04-05	Fluorine-containing copolymer composition and metal rubber laminate
+JP7814903B2 (en)	2026-02-17	Rubber molded products
+JP6788716B2 (en)	2020-11-25	Rubber products and their manufacturing methods
+JP7562465B2 (en)	2024-10-07	Rubber products and their manufacturing method
+JP6924215B2 (en)	2021-08-25	Sealing material and its manufacturing method
+US12584054B2 (en)	2026-03-24	Semiconductor production device sealing material
+KR20230078696A (en)	2023-06-02	Elastomer composition, sealant and manufacturing method of sealant
+JP2020070326A (en)	2020-05-07	Uncrosslinked fluororubber composition and rubber product produced using the same
+KR20230078695A (en)	2023-06-02	Elastomer composition, sealant and manufacturing method of sealant
+
+=== TABLE 16 (14 rows) ===
+Date	Code	Title	Description
+2022-10-24	AS	Assignment	Owner name: MITSUBISHI CABLE INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:ITO, TAKAO;TAKEDA, RYOHEI;REEL/FRAME:061519/0764 Effective date: 20220921
+2023-03-24	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2025-05-16	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2025-08-16	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2025-08-25	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION COUNTED, NOT YET MAILED
+2025-08-26	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2025-11-20	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2025-12-23	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION COUNTED, NOT YET MAILED
+2025-12-24	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2025-12-29	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2026-03-30	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2026-04-30	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION COUNTED, NOT YET MAILED
+2026-05-05	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED

@@ -1,0 +1,95 @@
+# CN109929197B :: CN109929197B - Lithium battery-resistant electrolyte fluororubber composition and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201910226419.1A CN109929197B (en)	2019-03-25	2019-03-25	Lithium battery-resistant electrolyte fluororubber composition and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201910226419.1A CN109929197B (en)	2019-03-25	2019-03-25	Lithium battery-resistant electrolyte fluororubber composition and preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN109929197A CN109929197A (en)	2019-06-25
+CN109929197B true CN109929197B (en)	2021-05-18
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN201910226419.1A Active CN109929197B (en)	2019-03-25	2019-03-25	Lithium battery-resistant electrolyte fluororubber composition and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN109929197B (en)
+
+=== TABLE 5 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN111269511A (en) *	2020-03-18	2020-06-12	江苏中煜橡塑科技有限公司	Insulating fluororubber material for sealing lithium battery and preparation method thereof
+CN113681740B (en) *	2021-08-25	2023-06-13	浙江巨化股份有限公司氟聚厂	A kind of method of fluororesin modified ternary fluororubber
+CN114085480A (en) *	2021-11-23	2022-02-25	深圳市帝源新材料科技股份有限公司	Crosslinked rubber material, crosslinked fluororubber, cable, preparation method and application
+CN116948331A (en) *	2022-04-20	2023-10-27	中昊晨光化工研究院有限公司	Fluororubber compound and preparation method and application thereof
+CN115677903A (en) *	2022-10-17	2023-02-03	浙江巨圣氟化学有限公司	A kind of high fluorine rubber sealing material and preparation method thereof
+CN115926344B (en) *	2022-12-31	2024-04-19	氟乐泰科（厦门）新材料有限公司	Modified fluororubber compound and preparation method thereof
+CN116278106B (en) *	2023-03-09	2026-01-27	浙江圆通新材料有限公司	Preparation method of PTFE modified fluororubber special-shaped sealing piece for semiconductor
+WO2024197787A1 (en) *	2023-03-31	2024-10-03	宁德新能源科技有限公司	Electrochemical device and electronic device
+CN116814022B (en) *	2023-07-05	2024-06-07	惠州市中茂科技有限公司	Deflection-resistant and liquid medicine-resistant diaphragm pump diaphragm and preparation method thereof
+CN120098462B (en) *	2025-04-11	2025-11-07	上海芯密科技股份有限公司	Fluororesin fluororubber composite material with high breaking work and preparation method thereof
+
+=== TABLE 6 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2000012054A (en) *	1998-06-26	2000-01-14	Nok Corp	Sealing material for laminated type fuel cell
+CN102786700A (en) *	2012-08-27	2012-11-21	中昊晨光化工研究院有限公司	Preparation method of alkali-proof vulcanized fluororubber
+CN106633544A (en) *	2016-11-17	2017-05-10	上海如实密封科技有限公司	A fluororubber material used for sealing members resistant to high temperatures and high pressure and a preparing method thereof
+
+=== TABLE 7 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2000012054A (en) *	1998-06-26	2000-01-14	Nok Corp	Sealing material for laminated type fuel cell
+CN102786700A (en) *	2012-08-27	2012-11-21	中昊晨光化工研究院有限公司	Preparation method of alkali-proof vulcanized fluororubber
+CN106633544A (en) *	2016-11-17	2017-05-10	上海如实密封科技有限公司	A fluororubber material used for sealing members resistant to high temperatures and high pressure and a preparing method thereof
+
+=== TABLE 8 (2 rows) ===
+Title
+聚四氟乙烯微粉_四丙氟橡胶复合材料性能研究;黄达等;《化工生产与技术》;20151225;第1-5页 *
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN109929197A (en)	2019-06-25
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN109929197A (en)	2019-06-25	A kind of resistance to lithium battery electrolytes fluoro-rubber composite and preparation method thereof
+US12312427B2 (en)	2025-05-27	Member to be compressed for electrochemical devices
+JP2590328B2 (en)	1997-03-12	Melt blend composition
+EP3221392B1 (en)	2018-09-19	Melt processible fluoropolymer composition with excellent heat conductivity, molded product manufactured from the composition and manufacturing method
+TWI731978B (en)	2021-07-01	Perfluoroelastomer composition and sealing material
+EP2871697A1 (en)	2015-05-13	Sheet, electrode and fuel cell
+CN114181480A (en)	2022-03-15	Fluororubber composition and preparation method and application thereof
+CN114181484A (en)	2022-03-15	Perfluoroether rubber composition and preparation method and application thereof
+EP1987099B2 (en)	2014-08-13	Tetrafluoroethylene copolymer composition for injection molding
+CN105111642B (en)	2017-10-20	A kind of 4 third fluorubber with low compression set performance and preparation method thereof
+CN115926344A (en)	2023-04-07	Modified fluororubber compound and preparation method thereof
+JP4000915B2 (en)	2007-10-31	Polytetrafluoroethylene powder, electrode material, electrode and fuel cell
+Kong et al.	2017	Preparation and investigation of solid polymer electrolyte based on novel polyamide elastomer/metal salt
+CN112592548B (en)	2023-02-24	Low-temperature-resistant fluororubber composition and application thereof
+US20140117290A1 (en)	2014-05-01	Epoxidised natural rubber-based blend with reversible electrical behaviour
+CN105778364A (en)	2016-07-20	Thermoplastic elastomer backing plate film and preparation method thereof
+CN105924758B (en)	2019-01-04	One kind can the low density modified polyethylene of cross-linking radiation-TFE copolymer Insulation Material
+JP3730533B2 (en)	2006-01-05	Modification method of fluororesin
+CN120098462B (en)	2025-11-07	Fluororesin fluororubber composite material with high breaking work and preparation method thereof
+US8378030B2 (en)	2013-02-19	Flex life of tetrafluoroethylene/perfluoro(alkyl vinyl ether) copolymer (PFA)
+CN108976346B (en)	2021-06-04	Highly stable fluoropolymer
+CN105885186A (en)	2016-08-24	Polyvinylidene difluoride-based thermoplastic vulcanized rubber and preparation method thereof
+CN104927272A (en)	2015-09-23	EVA/EVM blending type thermoplastic vulcanizate and preparation method therefor
+CN114181483A (en)	2022-03-15	Tetrapropylene-fluoride rubber composition and preparation method and application thereof
+Nasir et al.	2014	The effects of different particle sizes of recycled acrylonitrile butadiene rubber and its blend ratios on mechanical and morphological properties of vNBR/rNBR blends
+
+=== TABLE 11 (9 rows) ===
+Date	Code	Title	Description
+2019-06-25	PB01	Publication	
+2019-06-25	PB01	Publication	
+2019-07-19	SE01	Entry into force of request for substantive examination	
+2019-07-19	SE01	Entry into force of request for substantive examination	
+2021-05-18	GR01	Patent grant	
+2021-05-18	GR01	Patent grant	
+2024-09-06	TR01	Transfer of patent right	
+2024-09-06	TR01	Transfer of patent right	Effective date of registration: 20240822 Address after: Building 4, Workshop 2, No. 288 Jinfa Road, Fengxian District, Shanghai, 201204 Patentee after: SHANGHAI REAL SEALING TECHNOLOGY Co.,Ltd. Country or region after: China Address before: Room m227, building 4, 298 Lianzhen Road, Pudong New Area, Shanghai 201204 Patentee before: SHANGHAI DUSHI NEW MATERIAL TECHNOLOGY Co.,Ltd. Country or region before: China

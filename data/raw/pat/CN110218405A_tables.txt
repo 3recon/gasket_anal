@@ -1,0 +1,120 @@
+# CN110218405A :: CN110218405A - A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application 
+        - Google Patents
+
+=== TABLE 0 (10 rows) ===
+Serial number	No. 1	No. 2	No. 3	No. 4	No. 5	No. 6	No. 7	No. 8
+Hardness, Shore A	76	90	94	81	88	96	98	90
+Tensile strength, MPa	23.6	21.0	13.8	15.9	18.1	21.9	19.8	20.6
+Elongation, %	286	197	81	200	167	111	88	143
+50% modulus, MPa	2.7	5.7	9.3	3.1	5.2	11.5	13.6	7.0
+100% modulus, MPa	5.9	12.4		7.4	10.8	19.8		14.4
+Cold snap-back TR10, DEG C	-29.6	-29.9	-31.4	-40.0	-40.1	-41.7	-41.5	-7.3
+Glass transition temperature Tg, DEG C	-29.2	-29.4	-29.6	-39.4	-39.6	-39.8	-40.1	-7.1
+The anti-extrusion measurement of API	NG	GOOD	BEST	NG	GOOD	BEST	BEST	BEST
+NORSOK M710 measurement	FAIL	PASS	PASS	FAIL	PASS	PASS	PASS	PASS
+
+=== TABLE 1 (8 rows) ===
+Serial number	No. 1	No. 1	No. 1	No. 1	No. 1	No. 1	No. 1	No. 1
+Firmness change, Shore A	-7	-6	-6	-7	-6	-6	-6	-10
+Mass change, %	2.6	2.4	2.3	2.2	1.9	2.1	1.8	2.8
+Volume change, %	5.3	5.0	4.9	5.0	4.1	4.3	3.9	6.5
+50% modulus change, %	5.0	4.0	4.1	1.9	1.5	1.6	1.5	5.4
+100% modulus change, %	5.1	4.0		2.0	2.1	2.3		8.4
+Tensile strength variation, %	2.2	1.1	2.1	5.2	6.9	6.1	5.9	2.2
+Elongation change, %	3.6	-2.7	-2.3	3.2	3.5	3.6	3.5	-2.6
+
+=== TABLE 2 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201910386804.2A CN110218405A (en)	2019-05-10	2019-05-10	A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application
+
+=== TABLE 3 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201910386804.2A CN110218405A (en)	2019-05-10	2019-05-10	A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application
+
+=== TABLE 4 (2 rows) ===
+Publication Number	Publication Date
+CN110218405A true CN110218405A (en)	2019-09-10
+
+=== TABLE 5 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN201910386804.2A Pending CN110218405A (en)	2019-05-10	2019-05-10	A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application
+
+=== TABLE 6 (2 rows) ===
+Country	Link
+CN (1)	CN110218405A (en)
+
+=== TABLE 7 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN111019276A (en) *	2019-12-31	2020-04-17	成都晨光博达橡塑有限公司	A kind of fluorine-containing thermoplastic elastomer and preparation method thereof
+CN111103421A (en) *	2019-12-31	2020-05-05	山东华夏神舟新材料有限公司	Method for testing fluorine content in fluororubber
+CN112592548A (en) *	2020-11-16	2021-04-02	上海如实密封科技有限公司	Low-temperature-resistant fluororubber composition and application thereof
+CN113105703A (en) *	2021-03-22	2021-07-13	温州邦欣源科技有限公司	Modified conductive fluororubber, preparation method and conductive medium-resistant fluororubber sealing ring
+CN114672116A (en) *	2022-04-29	2022-06-28	安徽中鼎密封件股份有限公司	Low compressive stress relaxation fluororubber for battery seal and preparation method thereof
+CN116769264A (en) *	2023-08-24	2023-09-19	江苏中煜橡塑科技有限公司	Fluororubber material for sealing cold-resistant power battery and preparation method and application thereof
+
+=== TABLE 8 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS61253A (en) *	1984-06-13	1986-01-06	Yokohama Rubber Co Ltd:The	Fluororubber composition
+JP2004051728A (en) *	2002-07-18	2004-02-19	Uchiyama Mfg Corp	Fluoro rubber composition
+CN102250437A (en) *	2011-06-29	2011-11-23	中国石油大学(北京)	Acidproof, alkali-proof and hydrogen-sulphide-corrosion-resistant aflas composite
+CN104262869A (en) *	2014-10-28	2015-01-07	宁波精科机械密封件制造有限公司	Fluororubber material resistant to strong acids and strong bases, and preparation method of fluororubber material
+CN106633544A (en) *	2016-11-17	2017-05-10	上海如实密封科技有限公司	A fluororubber material used for sealing members resistant to high temperatures and high pressure and a preparing method thereof
+CN107163708A (en) *	2017-06-07	2017-09-15	浙江宏利汽车零部件有限公司	A kind of fluorubber of high temperature-resistant acid-resistant alkali
+CN109401139A (en) *	2018-10-29	2019-03-01	中石化石油工程技术服务有限公司	A kind of high temperature resistant, high pressure resistant rubber material and its preparation method and application
+
+=== TABLE 9 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS61253A (en) *	1984-06-13	1986-01-06	Yokohama Rubber Co Ltd:The	Fluororubber composition
+JP2004051728A (en) *	2002-07-18	2004-02-19	Uchiyama Mfg Corp	Fluoro rubber composition
+CN102250437A (en) *	2011-06-29	2011-11-23	中国石油大学(北京)	Acidproof, alkali-proof and hydrogen-sulphide-corrosion-resistant aflas composite
+CN104262869A (en) *	2014-10-28	2015-01-07	宁波精科机械密封件制造有限公司	Fluororubber material resistant to strong acids and strong bases, and preparation method of fluororubber material
+CN106633544A (en) *	2016-11-17	2017-05-10	上海如实密封科技有限公司	A fluororubber material used for sealing members resistant to high temperatures and high pressure and a preparing method thereof
+CN107163708A (en) *	2017-06-07	2017-09-15	浙江宏利汽车零部件有限公司	A kind of fluorubber of high temperature-resistant acid-resistant alkali
+CN109401139A (en) *	2018-10-29	2019-03-01	中石化石油工程技术服务有限公司	A kind of high temperature resistant, high pressure resistant rubber material and its preparation method and application
+
+=== TABLE 10 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN111019276A (en) *	2019-12-31	2020-04-17	成都晨光博达橡塑有限公司	A kind of fluorine-containing thermoplastic elastomer and preparation method thereof
+CN111103421A (en) *	2019-12-31	2020-05-05	山东华夏神舟新材料有限公司	Method for testing fluorine content in fluororubber
+CN112592548A (en) *	2020-11-16	2021-04-02	上海如实密封科技有限公司	Low-temperature-resistant fluororubber composition and application thereof
+CN112592548B (en) *	2020-11-16	2023-02-24	上海如实密封科技有限公司	Low-temperature-resistant fluororubber composition and application thereof
+CN113105703A (en) *	2021-03-22	2021-07-13	温州邦欣源科技有限公司	Modified conductive fluororubber, preparation method and conductive medium-resistant fluororubber sealing ring
+CN114672116A (en) *	2022-04-29	2022-06-28	安徽中鼎密封件股份有限公司	Low compressive stress relaxation fluororubber for battery seal and preparation method thereof
+CN116769264A (en) *	2023-08-24	2023-09-19	江苏中煜橡塑科技有限公司	Fluororubber material for sealing cold-resistant power battery and preparation method and application thereof
+
+=== TABLE 11 (26 rows) ===
+Publication	Publication Date	Title
+CN106633544B (en)	2019-07-19	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+CN112457612B (en)	2023-03-10	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+US5444116A (en)	1995-08-22	Perfluoroelastomeric compositions and seals having improved chemical resistance and methods of making the same
+CN106751257A (en)	2017-05-31	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN105860179B (en)	2017-12-12	Rubber seal productses and its preparation method and application
+JP5414196B2 (en)	2014-02-12	Fluoro rubber sealant with good high / low temperature load sealability
+KR102267428B1 (en)	2021-06-18	Nitrile rubber composition and cross-linked rubber
+JPS6162538A (en)	1986-03-31	Oil-resistant, heat-resistant rubber composition
+WO2010099057A2 (en)	2010-09-02	Cured perfluoroelastomer article
+CN102115563A (en)	2011-07-06	Sealing element raw material applied to electrical appliance in high temperature, high pressure or high humidity environment and preparation method thereof
+CN110157124A (en)	2019-08-23	A kind of tetrapropanate fluorine rubber composition of hydrogen sulfide corrosion-resistant and its application
+JPWO2016059855A1 (en)	2017-07-27	Crosslinkable nitrile rubber composition and rubber cross-linked product
+CN107292056A (en)	2017-10-24	A kind of O-ring seals fast design method based on Finite Element Simulation Analysis
+CN102391553A (en)	2012-03-28	Fluorinated Elastomeric Blowout Preventer Packers And Method
+EP1629042B1 (en)	2006-08-23	Cold shrink fluoroelastomeric article
+WO2021210503A1 (en)	2021-10-21	Fluorocopolymer composition and crosslinked rubber article
+CN112592548B (en)	2023-02-24	Low-temperature-resistant fluororubber composition and application thereof
+JP5494841B2 (en)	2014-05-21	Acrylic rubber composition, acrylic rubber molded article and method for producing the same
+JP5652205B2 (en)	2015-01-14	Crosslinkable rubber composition and cross-linked product
+JP2011168630A (en)	2011-09-01	Low-temperature resistant fluororubber composition exhibiting good fuel permeation resistance
+CN109932308A (en)	2019-06-25	Consider the transformer rubber seal permanent compression test method of plateau climate
+JP2018197335A (en)	2018-12-13	Cryogenic sealant
+US20230411752A1 (en)	2023-12-21	Sealing member and battery
+JP2005140196A (en)	2005-06-02	Gasket for fuel cell
+EP4324861A1 (en)	2024-02-21	Fluorocopolymer, method for producing fluorocopolymer, fluorocopolymer composition, and crosslinked rubber article
+
+=== TABLE 12 (7 rows) ===
+Date	Code	Title	Description
+2019-09-10	PB01	Publication	
+2019-09-10	PB01	Publication	
+2019-10-08	SE01	Entry into force of request for substantive examination	
+2019-10-08	SE01	Entry into force of request for substantive examination	
+2024-03-08	RJ01	Rejection of invention patent application after publication	
+2024-03-08	RJ01	Rejection of invention patent application after publication	Application publication date: 20190910

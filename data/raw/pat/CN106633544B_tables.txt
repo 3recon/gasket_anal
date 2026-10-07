@@ -1,0 +1,147 @@
+# CN106633544B :: CN106633544B - A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (9 rows) ===
+Serial number	No. 1	No. 2	No. 3	No. 4
+Fluorubber Viton GF	100.00	100.00	100.00	100.00
+Carbon nanotube GTR	0.00	5.00	10.00	15.00
+Promotor TAIC-S70	4.00	4.00	4.00	4.00
+Crosslinking agent 101XL-45	1.50	1.50	1.50	1.50
+Zinc oxide META-Z102	3.00	3.00	3.00	3.00
+Carbon black N 990	30.00	25.00	20.00	15.00
+Processing aid Struktol HT 290	1.00	1.00	1.00	1.00
+Total number	139.50	139.50	139.50	139.50
+
+=== TABLE 1 (11 rows) ===
+Fluorubber number	No. 1	No. 2	No. 3	No. 4
+Gum content, %	71.68	71.68	71.68	71.68
+Hardness, Shore A	77	88	94	98
+Tensile strength, MPa	18.10	28.50	34.10	
+Elongation, %	256	208	179	
+50% modulus, MPa	2.29	6.51	10.56	
+100% modulus, MPa	5.00	13.97	21.69	
+Right-angle tearing, KN/m	60.20	74.60	94.90	
+Pants type tearing, KN/m	20.86	32.60	49.79	
+The anti-extrusion measurement of API	Difference	Generally	It is excellent	
+NORSOK M710 measurement	Do not pass through	Pass through	Pass through	
+
+=== TABLE 2 (12 rows) ===
+Serial number	No. 9	No. 10	No. 11	No. 12
+Fluorubber Viton AHV	100.00	100.00	100.00	100.00
+Carbon nanotube GTR	0.00	5.00	10.00	15.00
+Acid absorbent NICC5000	6.00	6.00	6.00	6.00
+Acid absorbent MA150	3.00	3.00	3.00	3.00
+Vulcanizing agent A F50	6.00	6.00	6.00	6.00
+Accelerant B P33	2.00	2.00	2.00	2.00
+Carbon black N 990	25.00	20.00	15.00	10.00
+Carbon black N774	15.00	15.00	15.00	15.00
+Processing aid Brazil wax	1.00	1.00	1.00	1.00
+Processing aid WS 280	1.00	1.00	1.00	1.00
+Total number	159.00	159.00	159.00	159.00
+
+=== TABLE 3 (9 rows) ===
+Fluorubber number	No. 9	No. 10	No. 11	No. 12
+Gum content, %	62.89	62.89	62.89	62.89
+Hardness, Shore A	93.00	94.00	97.00	98.00
+Tensile strength, MPa	21.80	21.00	21.50	
+Elongation at break, %	72.80	73.00	51.80	
+50% modulus, MPa	15.32	14.90	21.05	
+100% modulus, MPa	0.00	0.00	0.00	
+Right-angle tearing, KN/m	49.00	48.10	52.30	
+Pants type tearing, KN/m	28.80	30.20	46.20	
+
+=== TABLE 4 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201611027550.8A CN106633544B (en)	2016-11-17	2016-11-17	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+
+=== TABLE 5 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201611027550.8A CN106633544B (en)	2016-11-17	2016-11-17	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+
+=== TABLE 6 (3 rows) ===
+Publication Number	Publication Date
+CN106633544A CN106633544A (en)	2017-05-10
+CN106633544B true CN106633544B (en)	2019-07-19
+
+=== TABLE 7 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN201611027550.8A Active CN106633544B (en)	2016-11-17	2016-11-17	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+
+=== TABLE 8 (2 rows) ===
+Country	Link
+CN (1)	CN106633544B (en)
+
+=== TABLE 9 (24 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US11084910B2 (en)	2017-06-06	2021-08-10	Zeon Corporation	Cross-linked rubber and production method therefor
+US11613612B2 (en)	2017-07-05	2023-03-28	Nok Corporation	Fluororubber composition, method for producing the same and fluororubber crosslinked molded article
+CN108410181A (en) *	2018-03-26	2018-08-17	山东冬瑞高新技术开发有限公司	A kind of low temperature resistant fluorine silicone rubber sizing material and preparation method thereof
+EP3842668B1 (en) *	2018-08-24	2024-05-01	Zeon Corporation	Seal material
+CN109611325B (en) *	2018-12-18	2021-04-16	安徽聚力石油钻采设备科技有限公司	Alloy rubber piston and hydrogenated nitrile-butadiene polymer rubber adopted by same
+CN109608795B (en) *	2018-12-27	2021-07-30	江苏金晟元特种阀门股份有限公司	Partially cross-linked high temperature resistant, creep resistant and corrosion resistant valve special gasket material and preparation method thereof
+CN109929197B (en) *	2019-03-25	2021-05-18	上海杜实新材料科技有限公司	Lithium battery-resistant electrolyte fluororubber composition and preparation method thereof
+CN110218405A (en) *	2019-05-10	2019-09-10	上海杜实新材料科技有限公司	A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application
+CN110157124A (en) *	2019-05-10	2019-08-23	上海杜实新材料科技有限公司	A kind of tetrapropanate fluorine rubber composition of hydrogen sulfide corrosion-resistant and its application
+CN110552655B (en) *	2019-09-30	2021-08-06	中国石油集团川庆钻探工程有限公司	A high temperature and high pressure resistant packer rubber cylinder and packer
+CN110551350B (en) *	2019-09-30	2021-09-14	中国石油集团川庆钻探工程有限公司	High-temperature and high-pressure resistant packer
+CN112898705A (en) *	2019-11-19	2021-06-04	罗孚橡胶（江苏）有限公司	Inner layer peroxide fluorine rubber material of rubber tube at high-temperature section of silicon-fluorine composite turbocharging system
+CN111849094B (en) *	2020-07-10	2022-04-15	上海如实密封科技有限公司	High-strength high-modulus fluororubber composition and preparation method and application thereof
+CN112457612B (en) *	2020-11-16	2023-03-10	上海如实密封科技有限公司	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+CN112358700B (en) *	2020-11-30	2022-06-17	中国人民解放军第五七一九工厂	Fluororubber material and preparation method thereof
+CN113061296B (en) *	2021-03-16	2022-06-17	重庆市金盾橡胶制品有限公司	Carbon nanotube tread rubber and preparation method thereof
+CN113667245B (en) *	2021-07-21	2023-08-29	佛山市天禄智能装备科技有限公司	A kind of flexible high temperature resistant sealing material and its preparation method
+GB2624325B (en) *	2021-09-14	2026-03-11	Halliburton Energy Services Inc	Polymer blends for use in wellbore applications
+CN114874572B (en) *	2022-06-01	2023-05-16	上海熹贾精密技术有限公司	High-performance sealing element for automobile fuel tank and preparation method thereof
+CN115304875A (en) *	2022-06-06	2022-11-08	高科橡塑工业有限公司	Ultrahigh-compression-rate fluororubber for engine cylinder gasket and mixing process
+CN115627039B (en) *	2022-09-26	2023-08-01	温州大学苍南研究院	Ternary fluororubber nanocomposite material with double filler systems and preparation method thereof
+CN118725487A (en) *	2023-03-28	2024-10-01	中国石油化工股份有限公司	Fluororubber system, fluororubber and preparation method and application thereof
+CN119590053B (en) *	2023-09-11	2025-10-31	中国石油化工股份有限公司	Three-layer breather valve composite diaphragm, its preparation method and application
+
+=== TABLE 10 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN102585402A (en) *	2012-02-28	2012-07-18	安徽中鼎密封件股份有限公司	High-strength fluororubber and preparation method, fluororubber sealing element
+CN102786700B (en) *	2012-08-27	2013-12-11	中昊晨光化工研究院有限公司	Preparation method of alkali-proof vulcanized fluororubber
+CN103342772B (en) *	2013-07-12	2015-08-05	中昊晨光化工研究院有限公司	A kind of preparation method of fluoroelastomer of available peroxide cure
+CN103772859B (en) *	2014-01-24	2015-12-02	中昊晨光化工研究院有限公司	Fluororubber compounded rubber of a kind of modification and preparation method thereof
+CN105566816A (en) *	2015-11-24	2016-05-11	南京利德东方橡塑科技有限公司	Formula and preparation method of high-elongation high-temperature-resistant fluororubber for rubber pipes
+
+=== TABLE 11 (2 rows) ===
+Publication number	Publication date
+CN106633544A (en)	2017-05-10
+
+=== TABLE 12 (26 rows) ===
+Publication	Publication Date	Title
+CN106633544A (en)	2017-05-10	A fluororubber material used for sealing members resistant to high temperatures and high pressure and a preparing method thereof
+CN106751257A (en)	2017-05-31	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN105860179B (en)	2017-12-12	Rubber seal productses and its preparation method and application
+EP2275720B1 (en)	2015-12-09	Heat-resistant sealant, endless sealing member using the same, and downhole unit furnished with endless sealing member
+Pittayavinai et al.	2017	Comparative study of natural rubber and acrylonitrile rubber reinforced with aligned short aramid fiber
+CN111925615B (en)	2022-04-29	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+CN110218405A (en)	2019-09-10	A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application
+CN104194108B (en)	2017-04-26	Hydrogenated butadiene-acrylonitrile rubber vulcanized rubber with high strength, high pressure resistance and hydrogen sulfide corrosion resistance
+He et al.	2016	Mechanical properties of carbon black filled hydrogenated acrylonitrile butadiene rubber for packer compounds
+CN108102169A (en)	2018-06-01	A kind of high hardness butadiene-acrylonitrile rubber and preparation method thereof
+CN102391553B (en)	2014-06-04	Fluorinated Elastomeric Blowout Preventer Packers And Method
+He et al.	2018	Mechanical properties of aramid fiber and carbon black filled hydrogenated nitrile rubber for packer compounds
+CN108350095A (en)	2018-07-31	The elastomer preventer packer and sealing element that short chain fluorohydrocarbon for enhancing H2S tolerances is grafted
+CN111849094B (en)	2022-04-15	High-strength high-modulus fluororubber composition and preparation method and application thereof
+Najipoor et al.	2018	Assessment of failures of nitrile rubber vulcanizates in rapid gas decompression (RGD) testing: Effect of physico-mechanical properties
+CN110157124A (en)	2019-08-23	A kind of tetrapropanate fluorine rubber composition of hydrogen sulfide corrosion-resistant and its application
+TW201807041A (en)	2018-03-01	Rubber composition for hose and hose
+Chailad et al.	2025	Enhancing air retention in natural rubber: a path to improved performance
+CN105218985B (en)	2017-07-11	A kind of fluorubber of high temperature high voltage resistant hydrofluoric acid resistant and preparation method thereof
+CN112592548B (en)	2023-02-24	Low-temperature-resistant fluororubber composition and application thereof
+CN110078986A (en)	2019-08-02	A kind of preparation method of difunctional expanded elastomers material
+JP2015168777A (en)	2015-09-28	Carbon fiber composite material and seal member
+Robisson et al.	2013	Reactive elastomeric composites: When rubber meets cement
+Spiridonov et al.	2018	Effect of functional ingredients on the physico-mechanical and operational properties of rubber mixtures for sealing elements
+Hertz	2012	Elastomers in CO2
+
+=== TABLE 13 (7 rows) ===
+Date	Code	Title	Description
+2017-05-10	PB01	Publication	
+2017-05-10	PB01	Publication	
+2017-06-06	SE01	Entry into force of request for substantive examination	
+2017-06-06	SE01	Entry into force of request for substantive examination	
+2019-07-19	GR01	Patent grant	
+2019-07-19	GR01	Patent grant	

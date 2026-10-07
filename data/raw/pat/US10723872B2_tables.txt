@@ -1,0 +1,336 @@
+# US10723872B2 :: US10723872B2 - Crosslinkable elastomer composition, molded article, seal member, plasma treatment apparatus and semiconductor manufacturing apparatus including said seal member, and agent for decreasing hardness of molded article, method for producing molded article 
+        - Google Patents
+
+=== TABLE 0 (8 rows) ===
+TABLE 1
+
+Raw											
+material
+(amount	Comparative										Example
+added: g)	example 1	Example 1	Example 2	Example 3	Example 4	Example 5	Example 6	Example 7	Example 8	Example 9	10
+
+
+
+=== TABLE 1 (12 rows) ===
+Fluorine	0	0.1	0.25	0.5	1	3	5	10	15	20	30
+oligomer (a)
+Elastomer	100	100	100	100	100	100	100	100	100	100	100
+(B)
+Co-crosslinking	2	2	2	2	2	2	2	2	2	2	2
+agent
+Crosslinking
+	1	1	1	1	1	1	1	1	1	1	1
+agent
+Filler
+	15	15	15	15	15	15	15	15	15	15	15
+
+
+=== TABLE 2 (7 rows) ===
+TABLE 2
+
+	Com-	Exam-	Exam-	Exam-	Exam-						
+Raw material (amount	parative	ple	ple	ple	ple	Example	Example		Example	Example	Example
+added: g)	example 1	11	12	13	14	15	16	Example 5	17	18	19
+
+
+
+=== TABLE 3 (7 rows) ===
+Fluorine	Amount		0	3	3	3	3	3	3	3	3	3	3
+oligomer	added
+(a)	Manufacturer	—	Solvay	Solvay	Solvay	DuPont	DuPont	Solvay	DuPont	Daikin	Solvay	Solvay
+	and type		Galden	Galden	Galden	Krytox	Krytox	Fomblin	Krytox	Demnum	Fomblin	Fomblin
+			HT55	HT135	HT200	143AB	143AC	YR1500	143AD	S200	M30	M60
+	Molecular	—	340	610	870	3830	5940	6900	7480	8200	16000	18700
+	weight
+
+=== TABLE 4 (7 rows) ===
+Elastomer (B)	100	100	100	100	100	100	100	100	100	100	100
+Co-crosslinking	2	2	2	2	2	2	2	2	2	2	2
+agent
+Crosslinking agent
+	1	1	1	1	1	1	1	1	1	1	1
+Filler	15	15	15	15	15	15	15	15	15	15	15
+
+
+=== TABLE 5 (6 rows) ===
+	TABLE 3
+	
+	Comparative				
+	example 2	Example 20	Example 21	Example 22	Example 23
+	
+
+
+=== TABLE 6 (6 rows) ===
+Raw	Fluorine	Amount added	0	3	3	10	20
+material	oligomer (a)	Manufacturer	—	DuPont	DuPont	DuPont	DuPont
+Amount		and type		Krytox	Krytox	Krytox	Krytox
+added				143AB	143AD	143AD	143AD
+(g)		Molecular	—	3830	7480	7480	7480
+		weight
+
+=== TABLE 7 (8 rows) ===
+	Elastomer (B)	100	100	100	100	100
+	Co-crosslinking agent	2	2	2	2	2
+	Crosslinking agent	1	1	1	1	1
+	Filler	15	15	15	15	15
+Plasma	Uncrosslinked product/γ-	11.20	10.51	3.59	1.87	1.26
+resistance	ray application (wt %)
+	Heat molded product (wt %)	9.72	7.81	2.53	1.23	0.68
+
+
+=== TABLE 8 (7 rows) ===
+TABLE 4
+
+Raw material							
+(amount	Comparative	Example	Example	Example	Example	Example	Example
+added: g)	example 3	24	25	26	27	28	29
+
+
+
+=== TABLE 9 (15 rows) ===
+Fluorine	0	1	2	3	4	5	6
+oligomer (a)
+Perfluoro-	5	5	5	5	5	5	5
+elastomer
+(A)
+Elastomer	95	95	95	95	95	95	95
+(B)
+Co-crosslinking	2	2	2	2	2	2	2
+agent
+Crosslinking
+	1	1	1	1	1	1	1
+agent
+Filler
+	15	15	15	15	15	15	15
+
+
+=== TABLE 10 (6 rows) ===
+	TABLE 5
+	
+	Comparative	Comparative	Comparative	Comparative	Comparative
+	example 1	example 4	example 5	example 6	example 7
+	
+
+
+=== TABLE 11 (3 rows) ===
+Raw	Fluorine	Amount added	0	3	3	3	3
+material	oligomer	Manufacturer	—	3M Novec	3M Novec	3M Novec	3M Novec
+Amount	(a)	and type		7000	7100	7200	7300
+
+=== TABLE 12 (8 rows) ===
+added	Elastomer (B)	100	100	100	100	100
+(g)	Co-crosslinking agent	2	2	2	2	2
+	Crosslinking agent	1	1	1	1	1
+	Filler	15	15	15	15	15
+Hardness		67.5	65.9	66.0	64.1	62.6
+Plasma	Weight loss (wt %)	9.72	9.93	9.91	9.74	9.89
+resistance
+
+
+=== TABLE 13 (5 rows) ===
+	TABLE 6
+	
+	Example 30	Example 31
+	
+
+
+=== TABLE 14 (12 rows) ===
+Raw materials	Fluorine oligomer		10	10
+Amount added (g)	(a)
+	Perfluoroelastomer	20	20
+	(A)
+	Elastomer (B)	80	80
+	Co-crosslinking	2	2
+	agent
+	Crosslinking agent
+	1	1
+	Filler	15	0
+Plasma resistance	Weight loss	0.60	2.50
+
+
+=== TABLE 15 (6 rows) ===
+	TABLE 7
+	
+	Example	Example	Comparative
+	32	33	Example 8
+	
+
+
+=== TABLE 16 (10 rows) ===
+Raw	Fluorine oligomer (a)	5	10	0
+materials	Perfluoroelastomer (A)	100	100	100
+Amount	Elastomer (B)	0	0	0
+added (g)	Co-crosslinking agent	2	2	2
+	Crosslinking agent	1	1	1
+	Filler	15	15	15
+Hardness		70	65	75
+Plasma	Weight loss	0.01	0.01	0.01
+resistance
+
+
+=== TABLE 17 (6 rows) ===
+	TABLE 8
+	
+		Comparative
+	Example 34	example 9
+	
+
+
+=== TABLE 18 (6 rows) ===
+Raw materials	Fluorine oligomer (a)	10	0
+Amount added	Ethylene-propylene rubber	100	100
+(g)	Crosslinking agent	3	3
+	Filler	120	120
+Hardness		72	81
+
+
+=== TABLE 19 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2015233655		2015-11-30	
+JP2015-233655		2015-11-30	
+PCT/JP2016/085377 WO2017094710A1 (en)	2015-11-30	2016-11-29	Cross-linking elastomer composition, molded article, seal material, plasma treatment device and semiconductor manufacturing device including seal material, hardness-reducing agent for molded article, and method for manufacturing molded article
+
+=== TABLE 20 (3 rows) ===
+Publication Number	Publication Date
+US20180346703A1 US20180346703A1 (en)	2018-12-06
+US10723872B2 true US10723872B2 (en)	2020-07-28
+
+=== TABLE 21 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US15/779,834 Active 2036-12-23 US10723872B2 (en)	2015-11-30	2016-11-29	Crosslinkable elastomer composition, molded article, seal member, plasma treatment apparatus and semiconductor manufacturing apparatus including said seal member, and agent for decreasing hardness of molded article, method for producing molded article
+
+=== TABLE 22 (8 rows) ===
+Country	Link
+US (1)	US10723872B2 (en)
+EP (1)	EP3385325B1 (en)
+JP (2)	JPWO2017094710A1 (en)
+KR (1)	KR102047415B1 (en)
+CN (1)	CN108368317B (en)
+TW (1)	TWI711663B (en)
+WO (1)	WO2017094710A1 (en)
+
+=== TABLE 23 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP4249550A4 (en) *	2020-12-18	2024-05-01	Mitsubishi Cable Industries, Ltd.	Fluorine rubber composition and rubber molded article formed using same
+
+=== TABLE 24 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112262172B (en)	2018-06-12	2023-08-01	3M创新有限公司	Fluoropolymer coating compositions comprising amine curing agents, coated substrates, and related methods
+WO2019239320A1 (en) *	2018-06-12	2019-12-19	3M Innovative Properties Company	Fluoropolymer compositions comprising fluorinated additives, coated substrates and methods
+EP4055109A1 (en)	2019-11-04	2022-09-14	3M Innovative Properties Company	Fluoropolymer compositions comprising a curing agent with ethylenically unsaturated and electron donor groups, and substrates coated therewith
+WO2021088198A1 (en)	2019-11-04	2021-05-14	3M Innovative Properties Company	Electronic telecommunications articles comprising crosslinked fluoropolymers and methods
+KR20250168433A (en) *	2023-03-29	2025-12-02	주식회사 발카	Sealant composition and sealant
+CN116814022B (en) *	2023-07-05	2024-06-07	惠州市中茂科技有限公司	Deflection-resistant and liquid medicine-resistant diaphragm pump diaphragm and preparation method thereof
+JP2025080928A (en) *	2023-11-15	2025-05-27	ニチアス株式会社	Rubber composition, fluorine-containing elastomer and sealing material
+
+=== TABLE 25 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4746576A (en) *	1985-12-25	1988-05-24	Mitsubishi Petrochemical Company Limited	Writing screen
+JPH01193349A (en)	1988-01-29	1989-08-03	Nippon Mektron Ltd	Fluoring-containing elastomer composition
+US5268405A (en)	1993-03-31	1993-12-07	E. I. Du Pont De Nemours And Company	Low temperature perfluoroelastomers
+US5554680A (en)	1994-02-16	1996-09-10	E. I. Du Pont De Nemours And Company	Heat-resistant perfluoroelastomer composition
+WO1997019982A2 (en)	1995-12-01	1997-06-05	E.I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+US5789489A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+JP2000044930A (en)	1998-05-29	2000-02-15	Du Pont Dow Elastomers Llc	White colored elastomer sealing material and preparation thereof
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2002069246A (en)	2000-06-08	2002-03-08	Daikin Ind Ltd	Highly hydrophobic elastomer composition
+JP2003327768A (en)	2002-05-09	2003-11-19	Uchiyama Mfg Corp	Fluororubber composition
+JP2004307765A (en)	2003-04-10	2004-11-04	Gomuno Inaki Kk	Fluoro rubber compound
+EP1676885A2 (en)	2004-12-28	2006-07-05	Nichias Corporation	Elastomer composition and molded body
+CN1800256A (en)	2004-12-28	2006-07-12	霓佳斯株式会社	Elastomer composition and molded body
+US20070093608A1 (en)	2005-10-25	2007-04-26	Bish Christopher J	Perfluoroelastomer compositions for low temperature applications
+US20100216933A1 (en) *	2009-02-26	2010-08-26	Dupont Performance Elastomers L.L.C.	Cured perfluoroelastomer article
+
+=== TABLE 26 (29 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4746576A (en) *	1985-12-25	1988-05-24	Mitsubishi Petrochemical Company Limited	Writing screen
+JPH01193349A (en)	1988-01-29	1989-08-03	Nippon Mektron Ltd	Fluoring-containing elastomer composition
+US5268405A (en)	1993-03-31	1993-12-07	E. I. Du Pont De Nemours And Company	Low temperature perfluoroelastomers
+JPH08508532A (en)	1993-03-31	1996-09-10	イー・アイ・デユポン・ドウ・ヌムール・アンド・カンパニー	Low temperature perfluoroelastomers
+JPH09509210A (en)	1994-02-16	1997-09-16	イー・アイ・デュポン・ドゥ・ヌムール・アンド・カンパニー	Heat resistant perfluoroelastomer composition
+US5554680A (en)	1994-02-16	1996-09-10	E. I. Du Pont De Nemours And Company	Heat-resistant perfluoroelastomer composition
+CN1141050A (en)	1994-02-16	1997-01-22	纳幕尔杜邦公司	Heat Resistant Perfluoroelastomer Composition
+WO1997019982A2 (en)	1995-12-01	1997-06-05	E.I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+JP2000502123A (en)	1995-12-01	2000-02-22	イー・アイ・デユポン・ドウ・ヌムール・アンド・カンパニー	Rapidly vulcanizable perfluorinated elastomer composition
+US5789489A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+JP2000044930A (en)	1998-05-29	2000-02-15	Du Pont Dow Elastomers Llc	White colored elastomer sealing material and preparation thereof
+US6503972B1 (en)	1998-05-29	2003-01-07	Dupont Dow Elastomers, L.L.C.	White elastomer seal materials and a process for manufacture thereof
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2002069246A (en)	2000-06-08	2002-03-08	Daikin Ind Ltd	Highly hydrophobic elastomer composition
+JP2003327768A (en)	2002-05-09	2003-11-19	Uchiyama Mfg Corp	Fluororubber composition
+JP2004307765A (en)	2003-04-10	2004-11-04	Gomuno Inaki Kk	Fluoro rubber compound
+US7666948B2 (en)	2004-12-28	2010-02-23	Nichias Corporation	Elastomer composition and molded body
+EP1676885A2 (en)	2004-12-28	2006-07-05	Nichias Corporation	Elastomer composition and molded body
+US20060148991A1 (en)	2004-12-28	2006-07-06	Nichias Corporation	Elastomer composition and molded body
+CN1800256A (en)	2004-12-28	2006-07-12	霓佳斯株式会社	Elastomer composition and molded body
+JP2006206874A (en)	2004-12-28	2006-08-10	Nichias Corp	Elastomer composition and molded body
+TW200634085A (en)	2004-12-28	2006-10-01	Nichias Corp	Elastomer composition and molded body
+JP4778782B2 (en)	2004-12-28	2011-09-21	ニチアス株式会社	Sealing material
+US20070093608A1 (en)	2005-10-25	2007-04-26	Bish Christopher J	Perfluoroelastomer compositions for low temperature applications
+JP2009513784A (en)	2005-10-25	2009-04-02	デュポン パフォーマンス エラストマーズ エルエルシー	Perfluoroelastomer composition for low temperature applications
+US20100216933A1 (en) *	2009-02-26	2010-08-26	Dupont Performance Elastomers L.L.C.	Cured perfluoroelastomer article
+WO2010099057A2 (en)	2009-02-26	2010-09-02	Dupont Performance Elastomers L.L.C.	Cured perfluoroelastomer article
+JP2012519221A (en)	2009-02-26	2012-08-23	イー・アイ・デュポン・ドウ・ヌムール・アンド・カンパニー	Cured perfluoroelastomer molded product
+
+=== TABLE 27 (8 rows) ===
+Title
+English Translation of International Preliminary Report on Patentability, dated Jun. 5, 2018 from International Application No. PCT/JP2016/085377, including English translation of Written Opinion of the International Searching Authority (11 pages).
+Extended European Search Report dated Oct. 5, 2018 issued in European Patent Application No. 16870647.1.
+Office Action issued in correspoding Korean Patent Application No. 10-2018-7015078, dated Jul. 16, 2019.
+Office Action issued in corresponding Chinese Application No. 201680069779.X, dated Oct. 22, 2019, with English translation.
+Office Action issued in corresponding Japanese Patent Application No. 2017-553867, dated Jun. 12, 2018.
+Office Action issued in corresponding Korean Patent Application No. 10-2018-7015078, dated Mar. 18, 2019.
+Taiwanese Office Action issued in Application No. 105139488 dated Nov. 7, 2018, with English translation.
+
+=== TABLE 28 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP4249550A4 (en) *	2020-12-18	2024-05-01	Mitsubishi Cable Industries, Ltd.	Fluorine rubber composition and rubber molded article formed using same
+
+=== TABLE 29 (15 rows) ===
+Publication number	Publication date
+JP6539425B1 (en)	2019-07-03
+EP3385325A1 (en)	2018-10-10
+TW201730263A (en)	2017-09-01
+CN108368317A (en)	2018-08-03
+JPWO2017094710A1 (en)	2018-07-12
+WO2017094710A1 (en)	2017-06-08
+KR20180077234A (en)	2018-07-06
+US20180346703A1 (en)	2018-12-06
+KR102047415B1 (en)	2019-11-21
+CN108368317B (en)	2021-05-14
+JP2019163465A (en)	2019-09-26
+EP3385325A4 (en)	2018-11-07
+TWI711663B (en)	2020-12-01
+EP3385325B1 (en)	2021-09-08
+
+=== TABLE 30 (17 rows) ===
+Publication	Publication Date	Title
+EP3385325B1 (en)	2021-09-08	Cross-linking elastomer composition, molded article, seal material, plasma treatment device and semiconductor manufacturing device including seal material, use of hydrogen-free fluorine oligomer, and method for manufacturing molded article
+TWI761593B (en)	2022-04-21	Seal and method of making the same
+JP7562465B2 (en)	2024-10-07	Rubber products and their manufacturing method
+TWI731978B (en)	2021-07-01	Perfluoroelastomer composition and sealing material
+EP4219612A1 (en)	2023-08-02	Elastomer composition, sealing material, and method for producing sealing material
+WO2022065057A1 (en)	2022-03-31	Elastomer composition, sealing material, and method for producing sealing material
+JP2017179210A (en)	2017-10-05	Fluorine elastomer composition, molded article, sealant, and plasma treatment device and semiconductor manufacturing device containing sealant
+TWI731977B (en)	2021-07-01	Perfluoroelastomer composition and sealing material
+TWI910229B (en)	2026-01-01	Encapsulant and manufacturing method of encapsulant
+JP7155286B2 (en)	2022-10-18	Elastomer composition and sealing material
+JP2015067659A (en)	2015-04-13	Crosslinkable fluorine-containing elastomer composition and crosslinked rubber article
+JP5969257B2 (en)	2016-08-17	Fluoropolymer composition and cured product thereof
+CN116323788A (en)	2023-06-23	Elastomer composition, sealing material, and method for producing sealing material
+WO2025100216A1 (en)	2025-05-15	Sealing material composition and sealing material
+TW202500661A (en)	2025-01-01	Elastomer composition, method for producing an elastomer composition, sealant, and method for producing a sealant
+KR20250168433A (en)	2025-12-02	Sealant composition and sealant
+
+=== TABLE 31 (11 rows) ===
+Date	Code	Title	Description
+2018-05-29	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2018-05-30	AS	Assignment	Owner name: NICHIAS CORPORATION, JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OTANI, KOJIRO;KUBOYAMA, TAKESHI;SHIMIZU, TOMOYA;SIGNING DATES FROM 20180508 TO 20180514;REEL/FRAME:045928/0915
+2018-09-13	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2019-09-04	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2019-11-19	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2020-02-27	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2020-06-12	STPP	Information on status: patent application and granting procedure in general	Free format text: AWAITING TC RESP, ISSUE FEE PAYMENT VERIFIED
+2020-06-16	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+2020-07-08	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2024-01-10	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 4

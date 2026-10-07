@@ -1,0 +1,115 @@
+# EP4335897A1 :: EP4335897A1 - Uncrosslinked fluororubber composition, seal material produced using same, and method for producing same 
+        - Google Patents
+
+=== TABLE 0 (27 rows) ===
+				Examples	Comparative Examples
+1	2	3	4	5	6	7	8	9	10	11	1	2	3 |	4	5
+FKM	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100	100
+Ionic liquid 1 P	1	1			1	1	1	1	1	1	1	1		1	1	1
+Ionic liquid 2 P			1													
+Ionic liquid 3 P				1												
+Phenol Resin Filler Q	1	5	5	5	5	5			5							
+PVDF Resin Filler Q							25			5						
+PEEK Resin Filler Q								25			5					
+PTFE Resin Filler														25		5
+Carbon Black															25	
+Hydrophobized Silica R	10	10	10	10									10			
+Hydrophilic Silica R					10											
+Organic Peroxide X	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+Crosslinking Aid Y	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+Q/P	1	5	5	5	5	25	25	25	5	5	5			25		5
+RP	10	10	10	10	10											
+R/Q	10	2	2	2	2											
+Y/X	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7	2.7
+Hs	70	73	72	73	74	74	68	73	60.6	59.8	60.3	56	70	63	70	57.1
+Tb MPa	19.8	21.5	22.1	20.4	18.2	19.3	17.2	13.2	14.7	12.5	14.4	9.7	20.3	15.0	22.1	14.6
+Eb %	220	210	210	200	170	180	270	240	270	365	402	340	220	350	230	432
+S100 MPa	4.6	5.2	5.2	5.1	5.6	7.5	5.9	6.7	1.6	1.7	1.3	1.4	4.7	1.9	5.6	1.4
+CS %	22	18	19	18	17	27	34	35	13	39	35	26	24	27	25	40
+Volume Resistivity × 1011 Ω· cm	2.2	2.5	2.7	3.0	2.4	4.4	1.8	3.4	0.37	0.43	0.3	2.9	390	1.3	0.95	0.3
+Plasma Resistance	Occurrence of Dust Generation	No	No	No	No	No	No	No	No	No	No	No	No	No	Yes	Yes	Yes
+Mass Reduction Rate (%)	2.0	2.1	2.1	2.0	1.9	2.6	2.3	2.5	0.7	0.5	0.9	1.9	2.0	1.1	3.1	0.9
+
+=== TABLE 1 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2021095693		2021-06-08	
+PCT/JP2022/008317 WO2022259642A1 (en)	2021-06-08	2022-02-28	Uncrosslinked fluororubber composition, seal material produced using same, and method for producing same
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+EP4335897A1 true EP4335897A1 (en)	2024-03-13
+EP4335897A4 EP4335897A4 (en)	2025-05-28
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+EP22819832.1A Pending EP4335897A4 (en)	2021-06-08	2022-02-28	Non-crosslinked fluororubber composition, sealing material made therewith, and method for producing the same
+
+=== TABLE 4 (8 rows) ===
+Country	Link
+US (1)	US20240263001A1 (en)
+EP (1)	EP4335897A4 (en)
+JP (2)	JPWO2022259642A1 (en)
+KR (1)	KR20240036505A (en)
+CN (1)	CN117425693A (en)
+TW (1)	TWI901883B (en)
+WO (1)	WO2022259642A1 (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP7528309B1 (en)	2023-05-12	2024-08-05	三菱電線工業株式会社	Rubber products and their manufacturing method
+
+=== TABLE 6 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR100697171B1 (en) *	2003-04-22	2007-03-21	다이킨 고교 가부시키가이샤	Fluorine-containing elastomer composition and its molded article excellent in anti-aging effect of plasma
+JP2008001894A (en) *	2006-05-26	2008-01-10	Daikin Ind Ltd	Fluorine-containing elastomer composition excellent in plasma resistance and sealing material comprising the same
+BR112015027757A2 (en)	2013-05-02	2017-07-25	3M Innovative Properties Co	partially fluorinated elastomers and methods for their production and use
+WO2017220747A1 (en) *	2016-06-22	2017-12-28	Thüringisches Institut für Textil- und Kunststoff-Forschung e.V.	Electrically conductive shaped body with a positive temperature coefficient
+JP6462082B1 (en) *	2017-09-22	2019-01-30	タツタ電線株式会社	Conductive elastomer composition and conductive sheet using the same
+JP6927319B2 (en) *	2017-10-18	2021-08-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded product
+JP6890081B2 (en)	2017-11-06	2021-06-18	三菱電線工業株式会社	Rubber material for sealing material and sealing material using it
+JP2019210328A (en) *	2018-05-31	2019-12-12	スリーエム イノベイティブ プロパティズ カンパニー	Curable fluorine-based elastomer composite and cured product thereof
+
+=== TABLE 7 (10 rows) ===
+Publication number	Publication date
+JPWO2022259642A1 (en)	2022-12-15
+CN117425693A (en)	2024-01-19
+WO2022259642A1 (en)	2022-12-15
+JP2025134878A (en)	2025-09-17
+KR20240036505A (en)	2024-03-20
+EP4335897A4 (en)	2025-05-28
+TWI901883B (en)	2025-10-21
+US20240263001A1 (en)	2024-08-08
+TW202248334A (en)	2022-12-16
+
+=== TABLE 8 (17 rows) ===
+Publication	Publication Date	Title
+EP4116374B1 (en)	2025-06-18	Method for manufacturing a rubber product
+EP2272911B1 (en)	2017-05-03	Fluorine rubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+JP6788716B2 (en)	2020-11-25	Rubber products and their manufacturing methods
+JP7048713B1 (en)	2022-04-05	Fluororubber composition and rubber molded products formed using it
+JP5189728B2 (en)	2013-04-24	Fluoro rubber sealant
+JP2021105179A (en)	2021-07-26	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+JP2019085475A (en)	2019-06-06	Sealant rubber material and sealant including the same
+JP6924215B2 (en)	2021-08-25	Sealing material and its manufacturing method
+JP2025134878A (en)	2025-09-17	Uncrosslinked fluororubber composition, sealing material produced using the same, and method for producing the same
+JP4381087B2 (en)	2009-12-09	Method for producing fluoro rubber sealant
+JP2022001642A (en)	2022-01-06	Sealant, and production method thereof
+JP7528309B1 (en)	2024-08-05	Rubber products and their manufacturing method
+JP2020125491A (en)	2020-08-20	Rubber material for sealing material and sealing material using the same
+KR20210099076A (en)	2021-08-11	Elastomer composition and sealing material
+JP4353514B2 (en)	2009-10-28	Article containing fluororubber composition and cured product thereof
+JP2022188562A (en)	2022-12-21	Sealing material and production method therefor
+
+=== TABLE 9 (12 rows) ===
+Date	Code	Title	Description
+2022-12-16	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+2024-02-09	PUAI	Public reference made under article 153(3) epc to a published international application that has entered the european phase	Free format text: ORIGINAL CODE: 0009012
+2024-02-09	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+2024-03-13	17P	Request for examination filed	Effective date: 20231206
+2024-03-13	AK	Designated contracting states	Kind code of ref document: A1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2024-09-11	DAV	Request for validation of the european patent (deleted)	
+2024-09-11	DAX	Request for extension of the european patent (deleted)	
+2025-05-28	A4	Supplementary search report drawn up and despatched	Effective date: 20250429
+2025-05-28	RIC1	Information provided on ipc code assigned before grant	Ipc: F16J 15/10 20060101ALI20250423BHEP Ipc: C08L 27/16 20060101ALI20250423BHEP Ipc: C08K 13/06 20060101ALI20250423BHEP Ipc: C08K 13/02 20060101ALI20250423BHEP Ipc: C08K 3/36 20060101ALI20250423BHEP Ipc: C09K 3/10 20060101ALI20250423BHEP Ipc: C08L 27/12 20060101ALI20250423BHEP Ipc: C08K 5/00 20060101AFI20250423BHEP
+2026-02-13	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: EXAMINATION IS IN PROGRESS
+2026-03-18	17Q	First examination report despatched	Effective date: 20260213

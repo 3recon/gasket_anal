@@ -1,0 +1,311 @@
+# US7659347B2 :: US7659347B2 - Fluorine-containing elastomer composition and molded article comprising the same 
+        - Google Patents
+
+=== TABLE 0 (50 rows) ===
+TABLE 1
+
+Industrial field	Field	Final product	Equipment	Parts
+
+Electric	Semiconductor	Semiconductor	CVD equipment	O (square) ring, packing,
+		manufacturing	Dry etching equipment	sealing material, tube, roll,
+		equipment	Wet etching equipment	coating, lining, gasket,
+		Liquid crystal	Oxidation and diffusion	diaphragm, hose
+		panel	equipment
+		manufacturing	Sputtering equipment
+		equipment	Ashing equipment
+		Plasma panel	Cleaning equipment
+		manufacturing	Ion implantation
+		equipment	equipment
+Transportation	Vehicle	Car	Engine and auxiliary	Gasket, shaft seal, valve
+			equipment	stem seal, sealing material, hose
+			AT equipment	Hose, sealing material
+			Fuel line and auxiliary	O (square) ring, tube,
+			equipment	packing, core material of
+				valve, hose, sealing material,
+				diaphragm
+	Aircraft	Aircraft	Fuel line	Diaphragm, O (square) ring,
+				valve, tube, packing, hose,
+				sealing material
+	Rocket	Rocket	Fuel line	Same as above
+	Ship	Ship	Fuel line	Same as above
+Chemical	Chemical	Plant	Production line of	Lining, valve, packing, roll,
+	products		chemicals such as	hose, diaphragm, O (square)
+			pharmaceutical,	ring, tube, sealing material
+			agricultural chemical,
+			coating and resin
+			(Petroleum)
+	Chemicals	Pharmaceuticals	Plug for chemicals	Plug for chemicals
+Mechanical	Photograph	Developing	Film developing	Roll
+		machine	machine
+			X-ray film developing	Roll
+			machine
+	Printing	Printing machine	Printing roll	Roll
+	Coating	Coating facilities	Coating roll	Roll
+	Analyzer and			Tube
+	physical and
+	chemical
+	appliances
+Food	Plant		Food processing line	Lining, valve, packing, roll,
+				hose, diaphragm, O (square)
+				ring, tube, sealing material
+Metal	Steel making	Steel sheet	Steel sheet processing	Roll
+		processing	roll
+		facilities
+
+
+=== TABLE 1 (27 rows) ===
+TABLE 2
+
+Industrial field	Basic needs
+
+Electric	Plasma resistance, acid resistance, alkali
+	resistance, amine resistance, ozone resistance,
+	gas resistance, chemical resistance, cleanliness,
+	heat resistance
+Transportation	Heat resistance, amine resistance
+	Heat resistance, amine resistance
+	Fuel resistance, fuel permeability, heat resistance
+	Fuel resistance, fuel permeability, heat resistance
+	Fuel resistance, fuel permeability, heat resistance
+	Fuel resistance, fuel permeability, heat resistance
+Chemical	Chemical resistance, solvent resistance,
+	heat resistance
+	Chemical resistance, solvent resistance,
+	heat resistance
+	Cleanliness
+Mechanical	Chemical resistance
+	Chemical resistance
+	Solvent resistance
+	Solvent resistance
+Food	Chemical resistance, solvent resistance,
+	heat resistance
+Metal	Heat resistance, acid resistance
+
+
+=== TABLE 2 (57 rows) ===
+TABLE 3
+
+Industrial	
+field	Specific names
+
+Electric	O ring and sealing material for gate valve of product
+	or equipment
+	O ring and sealing material for quartz window of
+	product or equipment
+	O ring and sealing material for chamber of product
+	or equipment
+	O ring and sealing material for gate of product or
+	equipment
+	O ring and sealing material for bell jar of product
+	or equipment
+	O ring and sealing material for coupling of product
+	or equipment
+	O ring and sealing material for pump of product or
+	equipment
+	O ring and sealing material for gas controller for
+	semiconductor of product or equipment
+	O ring and sealing material for resist developing
+	and releasing solutions
+	O ring and sealing material for wafer cleaning
+	solution
+	Diaphragm of pump for manufacturing equipment
+	Hose for resist developing solution and releasing
+	solution
+	Hose and tube for wafer cleaning solution
+	Roll for transferring wafer
+	Lining and coating of tanks for resist developing
+	solution and releasing solution
+	Lining and coating of tanks for wafer cleaning
+	solution
+	Lining and coating of tanks for wet etching
+Transportation	Engine head gasket
+	Metal gasket
+	Crank shaft seal
+	Cam shaft seal
+	Valve stem seal
+	Manifold packing
+	Oil hose
+	ATF hose
+	Injector O ring
+	Injector packing
+	O ring and diaphragm for fuel pump
+	Fuel hose
+Mechanics	Developing roll
+	Developing roll
+	Gravure roll
+	Guide roll
+	Gravure roll for magnetic tape production and
+	coating line
+	Guide roll for magnetic tape production and
+	coating line
+	Various coating rolls
+
+
+=== TABLE 3 (6 rows) ===
+	TABLE 4
+	
+					Com.
+	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 1
+	
+
+
+=== TABLE 4 (19 rows) ===
+Composition					
+Crosslinkable fluorine-containing	100
+elastomer (B-1)
+Crosslinkable fluorine-containing		100
+elastomer (B-2)
+Crosslinkable fluorine-containing			100
+elastomer (B-3)
+Crosslinkable fluorine-containing				100
+elastomer (B-4)
+Fluorine-containing elastomer					100
+MT carbon	20	20	20	20	20
+Caldic #2000					6
+MA-150					3
+Crosslinking agent TA-TF	2.2	2.8	2.8	1.7
+Compression permanent strain (%)
+250° C. for 70 hours	41	39	34	39	38
+250° C. for 168 hours	58	55	52	67	62
+250° C. for 336 hours	75	74	74	89	86
+
+
+=== TABLE 5 (6 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2004134170		2004-04-28	
+JP2004-134170		2004-04-28	
+JP2004-371394		2004-12-22	
+JP2004371394		2004-12-22	
+PCT/JP2005/007688 WO2005105917A1 (en)	2004-04-28	2005-04-22	Fluorine-containing elastomer composition and molded article formed therefrom
+
+=== TABLE 6 (3 rows) ===
+Publication Number	Publication Date
+US20070219332A1 US20070219332A1 (en)	2007-09-20
+US7659347B2 true US7659347B2 (en)	2010-02-09
+
+=== TABLE 7 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US11/587,573 Expired - Fee Related US7659347B2 (en)	2004-04-28	2005-04-22	Fluorine-containing elastomer composition and molded article comprising the same
+
+=== TABLE 8 (5 rows) ===
+Country	Link
+US (1)	US7659347B2 (en)
+EP (1)	EP1741748A4 (en)
+JP (1)	JP4687650B2 (en)
+WO (1)	WO2005105917A1 (en)
+
+=== TABLE 9 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100286341A1 (en) *	2008-01-08	2010-11-11	Unimatec Co., Ltd.	Fluorine-containing elastomer
+US9453123B2 (en)	2012-02-03	2016-09-27	Greene, Tweed Technologies, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+
+=== TABLE 10 (15 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20090124759A1 (en) *	2005-10-27	2009-05-14	Daikin Industries, Ltd.	Crosslinkable composition and molded article made of same
+JP2008274104A (en) *	2007-04-27	2008-11-13	Daikin Ind Ltd	Crosslinkable composition and molded article comprising the same
+WO2009119487A1 (en) *	2008-03-26	2009-10-01	ダイキン工業株式会社	Crosslinkable fluorine-containing elastomer composition and moldings thereof
+US20110151164A1 (en) *	2008-09-25	2011-06-23	Daikin Industries, Ltd.	Curable composition and molded article made of same
+EP2610533B1 (en) *	2010-08-25	2025-01-15	Daikin Industries, Ltd.	Seal member
+EP2568007B1 (en)	2010-08-25	2017-10-04	Daikin Industries, Ltd.	Fluororubber composition
+EP3913269A1 (en)	2010-08-25	2021-11-24	Daikin Industries, Ltd.	Hose
+CN103080216B (en)	2010-08-25	2016-01-20	大金工业株式会社	Strip material
+EP2610302A4 (en)	2010-08-25	2017-04-12	Daikin Industries, Ltd.	Fluororubber composition
+JPWO2012026556A1 (en)	2010-08-25	2013-10-28	ダイキン工業株式会社	Complex shaped fluoro rubber molding
+CN107383710A (en)	2011-08-25	2017-11-24	大金工业株式会社	Barrier film
+US9631036B2 (en) *	2012-09-18	2017-04-25	Honeywell International Inc.	Fluoroelastomers
+JP6789521B2 (en) *	2016-08-10	2020-11-25	国立大学法人秋田大学	Dendrimer, composition and molded product
+JP7206510B2 (en) *	2018-08-10	2023-01-18	ダイキン工業株式会社	Composition, crosslinked rubber molded article and fluorine-containing polymer
+
+=== TABLE 11 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0705873A1 (en)	1994-10-04	1996-04-10	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+EP0708139A1 (en)	1994-10-21	1996-04-24	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+WO1998023653A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+EP0905177A1 (en)	1997-09-29	1999-03-31	Dupont Dow Elastomers L.L.C.	Process for curing elastomeric vinylidene fluoride copolymers
+WO2000029479A1 (en)	1998-11-13	2000-05-25	Daikin Industries, Ltd.	Fluoroelastomer and crosslinkable composition thereof
+WO2000042100A1 (en)	1999-01-12	2000-07-20	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed article prepared from said composition
+WO2001034666A1 (en)	1999-11-09	2001-05-17	Daikin Industries, Ltd.	Vulcanizable fluoroelastomer composition
+WO2002060969A1 (en)	2001-01-31	2002-08-08	3M Innovative Properties Company	Fluoropolymer compositions
+US20030125463A1 (en) *	1999-02-01	2003-07-03	Nippon Mektron, Ltd.	Fluoroelastomer composition
+US6602961B1 (en) *	1993-01-14	2003-08-05	Satoru Saito	Fluorine-containing elastomer composition
+JP2003231719A (en)	2002-02-08	2003-08-19	Daikin Ind Ltd	Fluorine-containing elastomer composition for crosslinking
+EP1400563A1 (en)	2002-09-10	2004-03-24	Freudenberg-NOK General Partnership	Fluoroelastomer composition
+WO2005049712A1 (en)	2003-11-13	2005-06-02	Dupont Dow Elastomers L.L.C.	Plasma resistant curable fluoroelastomer composition
+
+=== TABLE 12 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS58109546A (en) *	1981-12-23	1983-06-29	Fujikura Ltd	Fire-retardant composition
+
+=== TABLE 13 (20 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6602961B1 (en) *	1993-01-14	2003-08-05	Satoru Saito	Fluorine-containing elastomer composition
+EP0705873A1 (en)	1994-10-04	1996-04-10	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+EP0708139A1 (en)	1994-10-21	1996-04-24	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+WO1998023653A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+EP0905177A1 (en)	1997-09-29	1999-03-31	Dupont Dow Elastomers L.L.C.	Process for curing elastomeric vinylidene fluoride copolymers
+WO2000029479A1 (en)	1998-11-13	2000-05-25	Daikin Industries, Ltd.	Fluoroelastomer and crosslinkable composition thereof
+US20040122182A1 (en)	1998-11-13	2004-06-24	Daikin Industries, Ltd.	Fluorine-containing elastomer and composition thereof for crosslinking
+EP1153976A1 (en)	1998-11-13	2001-11-14	Daikin Industries, Ltd.	Fluoroelastomer and crosslinkable composition thereof
+US7309743B2 (en) *	1998-11-13	2007-12-18	Daikin Industries, Ltd.	Fluorine-containing elastomer and composition thereof for crosslinking
+WO2000042100A1 (en)	1999-01-12	2000-07-20	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed article prepared from said composition
+EP1197517A1 (en)	1999-01-12	2002-04-17	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed article prepared from said composition
+US20030125463A1 (en) *	1999-02-01	2003-07-03	Nippon Mektron, Ltd.	Fluoroelastomer composition
+EP1243601A1 (en)	1999-11-09	2002-09-25	Daikin Industries, Ltd.	Vulcanizable fluoroelastomer composition
+WO2001034666A1 (en)	1999-11-09	2001-05-17	Daikin Industries, Ltd.	Vulcanizable fluoroelastomer composition
+EP1832608A2 (en)	1999-11-09	2007-09-12	Daikin Industries, Ltd.	Vulcanizable fluorine-containing elastomer composition
+WO2002060969A1 (en)	2001-01-31	2002-08-08	3M Innovative Properties Company	Fluoropolymer compositions
+JP2003231719A (en)	2002-02-08	2003-08-19	Daikin Ind Ltd	Fluorine-containing elastomer composition for crosslinking
+EP1400563A1 (en)	2002-09-10	2004-03-24	Freudenberg-NOK General Partnership	Fluoroelastomer composition
+WO2005049712A1 (en)	2003-11-13	2005-06-02	Dupont Dow Elastomers L.L.C.	Plasma resistant curable fluoroelastomer composition
+
+=== TABLE 14 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100286341A1 (en) *	2008-01-08	2010-11-11	Unimatec Co., Ltd.	Fluorine-containing elastomer
+US8188176B2 (en) *	2008-01-08	2012-05-29	Unimatec Co., Ltd.	Fluorine-containing elastomer
+US9453123B2 (en)	2012-02-03	2016-09-27	Greene, Tweed Technologies, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+US10011690B2 (en)	2012-02-03	2018-07-03	Greene, Tweed Technologies, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+
+=== TABLE 15 (7 rows) ===
+Publication number	Publication date
+EP1741748A4 (en)	2009-07-22
+JPWO2005105917A1 (en)	2008-03-13
+US20070219332A1 (en)	2007-09-20
+JP4687650B2 (en)	2011-05-25
+WO2005105917A1 (en)	2005-11-10
+EP1741748A1 (en)	2007-01-10
+
+=== TABLE 16 (22 rows) ===
+Publication	Publication Date	Title
+US20070219332A1 (en)	2007-09-20	Fluorine-Containing Elastomer Composition And Molded Article Comprising The Same
+US7309743B2 (en)	2007-12-18	Fluorine-containing elastomer and composition thereof for crosslinking
+EP1245635B1 (en)	2008-09-03	Fluoroelastomer composition for crosslinking
+JP5067161B2 (en)	2012-11-07	Crosslinkable composition and molded article comprising the same
+TWI778283B (en)	2022-09-21	Compositions and molded articles containing fluoropolymers
+US9068057B2 (en)	2015-06-30	Curable composition, molded article obtained from same and process for production of molded article
+TW200304469A (en)	2003-10-01	Crosslinkable elastomer composition and formed product comprising the same
+TW200427699A (en)	2004-12-16	Fluorine-containing elastomer composition having execllent prevention effect of plasma aging and molded article using the same
+US9169339B2 (en)	2015-10-27	Curable composition, molded product and method for producing molded product
+JPWO2000029479A1 (en)	2002-02-26	Fluorine-containing elastomer and crosslinking composition thereof
+US9068653B2 (en)	2015-06-30	Sealing material
+JPWO2001032773A1 (en)	2003-05-20	Fluorine-based elastomer composition for crosslinking
+US20030191247A1 (en)	2003-10-09	Crosslinkable elastomer composition
+JP2006316112A (en)	2006-11-24	Fluorine-containing elastomer composition and molded article comprising the same
+JP4748125B2 (en)	2011-08-17	Fluorine rubber crosslinking composition
+JP5278312B2 (en)	2013-09-04	Fluorine-containing elastomer composition and sealing material comprising the same
+JPWO2009119487A1 (en)	2011-07-21	Crosslinkable fluorine-containing elastomer composition and molded article comprising the same
+JP5303949B2 (en)	2013-10-02	Method for producing cyano group-containing fluorine-containing elastomer
+JP2008274104A (en)	2008-11-13	Crosslinkable composition and molded article comprising the same
+JP2009197134A (en)	2009-09-03	Method for producing crosslinking fluorine-containing elastomer composition
+JP4887595B2 (en)	2012-02-29	Crosslinking composition
+
+=== TABLE 17 (10 rows) ===
+Date	Code	Title	Description
+2006-10-25	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD.,JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WASHINO, KEIKO;KAWASAKI, KAZUYOSHI;KISHINE, MITSURU;REEL/FRAME:018482/0189 Effective date: 20050915 Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:WASHINO, KEIKO;KAWASAKI, KAZUYOSHI;KISHINE, MITSURU;REEL/FRAME:018482/0189 Effective date: 20050915
+2009-12-05	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2010-01-20	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2013-03-13	FPAY	Fee payment	Year of fee payment: 4
+2017-07-27	FPAY	Fee payment	Year of fee payment: 8
+2021-09-27	FEPP	Fee payment procedure	Free format text: MAINTENANCE FEE REMINDER MAILED (ORIGINAL EVENT CODE: REM.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2022-03-14	LAPS	Lapse for failure to pay maintenance fees	Free format text: PATENT EXPIRED FOR FAILURE TO PAY MAINTENANCE FEES (ORIGINAL EVENT CODE: EXP.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2022-03-14	STCH	Information on status: patent discontinuation	Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+2022-04-05	FP	Lapsed due to failure to pay maintenance fee	Effective date: 20220209

@@ -1,0 +1,469 @@
+# US8173727B2 :: US8173727B2 - Crosslinkable elastomer composition and molded article using the same 
+        - Google Patents
+
+=== TABLE 0 (51 rows) ===
+TABLE 1
+
+	Industrial			
+Industrial field	sub-field	Final product	Equipment	Parts
+
+Electric	Semiconductor	Semiconductor	CVD equipment	O (square) ring, packing,
+		manufacturing	Dry etching equipment	sealing material, tube, roll,
+		equipment	Wet etching equipment	coating, lining, gasket,
+		Liquid crystal	Oxidation and	diaphragm, hose
+		panel	diffusion equipment
+		manufacturing	Sputtering equipment
+		equipment	Ashing equipment
+		Plasma panel	Cleaning equipment
+		manufacturing	Ion implantation
+		equipment	equipment
+Transportation	Vehicle	Car	Engine and auxiliary	Gasket, shaft seal, valve stem
+			equipment	seal, sealing material, hose
+			AT equipment	Hose, sealing material
+			Fuel line and auxiliary	O (square) ring, tube,
+			equipment	packing, core material of
+				valve, hose, sealing material,
+				diaphragm
+	Aircraft	Aircraft	Fuel line	Diaphragm, O (square) ring,
+				valve, tube, packing, hose,
+				sealing material
+	Rocket	Rocket	Fuel line	Same as above
+	Ship	Ship	Fuel line	Same as above
+Chemical	Chemical	Plant	Production line of	Lining, valve, packing, roll,
+	products		chemicals such as	hose, diaphragm, O (square)
+			pharmaceutical,	ring, tube, sealing material
+			agricultural chemical,
+			coating and resin
+			(Petroleum)
+	Chemicals	Pharmaceuticals	Plug for chemicals	Plug for chemicals
+Mechanical	Photograph	Developing	Film developing	Roll
+		machine	machine
+			X-ray film developing	Roll
+			machine
+	Printing	Printing machine	Printing roll	Roll
+	Coating	Coating facilities	Coating roll	Roll
+	Analyzer and			Tube
+	physical and
+	chemical
+	appliances
+Food	Plant		Food processing line	Lining, valve, packing, roll,
+				hose, diaphragm, O (square)
+				ring, tube, sealing material
+Metal	Steel making	Steel sheet	Steel sheet processing	Roll
+		processing	roll
+		facilities
+
+
+=== TABLE 1 (23 rows) ===
+TABLE 2
+
+Industrial field	Basic needs
+
+Electric	Plasma resistance, acid resistance, alkali resistance,
+	amine resistance, ozone resistance, gas resistance,
+	chemical resistance, cleanliness, heat resistance
+Transportation	Heat resistance, amine resistance
+	Heat resistance, amine resistance
+	Fuel resistance, fuel permeability, heat resistance
+	Fuel resistance, fuel permeability, heat resistance
+	Fuel resistance, fuel permeability, heat resistance
+	Fuel resistance, fuel permeability, heat resistance
+Chemical	Chemical resistance, solvent resistance, heat resistance
+	Chemical resistance, solvent resistance, heat resistance
+	Cleanliness
+Mechanical	Chemical resistance
+	Chemical resistance
+	Solvent resistance
+	Solvent resistance
+Food	Chemical resistance, solvent resistance, heat resistance
+Metal	Heat resistance, acid resistance
+
+
+=== TABLE 2 (42 rows) ===
+TABLE 3
+
+Industrial field	Specific names
+
+Electric	O ring and sealing material for gate valve of product or equipment
+	O ring and sealing material for quartz window of product or equipment
+	O ring and sealing material for chamber of product or equipment
+	O ring and sealing material for gate of product or equipment
+	O ring and sealing material for bell jar of product or equipment
+	O ring and sealing material for coupling of product or equipment
+	O ring and sealing material for pump of product or equipment
+	O ring and sealing material for gas controller for semiconductor of product or
+	equipment
+	O ring and sealing material for resist developing and releasing solutions
+	O ring and sealing material for wafer cleaning solution
+	Diaphragm of pump for manufacturing equipment
+	Hose for resist developing solution and releasing solution
+	Hose and tube for wafer cleaning solution
+	Roll for transferring wafer
+	Lining and coating of tanks for resist developing solution and releasing solution
+	Lining and coating of tanks for wafer cleaning solution
+	Lining and coating of tanks for wet etching
+Transportation	Engine head gasket
+	Metal gasket
+	Crank shaft seal
+	Cam shaft seal
+	Valve stem seal
+	Manifold packing
+	Oil hose
+	ATF hose
+	Injector O ring
+	Injector packing
+	O ring and diaphragm for fuel pump
+	Fuel hose
+Mechanics	Developing roll
+	Developing roll
+	Gravure roll
+	Guide roll
+	Gravure roll for magnetic tape production and coating line
+	Guide roll for magnetic tape production and coating line
+	Various coating rolls
+
+
+=== TABLE 3 (9 rows) ===
+	TABLE 4
+	
+	Rate of decrease in	
+	weight after high-density	Rate of decrease
+	F radical irradiation	in weight after
+	(% by weight)	O3 irradiation
+	Irradiation temperature 200° C.	(% by weight)
+	
+
+
+=== TABLE 4 (9 rows) ===
+	Ex. 1	0.2	2.8
+	Ex. 2	0.2	2.9
+	Ex. 3	0.2	2.8
+	Ex. 4	0.2	2.7
+	Ex. 5	0.2	2.8
+	Ex. 6	6.9	2.6
+	Ex. 7	0.3	14.7
+	Ex. 8	0.4	—
+	
+
+=== TABLE 5 (7 rows) ===
+	TABLE 5
+	
+	100% tensile	Tensile		Hardness
+	stress	strength	Elongation	(SHORE
+	(kg/cm2)	(kg/cm2)	(%)	A)
+	
+
+
+=== TABLE 6 (9 rows) ===
+	Ex. 1	100	160	170	80
+	Ex. 2	130	170	160	80
+	Ex. 3	155	185	140	81
+	Ex. 4	165	195	120	81
+	Ex. 5	60	110	190	79
+	Ex. 6	100	240	160	75
+	Ex. 7	100	200	180	80
+	Ex. 8	30	140	210	65
+	
+
+=== TABLE 7 (8 rows) ===
+	TABLE 6
+	
+	Rate of decrease in	
+	weight after
+	high-density
+	F radical irradiation	Rate of decrease
+	(% by weight)	in weight after
+	Irradiation temperature	O3 irradiation
+
+=== TABLE 8 (2 rows) ===
+	200° C.	300° C.	(% by weight)
+	
+
+=== TABLE 9 (7 rows) ===
+	Ex. 9	0.11	1.08	2.7
+	Ex. 10	0.2	0.4	2.6
+	Ex. 11	0.2	0.42	2.6
+	Ex. 12	0.15	0.17	4.6
+	Ex. 13	0.23	0.51	2.9
+	Ex. 14	3.21	5.66	2.6
+	
+
+=== TABLE 10 (3 rows) ===
+	TABLE 7
+	
+	Example
+
+=== TABLE 11 (2 rows) ===
+	9	10	11	12	13	14
+	
+
+=== TABLE 12 (25 rows) ===
+Vulcanizability (180° C.)						
+Minimum viscosity (kgf)	0.70	0.51	0.42	0.53	0.30	0.61
+Maximum viscosity (kgf)	3.37	3.12	2.97	3.30	1.25	2.61
+Induction time (minutes)	0.8	2.0	8.9	10.0	5.0	8.2
+Optimum vulcanization	2.6	6.3	20.0	20.4	33.0	21.5
+time (minutes)
+Properties under
+normal conditions
+100% modulus (kgf/cm2)	23	30	25	51	50	23
+Tensile strength	147	131	152	199	136	161
+(kgf/cm2)
+Elongation (%)	335	25	288	273	275	307
+Hardness (IRHD)	69	70	67	75	74	66
+Heat resistance
+(324° C. × 70 hours)
+100% modulus (kgf/cm2)	14	20	17	26	—	12
+Rate of change	−53	−22	−48	−61	—	−69
+in weight (%)
+Rate of change	80	62	78	76	—	179
+in elongation (%)
+ΔW	−2.2	−1.8	−2.3	−1.4	—	−2.8
+Compression set
+300° C. × 70 hours (%)	42	27	32	38	—	45
+HF steel corrosion test	0	0	0	2	0	1
+
+
+=== TABLE 13 (6 rows) ===
+	TABLE 8
+	
+	Rate of decrease in	
+	weight by high-density
+	F radical (% by weight)
+	Irradiation temperature
+
+=== TABLE 14 (2 rows) ===
+	200° C.	300° C.
+	
+
+=== TABLE 15 (7 rows) ===
+	Ex. 15	0.12	0.14
+	Ex. 16	0.1	1.01
+	Ex. 17	0.14	0.15
+	Ex. 18	0.16	0.18
+	Ex. 19	0.32	1.21
+	Ex. 20	5.13	8.53
+	
+
+=== TABLE 16 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US12/264,089 US8173727B2 (en)	2001-12-17	2008-11-03	Crosslinkable elastomer composition and molded article using the same
+
+=== TABLE 17 (8 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2001-382996		2001-12-17	
+JP2001382996		2001-12-17	
+JP2002-256724		2002-09-02	
+JP2002256724		2002-09-02	
+PCT/JP2002/013048 WO2003051999A1 (en)	2001-12-17	2002-12-13	Crosslinkable elastomer composition and formed product comprising the same
+US10/498,939 US7495046B2 (en)	2001-12-17	2002-12-13	Crosslinkable elastomer composition and formed product comprising the same
+US12/264,089 US8173727B2 (en)	2001-12-17	2008-11-03	Crosslinkable elastomer composition and molded article using the same
+
+=== TABLE 18 (4 rows) ===
+Application Number	Title	Priority Date	Filing Date
+PCT/JP2002/013048 Division WO2003051999A1 (en)	2001-12-17	2002-12-13	Crosslinkable elastomer composition and formed product comprising the same
+US10498939 Division		2002-12-13	
+US10/498,939 Division US7495046B2 (en)	2001-12-17	2002-12-13	Crosslinkable elastomer composition and formed product comprising the same
+
+=== TABLE 19 (3 rows) ===
+Publication Number	Publication Date
+US20090076197A1 US20090076197A1 (en)	2009-03-19
+US8173727B2 true US8173727B2 (en)	2012-05-08
+
+=== TABLE 20 (3 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US10/498,939 Expired - Lifetime US7495046B2 (en)	2001-12-17	2002-12-13	Crosslinkable elastomer composition and formed product comprising the same
+US12/264,089 Expired - Lifetime US8173727B2 (en)	2001-12-17	2008-11-03	Crosslinkable elastomer composition and molded article using the same
+
+=== TABLE 21 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US10/498,939 Expired - Lifetime US7495046B2 (en)	2001-12-17	2002-12-13	Crosslinkable elastomer composition and formed product comprising the same
+
+=== TABLE 22 (8 rows) ===
+Country	Link
+US (2)	US7495046B2 (en)
+EP (1)	EP1464676B2 (en)
+JP (2)	JP4218525B2 (en)
+KR (1)	KR100597929B1 (en)
+CN (2)	CN1891761B (en)
+TW (1)	TW200304469A (en)
+WO (1)	WO2003051999A1 (en)
+
+=== TABLE 23 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100140222A1 (en) *	2008-12-10	2010-06-10	Sun Jennifer Y	Filled polymer composition for etch chamber component
+US20120289641A1 (en) *	2008-12-29	2012-11-15	Greene, Tweed Of Delaware, Inc.	Crosslinkable Fluorine-Containing Elastomer Composition and Molded Article Made of Said Composition
+WO2019078238A1 (en)	2017-10-18	2019-04-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded article
+
+=== TABLE 24 (34 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR100597929B1 (en) *	2001-12-17	2006-07-13	다이킨 고교 가부시키가이샤	Crosslinkable Elastomer Composition and Molded Article Composed of the Composition
+JP4182338B2 (en) *	2003-03-06	2008-11-19	信越化学工業株式会社	Thermosetting perfluoropolyether rubber composition and rubber product
+JP2005140261A (en) *	2003-11-07	2005-06-02	Ntn Corp	SEALING MEMBER FOR ROLLING BEARING AND ROLLING BEARING
+CN100402895C (en)	2003-11-21	2008-07-16	大金工业株式会社	Surface-coated sealing material and method for producing the sealing material
+EP1555448A3 (en) *	2004-01-14	2010-09-01	NTN Corporation	Rolling bearing for use in vehicle
+DE102004034235B4 (en) *	2004-07-15	2006-09-21	Federal-Mogul Sealing Systems Bretten Gmbh	Component with integrated seal
+JP4844952B2 (en) *	2004-09-02	2011-12-28	ニチアス株式会社	Fluoro rubber composition, rubber material using the same, and method for producing fluoro rubber molding
+FR2877008B1 (en) *	2004-10-26	2007-02-09	Ccn Soc Par Actions Simplifiee	COMPOSITE MATERIAL COMPRISING AN ORGANIC MATRIX AT LEAST CHARGED WITH NON-OXIDE, QUASI-SPHERICAL PARTICLES AND WITH A PARTICULAR GRANULOMETRY BETWEEN 0.01MU AND 4MU
+US8211964B2 (en)	2005-07-26	2012-07-03	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+WO2009119439A1 (en) *	2008-03-25	2009-10-01	ダイキン工業株式会社	Fluorine-containing elastomer, and cross-linkable composition containing the same
+WO2010014275A2 (en) *	2008-07-31	2010-02-04	3M Innovative Properties Company	Fluoropolymer compositions and methods of curing
+US8349959B2 (en) *	2008-12-24	2013-01-08	Saint-Gobain Performance Plastics Corporation	Polymer material and seals formed thereof for high pressure pump applications
+JP2011086920A (en) *	2009-10-14	2011-04-28	Greene Tweed Of Delaware Inc	Processing apparatus excelling in plasma resistance
+JP2011168630A (en) *	2010-02-16	2011-09-01	Nok Corp	Low-temperature resistant fluororubber composition exhibiting good fuel permeation resistance
+US20110319545A1 (en) *	2010-06-25	2011-12-29	E.I. Du Pont De Nemours And Company	Process for preparing curable perfluoroelastomer compositions
+US9129795B2 (en)	2011-04-11	2015-09-08	Quadrant Epp Ag	Process for plasma treatment employing ceramic-filled polyamideimide composite parts
+EP2525387A1 (en) *	2011-05-17	2012-11-21	Quadrant Epp Ag	Process for plasma treatment employing ceramic-filled polyamideimide composite parts
+EP3799897B1 (en)	2011-08-30	2024-07-10	Gambro Lundia AB	Apparatus for extracorporeal treatment of blood
+CA2863408C (en) *	2012-02-03	2020-03-24	Greene, Tweed Technologies, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+JP6081879B2 (en) *	2013-07-05	2017-02-15	東京エレクトロン株式会社	Coating film forming method, program, and computer storage medium
+WO2015104975A1 (en) *	2014-01-08	2015-07-16	ダイキン工業株式会社	Modified fluorine-containing copolymer and fluorine resin molded article
+CN110246613A (en)	2014-01-08	2019-09-17	大金工业株式会社	Heatproof wire and its manufacturing method
+CN104672726B (en) *	2015-03-11	2016-11-09	江苏千富之丰科技有限公司	One exempts from post-cure fluoroelastomer and preparation method thereof
+JP6141377B2 (en) *	2015-10-07	2017-06-07	株式会社森清化工	Perfluoro rubber molding
+DE112018001087T5 (en) *	2017-03-02	2019-11-21	AGC Inc.	Electric wire, coil and method of making an electrical wire
+DE102017011642A1 (en)	2017-12-15	2019-06-19	Carl Freudenberg Kg	Curable fluoroelastomers with low swelling tendency
+CN112111085B (en) *	2018-12-11	2022-02-01	湖北一致魔芋生物科技股份有限公司	Konjak gel carrier
+WO2020235565A1 (en) *	2019-05-20	2020-11-26	ダイキン工業株式会社	Fluorine-containing elastomer composition and article
+CN111499901B (en) *	2020-04-29	2022-07-08	东莞东阳光科研发有限公司	Preparation method of fluorine-containing polymer/polyimide composite film
+CN115807231A (en) *	2021-09-15	2023-03-17	中微半导体设备(上海)股份有限公司	Cleaning process based on supercritical water and ultrasonic coupling
+WO2023054222A1 (en) *	2021-09-30	2023-04-06	富士フイルム株式会社	Composition, cured product, method for producing cured product, structure, and device
+EP4502045A4 (en)	2022-03-31	2026-03-18	Daikin Ind Ltd	COMPOSITION, INTERLOCKED PRODUCT AND SEALING MATERIAL
+WO2025187462A1 (en) *	2024-03-05	2025-09-12	Ａｇｃ株式会社	Fluorine-containing copolymer composition, method for producing same, crosslinked rubber article, and method for producing same
+
+=== TABLE 25 (23 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4584336A (en)	1984-10-29	1986-04-22	Sws Silicones Corporation	Thermally conductive room temperature vulcanizable compositions
+US4585822A (en)	1984-10-29	1986-04-29	Sws Silicones Corporation	Thermally conductive room temperature vulcanizable compositions
+US4663415A (en)	1984-08-08	1987-05-05	Bayer Aktiengesellschaft	Process for the preparation of stabilized polyamines, stabilized polyamines with retarded reactivity and their use for polyurethane production
+US4765930A (en) *	1985-07-03	1988-08-23	Mitsuboshi Belting Ltd.	Pressure-responsive variable electrical resistive rubber material
+JPH03239389A (en)	1990-02-16	1991-10-24	Japan Gore Tex Inc	Printed circuit board
+US5252267A (en) *	1993-03-18	1993-10-12	Holcombe Cressie E	Process for microwave sintering boron carbide
+JPH0613495A (en)	1990-12-13	1994-01-21	Internatl Business Mach Corp <Ibm>	Core material, which can be machined with laser and has low thermal expansion rate and low permittivity, for electronic package and manufacture of core material and electronic circuit package thereof
+FR2715407A1 (en)	1994-01-27	1995-07-28	Rhone Poulenc Chimie	Elastomeric material for making moulds for moulding radiation curable plastics
+US5691407A (en)	1995-03-24	1997-11-25	Shin-Etsu Chemical Co., Ltd.	Silicone rubber compositions for high-voltage electrical insulators
+JP2783576B2 (en)	1989-02-22	1998-08-06	日本メクトロン株式会社	Peroxide vulcanizable fluoroelastomer composition
+JP2858198B2 (en)	1993-04-19	1999-02-17	三菱電線工業株式会社	Semiconductor manufacturing equipment seal
+WO2000064980A1 (en)	1999-04-23	2000-11-02	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+JP2001011272A (en)	1999-07-02	2001-01-16	Nippon Mektron Ltd	Fluorine-containing polymer composition
+WO2001020618A1 (en)	1999-09-17	2001-03-22	Honeywell International Inc.	Compliant and crosslinkable thermal interface materials
+WO2001032782A1 (en)	1999-11-04	2001-05-10	Daikin Industries, Ltd.	Molded elastomer for semiconductor production apparatus and crosslinkable fluoroelastomer composition
+US6239378B1 (en)	1999-02-02	2001-05-29	Dow Corning Corporation	Flame resistant silicone rubber wire and cable coating composition
+JP2002012705A (en)	2000-06-27	2002-01-15	Daikin Ind Ltd	Elastomer composition for crosslinking
+JP2002515525A (en)	1998-05-20	2002-05-28	デュポン ダウ エラストマーズ エルエルシー	Thermally stable perfluoroelastomer composition
+US6500529B1 (en) *	2001-09-14	2002-12-31	Tonoga, Ltd.	Low signal loss bonding ply for multilayer circuit boards
+US6531568B1 (en)	1998-08-06	2003-03-11	Mitsui Chemicals, Inc.	Polyimide containing crosslinkable group and process for producing the same
+WO2003051999A1 (en)	2001-12-17	2003-06-26	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+US7291381B2 (en) *	2002-04-10	2007-11-06	Polymatech Co., Ltd.	Thermally conductive formed article and method of manufacturing the same
+
+=== TABLE 26 (19 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4028324A (en) *	1975-12-16	1977-06-07	United Technologies Corporation	High temperature seal material and method for manufacturing the same
+JPS57100148A (en) *	1980-12-13	1982-06-22	Denki Kagaku Kogyo Kk	Heat dissipating sheet
+JPS61195160A (en) *	1985-02-26	1986-08-29	Bridgestone Corp	Silicone rubber composition
+JPH0643526B2 (en) *	1987-06-11	1994-06-08	大塚化学株式会社	Rubber composition
+JPS63312336A (en) *	1987-06-15	1988-12-20	Kurasawa Kogaku Kogyo Kk	Reinforced fluororubber
+JPH0216128A (en) *	1988-07-05	1990-01-19	Tokuyama Soda Co Ltd	Manufacturing method of vulcanized rubber
+EP0606883B1 (en) *	1993-01-14	1998-10-14	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+JPH08104789A (en) *	1994-10-04	1996-04-23	Nippon Mektron Ltd	Fluorine-containing elastomer composition
+CN1154386A (en) *	1995-05-05	1997-07-16	罗纳·布朗克化学公司	Elastomeric organopolysiloxane composition thermally stabilized by metal nanoparticles and transparent elastomer obtained
+DE69904793T2 (en) *	1998-10-13	2003-10-02	Canon K.K., Tokio/Tokyo	Arrangements for heat fixation with an elastic, thermally highly conductive layer
+US6218014B1 (en) *	1998-12-30	2001-04-17	Nexpress Solutions	Fluorocarbon fuser member with silicon carbide filler
+JP3490011B2 (en) *	1999-02-12	2004-01-26	富士高分子工業株式会社	Heat conductive elastomer composition and heat conductive elastomer using the same
+JP2000309074A (en) *	1999-02-23	2000-11-07	Toyobo Co Ltd	Laminated biaxially oriented polyamide film
+JP2000344587A (en) *	1999-06-04	2000-12-12	Mitsubishi Gas Chem Co Inc	Manufacturing method of high heat resistant resin composite ceramics
+WO2001023470A1 (en)	1999-09-30	2001-04-05	Daikin Industries, Ltd.	Transparent elastomer composition
+WO2001079337A1 (en)	2000-04-19	2001-10-25	Daikin Industries, Ltd.	Molded fluoroelastomer with excellent detachability and process for producing the same
+JP4374819B2 (en)	2000-05-09	2009-12-02	ダイキン工業株式会社	Manufacturing method of clean filler and manufacturing method of molded product containing the obtained filler
+WO2003029343A1 (en) *	2001-09-28	2003-04-10	Nippon Tungsten Co., Ltd.	High-density composite material
+
+=== TABLE 27 (26 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4663415A (en)	1984-08-08	1987-05-05	Bayer Aktiengesellschaft	Process for the preparation of stabilized polyamines, stabilized polyamines with retarded reactivity and their use for polyurethane production
+US4584336A (en)	1984-10-29	1986-04-22	Sws Silicones Corporation	Thermally conductive room temperature vulcanizable compositions
+US4585822A (en)	1984-10-29	1986-04-29	Sws Silicones Corporation	Thermally conductive room temperature vulcanizable compositions
+US4765930A (en) *	1985-07-03	1988-08-23	Mitsuboshi Belting Ltd.	Pressure-responsive variable electrical resistive rubber material
+JP2783576B2 (en)	1989-02-22	1998-08-06	日本メクトロン株式会社	Peroxide vulcanizable fluoroelastomer composition
+JPH03239389A (en)	1990-02-16	1991-10-24	Japan Gore Tex Inc	Printed circuit board
+JPH0613495A (en)	1990-12-13	1994-01-21	Internatl Business Mach Corp <Ibm>	Core material, which can be machined with laser and has low thermal expansion rate and low permittivity, for electronic package and manufacture of core material and electronic circuit package thereof
+US5252267A (en) *	1993-03-18	1993-10-12	Holcombe Cressie E	Process for microwave sintering boron carbide
+JP2858198B2 (en)	1993-04-19	1999-02-17	三菱電線工業株式会社	Semiconductor manufacturing equipment seal
+FR2715407A1 (en)	1994-01-27	1995-07-28	Rhone Poulenc Chimie	Elastomeric material for making moulds for moulding radiation curable plastics
+US5691407A (en)	1995-03-24	1997-11-25	Shin-Etsu Chemical Co., Ltd.	Silicone rubber compositions for high-voltage electrical insulators
+JP2002515525A (en)	1998-05-20	2002-05-28	デュポン ダウ エラストマーズ エルエルシー	Thermally stable perfluoroelastomer composition
+US6531568B1 (en)	1998-08-06	2003-03-11	Mitsui Chemicals, Inc.	Polyimide containing crosslinkable group and process for producing the same
+US6239378B1 (en)	1999-02-02	2001-05-29	Dow Corning Corporation	Flame resistant silicone rubber wire and cable coating composition
+JP2000309704A (en)	1999-04-23	2000-11-07	Daikin Ind Ltd	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+EP1182230A1 (en)	1999-04-23	2002-02-27	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+WO2000064980A1 (en)	1999-04-23	2000-11-02	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+JP2001011272A (en)	1999-07-02	2001-01-16	Nippon Mektron Ltd	Fluorine-containing polymer composition
+WO2001020618A1 (en)	1999-09-17	2001-03-22	Honeywell International Inc.	Compliant and crosslinkable thermal interface materials
+WO2001032782A1 (en)	1999-11-04	2001-05-10	Daikin Industries, Ltd.	Molded elastomer for semiconductor production apparatus and crosslinkable fluoroelastomer composition
+US20030045623A1 (en)	1999-11-04	2003-03-06	Katsuhiko Higashino	Elastomer molded article and crosslinkable fluorine-containing elastomer composition for semi-conductor production apparatuses
+JP2002012705A (en)	2000-06-27	2002-01-15	Daikin Ind Ltd	Elastomer composition for crosslinking
+US6500529B1 (en) *	2001-09-14	2002-12-31	Tonoga, Ltd.	Low signal loss bonding ply for multilayer circuit boards
+WO2003051999A1 (en)	2001-12-17	2003-06-26	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+US7291381B2 (en) *	2002-04-10	2007-11-06	Polymatech Co., Ltd.	Thermally conductive formed article and method of manufacturing the same
+
+=== TABLE 28 (4 rows) ===
+Title
+English translation of International Preliminary Examination Report for PCT/JP2002/013048 dated Mar. 2, 2004.
+International Search Report for PCT/JP02/13048 dated Apr. 1,2003.
+Japanese Office Action dated Jul. 22, 2008.
+
+=== TABLE 29 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100140222A1 (en) *	2008-12-10	2010-06-10	Sun Jennifer Y	Filled polymer composition for etch chamber component
+US20120289641A1 (en) *	2008-12-29	2012-11-15	Greene, Tweed Of Delaware, Inc.	Crosslinkable Fluorine-Containing Elastomer Composition and Molded Article Made of Said Composition
+US9914818B2 (en) *	2008-12-29	2018-03-13	Greene, Tweed Technologies, Inc.	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+WO2019078238A1 (en)	2017-10-18	2019-04-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded article
+US11753523B2 (en)	2017-10-18	2023-09-12	Daikin Industries, Ltd.	Crosslinkable elastomer composition and fluororubber molded article
+EP4407002A1 (en) *	2017-10-18	2024-07-31	Daikin Industries, Ltd.	Crosslinkable elastomer composition and fluorororubber molded article
+US12286523B2 (en)	2017-10-18	2025-04-29	Daikin Industries, Ltd.	Crosslinkable elastomer composition and fluororubber molded article
+
+=== TABLE 30 (21 rows) ===
+Publication number	Publication date
+JPWO2003051999A1 (en)	2005-04-28
+CN1891761A (en)	2007-01-10
+EP1464676A1 (en)	2004-10-06
+CN1891761B (en)	2010-10-06
+EP1464676A4 (en)	2005-03-09
+CN1313541C (en)	2007-05-02
+KR100597929B1 (en)	2006-07-13
+JP2009030064A (en)	2009-02-12
+KR20040071726A (en)	2004-08-12
+EP1464676B1 (en)	2017-06-21
+TW200304469A (en)	2003-10-01
+US20090076197A1 (en)	2009-03-19
+JP4218525B2 (en)	2009-02-04
+WO2003051999A1 (en)	2003-06-26
+TWI328021B (en)	2010-08-01
+EP1464676B2 (en)	2020-05-13
+CN1604940A (en)	2005-04-06
+JP5487584B2 (en)	2014-05-07
+US20050070637A1 (en)	2005-03-31
+US7495046B2 (en)	2009-02-24
+
+=== TABLE 31 (14 rows) ===
+Publication	Publication Date	Title
+US7495046B2 (en)	2009-02-24	Crosslinkable elastomer composition and formed product comprising the same
+EP1029875B1 (en)	2004-03-24	Molding material
+EP1243617B2 (en)	2010-10-06	Transparent elastomer composition
+US7678858B2 (en)	2010-03-16	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+US12286523B2 (en)	2025-04-29	Crosslinkable elastomer composition and fluororubber molded article
+JP5553320B2 (en)	2014-07-16	Crosslinkable fluorine-containing elastomer composition and molded article produced from the composition
+JPWO1999024484A1 (en)	2002-09-03	Molding material
+US20100151254A1 (en)	2010-06-17	Perfluoroelastomer Compositions Including Barium Titanate Fillers
+EP3486283B1 (en)	2022-06-15	Composition and molded article
+JP4600393B2 (en)	2010-12-15	Fluorine-containing elastomer composition
+US20060058448A1 (en)	2006-03-16	Cross-linked elastomer composition and formed product composed of such cross-linked elastomer composition
+CN100352856C (en)	2007-12-05	Fluorine-containing elastomer composition having excellent effect of preventing plasma aging and molded article thereof
+EP4043522A1 (en)	2022-08-17	Composition containing fluorine-containing polymer and crosslinked article
+
+=== TABLE 32 (6 rows) ===
+Date	Code	Title	Description
+2012-04-18	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2012-12-03	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2015-10-21	FPAY	Fee payment	Year of fee payment: 4
+2019-10-24	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 8
+2023-10-25	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 12

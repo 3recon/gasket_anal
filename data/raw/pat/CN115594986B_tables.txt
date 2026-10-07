@@ -1,0 +1,100 @@
+# CN115594986B :: CN115594986B - High-conductivity fluororubber sealing ring for lithium battery and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (7 rows) ===
+Examples	Tensile Strength/MPa	Resistivity/(Ω cm)	Flame retardancy
+Example 1	6.62	2.87	Good quality
+Examples2	6.38	2.96	Good quality
+Example 3	6.45	3.05	Good quality
+Comparative example 1	5.97	2.85	Difference of difference
+Comparative example 2	4.92	10.64	Difference of difference
+Comparative example 3	6.19	6.45	Good quality
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202211252486.9A CN115594986B (en)	2022-10-13	2022-10-13	High-conductivity fluororubber sealing ring for lithium battery and preparation method thereof
+
+=== TABLE 2 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202211252486.9A CN115594986B (en)	2022-10-13	2022-10-13	High-conductivity fluororubber sealing ring for lithium battery and preparation method thereof
+
+=== TABLE 3 (3 rows) ===
+Publication Number	Publication Date
+CN115594986A CN115594986A (en)	2023-01-13
+CN115594986B true CN115594986B (en)	2023-11-03
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202211252486.9A Active CN115594986B (en)	2022-10-13	2022-10-13	High-conductivity fluororubber sealing ring for lithium battery and preparation method thereof
+
+=== TABLE 5 (2 rows) ===
+Country	Link
+CN (1)	CN115594986B (en)
+
+=== TABLE 6 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN117025281B (en) *	2023-08-10	2025-10-17	安徽和欣润滑科技有限公司	Flame-retardant lubricating grease and preparation method thereof
+CN117624932A (en) *	2023-12-15	2024-03-01	滁州市汇能鑫新能源科技有限公司	Deformation rate improvement process applied to cylindrical lithium battery safety cap seal ring
+CN118620319A (en) *	2024-06-28	2024-09-10	四川安费尔高分子材料科技有限公司	A ceramic highly flame-retardant polyolefin cable material and preparation method thereof
+
+=== TABLE 7 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN107245138A (en) *	2017-06-12	2017-10-13	长春工业大学	A kind of preparation of lignin-base fire retardant and its application process
+CN108997617A (en) *	2018-09-01	2018-12-14	华北科技学院	A kind of preparation and its application method of poly-dopamine encapsulated red phosphorus microcapsule flame retardant
+CN109957114A (en) *	2019-04-09	2019-07-02	南京林业大学	A kind of lignin intumescent flame retardant and preparation method thereof
+CN113292737A (en) *	2021-05-31	2021-08-24	青岛科技大学	N, P, Si type synergistic lignin-based flame retardant and preparation method and application thereof
+CN114395173A (en) *	2021-12-13	2022-04-26	东莞市瑞拓五金橡塑有限公司	Formula and preparation method of high-temperature-resistant rubber sealing ring
+
+=== TABLE 8 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN107245138A (en) *	2017-06-12	2017-10-13	长春工业大学	A kind of preparation of lignin-base fire retardant and its application process
+CN108997617A (en) *	2018-09-01	2018-12-14	华北科技学院	A kind of preparation and its application method of poly-dopamine encapsulated red phosphorus microcapsule flame retardant
+CN109957114A (en) *	2019-04-09	2019-07-02	南京林业大学	A kind of lignin intumescent flame retardant and preparation method thereof
+CN113292737A (en) *	2021-05-31	2021-08-24	青岛科技大学	N, P, Si type synergistic lignin-based flame retardant and preparation method and application thereof
+CN114395173A (en) *	2021-12-13	2022-04-26	东莞市瑞拓五金橡塑有限公司	Formula and preparation method of high-temperature-resistant rubber sealing ring
+
+=== TABLE 9 (3 rows) ===
+Title
+Pyrolysis mechanism and kinetics of high-performance modified lignin-based epoxy resin;Xinyu Lu等;《Journal of Analytical and Applied Pyrolysis》;第154卷;第1-11页 *
+木质素基膨胀型阻燃剂的制备及其应用;梁孟珂 等;林产化学与工业;第41卷(第04期);第10-16页 *
+
+=== TABLE 10 (2 rows) ===
+Publication number	Publication date
+CN115594986A (en)	2023-01-13
+
+=== TABLE 11 (26 rows) ===
+Publication	Publication Date	Title
+CN115594986A (en)	2023-01-13	High-conductivity fluororubber sealing ring for lithium battery and preparation method thereof
+WO2022110665A1 (en)	2022-06-02	Flame-retardant antistatic polyamide composite material, preparation method therefor, and use thereof
+CN115584095B (en)	2023-09-29	Method for preparing high-conductivity fluororubber sealing material by ionic liquid assisted dispersion
+CN109942890B (en)	2021-07-16	Graphene-based antistatic agent with smoke suppression function and preparation method thereof
+CN117777762B (en)	2024-06-11	A kind of ultrafine hydromagnesia modified composite powder and its preparation method and application
+CN118185204B (en)	2024-09-20	Light polyvinyl chloride material, preparation method and application thereof in flexible wire sheath
+CN114031874A (en)	2022-02-11	Manufacturing method of CPVC cable protection pipe
+CN116769298B (en)	2024-04-26	High-strength modified polyphenyl ether engineering material for vehicles and preparation method thereof
+CN114656726B (en)	2024-04-05	Flame-retardant soft PVC composite material and preparation method thereof
+CN116003888B (en)	2023-06-06	Flame-retardant rubber cable sheath material and preparation method thereof
+CN118879001A (en)	2024-11-01	Flame-retardant, cold-resistant and oil-resistant polyvinyl chloride cable material and preparation method thereof
+CN107501929A (en)	2017-12-22	A kind of alkaline battery PA sealing rings of high thermal stability and preparation method thereof
+CN118909384A (en)	2024-11-08	Halogen-free flame retardant material reinforced composite polyethylene and preparation method thereof
+CN118772531A (en)	2024-10-15	Modified polypropylene material for composite pipe and preparation method thereof
+CN117004149A (en)	2023-11-07	A kind of high temperature resistance and high flame retardant polyvinyl chloride cable material and its preparation method
+CN118085450A (en)	2024-05-28	An impact-resistant MPP power cable protection tube and its processing technology
+CN111574834B (en)	2023-05-16	Polyphenylene sulfide resin composite material and preparation method thereof
+CN114031875A (en)	2022-02-11	CPVC cable protection pipe that intensity is high
+CN115926438B (en)	2025-03-25	A TPU composite material and its preparation method and application
+CN120441976B (en)	2025-11-25	Antistatic PFA tube and preparation method thereof
+CN118325237B (en)	2024-09-10	High-strength impact-resistant composite material, preparation method and application thereof to chair legs
+CN119264563A (en)	2025-01-07	Modified polypropylene plastic with added glass fiber and preparation method thereof
+CN111675871A (en)	2020-09-18	Cold-resistant flame-retardant PVC cable material and preparation method thereof
+CN120098399A (en)	2025-06-06	Flame retardant fire hose lining and preparation method thereof
+CN118480238A (en)	2024-08-13	Environment-friendly complexing enhanced composite pipe and preparation method thereof
+
+=== TABLE 12 (7 rows) ===
+Date	Code	Title	Description
+2023-01-13	PB01	Publication	
+2023-01-13	PB01	Publication	
+2023-02-07	SE01	Entry into force of request for substantive examination	
+2023-02-07	SE01	Entry into force of request for substantive examination	
+2023-11-03	GR01	Patent grant	
+2023-11-03	GR01	Patent grant	

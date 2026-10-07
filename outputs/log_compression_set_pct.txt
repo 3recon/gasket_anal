@@ -1,0 +1,25 @@
+targets: {'hardness_shoreA': 227, 'tensile_MPa': 263, 'elongation_pct': 270, 'm100_MPa': 264, 'compression_set_pct': 250}
+
+=============== compression_set_pct ===============
+  baseline GP_sklearn_default   R2=-66297.511 RMSE=3333.324
+  baseline Ridge                R2=0.160 RMSE=13.018
+  baseline RandomForest         R2=0.315 RMSE=11.756
+  screen rbf       ard=True  R2=0.325
+  screen rbf       ard=False R2=0.338
+  screen matern12  ard=True  R2=0.321
+  screen matern12  ard=False R2=0.323
+  screen matern32  ard=True  R2=0.335
+  screen matern32  ard=False R2=0.337
+  screen matern52  ard=True  R2=0.326
+  screen matern52  ard=False R2=0.338
+  screen rq        ard=False R2=0.338
+  BO seed 0: best R2=0.366 at iter 23  {'kernel': 'matern52', 'ard': True, 'linear': True, 'x_transform': 'log1p', 'y_transform': 'log', 'feature_set': 'compact', 'ls_init': -0.3181919388695382, 'noise_init': -1.3216011132539034, 'noise_floor': -2.063928602413659}
+  BO seed 1: best R2=0.368 at iter 11  {'kernel': 'matern52', 'ard': True, 'linear': False, 'x_transform': 'log1p', 'y_transform': 'log', 'feature_set': 'full', 'ls_init': -0.6797680335622733, 'noise_init': -1.0878491240209078, 'noise_floor': -2.519028836219338}
+  BO seed 2: best R2=0.380 at iter 17  {'kernel': 'rbf', 'ard': True, 'linear': True, 'x_transform': 'log1p', 'y_transform': 'log', 'feature_set': 'full', 'ls_init': -0.9431889467572763, 'noise_init': -0.0813724630738899, 'noise_floor': -4.573927800537495}
+  robust rbf ard=True lin=True x=log1p y=log fs=full: search 0.380 -> robust 0.312±0.060
+  robust matern52 ard=True lin=False x=log1p y=log fs=full: search 0.368 -> robust 0.327±0.043
+  robust matern52 ard=True lin=True x=log1p y=log fs=compact: search 0.366 -> robust 0.316±0.026
+  TEST GP R2=0.097 RMSE=12.144 cov95=0.86 | GP_sklearn_default=-20.485 Ridge=0.065 RandomForest=0.165
+  leave-source-out R2=-0.136
+  done in 69.5 min
+ALL DONE

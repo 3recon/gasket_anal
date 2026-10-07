@@ -1,0 +1,78 @@
+# KR102796110B1 :: KR102796110B1 - Fluororubber-based Composition for Sealing 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020220180696A KR102796110B1 (en)	2022-12-21	2022-12-21	Fluororubber-based Composition for Sealing
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020220180696A KR102796110B1 (en)	2022-12-21	2022-12-21	Fluororubber-based Composition for Sealing
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+KR20240098705A KR20240098705A (en)	2024-06-28
+KR102796110B1 true KR102796110B1 (en)	2025-04-17
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020220180696A Active KR102796110B1 (en)	2022-12-21	2022-12-21	Fluororubber-based Composition for Sealing
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR102796110B1 (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN121226928A (en) *	2025-10-29	2025-12-30	北京腾龙天元橡塑有限公司	A low-temperature resistant fluororubber and its preparation method
+
+=== TABLE 6 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR101208025B1 (en) *	2010-07-09	2012-12-04	주식회사 씰테크	Surface functionalized silica nanofillers, plasma-resistant fluoroelastomer composition contaning the same, molded article and sealing material for semiconductor manufacturing apparatus using the same
+CN104053933B (en) *	2012-01-17	2016-10-26	霓佳斯株式会社	Raw materials for gaskets
+KR101792329B1 (en) *	2015-06-19	2017-11-20	한국가스공사	Rubber composition for sealing material composing silica, carbonblack, and method thereof
+KR101732723B1 (en) *	2015-09-08	2017-05-08	주식회사 경신전선	Fluorosilicone elastomer composition, insulater prepared using the same, and electrical wire and cable thereof
+US11884847B2 (en) *	2020-02-06	2024-01-30	Elkem Silicones USA Corp.	Highly stretchable adhesive silicone compositions and uses thereof as sealing/bonding agents
+
+=== TABLE 7 (2 rows) ===
+Publication number	Publication date
+KR20240098705A (en)	2024-06-28
+
+=== TABLE 8 (26 rows) ===
+Publication	Publication Date	Title
+KR101936713B1 (en)	2019-01-09	Composite for heat-radiating elastic body and heat-radiating elastic body formed therefrom
+JP5414196B2 (en)	2014-02-12	Fluoro rubber sealant with good high / low temperature load sealability
+JP5904314B2 (en)	2016-04-13	HNBR composition and cross-linked HNBR
+WO2017170190A1 (en)	2017-10-05	Rubber composition and rubber molded product using same
+KR100720781B1 (en)	2007-05-22	The elastomer resin composition
+KR20240098705A (en)	2024-06-28	Fluororubber-based Composition for Sealing
+JP2024074901A (en)	2024-05-31	Rubber composition and vulcanized molded product
+WO2008001625A1 (en)	2008-01-03	Silicone rubber composition
+KR102150247B1 (en)	2020-09-01	Rubber composition of fuel cell cooling hose and cooling hose using the same
+EP0905197A1 (en)	1999-03-31	Heat-curable fluorosilicone rubber compositions
+CN113646377B (en)	2025-06-27	Rubber composition for seal and seal using the same
+KR100812840B1 (en)	2008-03-11	Rubber composition for tire bladder
+JP2005140196A (en)	2005-06-02	Gasket for fuel cell
+KR102713660B1 (en)	2024-10-07	Perfluoro elastomer and fluororubber composite with improved heat resistance
+JP3093579B2 (en)	2000-10-03	Gasket for phosphoric acid type fuel cell and method for producing the same
+KR102065615B1 (en)	2020-01-13	Rubber composite of o-ring for high pressure injector
+KR20200073070A (en)	2020-06-23	Rubber composition of oil seal for cooling water opener of fuel cell vehicle
+KR102348129B1 (en)	2022-01-06	Rubber composite of damping washer seal
+KR102805771B1 (en)	2025-05-13	Rubber composition for gaskets used in electric compressors
+WO2019188339A1 (en)	2019-10-03	Rubber composition and method for reducing adhesion to surface of kneader using same
+KR20110052873A (en)	2011-05-19	Rubber composition for spark plug tube sealing member
+KR20260058333A (en)	2026-04-29	Durable sidewall rubber and tire containing it
+KR101511666B1 (en)	2015-04-14	Method of preparing rubber composition for curing bladder
+KR101248070B1 (en)	2013-03-27	Method of preparing rubber composition for curing bladder
+KR20240155669A (en)	2024-10-29	A radiator hose composition for automobiles to which fluororubber is added
+
+=== TABLE 9 (9 rows) ===
+Date	Code	Title	Description
+2022-12-21	PA0109	Patent application	Patent event code: PA01091R01D Comment text: Patent Application Patent event date: 20221221
+2022-12-21	PA0201	Request for examination	Patent event code: PA02011R01I Patent event date: 20221221 Comment text: Patent Application
+2024-06-28	PG1501	Laying open of application	
+2025-01-02	E902	Notification of reason for refusal	
+2025-01-02	PE0902	Notice of grounds for rejection	Comment text: Notification of reason for refusal Patent event date: 20250102 Patent event code: PE09021S01D
+2025-03-27	E701	Decision to grant or registration of patent right	
+2025-03-27	PE0701	Decision of registration	Patent event code: PE07011S01D Comment text: Decision to Grant Registration Patent event date: 20250327
+2025-04-17	PG1601	Publication of registration	

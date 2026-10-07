@@ -1,0 +1,90 @@
+# CN118388949B :: CN118388949B - High-whiteness fluororubber composition and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202410641323.2A CN118388949B (en)	2024-05-22	2024-05-22	High-whiteness fluororubber composition and preparation method and application thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202410641323.2A CN118388949B (en)	2024-05-22	2024-05-22	High-whiteness fluororubber composition and preparation method and application thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN118388949A CN118388949A (en)	2024-07-26
+CN118388949B true CN118388949B (en)	2024-12-13
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202410641323.2A Active CN118388949B (en)	2024-05-22	2024-05-22	High-whiteness fluororubber composition and preparation method and application thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN118388949B (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120005335B (en) *	2025-02-14	2026-03-20	上海芯密科技股份有限公司	A perfluororubber composition, its preparation method and products
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+CN117534929A (en) *	2023-12-18	2024-02-09	上海芯密科技有限公司	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 7 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20030211264A1 (en) *	2002-05-09	2003-11-13	Farnsworth Ted Ray	Expanded polytetrafluoroethylene (ePTFE)-reinforced perfluoroelastomers (FFKM)
+US8211964B2 (en) *	2005-07-26	2012-07-03	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+KR100870494B1 (en) *	2007-09-21	2008-11-26	주식회사 엠앤이	Fluorine rubber with improved chemical resistance
+CN102585403A (en) *	2012-03-12	2012-07-18	青岛开世密封工业有限公司	Material formulation for oil seal both for rubber and plastic and material manufacturing method thereof
+JP7178661B2 (en) *	2019-02-21	2022-11-28	東洋紡株式会社	Thermally conductive insulating rubber composition, thermally conductive insulating rubber molding and method for producing the same
+JP7319573B1 (en) *	2022-04-06	2023-08-02	ダイキン工業株式会社	Compositions and crosslinked products
+CN116769266B (en) *	2023-07-13	2024-01-23	上海芯密科技有限公司	Semiconductor sealing ring rubber material and its preparation method and application
+
+=== TABLE 8 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+CN117534929A (en) *	2023-12-18	2024-02-09	上海芯密科技有限公司	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN118388949A (en)	2024-07-26
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN116769266B (en)	2024-01-23	Semiconductor sealing ring rubber material and its preparation method and application
+CN118459966B (en)	2025-02-28	A semiconductor sealing ring material and its preparation method and application
+CN1066165C (en)	2001-05-23	"Thermoplastic Elastomer Copolymer Films"
+CN105504552B (en)	2017-08-29	A kind of tubing material of polybutene 1 and preparation method thereof
+CN116694005B (en)	2024-07-16	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+CN118388949A (en)	2024-07-26	High-whiteness fluororubber composition and preparation method and application thereof
+CN108530733A (en)	2018-09-14	A kind of anti-aging type polyethylene color master batch and preparation method thereof
+CN111251686A (en)	2020-06-09	Three-layer high-temperature-resistant high-humidity precipitation-free film
+CN102850673A (en)	2013-01-02	Bladder rubber and its preparation method
+CN119192756B (en)	2025-03-21	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN117820753B (en)	2024-06-25	Metallocene polyethylene-containing composition and application thereof in silage films
+CN114573902A (en)	2022-06-03	Polyethylene composition and preparation method thereof
+CN108264688B (en)	2021-02-26	Antifogging master batch for packaging film and preparation method thereof
+CN104448390A (en)	2015-03-25	Green tire functional master batch and preparation method thereof
+CN118496576A (en)	2024-08-16	Ultraviolet degradation-resistant blue/green high-density polyethylene pipe and preparation method thereof
+CN116675913A (en)	2023-09-01	Nitrile rubber and preparation method thereof
+CN115322481A (en)	2022-11-11	A kind of polypropylene high-performance compound additive and preparation method thereof
+CN107216661A (en)	2017-09-29	A kind of ageing-resistant EPT rubber composition and preparation method thereof
+CN103694525A (en)	2014-04-02	A compounding auxiliary agent for preparing easy-opening polyethylene film special material and preparation method thereof
+TWI898370B (en)	2025-09-21	Thermoplastic polyurethane resin and method for producing the same
+CN118834485B (en)	2025-01-24	A fluororubber composition containing cross-linked perfluoroether rubber and a preparation method thereof
+CN117050446A (en)	2023-11-14	High-performance tetrapropylacetonate fluororubber composition and preparation method thereof
+CN103589013B (en)	2016-01-06	Sizing material for processing tire tread rubber by adopting integrated rubber and mixing method and application thereof
+CN117510922B (en)	2024-07-09	A high light transmittance polyester film and preparation method thereof
+CN116804101B (en)	2026-05-12	Polyolefin resin composition and preparation method and application thereof
+
+=== TABLE 11 (9 rows) ===
+Date	Code	Title	Description
+2024-07-26	PB01	Publication	
+2024-07-26	PB01	Publication	
+2024-08-13	SE01	Entry into force of request for substantive examination	
+2024-08-13	SE01	Entry into force of request for substantive examination	
+2024-11-29	CB02	Change of applicant information	
+2024-11-29	CB02	Change of applicant information	Country or region after: China Address after: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Applicant after: Shanghai Xinmi Technology Co.,Ltd. Address before: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Applicant before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China
+2024-12-13	GR01	Patent grant	
+2024-12-13	GR01	Patent grant	

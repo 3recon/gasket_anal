@@ -1,0 +1,84 @@
+# CN119552494B :: CN119552494B - 
+        A method for preparing high-temperature resistant perfluoroether rubber
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510113683.XA CN119552494B (en)	2025-01-24	2025-01-24	A method for preparing high-temperature resistant perfluoroether rubber
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510113683.XA CN119552494B (en)	2025-01-24	2025-01-24	A method for preparing high-temperature resistant perfluoroether rubber
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN119552494A CN119552494A (en)	2025-03-04
+CN119552494B true CN119552494B (en)	2025-08-05
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202510113683.XA Active CN119552494B (en)	2025-01-24	2025-01-24	A method for preparing high-temperature resistant perfluoroether rubber
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN119552494B (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN119955239B (en) *	2025-04-11	2025-08-26	上海熹贾精密技术有限公司	A plasma-resistant perfluoroether rubber and its preparation method
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112409007A (en) *	2020-12-03	2021-02-26	侯光宇	Preparation method of toughened BNNSs/SiC ceramic matrix composite
+CN116948330A (en) *	2022-04-20	2023-10-27	中昊晨光化工研究院有限公司	Fluororubber compound and preparation method and application thereof
+
+=== TABLE 7 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118991170B (en) *	2024-08-06	2025-09-12	平顶山学院	A sandwich structure liquid crystal high thermal conductivity composite film material and preparation method thereof
+
+=== TABLE 8 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112409007A (en) *	2020-12-03	2021-02-26	侯光宇	Preparation method of toughened BNNSs/SiC ceramic matrix composite
+CN116948330A (en) *	2022-04-20	2023-10-27	中昊晨光化工研究院有限公司	Fluororubber compound and preparation method and application thereof
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN119552494A (en)	2025-03-04
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN1193081C (en)	2005-03-16	Epoxy Die Attach Adhesives with Allyl or Vinyl
+CN119552494A (en)	2025-03-04	A method for preparing high temperature resistant perfluoroether rubber
+CN101445386B (en)	2011-06-15	Preparing method of ceramic copper-clad base plate
+CN101407700B (en)	2012-11-28	Adhesive film composition, adhesive film and scribing crystal grain binding film
+CN110483861A (en)	2019-11-22	A kind of nitrile rubber and preparation method thereof and sealing ring
+KR20120137418A (en)	2012-12-20	Fluoroelastomer compositions having self-bonding characteristics and methods of making same
+CN1845947A (en)	2006-10-11	Crosslinkable fluoroaromatic prepolymer and use thereof
+CN115304921B (en)	2023-05-26	High-temperature-resistant cable protective sleeve, preparation method thereof and overhead cable
+CN118256187B (en)	2024-09-20	Chip pouring sealant and preparation method thereof
+CN113105716B (en)	2022-03-15	Preparation method of plasma modified hexagonal boron nitride/resin composite material
+CN112430379A (en)	2021-03-02	High-thermal-conductivity modified hexagonal boron nitride/epoxy resin nano insulating composite material and preparation method thereof
+EP0314777B1 (en)	1993-02-03	Dual cured fluoropolymer laminates
+CN110591128A (en)	2019-12-20	Preparation method of high-toughness pressure-resistant heat-conducting gasket
+TW202144517A (en)	2021-12-01	Thin thermal conductive composite adhesives and methods for making the same
+JP3838634B2 (en)	2006-10-25	Treatment of fluoro rubber sealant
+CN120865661B (en)	2026-01-30	Sealing material of perfluoro ether rubber and preparation method thereof
+KR102482260B1 (en)	2022-12-29	Planar heating element composition for semiconductor electrostatic chuck heater
+CN115612447B (en)	2024-07-12	High-performance bus product sealant and preparation method thereof
+CN110723979B (en)	2022-02-08	MAX phase ceramic connection method
+CN119285831B (en)	2025-07-04	A method for preparing fusible polytetrafluoroethylene pipe
+CN116731290B (en)	2025-12-09	Modified epoxy curing agent, medium-temperature curing epoxy pouring sealant and preparation method thereof
+CN122011659A (en)	2026-05-12	Modified polytetrafluoroethylene material for electrolytic tank and preparation method thereof
+CN121271208A (en)	2026-01-06	High-performance polyether-ether-ketone modified sealing material and preparation method thereof
+CN120623964A (en)	2025-09-12	High temperature resistant conductive adhesive and preparation method thereof
+CN114752327A (en)	2022-07-15	Multi-component epoxy resin adhesive and preparation method thereof
+
+=== TABLE 11 (7 rows) ===
+Date	Code	Title	Description
+2025-03-04	PB01	Publication	
+2025-03-04	PB01	Publication	
+2025-03-21	SE01	Entry into force of request for substantive examination	
+2025-03-21	SE01	Entry into force of request for substantive examination	
+2025-08-05	GR01	Patent grant	
+2025-08-05	GR01	Patent grant	

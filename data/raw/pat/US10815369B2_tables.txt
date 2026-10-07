@@ -1,0 +1,168 @@
+# US10815369B2 :: US10815369B2 - Composition and molded article 
+        - Google Patents
+
+=== TABLE 0 (6 rows) ===
+	TABLE 1
+	
+				Comparative
+	Example 1	Example 2	Example 3	Example 1
+	
+
+
+=== TABLE 1 (11 rows) ===
+Composition	Fluorine-containing elastomer	100	100	100	100
+(parts by mass)	Crosslinker	0.8	0.8	0.8	0.8
+	m-Phenylenediamine-terminated	10	0	0	0
+	hyperbranched polymer
+	o-Phenylenediamine-terminated	0	10	0	0
+	hyperbranched polymer
+	m-Phenylenebis(trifluoroacetamide)	0	0	10	0
+	hyperbranched polymer
+Amount of material	Oxygen plasma	22700	22100	21500	31900
+etched (nm)	CF4 Plasma	5300	5500	4800	8400
+
+
+=== TABLE 2 (6 rows) ===
+	TABLE 2
+	
+				Comparative
+	Example 4	Example 5	Example 6	Example 2
+	
+
+
+=== TABLE 3 (7 rows) ===
+Composition	Fluorine-containing elastomer	100	100	100	100
+(parts by mass)	m-Phenylenediamine-terminated	10	0	0	0
+	hyperbranched polymer
+	o-Phenylenediamine-terminated	0	10	0	0
+	hyperbranched polymer
+	m-Phenylenebis(trifluoroacetamide)	0	0	10	0
+	hyperbranched polymer
+
+=== TABLE 4 (2 rows) ===
+50% Mass reduction temperature (° C.)	479	474	475	457
+
+
+=== TABLE 5 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2016-157880		2016-08-10	
+JP2016157880		2016-08-10	
+PCT/JP2017/028820 WO2018030427A1 (en)	2016-08-10	2017-08-08	Composition and molded article
+
+=== TABLE 6 (3 rows) ===
+Publication Number	Publication Date
+US20190169415A1 US20190169415A1 (en)	2019-06-06
+US10815369B2 true US10815369B2 (en)	2020-10-27
+
+=== TABLE 7 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US16/324,186 Active 2037-11-05 US10815369B2 (en)	2016-08-10	2017-08-08	Composition and molded article
+
+=== TABLE 8 (8 rows) ===
+Country	Link
+US (1)	US10815369B2 (en)
+EP (1)	EP3486283B1 (en)
+JP (1)	JP6713600B2 (en)
+KR (1)	KR102168898B1 (en)
+CN (1)	CN109476896B (en)
+TW (1)	TWI693258B (en)
+WO (1)	WO2018030427A1 (en)
+
+=== TABLE 9 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP6789521B2 (en) *	2016-08-10	2020-11-25	国立大学法人秋田大学	Dendrimer, composition and molded product
+JP6493616B1 (en) *	2017-11-02	2019-04-03	ダイキン工業株式会社	Fluorine-containing elastomer composition and sheet for heat dissipation material
+CN109912908B (en) *	2017-12-13	2021-05-18	财团法人工业技术研究院	Substrate composition and substrate prepared therefrom
+EP3792290A4 (en) *	2018-05-07	2022-02-16	Ochanomizu University	Silsesquioxane
+KR102661274B1 (en) *	2018-12-28	2024-04-29	고쿠리츠다이가쿠 호오진 아키타 다이가쿠	Compositions and molded articles
+EP4021967B1 (en)	2019-08-27	2023-03-01	3M Innovative Properties Company	Curable fluoropolymer compositions comprising metal fluoride particles and articles therefrom
+US20220282079A1 (en) *	2019-09-05	2022-09-08	3M Innovative Properties Company	Composition and Article Including Fluoropolymer and Branched Silsesquioxane Polymer
+WO2021161580A1 (en) *	2020-02-13	2021-08-19	富士高分子工業株式会社	Heat resistant silicone resin composition and heat resistant silicone resin composite material
+
+=== TABLE 10 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH02219848A (en)	1989-02-22	1990-09-03	Nippon Mektron Ltd	Peroxide-vulcanizable fluoroelastomer composition
+US5187222A (en)	1989-02-22	1993-02-16	Nippon Moktron Limited	Peroxide-vulcanizable, fluorine-containing elastomer composition
+JPH06302527A (en)	1993-04-19	1994-10-28	Mitsubishi Cable Ind Ltd	Seal for semiconductor manufacturing equipment
+WO2000064980A1 (en)	1999-04-23	2000-11-02	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+WO2001032782A1 (en)	1999-11-04	2001-05-10	Daikin Industries, Ltd.	Molded elastomer for semiconductor production apparatus and crosslinkable fluoroelastomer composition
+WO2004094527A1 (en)	2003-04-22	2004-11-04	Daikin Industries Ltd.	Fluorine-containing elastomer composition with excellent plasma-aging prevention effect and shaped article made thereof
+US7193015B1 (en)	2000-03-24	2007-03-20	Mabry Joseph M	Nanostructured chemicals as alloying agents in fluorinated polymers
+US20100286327A1 (en)	2009-05-05	2010-11-11	Xerox Corporation	Fuser member having composite outer layer
+US20100317787A1 (en)	2009-06-12	2010-12-16	Toyota Motor Engineering & Manufacturing North America, Inc.	Methods and Compositions for Pigmented Self-Stratifying Coatings
+WO2016133108A1 (en)	2015-02-20	2016-08-25	国立大学法人秋田大学	Composition and molded article
+
+=== TABLE 11 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5871906A (en)	1981-10-22	1983-04-28	Daikin Ind Ltd	Manufacture of fluorine-containing elastic copolymer
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+US4513128A (en)	1983-06-23	1985-04-23	E. I. Du Pont De Nemours And Company	Fluorinated vinyl ether copolymers having low glass transition temperatures
+JPS61223007A (en)	1985-03-28	1986-10-03	Daikin Ind Ltd	Emulsion polymerization of fluoroelastomer
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+NO322724B1 (en) *	2004-04-15	2006-12-04	Sinvent As	Process for preparing polybranched organic / inorganic hybrid polymer
+US9688786B2 (en) *	2011-06-09	2017-06-27	Solvay Specialty Polymers Italy S.P.A.	Hyperbranched fluoroelastomer additive
+
+=== TABLE 12 (18 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH02219848A (en)	1989-02-22	1990-09-03	Nippon Mektron Ltd	Peroxide-vulcanizable fluoroelastomer composition
+US5187222A (en)	1989-02-22	1993-02-16	Nippon Moktron Limited	Peroxide-vulcanizable, fluorine-containing elastomer composition
+JPH06302527A (en)	1993-04-19	1994-10-28	Mitsubishi Cable Ind Ltd	Seal for semiconductor manufacturing equipment
+WO2000064980A1 (en)	1999-04-23	2000-11-02	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+US6642300B1 (en)	1999-04-23	2003-11-04	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+WO2001032782A1 (en)	1999-11-04	2001-05-10	Daikin Industries, Ltd.	Molded elastomer for semiconductor production apparatus and crosslinkable fluoroelastomer composition
+US20030045623A1 (en)	1999-11-04	2003-03-06	Katsuhiko Higashino	Elastomer molded article and crosslinkable fluorine-containing elastomer composition for semi-conductor production apparatuses
+US7193015B1 (en)	2000-03-24	2007-03-20	Mabry Joseph M	Nanostructured chemicals as alloying agents in fluorinated polymers
+US20060235140A1 (en)	2003-04-22	2006-10-19	Hiroyuki Tanaka	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+WO2004094527A1 (en)	2003-04-22	2004-11-04	Daikin Industries Ltd.	Fluorine-containing elastomer composition with excellent plasma-aging prevention effect and shaped article made thereof
+US20100286327A1 (en)	2009-05-05	2010-11-11	Xerox Corporation	Fuser member having composite outer layer
+JP2010262290A (en)	2009-05-05	2010-11-18	Xerox Corp	Fuser member having composite outer layer
+US20120257914A1 (en) *	2009-05-05	2012-10-11	Xerox Corporation	Fuser member having composite outer layer
+US20100317787A1 (en)	2009-06-12	2010-12-16	Toyota Motor Engineering & Manufacturing North America, Inc.	Methods and Compositions for Pigmented Self-Stratifying Coatings
+WO2016133108A1 (en)	2015-02-20	2016-08-25	国立大学法人秋田大学	Composition and molded article
+EP3260490A1 (en)	2015-02-20	2017-12-27	Akita University	Composition and molded article
+US20180030246A1 (en)	2015-02-20	2018-02-01	Akita University	Composition and molded article
+
+=== TABLE 13 (2 rows) ===
+Title
+Matsumoto et al., "Synthesis and properties on aromatic polyamide dendrimers with polyhedral oligomeric silsesquioxane cores", Polymer Chemistry, vol. 6, 2015, pp. 4758-4765.
+
+=== TABLE 14 (14 rows) ===
+Publication number	Publication date
+KR102168898B1 (en)	2020-10-22
+CN109476896B (en)	2021-05-18
+TW201825597A (en)	2018-07-16
+JP6713600B2 (en)	2020-06-24
+WO2018030427A1 (en)	2018-02-15
+KR20190039194A (en)	2019-04-10
+JPWO2018030427A1 (en)	2019-02-21
+EP3486283A4 (en)	2020-03-11
+EP3486283B1 (en)	2022-06-15
+US20190169415A1 (en)	2019-06-06
+CN109476896A (en)	2019-03-15
+TWI693258B (en)	2020-05-11
+EP3486283A1 (en)	2019-05-22
+
+=== TABLE 15 (13 rows) ===
+Publication	Publication Date	Title
+EP3486283B1 (en)	2022-06-15	Composition and molded article
+JP5487584B2 (en)	2014-05-07	Crosslinkable elastomer composition and molded article comprising the composition
+US10138352B2 (en)	2018-11-27	Fluoroelastomer composition and molded article
+US12297341B2 (en)	2025-05-13	Fluorine-containing elastomer composition and article
+JP5553320B2 (en)	2014-07-16	Crosslinkable fluorine-containing elastomer composition and molded article produced from the composition
+US10377881B2 (en)	2019-08-13	Composition and molded article
+US20210292451A1 (en)	2021-09-23	Fluoropolymer-containing composition and molded article
+KR20200042920A (en)	2020-04-24	Crosslinkable elastomer composition and fluorine rubber molded article
+US12304984B2 (en)	2025-05-20	Composition containing fluorine-containing polymer and crosslinked article
+US12091537B2 (en)	2024-09-17	Composition and molded article containing fluorine-containing polymer
+US10961353B2 (en)	2021-03-30	Polymer, composition, and molded article
+JP6789521B2 (en)	2020-11-25	Dendrimer, composition and molded product
+
+=== TABLE 16 (7 rows) ===
+Date	Code	Title	Description
+2019-02-08	AS	Assignment	Owner name: AKITA UNIVERSITY, JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MATSUMOTO, KAZUYA;JIKEI, MITSUTOSHI;YAMAKAWA, SUMITO;AND OTHERS;SIGNING DATES FROM 20170901 TO 20190123;REEL/FRAME:048275/0568 Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MATSUMOTO, KAZUYA;JIKEI, MITSUTOSHI;YAMAKAWA, SUMITO;AND OTHERS;SIGNING DATES FROM 20170901 TO 20190123;REEL/FRAME:048275/0568
+2019-02-08	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2019-04-30	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2020-07-01	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2020-10-07	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2024-04-10	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 4

@@ -1,0 +1,89 @@
+# CN111925615B :: CN111925615B - High-strength high-modulus perfluoroether rubber material and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202010664376.8A CN111925615B (en)	2020-07-10	2020-07-10	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202010664376.8A CN111925615B (en)	2020-07-10	2020-07-10	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN111925615A CN111925615A (en)	2020-11-13
+CN111925615B true CN111925615B (en)	2022-04-29
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202010664376.8A Active CN111925615B (en)	2020-07-10	2020-07-10	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN111925615B (en)
+
+=== TABLE 5 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112457612B (en) *	2020-11-16	2023-03-10	上海如实密封科技有限公司	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+CN113861597A (en) *	2021-09-15	2021-12-31	宁波德固赛密封科技有限公司	FFKM sealing ring for gas supply of wafer processing equipment end and preparation method thereof
+CN113861598A (en) *	2021-09-15	2021-12-31	宁波德固赛密封科技有限公司	FFKM sealing ring for wafer processing process cavity application system and preparation method thereof
+CN116694007A (en) *	2023-06-25	2023-09-05	嘉兴金氟微电子材料有限公司	Perfluoro ether rubber material bonded with metal
+CN117362873A (en) *	2023-09-06	2024-01-09	上海森桓新材料科技有限公司	Preparation method of perfluoroether elastomer composition
+CN118006062B (en) *	2024-02-29	2024-12-17	惠州市协同橡塑材料有限公司	High-temperature-resistant perfluoroether rubber composition and preparation method thereof
+CN119613897B (en) *	2024-12-18	2025-08-12	福建永泓高新材料有限公司	A low-temperature resistant perfluoroether rubber and its preparation method
+CN120865661B (en) *	2025-09-26	2026-01-30	上海熹贾精密技术有限公司	Sealing material of perfluoro ether rubber and preparation method thereof
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN106380752A (en) *	2016-08-31	2017-02-08	江苏千富之丰科技有限公司	Super-high wear-resistant fluorine-containing elastomer and preparation method thereof
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+
+=== TABLE 7 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN106380752A (en) *	2016-08-31	2017-02-08	江苏千富之丰科技有限公司	Super-high wear-resistant fluorine-containing elastomer and preparation method thereof
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+
+=== TABLE 8 (2 rows) ===
+Title
+石墨烯与氟橡胶机械共混法的应用探讨;邢华艳等;《有机氟工业》;20161231(第4期);第22-25、36页 *
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN111925615A (en)	2020-11-13
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN111925615A (en)	2020-11-13	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+CN111849094B (en)	2022-04-15	High-strength high-modulus fluororubber composition and preparation method and application thereof
+CN106633544B (en)	2019-07-19	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+CN102617956B (en)	2014-08-13	Fluorine rubber, silicone rubber and fluorinated silicone rubber ter-blending high/low temperature resistant oil-proof material and preparation method thereof
+KR100943526B1 (en)	2010-02-22	Rubber composition for tire inner liner
+CN102115563B (en)	2012-12-12	Sealing element raw material applied to electrical appliance in high temperature, high pressure or high humidity environment and preparation method thereof
+EP2883908B1 (en)	2016-12-21	Nbr composition
+CN102408654A (en)	2012-04-11	Cable sheath material for offshore platform and preparation method thereof
+CN112457612A (en)	2021-03-09	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+CN106751257A (en)	2017-05-31	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN112592548B (en)	2023-02-24	Low-temperature-resistant fluororubber composition and application thereof
+WO2024022526A1 (en)	2024-02-01	Preparation method for epdm insulating rubber, and use of epdm insulating rubber
+CN103694710A (en)	2014-04-02	Rubber-plastic blended heat-resistant oil-resistant cable sheath material and preparation method thereof
+CN105111518B (en)	2017-06-16	Lignocellulosic/montmorillonite/native rubber composite material and preparation method thereof
+CN102585311B (en)	2015-03-18	Fuel resistant rubber material
+CN107815028B (en)	2020-03-20	Ethylene propylene rubber and preparation method thereof
+CN109749316B (en)	2021-11-02	High-temperature water environment resistant tetrapropylene fluoride rubber composition and preparation method thereof
+CN104151636A (en)	2014-11-19	Rubber material with excellent damping property and preparation method
+CN107337859A (en)	2017-11-10	Oil-immersed pump electric power cable oil resistant EP rubbers sheath material and preparation method thereof
+CN104829877A (en)	2015-08-12	High damping rubber composite material for bearer and preparation method thereof
+CN108659545B (en)	2020-05-15	A kind of silicone rubber composite material and preparation method thereof
+CN110157124A (en)	2019-08-23	A kind of tetrapropanate fluorine rubber composition of hydrogen sulfide corrosion-resistant and its application
+EP0481810B1 (en)	1997-06-25	Rubber composition for laminated vibrationproofing structure
+CN109485941B (en)	2023-06-09	Rubber composition containing modified phenolic resin compound and application thereof
+JPH04212844A (en)	1992-08-04	Rubber composition for earthquakeproof laminate
+
+=== TABLE 11 (7 rows) ===
+Date	Code	Title	Description
+2020-11-13	PB01	Publication	
+2020-11-13	PB01	Publication	
+2020-12-01	SE01	Entry into force of request for substantive examination	
+2020-12-01	SE01	Entry into force of request for substantive examination	
+2022-04-29	GR01	Patent grant	
+2022-04-29	GR01	Patent grant	

@@ -1,0 +1,257 @@
+# US6503972B1 :: US6503972B1 - White elastomer seal materials and a process for manufacture thereof 
+        - Google Patents
+
+=== TABLE 0 (10 rows) ===
+TABLE 1
+
+Aqueous hydrogen peroxide	About	About	About	60-80° C.
+solution, temperature	20° C.	60° C.	60° C.
+Aqueous hydrogen peroxide	3%	0.1%	1%	1-3%
+solution, concentration
+Dipping time	90-100	30-40	10-15	8-12
+	hrs	hrs	hrs	hrs
+Whiteness W (Lab)	80-89	80-89	80-89	80-89
+
+
+=== TABLE 1 (9 rows) ===
+	TABLE 2
+	
+	Aqueous hydrogen peroxide	About	About	About
+	solution, temperature	60° C.	80° C.	80° C.
+	Aqueous hydrogen peroxide	4%	3%	10%
+	solution, concentration
+	Dipping time	96 hrs	72 hrs	48 hrs
+	Whiteness W (Lab)	90-	90-	90-
+	
+
+=== TABLE 2 (10 rows) ===
+TABLE 3
+
+Chamber internal	room	20° C.	20° C.	180° C.	180° C.
+temperature	temp.
+Ozone	3%	3%	10%	3%	3%
+concentration
+Ozone exposure	Approx.	30 min	20 min	8 min	12 min
+time	5 min
+Whiteness W (Lab)	80-89	90-94	90-94	90-94	95-
+
+
+=== TABLE 3 (7 rows) ===
+	
+	Polymer	100	parts by weight
+	Titanium dioxide	20	parts by weight
+	Proton Sponge ™	0.5	parts by weight
+	Trimethylallylisocyanurate	2.0	parts by weight
+	Luperco ™ 101-XL	3.0	parts by weight
+	
+
+=== TABLE 4 (9 rows) ===
+	TABLE 4
+	
+					Percent	Percent	Percent
+					reflectance	reflectance	reflectance
+	Ozone or	Chamber			at	at	at
+	H2O2	internal	Irradiation	Whiteness	wavelength	wavelength	wavelength
+	Concentration	temperature	time	W (Lab)	750 nm	1000 nm	1250 nm
+	
+
+
+=== TABLE 5 (11 rows) ===
+Ex. 1	3% OZONE	180° C.	30	97	86.43%	85.73%	83.70%
+			minutes
+Ex. 2	3% OZONE	180° C.	8	94	79.32%	77.48%	77.56%
+			minutes
+Comp.	3%	80° C.	10	84	70.48%	73.49%	74.43%
+Ex. 1	H2O2		hours
+Comp.	1%	80° C.	10	82	67.82%	71.75%	73.28%
+Ex. 2	H2O2		hours
+Comp.	10%	20° C.	8	78	61.72%	66.68%	69.37%
+Ex. 3	H2O2		hours
+
+
+=== TABLE 6 (7 rows) ===
+	
+	Polymer	100	parts by weight
+	Titanium dioxide	20	parts by weight
+	Proton Sponge ™	0.5	parts by weight
+	Trimethylallylisocyanurate	2.0	parts by weight
+	Luperco ™ 101-XL	3.0	parts by weight
+	
+
+=== TABLE 7 (7 rows) ===
+	
+	Polymer	100	parts by weight
+	18-crown-6 polyether	0.2	parts by weight
+	Polytetrafluoroethylene	2	parts by weight
+	Titanium dioxide	3	parts by weight
+	Tetraphenyltin	2	parts by weight
+	
+
+=== TABLE 8 (6 rows) ===
+	TABLE 5
+	
+					Comp.	Comp.
+	Ex. 3	Ex. 4	Ex. 5	Ex. 6	Ex. 4	Ex. 5
+	
+
+
+=== TABLE 9 (10 rows) ===
+White pigment	16	16	16	16	16	5
+(% by weight)
+Dipping time	16	40	72	96	0	0
+(hours)
+Whiteness W (Lab)	84	87	90	91	73	35
+Tensile strength	147	140	141	135	167	—
+(kgf/cm2)
+Elongation at the	185	198	208	174	175	—
+break (%)
+
+
+=== TABLE 10 (5 rows) ===
+	TABLE 6
+	
+	Ex. 7	Ex. 8	Ex. 9	Ex. 10	Ex. 11
+	
+
+
+=== TABLE 11 (12 rows) ===
+Ozone	No	No	Yes	Yes	Yes
+UV	Yes	Yes	Yes	No	Yes
+Chamber Internal	20	180	20	180	180
+temperature (° C.)
+Ozone and/or UV	180	180	180	180	180
+Exposure time (min)
+Whiteness W (Lab)	88	85	93	97	96
+Tensile strength	170	171	172	177	198
+(kgf/cm2)
+Elongation at the break	271	280	275	270	298
+(%)
+
+
+=== TABLE 12 (16 rows) ===
+	TABLE 7
+	
+	Sample	12A	12B	12C	12D
+	
+	Initial whiteness	63.4	72.2	74.8	80.2
+	value
+	Whiteness after 15	71.8	85.0	87.4	91.5
+	minute exposure to
+	ozone
+	Whiteness after 30	77.1	86.8	88.8	92.3
+	minute exposure to
+	ozone
+	Whiteness after 60	78.9	87.8	90.2	93.3
+	minute exposure to
+	ozone
+	
+
+=== TABLE 13 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP15040498		1998-05-29	
+JP14647899A JP4550954B2 (en)	1998-05-29	1999-05-26	White elastomer sealing material and method for producing the same
+PCT/JP1999/002846 WO1999062994A1 (en)	1998-05-29	1999-05-28	White elastomer seal materials and a process for manufacture thereof
+
+=== TABLE 14 (2 rows) ===
+Publication Number	Publication Date
+US6503972B1 true US6503972B1 (en)	2003-01-07
+
+=== TABLE 15 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US09/700,437 Expired - Lifetime US6503972B1 (en)	1998-05-29	1999-05-28	White elastomer seal materials and a process for manufacture thereof
+
+=== TABLE 16 (7 rows) ===
+Country	Link
+US (1)	US6503972B1 (en)
+EP (1)	EP1084179B1 (en)
+JP (1)	JP4550954B2 (en)
+KR (1)	KR100583342B1 (en)
+DE (1)	DE69929329T2 (en)
+WO (1)	WO1999062994A1 (en)
+
+=== TABLE 17 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20040162395A1 (en) *	2003-02-14	2004-08-19	3M Innovative Properties Company	Fluoroelastomer compositions
+US8664817B2 (en)	2010-09-13	2014-03-04	Baker Hughes Incorporated	Electrical submersible pump system having high temperature insulation materials and buffered lubricant
+US20160032039A1 (en) *	2013-04-09	2016-02-04	Nichias Corporation	Method for producing crosslinked fluoroelastomer
+US10723872B2 (en)	2015-11-30	2020-07-28	Nichias Corporation	Crosslinkable elastomer composition, molded article, seal member, plasma treatment apparatus and semiconductor manufacturing apparatus including said seal member, and agent for decreasing hardness of molded article, method for producing molded article
+
+=== TABLE 18 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP4778782B2 (en)	2004-12-28	2011-09-21	ニチアス株式会社	Sealing material
+CN102171012B (en) *	2008-07-25	2014-10-01	汉高美国知识产权有限责任公司	Mold Components and Attenuated Light Method for Manufacturing Molded Articles
+JP5805460B2 (en) *	2011-08-22	2015-11-04	エア・ウォーター・マッハ株式会社	Rubber sealing member and manufacturing method thereof
+
+=== TABLE 19 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+GB1394911A (en)	1972-01-03	1975-05-21	Hoechst Ag	Process for finishing fibrous materials
+US4316836A (en)	1980-04-23	1982-02-23	E. I. Du Pont De Nemours And Company	Stabilized fluoroelastomer compositions
+US5501827A (en)	1993-01-29	1996-03-26	Garlock Inc.	Laser markable polytetrafluoroethylene resin material and method of making
+US5696189A (en)	1995-12-01	1997-12-09	E. I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+EP0870792A1 (en)	1997-04-09	1998-10-14	E.I. Du Pont De Nemours And Company	Fluoropolymer Stabilization
+
+=== TABLE 20 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2961398B2 (en) *	1995-06-20	1999-10-12	鈴木ゴム株式会社	White rubber used for food manufacturing machinery and equipment
+JPH11181098A (en) *	1997-12-25	1999-07-06	Daikin Ind Ltd	Method for modifying fluoropolymer
+JPH11279530A (en) *	1998-03-26	1999-10-12	Nichias Corp	Packing manufacturing method
+
+=== TABLE 21 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+GB1394911A (en)	1972-01-03	1975-05-21	Hoechst Ag	Process for finishing fibrous materials
+US4316836A (en)	1980-04-23	1982-02-23	E. I. Du Pont De Nemours And Company	Stabilized fluoroelastomer compositions
+US5501827A (en)	1993-01-29	1996-03-26	Garlock Inc.	Laser markable polytetrafluoroethylene resin material and method of making
+US5696189A (en)	1995-12-01	1997-12-09	E. I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+EP0870792A1 (en)	1997-04-09	1998-10-14	E.I. Du Pont De Nemours And Company	Fluoropolymer Stabilization
+
+=== TABLE 22 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20040162395A1 (en) *	2003-02-14	2004-08-19	3M Innovative Properties Company	Fluoroelastomer compositions
+US6956085B2 (en)	2003-02-14	2005-10-18	3M Innovative Properties Company	Fluoroelastomer compositions
+US8664817B2 (en)	2010-09-13	2014-03-04	Baker Hughes Incorporated	Electrical submersible pump system having high temperature insulation materials and buffered lubricant
+US8692115B2 (en)	2010-09-13	2014-04-08	Baker Hughes Incorporated	Electrical submersible pump system having high temperature insulation materials
+US8704416B2 (en)	2010-09-13	2014-04-22	Baker Hughes Incorporated	Electrical submersible pump system having improved magnet wire leads
+US8772997B2 (en)	2010-09-13	2014-07-08	Baker Hughes Incorporated	Electrical submersible pump system having high temperature slot, end bell and phase-to-phase insulation
+US20160032039A1 (en) *	2013-04-09	2016-02-04	Nichias Corporation	Method for producing crosslinked fluoroelastomer
+US10723872B2 (en)	2015-11-30	2020-07-28	Nichias Corporation	Crosslinkable elastomer composition, molded article, seal member, plasma treatment apparatus and semiconductor manufacturing apparatus including said seal member, and agent for decreasing hardness of molded article, method for producing molded article
+
+=== TABLE 23 (10 rows) ===
+Publication number	Publication date
+KR100583342B1 (en)	2006-05-25
+EP1084179B1 (en)	2006-01-04
+JP4550954B2 (en)	2010-09-22
+WO1999062994A1 (en)	1999-12-09
+KR20010043880A (en)	2001-05-25
+JP2000044930A (en)	2000-02-15
+EP1084179A1 (en)	2001-03-21
+DE69929329D1 (en)	2006-03-30
+DE69929329T2 (en)	2006-09-21
+
+=== TABLE 24 (16 rows) ===
+Publication	Publication Date	Title
+US6191208B1 (en)	2001-02-20	Thermally stable perfluoroelastomer composition
+JP3523258B2 (en)	2004-04-26	High purity fluoroelastomer compound
+US6221970B1 (en)	2001-04-24	Curable perfluoroelastomer composition
+EP1112311B1 (en)	2003-10-15	Curable perfluoroelastomer composition
+US5696189A (en)	1997-12-09	Perfluoroelastomer compositions
+EP1753814B1 (en)	2007-12-12	Blends of perfluoroelastomers and fluoroplastics
+EP2691452B1 (en)	2018-11-28	Curable fluoroelastomer composition
+US20240327633A1 (en)	2024-10-03	Perfluoroelastomer composition and perfluoroelastomer crosslinked article
+EP1084179B1 (en)	2006-01-04	White elastomer seal materials and a process for manufacture thereof
+WO2024112628A1 (en)	2024-05-30	Fluoroelastomer compounds
+EP2864409B1 (en)	2016-05-11	Curable fluoroelastomer composition
+KR101206666B1 (en)	2012-11-29	Blends of perfluoroelastomers and fluoroplastics
+EP2691454B1 (en)	2014-12-24	Curable fluoroelastomer composition
+CN101006133A (en)	2007-07-25	Blends of perfluoroelastomers and fluoroplastics
+EP2867284A1 (en)	2015-05-06	A process for reducing the electrostatic potential of perfluoroelastomer articles
+
+=== TABLE 25 (9 rows) ===
+Date	Code	Title	Description
+2002-03-14	AS	Assignment	Owner name: DUPONT DOW ELASTOMERS, L.L.C., DELAWARE Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:RAI, BUNICHI;SOGO, SHINICHI;REEL/FRAME:012730/0937;SIGNING DATES FROM 20020129 TO 20020131
+2002-12-19	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2006-06-09	FPAY	Fee payment	Year of fee payment: 4
+2010-06-09	FPAY	Fee payment	Year of fee payment: 8
+2011-11-18	AS	Assignment	Owner name: DUPONT PERFORMANCE ELASTOMERS L.L.C., DELAWARE Free format text: CHANGE OF NAME;ASSIGNOR:DUPONT DOW ELASTOMERS L.L.C.;REEL/FRAME:027249/0944 Effective date: 20050628
+2012-02-13	AS	Assignment	Owner name: E. I. DU PONT DE NEMOURS AND COMPANY, DELAWARE Free format text: CHANGE OF NAME;ASSIGNOR:DUPONT PERFORMANCE ELASTOMERS LLC;REEL/FRAME:027697/0185 Effective date: 20120124
+2014-06-11	FPAY	Fee payment	Year of fee payment: 12
+2019-06-25	AS	Assignment	Owner name: DUPONT POLYMERS, INC., DELAWARE Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:E. I. DU PONT DE NEMOURS AND COMPANY;REEL/FRAME:049587/0098 Effective date: 20190617

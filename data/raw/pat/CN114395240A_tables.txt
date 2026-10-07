@@ -1,0 +1,85 @@
+# CN114395240A :: CN114395240A - High-temperature-resistant ultra-pure perfluoroether rubber and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202111647514.2A CN114395240A (en)	2021-12-30	2021-12-30	High-temperature-resistant ultra-pure perfluoroether rubber and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202111647514.2A CN114395240A (en)	2021-12-30	2021-12-30	High-temperature-resistant ultra-pure perfluoroether rubber and preparation method thereof
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+CN114395240A true CN114395240A (en)	2022-04-26
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202111647514.2A Pending CN114395240A (en)	2021-12-30	2021-12-30	High-temperature-resistant ultra-pure perfluoroether rubber and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN114395240A (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN115558313A (en) *	2022-09-08	2023-01-03	中绿新材料（江苏）有限公司	Fluororubber composite material for transparent UV-resistant wearable equipment and preparation method thereof
+CN116838789A (en) *	2023-07-03	2023-10-03	东莞市润银实业有限公司	A kind of high temperature resistant ultra-clean perfluoroether rubber and preparation method
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN104530610A (en) *	2014-12-29	2015-04-22	中国兵器工业集团第五三研究所	Fluorine rubber-fluorosilicone rubber blend and preparation method thereof
+CN104974451A (en) *	2014-04-11	2015-10-14	辽宁省铁岭橡胶工业研究设计院	Anti-explosion rubber seal ring composition used for all-welded ball valve
+CN107690451A (en) *	2015-05-29	2018-02-13	索尔维特殊聚合物意大利有限公司	Fluoroelastomer composition
+CN112457612A (en) *	2020-11-16	2021-03-09	上海如实密封科技有限公司	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN104974451A (en) *	2014-04-11	2015-10-14	辽宁省铁岭橡胶工业研究设计院	Anti-explosion rubber seal ring composition used for all-welded ball valve
+CN104530610A (en) *	2014-12-29	2015-04-22	中国兵器工业集团第五三研究所	Fluorine rubber-fluorosilicone rubber blend and preparation method thereof
+CN107690451A (en) *	2015-05-29	2018-02-13	索尔维特殊聚合物意大利有限公司	Fluoroelastomer composition
+CN112457612A (en) *	2020-11-16	2021-03-09	上海如实密封科技有限公司	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 8 (2 rows) ===
+Title
+王珍: "三种含氟橡胶的性能对比" *
+
+=== TABLE 9 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN115558313A (en) *	2022-09-08	2023-01-03	中绿新材料（江苏）有限公司	Fluororubber composite material for transparent UV-resistant wearable equipment and preparation method thereof
+CN116838789A (en) *	2023-07-03	2023-10-03	东莞市润银实业有限公司	A kind of high temperature resistant ultra-clean perfluoroether rubber and preparation method
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+JP5084617B2 (en)	2012-11-28	Low tightening metal gasket
+CN105899600B (en)	2019-02-22	Perfluoroelastomer composition, and sealing material and method for producing the same
+EP2966122A1 (en)	2016-01-13	Acrylonitrile butadiene rubber composition, acrylonitrile butadiene rubber molded article, and method for producing same
+JP6611606B2 (en)	2019-11-27	Method for producing crosslinked fluoroelastomer
+CN107200972A (en)	2017-09-26	A kind of fluorine rubber microporous foam material and preparation method thereof
+CN107760038A (en)	2018-03-06	Expansion can porcelain SiClx rubber composite and preparation method thereof
+US6762215B2 (en)	2004-07-13	Radiation-modified poly(tetrafluoroethylene) resin feeds and a process for producing the same
+KR102467058B1 (en)	2022-11-14	Fluoro rubber composition for o-ring with excellent low compression set at high temperature
+JP2015537095A (en)	2015-12-24	Melt-processable perfluoropolymer with improved thermal and mechanical properties after heat treatment
+JP2017516903A (en)	2017-06-22	Melt-processable perfluoropolymer with improved thermal and mechanical properties after heat treatment
+CN115895146B (en)	2024-11-01	Low-temperature-resistant modified binary fluororubber compound and preparation method and application thereof
+CN110408218A (en)	2019-11-05	A kind of high temperature resistant silicone rubber and preparation method thereof
+CN109153835B (en)	2021-04-06	Perfluoroelastomer composition and sealing material
+CN114437478A (en)	2022-05-06	Low-temperature-resistant fluororubber/silicone rubber composite material and preparation method thereof
+CN103232706B (en)	2015-09-02	A kind of heat resist modification polyimide and preparation method thereof
+CN103102435B (en)	2016-03-02	A kind of preparation method of PVDF resin of good thermal stability
+CN114316482A (en)	2022-04-12	Rubber high-molecular elastomer and preparation method thereof
+CN118006062B (en)	2024-12-17	High-temperature-resistant perfluoroether rubber composition and preparation method thereof
+CN112679889A (en)	2021-04-20	Thermal-shock-resistant peroxide fluororubber for sealing power battery
+CN120718383B (en)	2025-11-11	Polytetrafluoroethylene (PTFE) composite materials, preparation methods of PTFE composite materials and their applications in pipes.
+CN121517836A (en)	2026-02-13	A fluororubber resistant to pure carbon dioxide gas explosion at ultra-low temperatures and its preparation method
+CN121949943A (en)	2026-05-01	Low-temperature high-fluorine-content carbon dioxide-resistant antiknock fluororubber and preparation method thereof
+EP2864409A1 (en)	2015-04-29	Curable fluoroelastomer composition
+WO2026011729A1 (en)	2026-01-15	Low-permeability polytetrafluoroethylene tubes and preparation method therefor
+CN121699317A (en)	2026-03-20	High-purity plasma corrosion-resistant perfluoroether rubber material and preparation method thereof
+
+=== TABLE 11 (5 rows) ===
+Date	Code	Title	Description
+2022-04-26	PB01	Publication	
+2022-04-26	PB01	Publication	
+2022-05-13	SE01	Entry into force of request for substantive examination	
+2022-05-13	SE01	Entry into force of request for substantive examination	

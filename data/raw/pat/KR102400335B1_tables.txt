@@ -1,0 +1,85 @@
+# KR102400335B1 :: KR102400335B1 - A sealing material for a semiconductor manufacturing apparatus with improved plasma resistance in an oxygen atmosphere and a fluorine atmosphere plasma process 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020210150237A KR102400335B1 (en)	2021-11-04	2021-11-04	A sealing material for a semiconductor manufacturing apparatus with improved plasma resistance in an oxygen atmosphere and a fluorine atmosphere plasma process
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020210150237A KR102400335B1 (en)	2021-11-04	2021-11-04	A sealing material for a semiconductor manufacturing apparatus with improved plasma resistance in an oxygen atmosphere and a fluorine atmosphere plasma process
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR102400335B1 true KR102400335B1 (en)	2022-05-23
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020210150237A Active KR102400335B1 (en)	2021-11-04	2021-11-04	A sealing material for a semiconductor manufacturing apparatus with improved plasma resistance in an oxygen atmosphere and a fluorine atmosphere plasma process
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR102400335B1 (en)
+
+=== TABLE 5 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR100837122B1 (en)	2007-03-15	2008-06-11	주식회사 엠앤이	Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+KR100894110B1 (en)	2007-10-24	2009-04-20	주식회사 엠앤이	Perfluoro rubbers for semiconductor sealing with improved elongation
+KR100899134B1 (en) *	2007-12-27	2009-05-25	주식회사 엠앤이	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+KR100918351B1 (en)	2005-02-15	2009-09-22	닛폰 바루카 고교 가부시키가이샤	Sealing material for semiconductor manufacturing apparatus
+JP2017179210A (en) *	2016-03-31	2017-10-05	ニチアス株式会社	Fluorine elastomer composition, molded article, sealant, and plasma treatment device and semiconductor manufacturing device containing sealant
+
+=== TABLE 6 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR100918351B1 (en)	2005-02-15	2009-09-22	닛폰 바루카 고교 가부시키가이샤	Sealing material for semiconductor manufacturing apparatus
+KR100837122B1 (en)	2007-03-15	2008-06-11	주식회사 엠앤이	Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+KR100894110B1 (en)	2007-10-24	2009-04-20	주식회사 엠앤이	Perfluoro rubbers for semiconductor sealing with improved elongation
+KR100899134B1 (en) *	2007-12-27	2009-05-25	주식회사 엠앤이	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+JP2017179210A (en) *	2016-03-31	2017-10-05	ニチアス株式会社	Fluorine elastomer composition, molded article, sealant, and plasma treatment device and semiconductor manufacturing device containing sealant
+
+=== TABLE 7 (20 rows) ===
+Publication	Publication Date	Title
+CN101120435B (en)	2010-05-19	Sealing materials for semiconductor manufacturing equipment
+TWI406897B (en)	2013-09-01	Fluorine-containing rubber composition capable of forming a crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+CN1891761B (en)	2010-10-06	Cross-linkable elastomer composition and molded article formed from the composition
+CN114456524B (en)	2023-08-11	Crosslinkable elastomer composition and fluororubber molded article
+JP4254538B2 (en)	2009-04-15	Elastomer molded product
+EP3901206B1 (en)	2025-07-09	Perfluoroelastomer composition, crosslinked perfluoroelastomer and molded article
+JP4534956B2 (en)	2010-09-01	Fluorine-containing elastomer composition
+JP4331368B2 (en)	2009-09-16	Seal for semiconductor manufacturing equipment
+EP2230263B1 (en)	2017-05-24	Fluorine-containing elastomer
+TW202248334A (en)	2022-12-16	Uncrosslinked fluororubber composition, seal material produced using same, and method for producing same
+KR102713660B1 (en)	2024-10-07	Perfluoro elastomer and fluororubber composite with improved heat resistance
+JP3632888B2 (en)	2005-03-23	Plasma-resistant sealing material
+TWI821469B (en)	2023-11-11	Elastomer compositions and sealing materials
+KR101692765B1 (en)	2017-01-04	Fluorine-containing elastomer and vulcanizable composition thereof
+WO2021152872A1 (en)	2021-08-05	Fluorine-containing elastomer composition and sealing material
+JP2002173543A (en)	2002-06-21	Plasma resistant fluoroelastomer moldings
+KR102408050B1 (en)	2022-06-14	EPDM rubber gasket containing ion functional group with excellent durability under high pressure hydrogen gas and menufacturing method of gasket using the same
+CN114196146A (en)	2022-03-18	Preparation method and application of semiconductor sealing element
+JP2001164066A (en)	2001-06-19	Plasma resistant fluoro rubber composition
+
+=== TABLE 8 (23 rows) ===
+Date	Code	Title	Description
+2021-11-04	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2021-11-04	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2021-11-25	PA0302	Request for accelerated examination	St.27 status event code: A-1-2-D10-D17-exm-PA0302 St.27 status event code: A-1-2-D10-D16-exm-PA0302
+2021-12-07	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2021-12-16	D14-X000	Search report completed	St.27 status event code: A-1-2-D10-D14-srh-X000
+2022-01-11	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2022-03-11	E13-X000	Pre-grant limitation requested	St.27 status event code: A-2-3-E10-E13-lim-X000
+2022-03-11	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2022-03-11	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2022-04-25	E701	Decision to grant or registration of patent right	
+2022-04-25	PE0701	Decision of registration	St.27 status event code: A-1-2-D10-D22-exm-PE0701
+2022-05-17	GRNT	Written decision to grant	
+2022-05-17	PR0701	Registration of establishment	St.27 status event code: A-2-4-F10-F11-exm-PR0701
+2022-05-17	PR1002	Payment of registration fee	St.27 status event code: A-2-2-U10-U11-oth-PR1002 Fee payment year number: 1
+2022-05-23	PG1601	Publication of registration	St.27 status event code: A-4-4-Q10-Q13-nap-PG1601
+2022-05-27	P14-X000	Amendment of ip right document requested	St.27 status event code: A-5-5-P10-P14-nap-X000
+2022-05-27	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2022-06-10	P14-X000	Amendment of ip right document requested	St.27 status event code: A-5-5-P10-P14-nap-X000
+2022-06-13	P16-X000	Ip right document amended	St.27 status event code: A-5-5-P10-P16-nap-X000
+2022-06-13	Q16-X000	A copy of ip right certificate issued	St.27 status event code: A-4-4-Q10-Q16-nap-X000
+2025-04-29	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 4
+2026-01-06	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000

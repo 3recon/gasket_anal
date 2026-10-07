@@ -1,0 +1,412 @@
+# US6956085B2 :: US6956085B2 - Fluoroelastomer compositions 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+TABLE 1
+
+Formulations
+
+=== TABLE 1 (1 rows) ===
+	Example
+
+=== TABLE 2 (2 rows) ===
+	1	2	3	4	5	6	7
+
+
+=== TABLE 3 (13 rows) ===
+Perfluoroelastomer A						100	
+Perfluoroelastomer B	100	100	100	100	100		100
+Curative A	0.8
+Curative B		0.5
+Curative C			1.0
+Curative D				0.5	0.4
+Curative E						2.0
+Curative F							0.5
+Aerosil R-972	1.5	1.5	1.5	1.5			1.5
+N990 Black					20	15
+Titanium dioxide	4	4	4	4			4
+Barium sulfate	40	40	40	40			40
+
+
+=== TABLE 4 (3 rows) ===
+TABLE 2
+
+CE Formulations
+
+=== TABLE 5 (1 rows) ===
+	Example
+
+=== TABLE 6 (2 rows) ===
+	CE-1	CE-2	CE-3	CE-4
+	
+
+=== TABLE 7 (9 rows) ===
+Perfluoroelastomer B	100	100	100	100
+4-amino-2,6-dichlorophenol	0.5
+Ethyl 2-aminobenzoate		0.6
+Ethyl 4-aminobenzoate			0.6
+3,5-bis(trifluoromethyl)-aniline				1.3
+Aerosil R-972	1.5	1.5	1.5	1.5
+Titanium dioxide		4	4	4
+Barium sulfate		40	40	40
+
+
+=== TABLE 8 (3 rows) ===
+TABLE 3
+
+Cure Rheology
+
+=== TABLE 9 (1 rows) ===
+	Example
+
+=== TABLE 10 (2 rows) ===
+	1	2	3	4	5	6	7	CE-1	CE-2	CE-3	CE-4
+
+
+=== TABLE 11 (8 rows) ===
+Temperature	188	188	188	188	177	177	177	177	177	177	177
+(° C.)
+ML (N m)	0.419	0.419	0.313	0.381	0.140	0.084	0.249	N/C	N/C	N/C	N/C
+MH (N m)	0.938	0.776	0.803	0.858	0.585	0.581	0.390	N/C	N/C	N/C	N/C
+ts2 (min)	9.12	9.82	11.2	5.12	5.79	7.01	—	N/C	N/C	N/C	N/C
+t′50 (min)	10.2	7.52	11.7	5.47	5.73	7.41	2.77	N/C	N/C	N/C	N/C
+t′90 (min)	17.8	16.4	17.9	14.4	10.17	11	17.9	N/C	N/C	N/C	N/C
+
+
+=== TABLE 12 (3 rows) ===
+TABLE 4
+
+Physical Properties
+
+=== TABLE 13 (1 rows) ===
+	Example
+
+=== TABLE 14 (2 rows) ===
+	1	2	3	4	5	6
+
+
+=== TABLE 15 (21 rows) ===
+Press and Post Cured						
+TS (MPa)	14.89	16.31	13.65	15.79	18.39	15.03
+EB (%)	165	200	190	180	202	217
+100% Modulus (MPa)	10.48	8.27	7.58	9.45	5.05	4.14
+Hardness (Shore A)	75	75	75	75	69	67
+Compression Set (%)
+96 h, 200° C.	N/M	N/M	N/M	N/M	N/M	45.3
+96 h, 230° C.	N/M	N/M	N/M	N/M	N/M	53.1
+70 h, 230° C.	47	59	70	58	22	N/M
+70 h, 250° C., 15% initial defl.	57	67	84	72	N/M	N/M
+70 h, 316° C.	N/M	N/M	N/M	N/M	38	N/M
+Heat Aged, 270° C., 70 h
+TS (MPa)	13.20	11.48	11.27	12.58	N/M	N/M
+EB (%)	205	245	255	220	N/M	N/M
+Hardness (Shore A)	73	72	71	73	N/M	N/M
+Heat Aged, 290° C., 70 h
+TS (MPa)	12.00	N/M	11.00	11.38	14.18	14.22
+EB (%)	220	N/M	285	250	200	258
+100% modulus (MPa)	N/M	N/M	N/M	N/M	4.36	2.76
+Hardness (Shore A)	73	N/M	74	73	66	65
+
+
+=== TABLE 16 (11 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US10/367,400 US6956085B2 (en)	2003-02-14	2003-02-14	Fluoroelastomer compositions
+KR1020057014647A KR101087435B1 (en)	2003-02-14	2003-12-08	Fluoroelastomer compositions
+JP2004568581A JP4664079B2 (en)	2003-02-14	2003-12-08	Fluoroelastomer composition
+EP03796773A EP1592736B1 (en)	2003-02-14	2003-12-08	Fluoroelastomer compositions
+AT03796773T ATE377042T1 (en)	2003-02-14	2003-12-08	FLUORELASTOMER COMPOSITIONS
+CNB2003801097146A CN100475889C (en)	2003-02-14	2003-12-08	Fluoroelastomer compositions
+AU2003297708A AU2003297708A1 (en)	2003-02-14	2003-12-08	Fluoroelastomer compositions
+PCT/US2003/038886 WO2004074363A1 (en)	2003-02-14	2003-12-08	Fluoroelastomer compositions
+RU2005122898/04A RU2005122898A (en)	2003-02-14	2003-12-08	FLUORASTOMERIC COMPOSITIONS
+DE60317240T DE60317240T2 (en)	2003-02-14	2003-12-08	FLUOR ELASTOMER COMPOSITIONS
+
+=== TABLE 17 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US10/367,400 US6956085B2 (en)	2003-02-14	2003-02-14	Fluoroelastomer compositions
+
+=== TABLE 18 (3 rows) ===
+Publication Number	Publication Date
+US20040162395A1 US20040162395A1 (en)	2004-08-19
+US6956085B2 true US6956085B2 (en)	2005-10-18
+
+=== TABLE 19 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US10/367,400 Expired - Lifetime US6956085B2 (en)	2003-02-14	2003-02-14	Fluoroelastomer compositions
+
+=== TABLE 20 (11 rows) ===
+Country	Link
+US (1)	US6956085B2 (en)
+EP (1)	EP1592736B1 (en)
+JP (1)	JP4664079B2 (en)
+KR (1)	KR101087435B1 (en)
+CN (1)	CN100475889C (en)
+AT (1)	ATE377042T1 (en)
+AU (1)	AU2003297708A1 (en)
+DE (1)	DE60317240T2 (en)
+RU (1)	RU2005122898A (en)
+WO (1)	WO2004074363A1 (en)
+
+=== TABLE 21 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20080023661A1 (en) *	2006-07-06	2008-01-31	Youfan Gu	Fast-acting pneumatic diaphragm valve
+US20100305262A1 (en) *	2007-10-12	2010-12-02	Klaus Hintzer	Process for manufacturing clean fluoropolymers
+WO2012005972A1 (en)	2010-07-09	2012-01-12	3M Innovative Properties Company	Triazine containing fluoroelastomers having low glass transition temperature
+US9290619B2 (en)	2011-03-04	2016-03-22	3M Innovative Properties Company	Triazine containing fluoropolyether elastomers having low glass transition temperature
+US9718961B2 (en)	2013-06-27	2017-08-01	3M Innovative Properties Company	Fluoropolyether-polysiloxane elastomer compositions and shaped articles
+US10023736B2 (en)	2014-02-19	2018-07-17	3M Innovative Properties Company	Hybrid fluoroelastomer composition, curable composition, and methods of making and using the same
+
+=== TABLE 22 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6956085B2 (en) *	2003-02-14	2005-10-18	3M Innovative Properties Company	Fluoroelastomer compositions
+US20050107544A1 (en) *	2003-11-13	2005-05-19	Shuhong Wang	Plasma resistant curable fluoroelastomer composition
+US7294677B2 (en) *	2005-08-25	2007-11-13	3M Innovative Properties Company	Catalyst for making fluoroelastomer compositions and methods of using the same
+EP1968476A1 (en) *	2005-12-29	2008-09-17	3M Innovative Properties Company	Abrasive tool including agglomerate particles and an elastomer, and related methods
+EP2076573B1 (en) *	2006-10-13	2013-04-10	3M Innovative Properties Company	Fluoropolymer compositions containing nitrogen-containing aromatic materials
+KR101684719B1 (en)	2009-06-25	2016-12-08	쓰리엠 이노베이티브 프로퍼티즈 캄파니	Curing compositions for fluoropolymers
+US9315644B2 (en) *	2012-12-03	2016-04-19	E I Du Pont De Nemours And Company	Cured perfluoroelastomer article
+US10323142B2 (en) *	2015-05-29	2019-06-18	3M Innovative Properties Company	Perfluoroelastomeric compositions comprising oxazoles
+US9908992B2 (en) *	2015-09-26	2018-03-06	E I Du Pont De Nemours And Company	Curing agents for fluoroelastomers
+
+=== TABLE 23 (79 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3523132A (en)	1964-11-25	1970-08-04	Hooker Chemical Corp	Perfluorocarboxylic imidates
+US3546186A (en)	1966-02-16	1970-12-08	Du Pont	Copolymers of substituted perfluorovinyl ethers
+US3686143A (en)	1971-03-22	1972-08-22	Du Pont	Guanidine and amidine accelerators for vulcanization of fluoroelastomers
+US3752787A (en)	1972-01-28	1973-08-14	Du Pont	Fluoroelastomer composition containing a triarylphosphorane vulcanization accelerator
+US4035565A (en)	1975-03-27	1977-07-12	E. I. Du Pont De Nemours And Company	Fluoropolymer containing a small amount of bromine-containing olefin units
+US4259463A (en)	1977-12-14	1981-03-31	Montedison S.P.A.	Vulcanizable compositions based on copolymers of vinylidene fluoride and containing vulcanization accelerators which are aminophosphinic compounds
+US4281092A (en)	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+US4287320A (en)	1974-08-01	1981-09-01	Minnesota Mining And Manufacturing Company	Composition of fluoroelastomer and diorganosulfuroxide
+US4335238A (en)	1980-10-06	1982-06-15	E. I. Du Pont De Nemours And Company	Fluoropolymer hexafluoropropene, tetrafluorethene and 1,1-difluoroethene
+US4394489A (en) *	1982-02-25	1983-07-19	E. I. Du Pont De Nemours & Co.	Fluoroelastomer curatives
+US4487903A (en)	1981-10-22	1984-12-11	Daikin Kogyo Co., Ltd.	Fluorine-containing elastomeric copolymers, and their production
+EP0140207A2 (en)	1983-10-06	1985-05-08	E.I. Du Pont De Nemours And Company	A process for rapidly curing a brominated fluoroelastomer
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+US4564662A (en)	1984-02-23	1986-01-14	Minnesota Mining And Manufacturing Company	Fluorocarbon elastomer
+US4694045A (en)	1985-12-11	1987-09-15	E. I. Du Pont De Nemours And Company	Base resistant fluoroelastomers
+US4734465A (en)	1984-01-06	1988-03-29	Montedison S.P.A.	Vulcanizable compositions of fluoroelastomers having improved self-lubricating properties and a fast cure rate
+US4762891A (en)	1987-02-13	1988-08-09	Minnesota Mining And Manufacturing Company	Scorch-resistant, curable fluorinated elastomer
+US4882390A (en)	1988-04-01	1989-11-21	Minnesota Mining And Manufacturing Company	Fluoroelastomer composition with organo-onium compounds
+US4912171A (en)	1988-04-01	1990-03-27	Minnesota Mining And Manufacturing Company	Fluoroelastomer curing process with phosphonium compound
+US4948853A (en)	1989-05-19	1990-08-14	E. I. Du Pont De Nemours And Company	Bromo-containing perfluoropolymers having iodine curesites
+US4972038A (en)	1989-05-19	1990-11-20	E. I. Du Pont De Nemours And Company	Cyano-containing perfluoropolymers having iodine curesites
+WO1990014368A1 (en)	1989-05-19	1990-11-29	E.I. Du Pont De Nemours And Company	Preparation of cyano-containing perfluoropolymers having iodine curesites
+US4983680A (en)	1988-05-25	1991-01-08	E. I. Du Pont De Nemours And Company	Cured perfluoroelastomers and their preparation
+US5032655A (en)	1989-05-15	1991-07-16	E. I. Du Pont De Nemours And Company	Peroxide-curable fluoroelastomers having bromine and iodine curesites and the preparation thereof
+US5262490A (en)	1992-08-24	1993-11-16	Minnesota Mining And Manufacturing Company	Fluoroelastomer composition with organo-onium compounds
+US5266650A (en)	1990-10-11	1993-11-30	Minnesota Mining And Manufacturing Company	Curing fluorocarbon elastomers
+US5268405A (en)	1993-03-31	1993-12-07	E. I. Du Pont De Nemours And Company	Low temperature perfluoroelastomers
+US5285002A (en)	1993-03-23	1994-02-08	Minnesota Mining And Manufacturing Company	Fluorine-containing polymers and preparation and use thereof
+US5319025A (en)	1990-07-13	1994-06-07	Minnesota Mining And Manufacturing Company	Curing fluorocarbon elastomers
+EP0606883A1 (en)	1993-01-14	1994-07-20	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+US5349093A (en)	1987-04-25	1994-09-20	Daikin Industries, Ltd.	Fluorovinyl ether
+US5451625A (en)	1992-06-11	1995-09-19	Minnesota Mining And Manufacturing Company	Fluoroelastomer coating composition
+US5488142A (en)	1993-10-04	1996-01-30	Minnesota Mining And Manufacturing Company	Fluorination in tubular reactor system
+EP0708139A1 (en)	1994-10-21	1996-04-24	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+US5527861A (en)	1994-04-19	1996-06-18	E. I. Dupont De Nemours And Company	Perfluoroelastomer curing
+US5554680A (en)	1994-02-16	1996-09-10	E. I. Du Pont De Nemours And Company	Heat-resistant perfluoroelastomer composition
+US5565512A (en)	1995-03-31	1996-10-15	Nippon Mektron, Limited	Fluorine-containing elastomer composition
+US5585449A (en)	1993-12-29	1996-12-17	Ausimont S.P.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+US5591804A (en)	1995-12-21	1997-01-07	Minnesota Mining And Manufacturing Company	Fluorinated onium salts, curable compositions containing same, and method of curing using same
+US5621145A (en)	1995-02-16	1997-04-15	Nippon Mektron, Limited	Bisamidoxime compound, process for preparing the same and a fluorine-containing elastomer composition comprising the same
+EP0769521A1 (en)	1995-10-20	1997-04-23	AUSIMONT S.p.A.	Fluoroelastomeric compositions
+US5639837A (en)	1996-06-04	1997-06-17	E. I. Du Pont De Nemours And Company	Process for making fluoropolymers
+JPH09183879A (en)	1995-12-28	1997-07-15	Japan Synthetic Rubber Co Ltd	Fluoro rubber composition
+US5654375A (en)	1996-05-24	1997-08-05	Minnesota Mining And Manufacturing Company	Fluoroelastomer compositions containing organo-onium compounds
+US5677389A (en) *	1996-11-25	1997-10-14	E. I. Du Pont De Nemours	Perfluoroelastomer composition having enhanced curing performance
+US5681881A (en)	1996-05-24	1997-10-28	Minnesota Mining And Manufacturing Company	Fluoroelastomer compositions
+US5700879A (en)	1994-10-21	1997-12-23	The Central Synthetic Rubbers Research Institute	Fluorine-containing elastomer composition
+US5728773A (en)	1997-02-21	1998-03-17	Minnesota Mining And Manufacturing Company	Fluoroelastomer composition with organo-onium and blocked-carbonate compounds
+US5733981A (en)	1996-08-26	1998-03-31	Minnesota Mining And Manufacturing Company	Aqueous dehydrofluorination method
+US5756588A (en)	1995-06-22	1998-05-26	Minnesota Mining And Manufacturing Company	Scorch safety of curable fluoroelastomer compositions
+WO1998023655A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+US5789489A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+US5910552A (en)	1996-04-24	1999-06-08	Nippon Mektron, Limited	Fluorine-containing copolymer elastomer process for producing the same and composition containing the same
+WO1999048939A1 (en)	1998-03-23	1999-09-30	Dyneon Llc	Perfluoroelastomer compositions
+WO2000009603A1 (en)	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+WO2000009569A2 (en)	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+US6077609A (en)	1997-06-27	2000-06-20	Dyneon Llc	Composite articles including fluoropolymers and non-fluorinated polymers and method for making the same
+US6114452A (en)	1996-11-25	2000-09-05	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having excellent heat stability
+WO2001002448A1 (en)	1999-07-02	2001-01-11	Dyneon Llc	Fluoroelastomer compositions and articles made therefrom
+US6191208B1 (en)	1998-05-20	2001-02-20	Dupont Dow Elastomers L.L.S.	Thermally stable perfluoroelastomer composition
+US6203912B1 (en)	1997-01-31	2001-03-20	Asahi Glass Company. Ltd.	Electronic article having fluoropolymer thin film
+US6211319B1 (en)	1996-11-25	2001-04-03	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+WO2001046116A1 (en)	1999-12-22	2001-06-28	Dyneon Llc	Perfluorinated acid fluorides and preparation thereof
+WO2001059005A2 (en)	2000-02-08	2001-08-16	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+JP2002012705A (en)	2000-06-27	2002-01-15	Daikin Ind Ltd	Elastomer composition for crosslinking
+US6346300B1 (en) *	1998-01-21	2002-02-12	Dupont Dow Elastomers L.L.C.	UV curable elastomer composition
+JP2002114824A (en)	2000-10-04	2002-04-16	Daikin Ind Ltd	Fluorine-containing elastomer
+US20020055593A1 (en)	2000-09-18	2002-05-09	3M Innovative Properties Company	Metal amine complex containing fluoropolymer compositions
+US20020061977A1 (en)	2000-09-18	2002-05-23	3M Innovative Properties Company	Imidate-containing fluoropolymer compositions
+WO2002048200A2 (en)	2000-12-14	2002-06-20	Dupont Dow Elastomers L.L.C.	A process for making high purity translucent perfluoroelastomer articles
+WO2002060969A1 (en)	2001-01-31	2002-08-08	3M Innovative Properties Company	Fluoropolymer compositions
+US20020177666A1 (en)	2001-04-12	2002-11-28	3M Innovative Properties Company	Fluoropolymer compositions
+US20020183458A1 (en)	2001-04-30	2002-12-05	3M Innovative Properties Company	Fluoropolymer curing system
+US6500545B1 (en) *	2000-09-21	2002-12-31	Ppg Industries Ohio, Inc.	Aminoplast-based crosslinkers and powder coating compositions containing such crosslinkers
+US6503972B1 (en)	1998-05-29	2003-01-07	Dupont Dow Elastomers, L.L.C.	White elastomer seal materials and a process for manufacture thereof
+US6518366B1 (en) *	1999-03-31	2003-02-11	Daikin Industries, Ltd.	Nitrile group-containing fluoroelastomer and preparation process of same
+WO2004074363A1 (en) *	2003-02-14	2004-09-02	3M Innovative Properties Company	Fluoroelastomer compositions
+US6803425B2 (en) *	2001-04-12	2004-10-12	3M Innovative Properties Company	Fluoropolymers having pendant imidate structures
+
+=== TABLE 24 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS4837747B1 (en) *	1969-12-30	1973-11-13		
+JPS578124B2 (en) *	1972-12-25	1982-02-15		
+JPS578136B2 (en) *	1972-12-28	1982-02-15		
+DE3677076D1 (en) *	1985-07-12	1991-02-28	Du Pont	FLUORELASTOMERS.
+
+=== TABLE 25 (90 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3523132A (en)	1964-11-25	1970-08-04	Hooker Chemical Corp	Perfluorocarboxylic imidates
+US3546186A (en)	1966-02-16	1970-12-08	Du Pont	Copolymers of substituted perfluorovinyl ethers
+US3686143A (en)	1971-03-22	1972-08-22	Du Pont	Guanidine and amidine accelerators for vulcanization of fluoroelastomers
+US3752787A (en)	1972-01-28	1973-08-14	Du Pont	Fluoroelastomer composition containing a triarylphosphorane vulcanization accelerator
+US4287320A (en)	1974-08-01	1981-09-01	Minnesota Mining And Manufacturing Company	Composition of fluoroelastomer and diorganosulfuroxide
+US4035565A (en)	1975-03-27	1977-07-12	E. I. Du Pont De Nemours And Company	Fluoropolymer containing a small amount of bromine-containing olefin units
+US4259463A (en)	1977-12-14	1981-03-31	Montedison S.P.A.	Vulcanizable compositions based on copolymers of vinylidene fluoride and containing vulcanization accelerators which are aminophosphinic compounds
+US4281092A (en)	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+US4335238A (en)	1980-10-06	1982-06-15	E. I. Du Pont De Nemours And Company	Fluoropolymer hexafluoropropene, tetrafluorethene and 1,1-difluoroethene
+US4487903A (en)	1981-10-22	1984-12-11	Daikin Kogyo Co., Ltd.	Fluorine-containing elastomeric copolymers, and their production
+US4394489A (en) *	1982-02-25	1983-07-19	E. I. Du Pont De Nemours & Co.	Fluoroelastomer curatives
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+EP0140207A2 (en)	1983-10-06	1985-05-08	E.I. Du Pont De Nemours And Company	A process for rapidly curing a brominated fluoroelastomer
+US4734465A (en)	1984-01-06	1988-03-29	Montedison S.P.A.	Vulcanizable compositions of fluoroelastomers having improved self-lubricating properties and a fast cure rate
+US4564662A (en)	1984-02-23	1986-01-14	Minnesota Mining And Manufacturing Company	Fluorocarbon elastomer
+US4694045A (en)	1985-12-11	1987-09-15	E. I. Du Pont De Nemours And Company	Base resistant fluoroelastomers
+US4762891A (en)	1987-02-13	1988-08-09	Minnesota Mining And Manufacturing Company	Scorch-resistant, curable fluorinated elastomer
+US5349093A (en)	1987-04-25	1994-09-20	Daikin Industries, Ltd.	Fluorovinyl ether
+US4882390A (en)	1988-04-01	1989-11-21	Minnesota Mining And Manufacturing Company	Fluoroelastomer composition with organo-onium compounds
+US4912171A (en)	1988-04-01	1990-03-27	Minnesota Mining And Manufacturing Company	Fluoroelastomer curing process with phosphonium compound
+US4983680A (en)	1988-05-25	1991-01-08	E. I. Du Pont De Nemours And Company	Cured perfluoroelastomers and their preparation
+US5032655A (en)	1989-05-15	1991-07-16	E. I. Du Pont De Nemours And Company	Peroxide-curable fluoroelastomers having bromine and iodine curesites and the preparation thereof
+US4948853A (en)	1989-05-19	1990-08-14	E. I. Du Pont De Nemours And Company	Bromo-containing perfluoropolymers having iodine curesites
+US4972038A (en)	1989-05-19	1990-11-20	E. I. Du Pont De Nemours And Company	Cyano-containing perfluoropolymers having iodine curesites
+WO1990014368A1 (en)	1989-05-19	1990-11-29	E.I. Du Pont De Nemours And Company	Preparation of cyano-containing perfluoropolymers having iodine curesites
+US5319025A (en)	1990-07-13	1994-06-07	Minnesota Mining And Manufacturing Company	Curing fluorocarbon elastomers
+US5266650A (en)	1990-10-11	1993-11-30	Minnesota Mining And Manufacturing Company	Curing fluorocarbon elastomers
+US5451625A (en)	1992-06-11	1995-09-19	Minnesota Mining And Manufacturing Company	Fluoroelastomer coating composition
+US5262490A (en)	1992-08-24	1993-11-16	Minnesota Mining And Manufacturing Company	Fluoroelastomer composition with organo-onium compounds
+EP0606883A1 (en)	1993-01-14	1994-07-20	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+US5285002A (en)	1993-03-23	1994-02-08	Minnesota Mining And Manufacturing Company	Fluorine-containing polymers and preparation and use thereof
+US5378782A (en)	1993-03-23	1995-01-03	Minnesota Mining And Manufacturing Company	Fluorine-containing polymers and preparation and use thereof
+US5268405A (en)	1993-03-31	1993-12-07	E. I. Du Pont De Nemours And Company	Low temperature perfluoroelastomers
+US5488142A (en)	1993-10-04	1996-01-30	Minnesota Mining And Manufacturing Company	Fluorination in tubular reactor system
+US5585449A (en)	1993-12-29	1996-12-17	Ausimont S.P.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+EP0784064B1 (en)	1993-12-29	1999-11-03	AUSIMONT S.p.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+EP0661304B1 (en)	1993-12-29	1997-10-22	AUSIMONT S.p.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+US5554680A (en)	1994-02-16	1996-09-10	E. I. Du Pont De Nemours And Company	Heat-resistant perfluoroelastomer composition
+US5527861A (en)	1994-04-19	1996-06-18	E. I. Dupont De Nemours And Company	Perfluoroelastomer curing
+EP0708139A1 (en)	1994-10-21	1996-04-24	Nippon Mektron, Ltd.	Fluorine-containing elastomer composition
+US5700879A (en)	1994-10-21	1997-12-23	The Central Synthetic Rubbers Research Institute	Fluorine-containing elastomer composition
+US5767204A (en)	1994-10-21	1998-06-16	Nippon Mektron Limited	Fluorine-containing elastomer composition
+US5621145A (en)	1995-02-16	1997-04-15	Nippon Mektron, Limited	Bisamidoxime compound, process for preparing the same and a fluorine-containing elastomer composition comprising the same
+US5565512A (en)	1995-03-31	1996-10-15	Nippon Mektron, Limited	Fluorine-containing elastomer composition
+US5756588A (en)	1995-06-22	1998-05-26	Minnesota Mining And Manufacturing Company	Scorch safety of curable fluoroelastomer compositions
+EP0769521A1 (en)	1995-10-20	1997-04-23	AUSIMONT S.p.A.	Fluoroelastomeric compositions
+US5591804A (en)	1995-12-21	1997-01-07	Minnesota Mining And Manufacturing Company	Fluorinated onium salts, curable compositions containing same, and method of curing using same
+JPH09183879A (en)	1995-12-28	1997-07-15	Japan Synthetic Rubber Co Ltd	Fluoro rubber composition
+US5910552A (en)	1996-04-24	1999-06-08	Nippon Mektron, Limited	Fluorine-containing copolymer elastomer process for producing the same and composition containing the same
+US5654375A (en)	1996-05-24	1997-08-05	Minnesota Mining And Manufacturing Company	Fluoroelastomer compositions containing organo-onium compounds
+US5681881A (en)	1996-05-24	1997-10-28	Minnesota Mining And Manufacturing Company	Fluoroelastomer compositions
+US5639837A (en)	1996-06-04	1997-06-17	E. I. Du Pont De Nemours And Company	Process for making fluoropolymers
+US5733981A (en)	1996-08-26	1998-03-31	Minnesota Mining And Manufacturing Company	Aqueous dehydrofluorination method
+US5789489A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+US5789509A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Perflouroelastomer composition having improved processability
+WO1998023655A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+US5877264A (en)	1996-11-25	1999-03-02	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+US5677389A (en) *	1996-11-25	1997-10-14	E. I. Du Pont De Nemours	Perfluoroelastomer composition having enhanced curing performance
+US6114452A (en)	1996-11-25	2000-09-05	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having excellent heat stability
+US6211319B1 (en)	1996-11-25	2001-04-03	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+US6203912B1 (en)	1997-01-31	2001-03-20	Asahi Glass Company. Ltd.	Electronic article having fluoropolymer thin film
+US5728773A (en)	1997-02-21	1998-03-17	Minnesota Mining And Manufacturing Company	Fluoroelastomer composition with organo-onium and blocked-carbonate compounds
+US6077609A (en)	1997-06-27	2000-06-20	Dyneon Llc	Composite articles including fluoropolymers and non-fluorinated polymers and method for making the same
+US6346300B1 (en) *	1998-01-21	2002-02-12	Dupont Dow Elastomers L.L.C.	UV curable elastomer composition
+WO1999048939A1 (en)	1998-03-23	1999-09-30	Dyneon Llc	Perfluoroelastomer compositions
+US6191208B1 (en)	1998-05-20	2001-02-20	Dupont Dow Elastomers L.L.S.	Thermally stable perfluoroelastomer composition
+US6503972B1 (en)	1998-05-29	2003-01-07	Dupont Dow Elastomers, L.L.C.	White elastomer seal materials and a process for manufacture thereof
+WO2000009569A2 (en)	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+US6281296B1 (en)	1998-08-10	2001-08-28	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+WO2000009603A1 (en)	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+US6518366B1 (en) *	1999-03-31	2003-02-11	Daikin Industries, Ltd.	Nitrile group-containing fluoroelastomer and preparation process of same
+US6465576B1 (en) *	1999-07-02	2002-10-15	Dyneon Llc	Fluoroelastomer compositions and articles made therefrom
+WO2001002448A1 (en)	1999-07-02	2001-01-11	Dyneon Llc	Fluoroelastomer compositions and articles made therefrom
+WO2001046116A1 (en)	1999-12-22	2001-06-28	Dyneon Llc	Perfluorinated acid fluorides and preparation thereof
+US20020026014A1 (en)	2000-02-08	2002-02-28	Bish Christopher J.	Curable perfluoroelastomer composition
+US6638999B2 (en) *	2000-02-08	2003-10-28	Dupont Dow Elastomers Llc.	Curable perfluoroelastomer composition
+WO2001059005A2 (en)	2000-02-08	2001-08-16	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+JP2002012705A (en)	2000-06-27	2002-01-15	Daikin Ind Ltd	Elastomer composition for crosslinking
+US20020055593A1 (en)	2000-09-18	2002-05-09	3M Innovative Properties Company	Metal amine complex containing fluoropolymer compositions
+US20020061977A1 (en)	2000-09-18	2002-05-23	3M Innovative Properties Company	Imidate-containing fluoropolymer compositions
+US6500545B1 (en) *	2000-09-21	2002-12-31	Ppg Industries Ohio, Inc.	Aminoplast-based crosslinkers and powder coating compositions containing such crosslinkers
+JP2002114824A (en)	2000-10-04	2002-04-16	Daikin Ind Ltd	Fluorine-containing elastomer
+WO2002048200A2 (en)	2000-12-14	2002-06-20	Dupont Dow Elastomers L.L.C.	A process for making high purity translucent perfluoroelastomer articles
+US20020145228A1 (en)	2001-01-31	2002-10-10	3M Innovative Properties Company	Fluoropolymer compositions
+WO2002060969A1 (en)	2001-01-31	2002-08-08	3M Innovative Properties Company	Fluoropolymer compositions
+US20020177666A1 (en)	2001-04-12	2002-11-28	3M Innovative Properties Company	Fluoropolymer compositions
+US6803425B2 (en) *	2001-04-12	2004-10-12	3M Innovative Properties Company	Fluoropolymers having pendant imidate structures
+US20020183458A1 (en)	2001-04-30	2002-12-05	3M Innovative Properties Company	Fluoropolymer curing system
+WO2004074363A1 (en) *	2003-02-14	2004-09-02	3M Innovative Properties Company	Fluoroelastomer compositions
+
+=== TABLE 26 (7 rows) ===
+Title
+Advanced Organic Chemistry Reactions, Mechanisms and Structures, J. March, 2<SUP>nd </SUP>ed., 1977, McGraw-Hill, Chapters 8 and 9.
+Brown et al., "Reactions of Perfluoroalkyl Nitriles. V. Synthesis of Perfluoroacyl Imidates", J. Org. Chem., vol. 30, (1965), pp. 3724-3728.
+Grinblat et al., "Infrared Investigation of The Vulcanization of Perfluoroalkylenetriazine Polymers", Polymer Science U.S.S.R., vol. 21, 1980, pp. 1434-1441.
+Paciorek et al., "Reactions Of Perfluoronitriles. I. Interactions With Aniline", Journal Of Fluorine Chemistry, 30 (1985), pp. 241-250.
+U.S. Appl. No. 09/495,600, filed Feb. 1, 2000, Grootaert et al.
+Yakubovich et al., "Syntheses in The 1,3,5-Triazine Series V. Iminoesters of Perfluorocarboxylic Acids-Syntheses, Properties, and Mechanism of Cyclopolymerization to 1,3,5-Triazine Derivatives", pp. 878-885 (translated from Zhurnal Obshchei Khimii, vol. 36, No. 5, pp 863-871, May 1966).
+
+=== TABLE 27 (12 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20080023661A1 (en) *	2006-07-06	2008-01-31	Youfan Gu	Fast-acting pneumatic diaphragm valve
+US8172197B2 (en) *	2006-07-06	2012-05-08	Mks Instruments, Inc.	Fast-acting pneumatic diaphragm valve
+TWI422766B (en) *	2006-07-06	2014-01-11	Mks Instr Inc	Fast-acting pneumatic diaphragm valve
+TWI500868B (en) *	2006-07-06	2015-09-21	Mks Instr Inc	Fast-acting pneumatic diaphragm valve
+US20100305262A1 (en) *	2007-10-12	2010-12-02	Klaus Hintzer	Process for manufacturing clean fluoropolymers
+US8541499B2 (en)	2007-10-12	2013-09-24	3M Innovative Properties Company	Process for manufacturing clean fluoropolymers
+US9416251B2 (en)	2007-10-12	2016-08-16	3M Innovative Properties Company	Article prepared from clean fluoropolymers
+WO2012005972A1 (en)	2010-07-09	2012-01-12	3M Innovative Properties Company	Triazine containing fluoroelastomers having low glass transition temperature
+US9290619B2 (en)	2011-03-04	2016-03-22	3M Innovative Properties Company	Triazine containing fluoropolyether elastomers having low glass transition temperature
+US9718961B2 (en)	2013-06-27	2017-08-01	3M Innovative Properties Company	Fluoropolyether-polysiloxane elastomer compositions and shaped articles
+US10023736B2 (en)	2014-02-19	2018-07-17	3M Innovative Properties Company	Hybrid fluoroelastomer composition, curable composition, and methods of making and using the same
+
+=== TABLE 28 (16 rows) ===
+Publication number	Publication date
+JP4664079B2 (en)	2011-04-06
+CN1747993A (en)	2006-03-15
+DE60317240D1 (en)	2007-12-13
+AU2003297708A1 (en)	2004-09-09
+KR20050107418A (en)	2005-11-11
+WO2004074363A1 (en)	2004-09-02
+KR101087435B1 (en)	2011-11-25
+CN100475889C (en)	2009-04-08
+RU2005122898A (en)	2006-02-10
+US20040162395A1 (en)	2004-08-19
+JP2006514134A (en)	2006-04-27
+DE60317240T2 (en)	2008-08-14
+EP1592736A1 (en)	2005-11-09
+ATE377042T1 (en)	2007-11-15
+EP1592736B1 (en)	2007-10-31
+
+=== TABLE 29 (11 rows) ===
+Publication	Publication Date	Title
+US7208553B2 (en)	2007-04-24	Fluoropolymer curing system
+EP1549705B1 (en)	2008-03-05	Fluoropolymer compositions
+EP1592736B1 (en)	2007-10-31	Fluoroelastomer compositions
+US6657013B2 (en)	2003-12-02	Imidate-containing fluoropolymer compositions
+US6657012B2 (en)	2003-12-02	Metal amine complex containing fluoropolymer compositions
+EP2044146B1 (en)	2017-05-10	Scorch safe fluoropolymer compositions
+US11274189B2 (en)	2022-03-15	Curing agents for compounds
+US9273164B2 (en)	2016-03-01	Curing compositions for fluoropolymers
+JP5864224B2 (en)	2016-02-17	Fluoropolymer composition
+EP3205690B1 (en)	2022-03-23	Curing agents for fluoroelastomers
+
+=== TABLE 30 (7 rows) ===
+Date	Code	Title	Description
+2003-02-14	AS	Assignment	Owner name: 3M INNOVATIVE PROPERTIES COMPANY, MINNESOTA Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GROOTAERT, WERNER M.A.;ADAIR, ERIC W.;REEL/FRAME:013789/0992 Effective date: 20030214
+2005-09-28	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2006-03-21	CC	Certificate of correction	
+2009-04-20	FPAY	Fee payment	Year of fee payment: 4
+2013-03-06	FPAY	Fee payment	Year of fee payment: 8
+2017-04-06	FPAY	Fee payment	Year of fee payment: 12

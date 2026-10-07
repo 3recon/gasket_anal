@@ -1,0 +1,60 @@
+batch_daikin.csv: 82 rows, 8 sources
+batch_dupont3mgt.csv: 113 rows, 12 sources
+batch_japan.csv: 158 rows, 11 sources
+batch_krcn.csv: 59 rows, 9 sources
+merged: 412 rows from 40 sources
+duplicate (source_id, example_label) removed: 0
+excluded non-semiconductor applications (KR102796110B1, KR102324534B1, KR20130014651A, CN106633544B): 22
+rows with unspecified cure chemistry, curative total in other_curative_phr: 20
+  unknown amount (processing_aid_phr): US7247749B2 Sample 27 -> excluded
+  unknown amount (processing_aid_phr): US7247749B2 Sample 28 -> excluded
+  unknown amount (processing_aid_phr): US7247749B2 Sample 29 -> excluded
+  unknown amount (processing_aid_phr): US7247749B2 Sample 30 -> excluded
+  unknown amount (nitrile_curative_phr): US7402630B2 Example 1 -> excluded
+  unknown amount (nitrile_curative_phr): US7402630B2 Example 5A -> excluded
+  unknown amount (nitrile_curative_phr): US7402630B2 Example 5B -> excluded
+  unknown amount (nitrile_curative_phr): US7402630B2 Example 5C -> excluded
+  unknown amount (nitrile_curative_phr): US7402630B2 Example 13 -> excluded
+  unknown amount (other_curative_phr): US8349965B2 Comparative Example 5 -> excluded
+  unknown amount (coagent_phr): US12305107B2 Comparative Example 2 -> excluded
+  unknown amount (other_curative_phr): US12584054B2 Example 7 -> excluded
+  unknown amount (other_curative_phr): US12584054B2 Comparative Example 10 -> excluded
+  unknown amount (coagent_phr, peroxide_phr): KR102323568B1 Example 1 -> excluded
+  unknown amount (coagent_phr, peroxide_phr): KR102323568B1 Example 2 -> excluded
+  unknown amount (coagent_phr, peroxide_phr): KR102323568B1 Example 3 -> excluded
+  unknown amount (coagent_phr, peroxide_phr): KR102323568B1 Comparative Example 1 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Example 1 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Example 2 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Comparative Example 1 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Comparative Example 2 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Comparative Example 3 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Comparative Example 4 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Comparative Example 5 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr, acid_acceptor_phr, processing_aid_phr): KR102713660B1 Comparative Example 6 -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr): KR101467101B1 Table 1 compound FFKM D -> excluded
+  unknown amount (coagent_phr, peroxide_phr, nitrile_curative_phr, other_curative_phr): KR101467101B1 Comparative Example 1 (Table 3 sample 1) -> excluded
+rows excluded for unknown ingredient amounts: 27
+excluded blends / non-fluoro polymers (polymer_type 'other'): 20
+hardness blanked (micro-hardness, not Shore A): 8
+  inconsistent elongation 25.0 with M100 reported: US8173727B2 Example 10 -> NaN
+  family duplicate dropped: US11118045B2 Example 2
+  family duplicate dropped: US20230365800A1 Example 7
+clean modelling rows: 333  sources: 33
+polymer_type
+FFKM    243
+FKM      90
+cure_system
+peroxide                  147
+nitrile_other              60
+nitrile_triazine           46
+nitrile_bisaminophenol     45
+other                      20
+nitrile_organotin          10
+bisphenol                   5
+non-null property counts:
+hardness_shoreA           227
+tensile_MPa               263
+elongation_pct            270
+m100_MPa                  264
+compression_set_pct       274
+plasma_weight_loss_pct    158

@@ -1,0 +1,199 @@
+# US11118045B2 :: US11118045B2 - Perfluoroelastomer composition and sealing material 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+TABLE 1
+
+		Examples	Comparative Examples
+
+=== TABLE 1 (2 rows) ===
+		1	2	3	4	5	6	7	8	9	10	11	1	2	3
+
+
+=== TABLE 2 (16 rows) ===
+Perfluoroelastomer	FFKM 1	100	100	100	100	100	100	100	100	100			100		
+	(Elastomer										100			100	
+	component)														
+	FFKM 2														
+	FFKM 3											93			93
+	(Elastomer														
+	component)														
+	FFKM 4											7			7
+	(Derived														
+	component)														
+Fluororesin	Fluororesin 1	11	11	11	11	11	11	11	11	11			11		
+	(Derived from														
+	FFKM 1)														
+	Fluoropolymer 3											23			23
+	(Derived from														
+	FFKM 3)														
+
+=== TABLE 3 (7 rows) ===
+Crosslinking agent	1	1	1	1	1	1	2	2	1			1		
+Co-crosslinking agent	2	2	2	2	2	2	2	2	2			2		
+(Derived from FFKM 1)														
+Ttiazine catalyst 1										1			1	
+Ttiazine catalyst 2											2			2
+Carbon black										15			15	
+Silion											2			2
+
+=== TABLE 4 (3 rows) ===
+Perylene-based	A	0.1		0.3	0.6	0.1	0.3	0.1	0.3	1.1		0.4			
+compound	B		0.1								0.3				
+Ozone resistance	Weight loss rate (%)	1.10	1.09	1.01	0.98	1.02	1.01	1.15	1.18	1.19	1.79	1.12	1.27	1.88	1.22
+
+=== TABLE 5 (5 rows) ===
+Compression set	20	20	23	24	23	25	26	24	31	11	16	18	8	18
+(200° C., 72 h)														
+Compression set	49	53	50	55	54	53	52	55	59	9	43	63	10	47
+(260° C., 72 h)
+
+
+=== TABLE 6 (3 rows) ===
+TABLE 2
+
+		Examples	Comparative Examples
+
+=== TABLE 7 (2 rows) ===
+		12	13	4	5	6	7
+
+
+=== TABLE 8 (4 rows) ===
+Perfluoroelastomer	FFKM 1	100	100	100	100	100	100
+	(Elastomer component)						
+Fluororesin	Fluororesin 1	11	11	11	11	11	11
+	(Derived from FFKM 1)						
+
+=== TABLE 9 (2 rows) ===
+Crosslinking agent	I	1	1	1	1	1
+Crosslinking agent (Derived from FFKM 1)	2	2	2	2	2	2
+
+=== TABLE 10 (3 rows) ===
+Perylene-based compound	A		0.05	2.0	5.0	10.0	20.0
+	C	0.3					
+Ozone resistance	Weight loss rate (%)	1.06	0.95	1.63	2.29	3.09	3.54
+
+=== TABLE 11 (3 rows) ===
+Compression set (200° C., 72 h)	32	29	33	43	59	66
+Compression set (260° C., 72 h)	56	49	55	66	84	91
+
+
+=== TABLE 12 (5 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2016107140		2016-05-30	
+JP2016-107140		2016-05-30	
+JPJP2016-107140		2016-05-30	
+PCT/JP2017/019346 WO2017208927A1 (en)	2016-05-30	2017-05-24	Perfluoroelastomer composition and sealing material
+
+=== TABLE 13 (3 rows) ===
+Publication Number	Publication Date
+US20200317901A1 US20200317901A1 (en)	2020-10-08
+US11118045B2 true US11118045B2 (en)	2021-09-14
+
+=== TABLE 14 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US16/304,812 Active 2037-12-29 US11118045B2 (en)	2016-05-30	2017-05-24	Perfluoroelastomer composition and sealing material
+
+=== TABLE 15 (9 rows) ===
+Country	Link
+US (1)	US11118045B2 (en)
+EP (1)	EP3467025B1 (en)
+JP (1)	JP6618506B2 (en)
+KR (1)	KR102354539B1 (en)
+CN (1)	CN109153835B (en)
+SG (1)	SG11201809392UA (en)
+TW (1)	TWI731977B (en)
+WO (1)	WO2017208927A1 (en)
+
+=== TABLE 16 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112543788B (en) *	2018-07-30	2023-10-24	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+WO2021230231A1 (en) *	2020-05-14	2021-11-18	ニチアス株式会社	Rubber composition, fluoroelastomer, and sealing material
+EP4450557A4 (en) *	2021-12-13	2025-11-26	Daikin Ind Ltd	PERFLUORELASTOMER COMPOSITION AND LINKED PERFLUORELASTOMER PRODUCT
+
+=== TABLE 17 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS61254A (en)	1984-06-13	1986-01-06	Hitachi Cable Ltd	Fluorine-containing elastomer composition
+JPS61264A (en) *	1984-02-27	1986-01-06	ブル−マツクス ピグメンツ，インコ−ポレ−テツド	Method and apparatus for manufacturing particulate coloring matter having improved dye characteristics
+JPH08151450A (en)	1994-09-29	1996-06-11	Nippon Valqua Ind Ltd	Ozone-resistant fluororubber molding
+US20040171714A1 (en)	2003-02-28	2004-09-02	Nichias Corporation	Fluororubber molded article and method for producing the same
+US20080020923A1 (en) *	2005-09-13	2008-01-24	Debe Mark K	Multilayered nanostructured films
+WO2009154124A1 (en)	2008-06-16	2009-12-23	旭硝子株式会社	Fluororesin film
+JP2010037558A (en)	2008-08-06	2010-02-18	Daikin Ind Ltd	Fluorine-containing elastomer composition and sealing material including the same
+US20100093898A1 (en)	2008-04-08	2010-04-15	Greene, Tweed Of Delaware, Inc.	Oxygen Plasma-Resistant Composition Characterized By Low Sticking, and Related Methods
+JP2010095578A (en)	2008-10-14	2010-04-30	Nok Corp	Fluororubber composition, cross-linked fluororubber and method for producing the same
+JP2013192994A (en)	2012-03-16	2013-09-30	Air Water Mach Inc	Fluid supply device, and rubber seal member
+WO2013153871A1 (en)	2012-04-09	2013-10-17	ユニマテック株式会社	Perfluoroelastomer composition
+WO2016043100A1 (en)	2014-09-16	2016-03-24	ダイキン工業株式会社	Fluoroelastomer composition and molded article
+WO2016198496A1 (en)	2015-06-09	2016-12-15	Solvay Specialty Polymers Italy S.P.A.	A composition including a luminescent compound
+
+=== TABLE 18 (20 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS61264A (en) *	1984-02-27	1986-01-06	ブル−マツクス ピグメンツ，インコ−ポレ−テツド	Method and apparatus for manufacturing particulate coloring matter having improved dye characteristics
+JPS61254A (en)	1984-06-13	1986-01-06	Hitachi Cable Ltd	Fluorine-containing elastomer composition
+JPH08151450A (en)	1994-09-29	1996-06-11	Nippon Valqua Ind Ltd	Ozone-resistant fluororubber molding
+US20040171714A1 (en)	2003-02-28	2004-09-02	Nichias Corporation	Fluororubber molded article and method for producing the same
+JP2004263038A (en)	2003-02-28	2004-09-24	Nichias Corp	Fluoro rubber molded product and method for producing the same
+US20080020923A1 (en) *	2005-09-13	2008-01-24	Debe Mark K	Multilayered nanostructured films
+US20100093898A1 (en)	2008-04-08	2010-04-15	Greene, Tweed Of Delaware, Inc.	Oxygen Plasma-Resistant Composition Characterized By Low Sticking, and Related Methods
+WO2009154124A1 (en)	2008-06-16	2009-12-23	旭硝子株式会社	Fluororesin film
+US20110086209A1 (en)	2008-06-16	2011-04-14	Asahi Glass Company, Limited	Fluororesin film
+JP2010037558A (en)	2008-08-06	2010-02-18	Daikin Ind Ltd	Fluorine-containing elastomer composition and sealing material including the same
+JP2010095578A (en)	2008-10-14	2010-04-30	Nok Corp	Fluororubber composition, cross-linked fluororubber and method for producing the same
+JP2013192994A (en)	2012-03-16	2013-09-30	Air Water Mach Inc	Fluid supply device, and rubber seal member
+WO2013153871A1 (en)	2012-04-09	2013-10-17	ユニマテック株式会社	Perfluoroelastomer composition
+JP2013216771A (en)	2012-04-09	2013-10-24	Unimatec Co Ltd	Perfluoroelastomer composition
+US20150094407A1 (en)	2012-04-09	2015-04-02	Unmatec Co., Ltd.	Perfluoroelastomer composition
+WO2016043100A1 (en)	2014-09-16	2016-03-24	ダイキン工業株式会社	Fluoroelastomer composition and molded article
+EP3156448A1 (en)	2014-09-16	2017-04-19	Daikin Industries, Ltd.	Fluoroelastomer composition and molded article
+US10138352B2 (en) *	2014-09-16	2018-11-27	Daikin Industries, Ltd.	Fluoroelastomer composition and molded article
+WO2016198496A1 (en)	2015-06-09	2016-12-15	Solvay Specialty Polymers Italy S.P.A.	A composition including a luminescent compound
+
+=== TABLE 19 (4 rows) ===
+Title
+International Search Report dated Aug. 22, 2017, issued in counterpart International Application No. PCT/JP2017/019346 (1 page).
+Office action dated Jul. 2, 2019, issued in counterpart JP application No. 2017-101791, with English translation. (8 pages).
+Office Action dated Jul. 9, 2020, issued in counterpart CN Application No. 201780031648.7, with English Translation. (14 pages).
+
+=== TABLE 20 (15 rows) ===
+Publication number	Publication date
+US20200317901A1 (en)	2020-10-08
+EP3467025A1 (en)	2019-04-10
+KR20190013809A (en)	2019-02-11
+WO2017208927A1 (en)	2017-12-07
+EP3467025A4 (en)	2020-02-19
+CN109153835A (en)	2019-01-04
+KR102354539B1 (en)	2022-01-21
+SG11201809392UA (en)	2018-11-29
+JP6618506B2 (en)	2019-12-11
+JP2017214555A (en)	2017-12-07
+TWI731977B (en)	2021-07-01
+TW201809112A (en)	2018-03-16
+EP3467025B1 (en)	2024-10-02
+CN109153835B (en)	2021-04-06
+
+=== TABLE 21 (8 rows) ===
+Publication	Publication Date	Title
+US11015096B2 (en)	2021-05-25	Perfluoroelastomer composition and sealing material
+JP6230415B2 (en)	2017-11-15	Perfluoroelastomer composition, sealing material and method for producing the same
+WO2015098338A1 (en)	2015-07-02	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+US11274199B2 (en)	2022-03-15	Perfluoroelastomer composition and sealing material
+EP3156448B1 (en)	2020-11-11	Fluoroelastomer composition and molded article
+EP3467025B1 (en)	2024-10-02	Perfluoroelastomer composition and sealing material
+US12180315B2 (en)	2024-12-31	Elastomer composition and sealing material
+
+=== TABLE 22 (14 rows) ===
+Date	Code	Title	Description
+2018-11-27	AS	Assignment	Owner name: NIPPON VALQUA INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OSUMI, NAOKI;HIRAI, KANA;SIGNING DATES FROM 20180921 TO 20180925;REEL/FRAME:047594/0431
+2018-11-27	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2019-01-30	AS	Assignment	Owner name: VALQUA, LTD., JAPAN Free format text: CHANGE OF NAME;ASSIGNOR:NIPPON VALQUA INDUSTRIES, LTD.;REEL/FRAME:048191/0147 Effective date: 20181001
+2020-12-29	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2021-01-06	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2021-04-08	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER
+2021-04-12	STPP	Information on status: patent application and granting procedure in general	Free format text: ADVISORY ACTION MAILED
+2021-05-05	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2021-05-14	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2021-07-14	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED
+2021-07-15	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+2021-08-25	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2025-02-27	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 4

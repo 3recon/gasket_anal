@@ -1,0 +1,118 @@
+# EP4047055A1 :: EP4047055A1 - Perfluoroelastomer molded article and protective member 
+        - Google Patents
+
+=== TABLE 0 (13 rows) ===
+	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 5
+Perfluoroelastomer	100	100	100	0	100
+TFE-P Copolymer	0	0	0	100	0
+Carbon black	0	0	0	5	5
+Crosslinking aid	0.1	0.1	0.1	0.3	0.1
+Crosslinking agent	6.3	6.3	6.3	2.5	6.3
+Foaming agent composition	0.9	0.9	0.9	1.5	0.9
+Foaming agent in foaming agent composition	0.4	0.4	0.4	0.7	0.4
+Processing aid	1	1	1	1	1
+Shore A hardness by JIS K6253	25	44	60	-	70
+Asker C hardness by JIS K7312	45	68	80	12	-
+Fitting property	○	○	○	×	×
+Plasma resistance	○	○	○	×	×
+
+=== TABLE 1 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2019190257		2019-10-17	
+PCT/JP2020/038642 WO2021075431A1 (en)	2019-10-17	2020-10-13	Perfluoroelastomer molded article and protective member
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+EP4047055A1 true EP4047055A1 (en)	2022-08-24
+EP4047055A4 EP4047055A4 (en)	2023-11-15
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+EP20876761.6A Pending EP4047055A4 (en)	2019-10-17	2020-10-13	MOLDED PERFLUOROELASTOMER ARTICLE AND PROTECTIVE ELEMENT
+
+=== TABLE 4 (8 rows) ===
+Country	Link
+US (1)	US20220185980A1 (en)
+EP (1)	EP4047055A4 (en)
+JP (1)	JP7719336B2 (en)
+KR (1)	KR102933374B1 (en)
+CN (1)	CN114585680A (en)
+TW (1)	TWI905121B (en)
+WO (1)	WO2021075431A1 (en)
+
+=== TABLE 5 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20230197417A1 (en) *	2021-12-17	2023-06-22	Applied Materials, Inc.	Corrosion resistant polymer coatings for manufacturing equipment components
+WO2025225549A1 (en) *	2024-04-25	2025-10-30	株式会社イノアックコーポレーション	Porous body, and polishing material or cleaning material provided with said porous body
+JP2025177870A (en) *	2024-05-24	2025-12-05	三星エスディアイ株式会社	Elastic sheet for all-solid-state secondary battery, all-solid-state secondary battery module
+
+=== TABLE 6 (25 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5044999Y2 (en)	1971-09-03	1975-12-20		
+IT1260480B (en) *	1992-05-29	1996-04-09	Ausimont Spa	COMPOSITIONS BASED ON ELASTOMERIC POLYMERS OF VINYLIDENE FLUORIDE, HEXAFLUOROPROPENE AND EVENTUALLY TETRAFLUOROETHYLENE SUITABLE FOR SUPPLYING MICROCELLULAR EXPANDED ARTIFACTS
+US6890995B2 (en) *	2001-01-31	2005-05-10	3M Innovative Properties Company	Fluoropolymer compositions
+US20030176516A1 (en) *	2002-03-15	2003-09-18	Greene, Tweed Of Delaware, Inc.	Cellular perfluoroelastomeric compositions, sealing members, methods of making the same and cellular materials for medical applications
+US7354974B2 (en) *	2004-05-20	2008-04-08	Dupont Performance Elastomers Llc	Blends of perfluoroelastomers and fluoroplastics
+US7402630B2 (en) *	2004-12-16	2008-07-22	3M Innovative Properties Company	Curing compositions for fluoropolymers
+JP4628814B2 (en) *	2005-02-15	2011-02-09	日本バルカー工業株式会社	Sealant for semiconductor manufacturing equipment
+JP5044999B2 (en)	2005-09-26	2012-10-10	旭硝子株式会社	Perfluoroelastomer composition and perfluororubber molded article
+JP2008177479A (en) *	2007-01-22	2008-07-31	Tokyo Electron Ltd	Parts of plasma processing apparatus and manufacturing method thereof
+JP2008266368A (en) *	2007-04-16	2008-11-06	Daikin Ind Ltd	Fluorine-containing elastomer composition and sealing material comprising the same
+CN101977981B (en) *	2008-03-18	2013-08-14	日本华尔卡工业株式会社	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+RU2497838C2 (en)	2009-01-16	2013-11-10	Асахи Гласс Компани, Лимитед	Fluorinated elastic copolymer, method for production thereof and article made from cross-linked rubber
+WO2012141154A1 (en) *	2011-04-13	2012-10-18	旭硝子株式会社	Fluorine-containing elastomer composition and fluorine-containing rubber foam
+US9869392B2 (en) *	2011-10-20	2018-01-16	Lam Research Corporation	Edge seal for lower electrode assembly
+JP5800431B2 (en) *	2012-07-20	2015-10-28	アイオン株式会社	Method for producing elastic porous body
+CN104583253A (en) *	2012-08-21	2015-04-29	旭硝子株式会社	Curable fluorine-containing polymer, method for producing same, and fluorine-containing polymer cured product
+JP6034689B2 (en) *	2012-12-19	2016-11-30	三菱電線工業株式会社	Fluorine-containing elastomer composition and rubber member
+US10090211B2 (en) *	2013-12-26	2018-10-02	Lam Research Corporation	Edge seal for lower electrode assembly
+JP2015174927A (en)	2014-03-17	2015-10-05	三福工業株式会社	Foam and production method thereof
+CN106103582B (en) *	2014-03-25	2019-04-09	Ａｇｃ株式会社	Fluorine rubber molded products
+KR102414805B1 (en) *	2016-07-13	2022-06-29	주식회사 발카	Perfluoroelastomer composition and sealing material
+JP6875562B2 (en) *	2017-06-15	2021-05-26	ダブリュ．エル．ゴア アンド アソシエイツ，インコーポレイティドＷ．Ｌ． Ｇｏｒｅ ＆ Ａｓｓｏｃｉａｔｅｓ， Ｉｎｃｏｒｐｏｒａｔｅｄ	Compressible liquid seal with discontinuous adhesive
+JP7177421B2 (en)	2018-04-27	2022-11-24	日本コンクリート技術株式会社	Embedded formwork for reinforcing stainless steel bars
+JP2020015818A (en) *	2018-07-25	2020-01-30	ダイキン工業株式会社	Compositions and foams
+
+=== TABLE 7 (11 rows) ===
+Publication number	Publication date
+US20220185980A1 (en)	2022-06-16
+EP4047055A4 (en)	2023-11-15
+WO2021075431A1 (en)	2021-04-22
+JP7719336B2 (en)	2025-08-06
+KR20220084284A (en)	2022-06-21
+TW202120615A (en)	2021-06-01
+KR102933374B1 (en)	2026-03-03
+JPWO2021075431A1 (en)	2021-04-22
+TWI905121B (en)	2025-11-21
+CN114585680A (en)	2022-06-03
+
+=== TABLE 8 (15 rows) ===
+Publication	Publication Date	Title
+US20220185980A1 (en)	2022-06-16	Perfluoroelastomer molded article and protective member
+JP5967080B2 (en)	2016-08-10	Fluorine-containing elastomer composition and fluorine-containing foam rubber
+EP2927276B1 (en)	2018-01-03	Fluororubber composition and crosslinked rubber article using same
+US20090093590A1 (en)	2009-04-09	Seal Material for Semiconductor Production Apparatus
+JP7048713B1 (en)	2022-04-05	Fluororubber composition and rubber molded products formed using it
+EP2009054A1 (en)	2008-12-31	Fluoroelastomer composition and molded fluororubber article
+JP2023092212A (en)	2023-07-03	Laminates and precursor laminates
+WO2019054293A1 (en)	2019-03-21	Uncrosslinked rubber composition and rubber product manufactured by using same and manufacturing method therefor
+CN115443305B (en)	2024-07-19	Elastomer composition and seal made therefrom
+US12584054B2 (en)	2026-03-24	Semiconductor production device sealing material
+JP2020070326A (en)	2020-05-07	Uncrosslinked fluororubber composition and rubber product produced using the same
+RU2415888C2 (en)	2011-04-10	Perfluoro-elastomer composition and article moulded from perfluoro-rubber
+WO2020170989A1 (en)	2020-08-27	Wearable-device base, wearable device, fluorocopolymer composition for producing wearable-device base, and method for producing wearable-device base
+EP4696743A1 (en)	2026-02-18	Fluorine-containing copolymer composition and crosslinked rubber article
+
+=== TABLE 9 (12 rows) ===
+Date	Code	Title	Description
+2021-04-24	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+2022-07-22	PUAI	Public reference made under article 153(3) epc to a published international application that has entered the european phase	Free format text: ORIGINAL CODE: 0009012
+2022-07-22	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+2022-08-24	17P	Request for examination filed	Effective date: 20220310
+2022-08-24	AK	Designated contracting states	Kind code of ref document: A1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2023-01-25	DAV	Request for validation of the european patent (deleted)	
+2023-01-25	DAX	Request for extension of the european patent (deleted)	
+2023-11-15	A4	Supplementary search report drawn up and despatched	Effective date: 20231012
+2023-11-15	RIC1	Information provided on ipc code assigned before grant	Ipc: H01L 21/683 20060101ALI20231006BHEP Ipc: H01L 21/687 20060101ALI20231006BHEP Ipc: H01J 37/32 20060101ALI20231006BHEP Ipc: H01L 21/3065 20060101ALI20231006BHEP Ipc: C08J 5/00 20060101ALI20231006BHEP Ipc: C08J 9/04 20060101ALI20231006BHEP Ipc: C08L 27/12 20060101AFI20231006BHEP
+2025-07-04	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: EXAMINATION IS IN PROGRESS
+2025-08-06	17Q	First examination report despatched	Effective date: 20250708

@@ -1,0 +1,192 @@
+# US8013064B2 :: US8013064B2 - Perfluoroelastomer composition and sealing material 
+        - Google Patents
+
+=== TABLE 0 (7 rows) ===
+TABLE 1
+
+Compound-	Compar-				
+ing	ative	Example	Example	Example	Example
+Ratio	Example	1	2	3	4
+
+
+
+=== TABLE 1 (6 rows) ===
+Perfluoro-	100	100	100	100	100
+elastomer
+E-18412	7.5	7.5	7.5	7.5	7.5
+MT Carbon	15	15	15	15	15
+Silica	1	1	1	1	1
+ECC-1000	0	0.25	0.5	0.75	1.0
+
+=== TABLE 2 (1 rows) ===
+Vulcanization Property (188° C. × 15 min)
+
+=== TABLE 3 (6 rows) ===
+MH (dNm)	108.3	104.3	104.9	101.8	104.2
+ML (dNm)	9.2	8.71	8.55	8.78	8.64
+Ts2 (min)	2.87	2.65	2.79	2.58	2.93
+T50 (min)	5.47	5.51	5.73	5.27	5.34
+T90 (min)	9.62	10.9	10.2	9.79	9.70
+
+
+=== TABLE 4 (7 rows) ===
+	TABLE 2
+	
+	Compar-				
+	ative	Example	Example	Example	Example
+	Example	1	2	3	4
+	
+
+
+=== TABLE 5 (8 rows) ===
+Peeling	1.05	0.80	0.61	0.15	0.31
+Strength Kgf
+Compression	8	—	—	—	12
+Set %
+(200° C. ×
+48 Hrs)
+
+— indicates samples were not tested.
+
+=== TABLE 6 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2007-107167		2007-04-16	
+JP2007107167A JP5336051B2 (en)	2007-04-16	2007-04-16	Perfluoroelastomer composition and sealing material
+PCT/US2008/060018 WO2008130872A2 (en)	2007-04-16	2008-04-11	Perfluoroelastomer composition and sealing material
+
+=== TABLE 7 (3 rows) ===
+Publication Number	Publication Date
+US20100105819A1 US20100105819A1 (en)	2010-04-29
+US8013064B2 true US8013064B2 (en)	2011-09-06
+
+=== TABLE 8 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US12/532,466 Active US8013064B2 (en)	2007-04-16	2008-04-11	Perfluoroelastomer composition and sealing material
+
+=== TABLE 9 (9 rows) ===
+Country	Link
+US (1)	US8013064B2 (en)
+EP (1)	EP2137245A4 (en)
+JP (1)	JP5336051B2 (en)
+KR (1)	KR101548023B1 (en)
+CN (1)	CN101657493B (en)
+BR (1)	BRPI0810363A2 (en)
+TW (1)	TWI432503B (en)
+WO (1)	WO2008130872A2 (en)
+
+=== TABLE 10 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US11326040B2 (en)	2016-12-28	2022-05-10	3M Innovative Properties Company	Silicon-containing halogenated elastomers
+US11525040B2 (en)	2020-02-26	2022-12-13	Samsung Electronics Co., Ltd.	Silane compound including fluorine-containing (poly)ether group, composition including the same, film formed from the composition, display device comprising the film, and article comprising the composition
+US11597816B2 (en)	2017-12-22	2023-03-07	3M Innovative Properties Company	Peroxide-cured halogenated elastomers having a silicon-containing superficial layer
+US12122929B2 (en)	2018-11-14	2024-10-22	3M Innovative Properties Company	Copolymers of perfluorocycloaliphatic methyl vinyl ether
+
+=== TABLE 11 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP5514302B2 (en) *	2009-05-06	2014-06-04	コーニング インコーポレイテッド	Carrier for glass substrate
+JP5146690B2 (en) *	2009-09-09	2013-02-20	信越化学工業株式会社	Room temperature curable fluoropolyether rubber composition and cured product thereof
+JP6018444B2 (en) *	2011-08-16	2016-11-02	三菱電線工業株式会社	Fluorine-containing elastomer composition and rubber member
+CN104114566B (en) *	2012-02-17	2017-05-31	旭硝子株式会社	Fluorine-containing ether compound, fluorine-containing ether composition and coating liquid and base material and its manufacture method with surface-treated layer
+KR102016194B1 (en) *	2012-02-17	2019-08-29	에이지씨 가부시키가이샤	Fluorine-containing ether compound, fluorine-containing ether composition and coating fluid, and substrate having surface-treated layer and method for producing said substrate
+DE112013001523B4 (en)	2012-04-02	2018-12-13	Toyo Tire & Rubber Co., Ltd.	Silicon compound and process for producing the same and use thereof
+US9056958B2 (en) *	2012-06-14	2015-06-16	Xerox Corporation	Fuser member
+US9592698B2 (en) *	2012-08-31	2017-03-14	Xerox Corporation	Imaging member for offset printing applications
+JP6034689B2 (en) *	2012-12-19	2016-11-30	三菱電線工業株式会社	Fluorine-containing elastomer composition and rubber member
+CN105884811A (en) *	2014-12-24	2016-08-24	江南大学	Method for preparing perfluorinated polyether di-alkoxy silane
+CN111655779B (en) *	2017-12-28	2022-04-29	3M创新有限公司	Fluoropolymer compositions comprising nanoparticles functionalized with functional fluorinated silane compounds
+JP7105171B2 (en) *	2018-10-30	2022-07-22	三菱電線工業株式会社	Sealing material and coating agent used therefor
+JP7200718B2 (en) *	2019-02-06	2023-01-10	Ａｇｃ株式会社	Compositions, powder compositions and methods of making coated articles
+
+=== TABLE 12 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2000290454A (en)	1999-02-01	2000-10-17	Nippon Mektron Ltd	Fluorine-containing elastomeric composition
+US6265494B1 (en) *	1997-05-20	2001-07-24	Ausimonto S.P.A.	Curable fluoroelastomeric compositions
+US20020035220A1 (en)	1998-08-21	2002-03-21	Stephen Bowers	Fluoroelastomer composition having excellent processability and low temperature properties
+US20040126708A1 (en) *	2002-12-31	2004-07-01	3M Innovative Properties Company	Method for modifying the surface of a polymeric substrate
+JP2006036884A (en)	2004-07-26	2006-02-09	Nippon Valqua Ind Ltd	SEALING MATERIAL, ITS MANUFACTURING METHOD, AND TREATING AGENT
+JP2006117878A (en)	2004-10-25	2006-05-11	Three M Innovative Properties Co	Solvent for non-tackifying treating agent for perfluoro elastomer and solution of non-tackifying treating agent using the same
+US20060293432A1 (en)	2005-05-10	2006-12-28	Daikin Industries, Ltd.	Fluorine-containing elastomer composition and molded article comprising the same
+KR20070005865A (en)	2005-07-06	2007-01-10	삼성전자주식회사	Perfluoroelastomer composition with helium substituents and O-rings produced thereby
+WO2007111465A1 (en) *	2006-03-27	2007-10-04	Essilor International (Compagnie Generale D'optique)	Edging process of lens using transparent coating layer for protecting lens
+
+=== TABLE 13 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5268405A (en) *	1993-03-31	1993-12-07	E. I. Du Pont De Nemours And Company	Low temperature perfluoroelastomers
+JP2704167B2 (en) *	1995-01-13	1998-01-26	工業技術院長	Fluorine-containing silicon compound and functional fluid comprising the compound
+JP3140314B2 (en) *	1995-02-02	2001-03-05	株式会社金陽社	Roll for fixing
+JP2003292761A (en) *	2002-04-01	2003-10-15	Shin Etsu Chem Co Ltd	Curable fluoropolyether rubber composition and rubber product
+TW200640992A (en) *	2004-12-30	2006-12-01	3M Innovative Properties Co	Coatings for particle reduction
+JP4857801B2 (en) *	2005-02-16	2012-01-18	コニカミノルタオプト株式会社	Antireflection film, method for producing antireflection film, polarizing plate and display device
+JP5189728B2 (en) *	2005-06-08	2013-04-24	日本バルカー工業株式会社	Fluoro rubber sealant
+CN1931925A (en) *	2005-09-12	2007-03-21	3M创新有限公司	Inadhesion silicon rubber gross rubber and producing method thereof
+
+=== TABLE 14 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6265494B1 (en) *	1997-05-20	2001-07-24	Ausimonto S.P.A.	Curable fluoroelastomeric compositions
+US20020035220A1 (en)	1998-08-21	2002-03-21	Stephen Bowers	Fluoroelastomer composition having excellent processability and low temperature properties
+JP2000290454A (en)	1999-02-01	2000-10-17	Nippon Mektron Ltd	Fluorine-containing elastomeric composition
+US20040126708A1 (en) *	2002-12-31	2004-07-01	3M Innovative Properties Company	Method for modifying the surface of a polymeric substrate
+JP2006036884A (en)	2004-07-26	2006-02-09	Nippon Valqua Ind Ltd	SEALING MATERIAL, ITS MANUFACTURING METHOD, AND TREATING AGENT
+JP2006117878A (en)	2004-10-25	2006-05-11	Three M Innovative Properties Co	Solvent for non-tackifying treating agent for perfluoro elastomer and solution of non-tackifying treating agent using the same
+US20060293432A1 (en)	2005-05-10	2006-12-28	Daikin Industries, Ltd.	Fluorine-containing elastomer composition and molded article comprising the same
+KR20070005865A (en)	2005-07-06	2007-01-10	삼성전자주식회사	Perfluoroelastomer composition with helium substituents and O-rings produced thereby
+WO2007111465A1 (en) *	2006-03-27	2007-10-04	Essilor International (Compagnie Generale D'optique)	Edging process of lens using transparent coating layer for protecting lens
+
+=== TABLE 15 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US11326040B2 (en)	2016-12-28	2022-05-10	3M Innovative Properties Company	Silicon-containing halogenated elastomers
+US11597816B2 (en)	2017-12-22	2023-03-07	3M Innovative Properties Company	Peroxide-cured halogenated elastomers having a silicon-containing superficial layer
+US12122929B2 (en)	2018-11-14	2024-10-22	3M Innovative Properties Company	Copolymers of perfluorocycloaliphatic methyl vinyl ether
+US11525040B2 (en)	2020-02-26	2022-12-13	Samsung Electronics Co., Ltd.	Silane compound including fluorine-containing (poly)ether group, composition including the same, film formed from the composition, display device comprising the film, and article comprising the composition
+
+=== TABLE 16 (15 rows) ===
+Publication number	Publication date
+TWI432503B (en)	2014-04-01
+BRPI0810363A2 (en)	2014-10-29
+KR101548023B1 (en)	2015-08-27
+JP5336051B2 (en)	2013-11-06
+WO2008130872A2 (en)	2008-10-30
+EP2137245A2 (en)	2009-12-30
+CN101657493B (en)	2011-12-14
+US20100105819A1 (en)	2010-04-29
+CN101657493A (en)	2010-02-24
+KR20100016109A (en)	2010-02-12
+WO2008130872A3 (en)	2008-12-24
+TW200911904A (en)	2009-03-16
+EP2137245A4 (en)	2011-06-22
+JP2008266364A (en)	2008-11-06
+
+=== TABLE 17 (24 rows) ===
+Publication	Publication Date	Title
+US20100105819A1 (en)	2010-04-29	Perfluoroelastomer composition and sealing material
+JP4246391B2 (en)	2009-04-02	Thermally stable perfluoroelastomer composition
+KR101853987B1 (en)	2018-05-02	Fluoroelastomer composition
+US20080287627A1 (en)	2008-11-20	Perfluoroelastomer compositions and methods of preparing same
+JP6341290B2 (en)	2018-06-13	Fluorine-containing elastomer composition and molded article
+EP2691452B1 (en)	2018-11-28	Curable fluoroelastomer composition
+JP6547233B2 (en)	2019-07-24	Composition and article
+EP4151676A1 (en)	2023-03-22	Rubber composition, fluoroelastomer, and sealing material
+EP4053176B1 (en)	2025-10-08	Fluorinated copolymer, fluorinated copolymer composition, and crosslinked rubber article
+US20100239867A1 (en)	2010-09-23	Sealing material, parts for plasma treating equipment having said sealing material, and process for preparing said sealing material
+EP4502045A1 (en)	2025-02-05	Composition, crosslinked product, and sealing material
+TW200535189A (en)	2005-11-01	Perfluoroelastomer composition for use in vulcanization and method for making a molded perfluoroelastomer product
+EP4450557A1 (en)	2024-10-23	Perfluoroelastomer composition and perfluoroelastomer crosslinked product
+US8198386B2 (en)	2012-06-12	Fluorine-containing elastomer composition and sealing material made of same
+US20110319545A1 (en)	2011-12-29	Process for preparing curable perfluoroelastomer compositions
+JP6895146B2 (en)	2021-06-30	Polymers, compositions and articles
+KR20220066127A (en)	2022-05-23	Compositions and crosslinked products containing fluorine-containing polymers
+KR20220054832A (en)	2022-05-03	Fluorine-containing elastomer composition comprising microdiamonds
+JP7248402B2 (en)	2023-03-29	Curable fluoroelastomer composite and its cured product
+JP6789521B2 (en)	2020-11-25	Dendrimer, composition and molded product
+KR20210099076A (en)	2021-08-11	Elastomer composition and sealing material
+JP2025080929A (en)	2025-05-27	Rubber composition, fluorine-containing elastomer and sealing material
+TW202432701A (en)	2024-08-16	Fluid plasticizers including fluorinated organic compounds for use in curable fluoropolymer compositions and fluoroelastomer compositions, and methods for improving processability and low temperature use properties of such compositions
+
+=== TABLE 18 (7 rows) ===
+Date	Code	Title	Description
+2009-09-22	AS	Assignment	Owner name: 3M INNOVATIVE PROPERTIES COMPANY,MINNESOTA Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAKAZATO, KATSUHIKO;FUKUSHI, TATSUO;SIGNING DATES FROM 20090907 TO 20090915;REEL/FRAME:023264/0964 Owner name: 3M INNOVATIVE PROPERTIES COMPANY, MINNESOTA Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NAKAZATO, KATSUHIKO;FUKUSHI, TATSUO;SIGNING DATES FROM 20090907 TO 20090915;REEL/FRAME:023264/0964
+2011-08-17	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2012-04-10	CC	Certificate of correction	
+2015-02-18	FPAY	Fee payment	Year of fee payment: 4
+2019-02-22	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 8
+2023-02-21	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 12

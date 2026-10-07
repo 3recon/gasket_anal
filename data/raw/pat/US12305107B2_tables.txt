@@ -1,0 +1,179 @@
+# US12305107B2 :: US12305107B2 - Perfluoroelastomer composition, cross-linked perfluoroelastomer and molded article 
+        - Google Patents
+
+=== TABLE 0 (20 rows) ===
+TABLE 1
+
+		Example 1	Comp. Ex. 1	Comp. Ex. 2
+Composition	Polymer	PFE40Z	PFE40Z	PFE40Z
+
+	Crosslinking agent	Compound (1)	Compound (1)	TAIC
+		7 parts by weight	7 parts by weight	
+	Filler	MT	MT	MT
+		65 parts by weight	50 parts by weight	65 parts by weight
+	Plasticizer	fluorine plasticizer	fluorine plasticizer	fluorine plasticizer
+		3 parts by weight	3 parts by weight	3 parts by weight
+Rapid	NORSOK 100° C.	0.0	5.2	3.3
+decompression				
+resistance	NORSOK 300° C.	0.3	3.3	5.5
+Heat	200° C. × 72 hr	32	28	19
+resistance	250° C. × 72 hr	37	36	61
+	300° C. × 72 hr	58	58	88
+Vapor	250° C. × 72 hr + 1 hr	23	27	17
+resistance	300° C. × 72 hr + 1 hr	36	33	65
+
+
+=== TABLE 1 (3 rows) ===
+TABLE 2
+
+	Standard (NORSOK)
+
+=== TABLE 2 (3 rows) ===
+Score	Number		
+	of Cracks	Length of Cracks	Total length of Cracks
+
+
+=== TABLE 3 (1 rows) ===
+0	0	0
+
+=== TABLE 4 (3 rows) ===
+1	4	<wire diameter × 0.5	wire diameter × 1.0
+2	6	<wire diameter × 0.5	wire diameter × 2.5
+3	9	<wire diameter × 0.5	
+
+=== TABLE 5 (1 rows) ===
+	OR
+
+=== TABLE 6 (2 rows) ===
+	2	<wire diameter × 0.8	—
+4	8	<wire diameter × 0.8	—
+
+=== TABLE 7 (1 rows) ===
+	OR
+
+=== TABLE 8 (1 rows) ===
+	1	wire diameter × 0.8	—
+
+=== TABLE 9 (3 rows) ===
+5	Cracks penetrated the cross-section and
+	the O-ring was split and shattered.
+
+
+=== TABLE 10 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2018235356		2018-12-17	
+JP2018-235356		2018-12-17	
+PCT/JP2019/048684 WO2020129804A1 (en)	2018-12-17	2019-12-12	Perfluoroelastomer composition, crosslinked perfluoroelastomer and molded article
+
+=== TABLE 11 (3 rows) ===
+Publication Number	Publication Date
+US20220064507A1 US20220064507A1 (en)	2022-03-03
+US12305107B2 true US12305107B2 (en)	2025-05-20
+
+=== TABLE 12 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US17/415,579 Active 2041-11-10 US12305107B2 (en)	2018-12-17	2019-12-12	Perfluoroelastomer composition, cross-linked perfluoroelastomer and molded article
+
+=== TABLE 13 (8 rows) ===
+Country	Link
+US (1)	US12305107B2 (en)
+EP (1)	EP3901206B1 (en)
+JP (1)	JP7066010B2 (en)
+KR (1)	KR102574872B1 (en)
+CN (1)	CN113272375A (en)
+TW (1)	TWI786355B (en)
+WO (1)	WO2020129804A1 (en)
+
+=== TABLE 14 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2021230231A1 (en) *	2020-05-14	2021-11-18	ニチアス株式会社	Rubber composition, fluoroelastomer, and sealing material
+WO2024110375A1 (en) *	2022-11-22	2024-05-30	Dupont Specialty Products Operations Sarl	Perfluoroelastomer compounds
+
+=== TABLE 15 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050282969A1 (en)	2004-06-22	2005-12-22	Giovanni Comino	Perfluoroelastomeric compositions
+CN101511911A (en)	2006-07-03	2009-08-19	索尔维索莱克西斯公司	(Per)fluoroelastomeric compositions
+US20100216933A1 (en)	2009-02-26	2010-08-26	Dupont Performance Elastomers L.L.C.	Cured perfluoroelastomer article
+JP2012236969A (en)	2011-04-25	2012-12-06	Fujikura Rubber Ltd	Fluororubber composition, and composite sealing member using the same
+WO2013116868A1 (en)	2012-02-03	2013-08-08	Greene, Tweed Of Delaware, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+WO2016017187A1 (en)	2014-08-01	2016-02-04	ニチアス株式会社	Crosslinking agent and fluorine-containing aromatic compound
+CN105452361A (en)	2013-08-07	2016-03-30	霓佳斯株式会社	Crosslinking agent and fluorine-containing aromatic compound
+JP2016145166A (en)	2015-02-06	2016-08-12	ニチアス株式会社	Fluorine-containing aromatic compound
+JP2016145167A (en)	2015-02-06	2016-08-12	ニチアス株式会社	Crosslinking agent and fluorine-containing aromatic compound
+
+=== TABLE 16 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR101706938B1 (en)	2009-03-01	2017-02-15	엘지전자 주식회사	The method of transmitting and receiving feedback and mobile station and base station apparatus using the same method
+
+=== TABLE 17 (17 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050282969A1 (en)	2004-06-22	2005-12-22	Giovanni Comino	Perfluoroelastomeric compositions
+JP2006009010A (en)	2004-06-22	2006-01-12	Solvay Solexis Spa	Perfluoroelastomer composition
+CN101511911A (en)	2006-07-03	2009-08-19	索尔维索莱克西斯公司	(Per)fluoroelastomeric compositions
+US20100069558A1 (en)	2006-07-03	2010-03-18	SOLVAY SOLEXIS S.p. A.	(per)fluoroelastomeric compositions
+US20100216933A1 (en)	2009-02-26	2010-08-26	Dupont Performance Elastomers L.L.C.	Cured perfluoroelastomer article
+WO2010099057A2 (en)	2009-02-26	2010-09-02	Dupont Performance Elastomers L.L.C.	Cured perfluoroelastomer article
+JP2012519221A (en)	2009-02-26	2012-08-23	イー・アイ・デュポン・ドウ・ヌムール・アンド・カンパニー	Cured perfluoroelastomer molded product
+JP2012236969A (en)	2011-04-25	2012-12-06	Fujikura Rubber Ltd	Fluororubber composition, and composite sealing member using the same
+WO2013116868A1 (en)	2012-02-03	2013-08-08	Greene, Tweed Of Delaware, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+JP2015512963A (en)	2012-02-03	2015-04-30	グリーン， ツイード テクノロジーズ， インコーポレイテッド	Rapid gas decompression resistant fluoroelastomer composition and molded article
+CN105452361A (en)	2013-08-07	2016-03-30	霓佳斯株式会社	Crosslinking agent and fluorine-containing aromatic compound
+US20160185892A1 (en)	2013-08-07	2016-06-30	Nichias Corporation	Crosslinking agent and fluorine-containing aromatic compound
+WO2016017187A1 (en)	2014-08-01	2016-02-04	ニチアス株式会社	Crosslinking agent and fluorine-containing aromatic compound
+US20170226255A1 (en)	2014-08-01	2017-08-10	Nichias Corporation	Crosslinking agent and fluorine-containing aromatic compound
+JP2016145166A (en)	2015-02-06	2016-08-12	ニチアス株式会社	Fluorine-containing aromatic compound
+JP2016145167A (en)	2015-02-06	2016-08-12	ニチアス株式会社	Crosslinking agent and fluorine-containing aromatic compound
+
+=== TABLE 18 (6 rows) ===
+Title
+Aug. 1, 2022 Search Report issued in European Patent Application No. 19897856.1.
+Aug. 19, 2022 Office Action issued in Chinese Patent Application No. 201980081316.9.
+Jun. 16, 2020 International Preliminary Report on Patentability issued in International Patent Application No. PCT/JP2019/048684.
+Mar. 17, 2020 Search Report issued in International Patent Application No. PCT/JP2019/048684.
+Sep. 16, 2020 Office Action issued in Taiwanese Patent Application No. 108145989.
+
+=== TABLE 19 (13 rows) ===
+Publication number	Publication date
+WO2020129804A1 (en)	2020-06-25
+KR20210110804A (en)	2021-09-09
+JPWO2020129804A1 (en)	2021-10-28
+TWI786355B (en)	2022-12-11
+TW202031694A (en)	2020-09-01
+US20220064507A1 (en)	2022-03-03
+EP3901206A1 (en)	2021-10-27
+JP7066010B2 (en)	2022-05-12
+KR102574872B1 (en)	2023-09-05
+EP3901206A4 (en)	2022-08-31
+EP3901206B1 (en)	2025-07-09
+CN113272375A (en)	2021-08-17
+
+=== TABLE 20 (15 rows) ===
+Publication	Publication Date	Title
+EP2985307B1 (en)	2019-10-02	Method for producing crosslinked fluoroelastomer
+EP2401321B1 (en)	2013-09-18	Cured perfluoroelastomer article
+CN115362208B (en)	2024-09-24	Fluorine-containing copolymer composition and cross-linked rubber article
+WO2006087942A1 (en)	2006-08-24	Seal material for semiconductor production apparatus
+KR20110128834A (en)	2011-11-30	Perfluoroelastomer
+KR101776986B1 (en)	2017-09-08	Curable fluoroelastomer composition
+KR102846548B1 (en)	2025-08-20	Rubber compositions, fluorine-containing elastomers and sealants
+EP3936534B1 (en)	2025-10-22	Fluorinated copolymer composition, crosslinked rubber and method for its production
+EP3901206B1 (en)	2025-07-09	Perfluoroelastomer composition, crosslinked perfluoroelastomer and molded article
+US10011690B2 (en)	2018-07-03	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+EP3368599B1 (en)	2020-02-26	Curable fluoroelastomer composition
+WO2009087814A1 (en)	2009-07-16	Fluorine-containing elastomer
+KR101776987B1 (en)	2017-09-08	Curable fluoroelastomer composition
+JP6723220B2 (en)	2020-07-15	Perfluoroelastomer composition
+
+=== TABLE 21 (12 rows) ===
+Date	Code	Title	Description
+2021-06-17	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2021-08-06	AS	Assignment	Owner name: NICHIAS CORPORATION, JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HASEGAWA, CHISATO;OTANI, KOJIRO;REEL/FRAME:058094/0421 Effective date: 20210709
+2021-12-10	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2024-02-06	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2024-03-29	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2024-06-11	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2024-09-11	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2024-09-18	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2024-12-22	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2025-03-03	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2025-05-07	STCF	Information on status: patent grant	Free format text: PATENTED CASE

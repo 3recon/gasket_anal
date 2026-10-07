@@ -1,0 +1,61 @@
+# KR20140130932A :: KR20140130932A - Method for preparing molding compound using cnt and nano size filler and the molding compound 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020130049531A KR20140130932A (en)	2013-05-02	2013-05-02	Method for preparing molding compound using cnt and nano size filler and the molding compound
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020130049531A KR20140130932A (en)	2013-05-02	2013-05-02	Method for preparing molding compound using cnt and nano size filler and the molding compound
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR20140130932A true KR20140130932A (en)	2014-11-12
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020130049531A Ceased KR20140130932A (en)	2013-05-02	2013-05-02	Method for preparing molding compound using cnt and nano size filler and the molding compound
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR20140130932A (en)
+
+=== TABLE 5 (26 rows) ===
+Publication	Publication Date	Title
+Liu et al.	2014	Synergistic flame retardant effects between hollow glass microspheres and magnesium hydroxide in ethylene-vinyl acetate composites
+US9815972B2 (en)	2017-11-14	Fluoro-rubber composition and cross-linked rubber article using same
+Khanra et al.	2020	Influence of partial substitution of carbon black with silica on mechanical, thermal, and aging properties of super specialty elastomer based composites
+KR100361561B1 (en)	2003-01-24	A Blowing Composition of Polyolefins with Flame-Retardantivity and Method Thereof
+CN105899600B (en)	2019-02-22	Perfluoroelastomer composition, and sealing material and method for producing the same
+WO2014040397A1 (en)	2014-03-20	Fluoro-rubber compound and preparation method therefor
+Vahidifar et al.	2019	Morphological, rheological, and mechanical properties of hybrid elastomeric foams based on natural rubber, nanoclay, and nanocarbon black
+CN107200972A (en)	2017-09-26	A kind of fluorine rubber microporous foam material and preparation method thereof
+KR20150028698A (en)	2015-03-16	Composites of filler and polymer resin and method for preparing the same
+Song et al.	2023	Toughed interface of Mg (OH) 2/polymer composites with improved mechanical performance via intramolecular “bridge”
+CN118388904A (en)	2024-07-26	Low-smoke-release and incombustible perfluororubber foam composition, foam and preparation method thereof
+Lakshminarayanan et al.	2012	Vulcanization behavior and mechanical properties of organoclay fluoroelastomer nanocomposites
+Mensah et al.	2022	Vulcanization kinetics of acrylonitrile‐butadiene rubber reinforced with graphene oxide and reduced graphene oxide in the absence of co‐cure accelerator
+Ponnamma et al.	2013	Special purpose elastomers: synthesis, structure-property relationship, compounding, processing and applications
+Zhang et al.	2019	High‐performance hydrogenated nitrile butadiene rubber composites by in situ interfacial design of nanoclays
+Hong et al.	2025	Enhancing the fire safety and mechanical performance of EVA/IFR cable materials via MXene by nano-synergistic strategy
+CN114761513B (en)	2024-07-12	Seals for semiconductor manufacturing equipment
+Wang et al.	2006	Preparation and Properties of PVC Ternary Nanocomposites Containing Elastomeric Nanoscale Particles and Exfoliated Sodium‐Montmorillonite
+CN110978366B (en)	2021-10-01	A method for increasing the addition amount of functional components in foamed materials
+JP2005239835A (en)	2005-09-08	Crosslinkable fluororubber composition
+KR100990127B1 (en)	2010-10-29	Manufacturing method of environmentally friendly polyolefin / wood powder / clay nanocomposite with improved thermal stability
+Zhang et al.	2011	An environmental friendly approach for recycling of post‐vulcanized fluoroelastomer scraps through high‐shear mechanical milling
+Fang et al.	2013	Preparation and properties of Styrene-Butadiene Rubber/Clay nanocomposites by using liquid rubber/clay master batches
+CN106032434B (en)	2019-12-20	Powder rubber and vulcanized powder rubber and preparation method thereof
+Cheng et al.	2025	Enhanced durability of Viton seals: Carbon nanotube‐rubber co‐interlinked network improves thermal conductivity
+
+=== TABLE 6 (9 rows) ===
+Date	Code	Title	Description
+2013-05-02	A201	Request for examination	
+2013-05-02	PA0109	Patent application	Patent event code: PA01091R01D Comment text: Patent Application Patent event date: 20130502
+2013-05-02	PA0201	Request for examination	
+2014-07-16	E902	Notification of reason for refusal	
+2014-07-16	PE0902	Notice of grounds for rejection	Comment text: Notification of reason for refusal Patent event date: 20140716 Patent event code: PE09021S01D
+2014-11-12	PG1501	Laying open of application	
+2015-01-16	E601	Decision to refuse application	
+2015-01-16	PE0601	Decision on rejection of patent	Patent event date: 20150116 Comment text: Decision to Refuse Application Patent event code: PE06012S01D Patent event date: 20140716 Comment text: Notification of reason for refusal Patent event code: PE06011S01I

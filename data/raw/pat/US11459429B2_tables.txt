@@ -1,0 +1,173 @@
+# US11459429B2 :: US11459429B2 - Perfluoroelastomer composition 
+        - Google Patents
+
+=== TABLE 0 (6 rows) ===
+TABLE 1
+
+		ΔM	tS2	t′90	C-Set	M100	E.B.
+Run	Additive	(lb × in)	(sec)	(sec)	(%)	(MPa)	(%)
+
+
+
+=== TABLE 1 (6 rows) ===
+1C	none	16	54	401	69	10.2	177
+2	(B-1)	23.5	43	178	41	12.2	172
+3	(B-2)	23	47	221	50	12.0	165
+4	(B-3)	21.7	49	241	55	12.1	177
+5	(B-4)	21.2	41	216	43	12.0	166
+6	(B-5)	22.1	53	182	47	11.5	157
+
+=== TABLE 2 (1 rows) ===
+7C	(C-1)	2.9	263	496	no acceptable curing
+
+=== TABLE 3 (6 rows) ===
+8C	(C-2)	n.d.	n.d.	n.d.	81	n.d.	n.d.
+9C(*)	none	n.d.	n.d.	n.d.	>100	n.d.	n.d.
+10C(*)	(B-1)	n.d.	n.d.	n.d.	>100	n.d.	n.d.
+
+n.d.: not determined;
+(*)in examples 9C and 10C, 3 phr of DRIMIX ® triallylisocyanurate (TAIC) were used instead of 1.5 phr of bis-olefin.
+
+=== TABLE 4 (5 rows) ===
+	TABLE 2
+	
+	ΔM50	ΔM100	ΔT.S.	ΔE.B.	ΔHDS
+	
+
+
+=== TABLE 5 (1 rows) ===
+	Molding 10 min at 170° C. - Post-curing (8 + 16) h at 200° C.
+
+=== TABLE 6 (2 rows) ===
+1C	−17	−11	2	25	−4
+2	−4	13	11	−17	0
+
+=== TABLE 7 (1 rows) ===
+	Molding 10 min at 170° C. - Post-curing (8 + 16) h at 250° C.
+
+=== TABLE 8 (2 rows) ===
+1C	−36	−40	−21	65	−3
+2	−13	−2	1	−1	−2
+
+=== TABLE 9 (1 rows) ===
+	Molding 10 min at 170° C. - Post-curing (8 + 16) h at 290° C.
+
+=== TABLE 10 (3 rows) ===
+1C	−26	−37	−31	37	−6
+2	−18	−16	1	21	−1
+
+
+=== TABLE 11 (5 rows) ===
+Application Number	Priority Date	Filing Date	Title
+EP14178035		2014-07-22	
+EP14178035		2014-07-22	
+EP14178035.3		2014-07-22	
+PCT/EP2015/066269 WO2016012339A1 (en)	2014-07-22	2015-07-16	Perfluoroelastomer composition
+
+=== TABLE 12 (3 rows) ===
+Publication Number	Publication Date
+US20170204230A1 US20170204230A1 (en)	2017-07-20
+US11459429B2 true US11459429B2 (en)	2022-10-04
+
+=== TABLE 13 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US15/327,860 Active US11459429B2 (en)	2014-07-22	2015-07-16	Perfluoroelastomer composition
+
+=== TABLE 14 (6 rows) ===
+Country	Link
+US (1)	US11459429B2 (en)
+EP (1)	EP3172252B1 (en)
+JP (1)	JP6723220B2 (en)
+CN (1)	CN106574016B (en)
+WO (1)	WO2016012339A1 (en)
+
+=== TABLE 15 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4035565A (en)	1975-03-27	1977-07-12	E. I. Du Pont De Nemours And Company	Fluoropolymer containing a small amount of bromine-containing olefin units
+US4243770A (en)	1977-04-08	1981-01-06	Daikin Kogyo Co., Ltd.	Cross linkable fluorine-containing polymer and its production
+US4564662A (en)	1984-02-23	1986-01-14	Minnesota Mining And Manufacturing Company	Fluorocarbon elastomer
+EP0199138A2 (en)	1985-03-28	1986-10-29	Daikin Industries, Limited	Novel fluorovinyl ether and copolymer comprising the same
+US4694045A (en)	1985-12-11	1987-09-15	E. I. Du Pont De Nemours And Company	Base resistant fluoroelastomers
+US4745165A (en)	1985-07-08	1988-05-17	Ausimont S.P.A.	Process for the preparation of curable fluoroelastomers and products so obtained
+US4943622A (en)	1987-06-04	1990-07-24	Nippon Mektron, Limited	Process for producing peroxide-vulcanizable, fluorine-containing elastomer
+US5173553A (en)	1989-07-10	1992-12-22	Ausimont S.R.L.	Fluoroelastomers endowed with improved processability and process for preparing them
+EP0769521A1 (en) *	1995-10-20	1997-04-23	AUSIMONT S.p.A.	Fluoroelastomeric compositions
+US6465576B1 (en) *	1999-07-02	2002-10-15	Dyneon Llc	Fluoroelastomer compositions and articles made therefrom
+US20050282969A1 (en)	2004-06-22	2005-12-22	Giovanni Comino	Perfluoroelastomeric compositions
+WO2008003634A1 (en)	2006-07-03	2008-01-10	Solvay Solexis S.P.A.	(per)fluoroelastomeric compositions
+WO2008003636A1 (en)	2006-07-03	2008-01-10	Solvay Solexis S.P.A.	(per)fluoroelastomeric compositions
+US20130109797A1 (en) *	2010-07-14	2013-05-02	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer composition
+US20170313849A1 (en) *	2014-10-31	2017-11-02	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer composition
+
+=== TABLE 16 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP3523258B2 (en) *	1993-07-16	2004-04-26	イー・アイ・デュポン・ドゥ・ヌムール・アンド・カンパニー	High purity fluoroelastomer compound
+ITMI20012164A1 (en) *	2001-10-18	2003-04-18	Ausimont Spa	FLUORO-ELASTOMERS
+TWI496796B (en) *	2009-02-13	2015-08-21	Solvay Solexis Spa	Perfluoroelastomer
+EP2610302A4 (en) *	2010-08-25	2017-04-12	Daikin Industries, Ltd.	Fluororubber composition
+
+=== TABLE 17 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4035565A (en)	1975-03-27	1977-07-12	E. I. Du Pont De Nemours And Company	Fluoropolymer containing a small amount of bromine-containing olefin units
+US4243770A (en)	1977-04-08	1981-01-06	Daikin Kogyo Co., Ltd.	Cross linkable fluorine-containing polymer and its production
+US4564662A (en)	1984-02-23	1986-01-14	Minnesota Mining And Manufacturing Company	Fluorocarbon elastomer
+EP0199138A2 (en)	1985-03-28	1986-10-29	Daikin Industries, Limited	Novel fluorovinyl ether and copolymer comprising the same
+US4745165A (en)	1985-07-08	1988-05-17	Ausimont S.P.A.	Process for the preparation of curable fluoroelastomers and products so obtained
+US4694045A (en)	1985-12-11	1987-09-15	E. I. Du Pont De Nemours And Company	Base resistant fluoroelastomers
+US4943622A (en)	1987-06-04	1990-07-24	Nippon Mektron, Limited	Process for producing peroxide-vulcanizable, fluorine-containing elastomer
+US5173553A (en)	1989-07-10	1992-12-22	Ausimont S.R.L.	Fluoroelastomers endowed with improved processability and process for preparing them
+EP0769521A1 (en) *	1995-10-20	1997-04-23	AUSIMONT S.p.A.	Fluoroelastomeric compositions
+US6465576B1 (en) *	1999-07-02	2002-10-15	Dyneon Llc	Fluoroelastomer compositions and articles made therefrom
+US20050282969A1 (en)	2004-06-22	2005-12-22	Giovanni Comino	Perfluoroelastomeric compositions
+WO2008003634A1 (en)	2006-07-03	2008-01-10	Solvay Solexis S.P.A.	(per)fluoroelastomeric compositions
+WO2008003636A1 (en)	2006-07-03	2008-01-10	Solvay Solexis S.P.A.	(per)fluoroelastomeric compositions
+US20130109797A1 (en) *	2010-07-14	2013-05-02	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer composition
+US20170313849A1 (en) *	2014-10-31	2017-11-02	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer composition
+
+=== TABLE 18 (9 rows) ===
+Publication number	Publication date
+CN106574016B (en)	2019-06-18
+EP3172252B1 (en)	2020-09-30
+EP3172252A1 (en)	2017-05-31
+US20170204230A1 (en)	2017-07-20
+WO2016012339A1 (en)	2016-01-28
+JP6723220B2 (en)	2020-07-15
+CN106574016A (en)	2017-04-19
+JP2017521537A (en)	2017-08-03
+
+=== TABLE 19 (13 rows) ===
+Publication	Publication Date	Title
+EP2593511B1 (en)	2014-06-04	Fluoroelastomer composition
+US9518178B2 (en)	2016-12-13	Milling process
+US9688786B2 (en)	2017-06-27	Hyperbranched fluoroelastomer additive
+US10533064B2 (en)	2020-01-14	Fluoroelastomers
+US10906999B2 (en)	2021-02-02	Fluoroelastomer compositions
+WO2014206833A1 (en)	2014-12-31	Fluoroelastomer composition
+US11220588B2 (en)	2022-01-11	Fluoroelastomer composition
+US10774207B2 (en)	2020-09-15	Fluoroelastomer composition
+EP3752562A1 (en)	2020-12-23	Fluoroelastomer curable composition
+US10513593B2 (en)	2019-12-24	Fluoroelastomer composition
+EP3172252B1 (en)	2020-09-30	Perfluoroelastomer composition
+EP3873985A1 (en)	2021-09-08	Curable composition of elastomers
+
+=== TABLE 20 (20 rows) ===
+Date	Code	Title	Description
+2017-01-23	AS	Assignment	Owner name: SOLVAY SPECIALTY POLYMERS ITALY S.P.A., ITALY Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:FANTONI, MATTEO;ARRIGONI, STEFANO;BOSSOLO, STEFANO;AND OTHERS;SIGNING DATES FROM 20161228 TO 20170109;REEL/FRAME:041040/0822
+2018-11-19	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2019-06-06	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2019-12-12	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2020-05-14	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2020-10-24	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2021-02-18	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2021-05-23	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2021-06-01	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2021-08-11	STPP	Information on status: patent application and granting procedure in general	Free format text: ADVISORY ACTION MAILED
+2021-09-07	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2021-09-16	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2022-03-24	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2022-03-30	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2022-06-06	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE AFTER FINAL ACTION FORWARDED TO EXAMINER
+2022-06-08	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2022-08-30	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+2022-09-14	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2026-03-18	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 4

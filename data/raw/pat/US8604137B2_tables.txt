@@ -1,0 +1,292 @@
+# US8604137B2 :: US8604137B2 - Perfluoroelastomers with low carbonyl endgroup ratios 
+        - Google Patents
+
+=== TABLE 0 (14 rows) ===
+TABLE 1
+
+	Comparative Example 1	Example 1
+
+VDA Compression Set (%)	74.6	60.3
+Retained Sealing Force-	181 (100% ± 0.0%)	183 (100% ± 0.0%)
+0 hr		
+Retained Sealing Force-	35 (19.5% ± 11.2%)	61 (33.7% ± 1.3%)
+1 hr aging		
+Retained Sealing Force-	38 (16.8% ± 17.4%)	57 (30.9% ± 2.2%)
+24 hr aging		
+Retained Sealing Force-	36 (14.1% ± 14.2%)	50 (27.2% ± 2.0%)
+72 hr aging
+
+
+=== TABLE 1 (3 rows) ===
+TABLE 2
+
+Time	Retained Sealing Force
+
+=== TABLE 2 (2 rows) ===
+(hr)	Example 2	Example 3	Example 4	Example 5
+
+
+=== TABLE 3 (5 rows) ===
+0	216 (100% ± 0.0%)	145 (100% ± 0.0%)	212 (100% ± 0.0%)	214 (100% ± 0.0%)
+1	94 (43.2% ± 3.0%)	50 (33.3% ± 17.7%)	89 (42.1% ± 2.0%)	93 (43.5% ± 5.0%)
+24	65 (30.2% ± 3.7%)	30 (19.8% ± 20.0%)	75 (35.5% ± 3.9%)	64 (29.9% ± 3.2%)
+72	56 (26.1% ± 1.7%)	24 (15.8% ± 28.4%)	59 (27.7% ± 13.0%)	57 (26.6% ± 1.9%)
+
+
+=== TABLE 4 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US12/919,783 US8604137B2 (en)	2008-02-29	2009-02-02	Perfluoroelastomers with low carbonyl endgroup ratios
+
+=== TABLE 5 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US3249908P	2008-02-29	2008-02-29	
+PCT/US2009/032850 WO2009111120A2 (en)	2008-02-29	2009-02-02	Perfluoroelastomers with low carbonyl endgroup ratios
+US12/919,783 US8604137B2 (en)	2008-02-29	2009-02-02	Perfluoroelastomers with low carbonyl endgroup ratios
+
+=== TABLE 6 (3 rows) ===
+Publication Number	Publication Date
+US20110009569A1 US20110009569A1 (en)	2011-01-13
+US8604137B2 true US8604137B2 (en)	2013-12-10
+
+=== TABLE 7 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US12/919,783 Active 2030-03-11 US8604137B2 (en)	2008-02-29	2009-02-02	Perfluoroelastomers with low carbonyl endgroup ratios
+
+=== TABLE 8 (9 rows) ===
+Country	Link
+US (1)	US8604137B2 (en)
+EP (1)	EP2247631A4 (en)
+JP (1)	JP5452508B2 (en)
+KR (1)	KR101595137B1 (en)
+CN (1)	CN102007150B (en)
+BR (1)	BRPI0907775A2 (en)
+TW (1)	TWI448501B (en)
+WO (1)	WO2009111120A2 (en)
+
+=== TABLE 9 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2015088784A2 (en)	2013-12-11	2015-06-18	3M Innovative Properties Company	Highly fluorinated elastomers
+US9982091B2 (en)	2014-03-06	2018-05-29	3M Innovative Properties Company	Highly fluorinated elastomers
+US10323142B2 (en)	2015-05-29	2019-06-18	3M Innovative Properties Company	Perfluoroelastomeric compositions comprising oxazoles
+WO2019215636A1 (en)	2018-05-09	2019-11-14	3M Innovative Properties Company	Fluoropolymers with very low amounts of a fluorinated alkanoic acid or its salts
+US10557031B2 (en)	2015-10-23	2020-02-11	3M Innovative Properties Company	Composition including amorphous fluoropolymer and fluoroplastic particles and methods of making the same
+US10703833B2 (en)	2015-12-17	2020-07-07	3M Innovative Properties Company	Amine-containing polymers, dispersions thereof and methods of making and using the same
+WO2022180547A1 (en)	2021-02-26	2022-09-01	3M Innovative Properties Company	Process for making a fluoropolymer and fluoropolymer made therefrom
+WO2022259087A1 (en)	2021-06-11	2022-12-15	3M Innovative Properties Company	Method of making a fluoropolymer dispersion having a low amount of perfluoroalkanoic acids or salts thereof and the fluoropolymer comprises a low ionic end group ratio
+
+=== TABLE 10 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR101684719B1 (en) *	2009-06-25	2016-12-08	쓰리엠 이노베이티브 프로퍼티즈 캄파니	Curing compositions for fluoropolymers
+US8816013B2 (en)	2011-03-31	2014-08-26	E I Du Pont De Nemours And Company	Curable fluoroelastomer composition
+US8618222B2 (en)	2011-03-31	2013-12-31	E I Du Pont De Nemours And Company	Curable fluoroelastomer composition
+US8338542B1 (en)	2012-06-25	2012-12-25	E I Du Pont De Nemours And Company	Curable fluoroelastomer composition
+US20130345365A1 (en)	2012-06-25	2013-12-26	E I Du Pont De Nemours And Company	Curable fluoroelastomer composition
+WO2014062469A1 (en) *	2012-10-18	2014-04-24	3M Innovative Properties Company	Fluoroiodo compounds for fluoropolymers
+US10604607B2 (en)	2015-10-29	2020-03-31	E. I. Du Pont De Nemours And Company	Curable fluoroelastomer composition
+US11078354B2 (en)	2016-01-26	2021-08-03	E.I. Deupont De Nemours And Company	Fluoroelastomer compounds
+FR3110168B1 (en) *	2020-05-15	2022-08-26	Arkema France	Process for producing thermally stable and highly crystalline vinylidene fluoride polymers
+CN116063607B (en) *	2021-11-01	2024-08-13	中昊晨光化工研究院有限公司	A high temperature resistant perfluoroether fluororubber and preparation method thereof
+
+=== TABLE 11 (56 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US2567011A (en)	1949-01-10	1951-09-04	Minnesota Mining & Mfg	Fluorocarbon acids and derivatives
+US2732398A (en)	1953-01-29	1956-01-24		cafiicfzsojk
+US2809990A (en)	1955-12-29	1957-10-15	Minnesota Mining & Mfg	Fluorocarbon acids and derivatives
+US4000356A (en)	1972-06-19	1976-12-28	Dynamit Nobel Aktiengesellschaft	Process for the preparation of thermoplastically workable fluoro-olefin polymers
+US4281092A (en)	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+US4588796A (en)	1984-04-23	1986-05-13	E. I. Du Pont De Nemours And Company	Fluoroolefin polymerization process using fluoroxy compound solution as initiator
+US4621116A (en)	1984-12-07	1986-11-04	E. I. Du Pont De Nemours And Company	Process for copolymerization of tetrafluoroethylene in the presence of a dispersing agent comprising a perfluoroalkoxybenzene sulfonic acid or salt
+US5268405A (en)	1993-03-31	1993-12-07	E. I. Du Pont De Nemours And Company	Low temperature perfluoroelastomers
+US5285002A (en)	1993-03-23	1994-02-08	Minnesota Mining And Manufacturing Company	Fluorine-containing polymers and preparation and use thereof
+EP0661304A1 (en)	1993-12-29	1995-07-05	AUSIMONT S.p.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+US5442097A (en)	1993-06-02	1995-08-15	Hoechst Aktiengesellschaft	Process for the recovery of fluorinated carboxylic acids
+US5565512A (en)	1995-03-31	1996-10-15	Nippon Mektron, Limited	Fluorine-containing elastomer composition
+US5621145A (en)	1995-02-16	1997-04-15	Nippon Mektron, Limited	Bisamidoxime compound, process for preparing the same and a fluorine-containing elastomer composition comprising the same
+EP0769521A1 (en)	1995-10-20	1997-04-23	AUSIMONT S.p.A.	Fluoroelastomeric compositions
+US5639837A (en)	1996-06-04	1997-06-17	E. I. Du Pont De Nemours And Company	Process for making fluoropolymers
+WO1997023440A1 (en)	1995-12-22	1997-07-03	E.I. Du Pont De Nemours And Company	Manufacture of fluorinated compounds
+US5677389A (en)	1996-11-25	1997-10-14	E. I. Du Pont De Nemours	Perfluoroelastomer composition having enhanced curing performance
+US5700879A (en)	1994-10-21	1997-12-23	The Central Synthetic Rubbers Research Institute	Fluorine-containing elastomer composition
+WO1998023653A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+WO1998023655A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+WO1998023654A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Sulfonated perfluoroelastomer composition having improved processability
+US5767204A (en)	1994-10-21	1998-06-16	Nippon Mektron Limited	Fluorine-containing elastomer composition
+US5789489A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+US5936060A (en)	1996-11-25	1999-08-10	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+WO2000009569A2 (en) *	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+US6114452A (en)	1996-11-25	2000-09-05	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having excellent heat stability
+US6281296B1 (en)	1998-08-10	2001-08-28	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+EP1153976A1 (en)	1998-11-13	2001-11-14	Daikin Industries, Ltd.	Fluoroelastomer and crosslinkable composition thereof
+US6429258B1 (en)	1999-05-20	2002-08-06	E. I. Du Pont De Nemours & Company	Polymerization of fluoromonomers
+US20020145228A1 (en)	2001-01-31	2002-10-10	3M Innovative Properties Company	Fluoropolymer compositions
+US6613941B1 (en)	1998-06-02	2003-09-02	3M Innovative Properties Company	Method for recovering fluorinated alkanoic acids from waste waters
+US6657012B2 (en)	2000-09-18	2003-12-02	3M Innovative Properties Company	Metal amine complex containing fluoropolymer compositions
+US6657013B2 (en)	2000-09-18	2003-12-02	3M Innovative Properties Company	Imidate-containing fluoropolymer compositions
+US20040024134A1 (en)	2002-07-29	2004-02-05	3M Innovative Properties Company	Ultraclean fluoroelastomer suitable for use in the manufacturing of electronic components
+US20040044139A1 (en)	2002-08-27	2004-03-04	Grootaert Werner M.A.	Fluoropolymer compositions
+US6706193B1 (en)	1999-07-17	2004-03-16	3M Innovative Properties Company	Method for recovering fluorinated emulsifiers from aqueous phases
+US20040132939A1 (en)	2001-05-02	2004-07-08	Harald Kaspar	Emulsifier free aqueous emulsion polumerization process for making fluoropolymers
+US6794550B2 (en)	2000-04-14	2004-09-21	3M Innovative Properties Company	Method of making an aqueous dispersion of fluoropolymers
+US6794457B2 (en)	2001-04-30	2004-09-21	3M Innovative Properties Company	Fluoropolymer curing system containing a nitrogen cure site monomer
+US6812310B2 (en)	2002-06-21	2004-11-02	3M Innovative Properties Company	Process for producing fluoropolymers having a reduced amount of polar end groups
+US6825300B2 (en)	2002-11-20	2004-11-30	3M Innovative Properties Company	Process for making a fluoropolymer having nitrile end groups
+US6844388B2 (en)	2001-04-12	2005-01-18	3M Innovative Properties Company	Fluoropolymer compositions containing a nitrogen cure site monomer
+US6846880B2 (en)	2002-10-11	2005-01-25	3M Innovative Properties Company	Fluoropolymer compositions
+US7018541B2 (en)	2004-02-05	2006-03-28	3M Innovative Properties Company	Removal of fluorinated surfactants from waste water
+US20060199898A1 (en)	2005-03-04	2006-09-07	Asahi Glass Company, Limited	Fluorinated elastomer latex, its production method, fluorinated elastomer and fluororubber molded product
+US20060223924A1 (en)	2003-07-16	2006-10-05	Daikin Industries, Ltd.	Method for producing fluorine-containing ploymer, aqueous dispersion of fluorine-containing polymer,2-acyloxycarboxylic acid derivative , and surface active agent
+US20060281946A1 (en)	2003-07-02	2006-12-14	Daikin Industries, Ltd.	Fluoroalkyl carboxylic acid derivative, method for producing fluorine-containing polymer, and aqueous dispersion of fluorine-containing polymer
+US20070015865A1 (en)	2005-07-15	2007-01-18	3M Innovative Properties Company	Aqueous emulsion polymerization of fluorinated monomers using a perfluoropolyether surfactant
+US20070015864A1 (en)	2005-07-15	2007-01-18	3M Innovative Properties Company	Method of making fluoropolymer dispersion
+US20070049698A1 (en)	2005-08-25	2007-03-01	3M Innovative Properties Company	Catalyst for making fluoroelastomer compositions and methods of using the same
+US20070060699A1 (en)	2003-10-22	2007-03-15	Daikin Industries,Ltd.	Aqueous tetrafluoroethylene polymer dispersion,process for producing the same, tetrafluoroethylene polymer powder,and molded tetrafluoroethylene polymer
+US20070117915A1 (en)	2004-07-28	2007-05-24	Asahi Glass Company, Limited	Fluoropolymer latex, process for its production, and fluoropolymer
+US20070142541A1 (en)	2005-12-21	2007-06-21	3M Innovative Properties Company	Fluorinated surfactants for making fluoropolymers
+US20070142513A1 (en)	2005-12-21	2007-06-21	Daikin Industries, Ltd.	Surfactant, method of producing a fluoropolymer, fluoropolymer aqueous dispersion
+WO2007082867A2 (en)	2006-01-19	2007-07-26	Solvay Solexis S.P.A.	Fluoroelastomers
+
+=== TABLE 12 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN1088717C (en) *	1995-06-30	2002-08-07	纳幕尔杜邦公司	Process for making fluoropolymers
+AU2309199A (en) *	1998-01-30	1999-08-16	Minnesota Mining And Manufacturing Company	Reflective particle display film and method of manufacture
+CN1315887C (en) *	2002-07-29	2007-05-16	3M创新有限公司	Process for making a fluoroelastomer
+US7402630B2 (en) *	2004-12-16	2008-07-22	3M Innovative Properties Company	Curing compositions for fluoropolymers
+
+=== TABLE 13 (64 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US2567011A (en)	1949-01-10	1951-09-04	Minnesota Mining & Mfg	Fluorocarbon acids and derivatives
+US2732398A (en)	1953-01-29	1956-01-24		cafiicfzsojk
+US2809990A (en)	1955-12-29	1957-10-15	Minnesota Mining & Mfg	Fluorocarbon acids and derivatives
+US4000356A (en)	1972-06-19	1976-12-28	Dynamit Nobel Aktiengesellschaft	Process for the preparation of thermoplastically workable fluoro-olefin polymers
+US4281092A (en)	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+US4588796A (en)	1984-04-23	1986-05-13	E. I. Du Pont De Nemours And Company	Fluoroolefin polymerization process using fluoroxy compound solution as initiator
+US4621116A (en)	1984-12-07	1986-11-04	E. I. Du Pont De Nemours And Company	Process for copolymerization of tetrafluoroethylene in the presence of a dispersing agent comprising a perfluoroalkoxybenzene sulfonic acid or salt
+US5285002A (en)	1993-03-23	1994-02-08	Minnesota Mining And Manufacturing Company	Fluorine-containing polymers and preparation and use thereof
+US5268405A (en)	1993-03-31	1993-12-07	E. I. Du Pont De Nemours And Company	Low temperature perfluoroelastomers
+US5442097A (en)	1993-06-02	1995-08-15	Hoechst Aktiengesellschaft	Process for the recovery of fluorinated carboxylic acids
+EP0784064A1 (en)	1993-12-29	1997-07-16	AUSIMONT S.p.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+EP0661304A1 (en)	1993-12-29	1995-07-05	AUSIMONT S.p.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+EP0661304B1 (en) *	1993-12-29	1997-10-22	AUSIMONT S.p.A.	Fluoroelastomers comprising monomeric units deriving from a bis-olefin
+US5767204A (en)	1994-10-21	1998-06-16	Nippon Mektron Limited	Fluorine-containing elastomer composition
+US5700879A (en)	1994-10-21	1997-12-23	The Central Synthetic Rubbers Research Institute	Fluorine-containing elastomer composition
+US5621145A (en)	1995-02-16	1997-04-15	Nippon Mektron, Limited	Bisamidoxime compound, process for preparing the same and a fluorine-containing elastomer composition comprising the same
+US5565512A (en)	1995-03-31	1996-10-15	Nippon Mektron, Limited	Fluorine-containing elastomer composition
+EP0769521A1 (en)	1995-10-20	1997-04-23	AUSIMONT S.p.A.	Fluoroelastomeric compositions
+WO1997023440A1 (en)	1995-12-22	1997-07-03	E.I. Du Pont De Nemours And Company	Manufacture of fluorinated compounds
+US5639837A (en)	1996-06-04	1997-06-17	E. I. Du Pont De Nemours And Company	Process for making fluoropolymers
+US6211319B1 (en)	1996-11-25	2001-04-03	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+US5936060A (en)	1996-11-25	1999-08-10	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+WO1998023654A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Sulfonated perfluoroelastomer composition having improved processability
+WO1998023653A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+US5789509A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Perflouroelastomer composition having improved processability
+US5789489A (en)	1996-11-25	1998-08-04	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+US5877264A (en)	1996-11-25	1999-03-02	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+WO1998023655A1 (en)	1996-11-25	1998-06-04	E.I. Du Pont De Nemours And Company	Perfluoroelastomer composition having improved processability
+US5677389A (en)	1996-11-25	1997-10-14	E. I. Du Pont De Nemours	Perfluoroelastomer composition having enhanced curing performance
+US6114452A (en)	1996-11-25	2000-09-05	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having excellent heat stability
+US6613941B1 (en)	1998-06-02	2003-09-02	3M Innovative Properties Company	Method for recovering fluorinated alkanoic acids from waste waters
+WO2000009569A2 (en) *	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+US6281296B1 (en)	1998-08-10	2001-08-28	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+EP1153976A1 (en)	1998-11-13	2001-11-14	Daikin Industries, Ltd.	Fluoroelastomer and crosslinkable composition thereof
+US6429258B1 (en)	1999-05-20	2002-08-06	E. I. Du Pont De Nemours & Company	Polymerization of fluoromonomers
+US6706193B1 (en)	1999-07-17	2004-03-16	3M Innovative Properties Company	Method for recovering fluorinated emulsifiers from aqueous phases
+US6794550B2 (en)	2000-04-14	2004-09-21	3M Innovative Properties Company	Method of making an aqueous dispersion of fluoropolymers
+US6657012B2 (en)	2000-09-18	2003-12-02	3M Innovative Properties Company	Metal amine complex containing fluoropolymer compositions
+US6657013B2 (en)	2000-09-18	2003-12-02	3M Innovative Properties Company	Imidate-containing fluoropolymer compositions
+US20020145228A1 (en)	2001-01-31	2002-10-10	3M Innovative Properties Company	Fluoropolymer compositions
+US6890995B2 (en)	2001-01-31	2005-05-10	3M Innovative Properties Company	Fluoropolymer compositions
+US6844388B2 (en)	2001-04-12	2005-01-18	3M Innovative Properties Company	Fluoropolymer compositions containing a nitrogen cure site monomer
+US6794457B2 (en)	2001-04-30	2004-09-21	3M Innovative Properties Company	Fluoropolymer curing system containing a nitrogen cure site monomer
+US20040132939A1 (en)	2001-05-02	2004-07-08	Harald Kaspar	Emulsifier free aqueous emulsion polumerization process for making fluoropolymers
+US6812310B2 (en)	2002-06-21	2004-11-02	3M Innovative Properties Company	Process for producing fluoropolymers having a reduced amount of polar end groups
+US20040024134A1 (en)	2002-07-29	2004-02-05	3M Innovative Properties Company	Ultraclean fluoroelastomer suitable for use in the manufacturing of electronic components
+WO2004011510A1 (en)	2002-07-29	2004-02-05	3M Innovative Properties Company	Ultraclean fluoroelastomer suitable for use in the manufacturing of electronic components
+US20040044139A1 (en)	2002-08-27	2004-03-04	Grootaert Werner M.A.	Fluoropolymer compositions
+US6846880B2 (en)	2002-10-11	2005-01-25	3M Innovative Properties Company	Fluoropolymer compositions
+US6825300B2 (en)	2002-11-20	2004-11-30	3M Innovative Properties Company	Process for making a fluoropolymer having nitrile end groups
+US20060281946A1 (en)	2003-07-02	2006-12-14	Daikin Industries, Ltd.	Fluoroalkyl carboxylic acid derivative, method for producing fluorine-containing polymer, and aqueous dispersion of fluorine-containing polymer
+US20060223924A1 (en)	2003-07-16	2006-10-05	Daikin Industries, Ltd.	Method for producing fluorine-containing ploymer, aqueous dispersion of fluorine-containing polymer,2-acyloxycarboxylic acid derivative , and surface active agent
+US20070060699A1 (en)	2003-10-22	2007-03-15	Daikin Industries,Ltd.	Aqueous tetrafluoroethylene polymer dispersion,process for producing the same, tetrafluoroethylene polymer powder,and molded tetrafluoroethylene polymer
+US7018541B2 (en)	2004-02-05	2006-03-28	3M Innovative Properties Company	Removal of fluorinated surfactants from waste water
+US20070117915A1 (en)	2004-07-28	2007-05-24	Asahi Glass Company, Limited	Fluoropolymer latex, process for its production, and fluoropolymer
+US20060199898A1 (en)	2005-03-04	2006-09-07	Asahi Glass Company, Limited	Fluorinated elastomer latex, its production method, fluorinated elastomer and fluororubber molded product
+US20070015864A1 (en)	2005-07-15	2007-01-18	3M Innovative Properties Company	Method of making fluoropolymer dispersion
+US20070015865A1 (en)	2005-07-15	2007-01-18	3M Innovative Properties Company	Aqueous emulsion polymerization of fluorinated monomers using a perfluoropolyether surfactant
+US20070049698A1 (en)	2005-08-25	2007-03-01	3M Innovative Properties Company	Catalyst for making fluoroelastomer compositions and methods of using the same
+US7294677B2 (en)	2005-08-25	2007-11-13	3M Innovative Properties Company	Catalyst for making fluoroelastomer compositions and methods of using the same
+US20070142541A1 (en)	2005-12-21	2007-06-21	3M Innovative Properties Company	Fluorinated surfactants for making fluoropolymers
+US20070142513A1 (en)	2005-12-21	2007-06-21	Daikin Industries, Ltd.	Surfactant, method of producing a fluoropolymer, fluoropolymer aqueous dispersion
+WO2007082867A2 (en)	2006-01-19	2007-07-26	Solvay Solexis S.P.A.	Fluoroelastomers
+
+=== TABLE 14 (13 rows) ===
+Title
+Hu, "Reaction of Perfluoroalkanesulfinates with Allyl and Propargyl Halides. A Convenient Synthesis of 3-(Perfluoroalkyl) prop-1-enes and 3-(Perfluoroalkyl) allenes," J. Org. Chem. 1991, 56, pp. 2801-2804.
+Huang, "The Reaction of Perfluoroalkanesulfinates VII. Fenton Reagent-Initiated Addition of Sodium Perfluoroalkanesulfinates to Alkenes," Chinese Journal of Chemistry, 1992, vol. 10 No. 4, pp. 365-372.
+Huang, "The Reaction of Perfluoroalkanesulfinates. IX. Perfluoroalkylation of Pyridine and its Derivatives with Sodium Perfluoroalkanesulfinates," Journal of Fluorine Chemistry, 1995, 71, pp. 51-54.
+Logothetis, "Chemistry of Fluorocarbon Elastomers," Prog. Polym. Sci., 1989, vol. 14, pp. 251-296.
+Pellerite, "Unusual Reaction Chemistry in Thermal Decomposition of Alkali Metal 2-Alkoxy-2, 3, 3, 3-Tetrafluoropropionate Salts," Journal of Fluorine Chemistry, 1990, 49 pp. 43-66.
+Pianca et al., Journal of Fluorine Chemistry 95 (1999) 71-84. *
+Pianca, "End Groups in Fluoropolymers," Journal of Fluorine Chemistry, 1999, vol. 95, pp. 71-84.
+Search Report for PCTUS2009-032850, 5 pages.
+Tuckner, SAE Technical Paper Series 2000-01-0752, "Compression Stress Relaxation Test Comparisons and Development", Mar. 6-9, 2000, 10 pages.
+Tuckner, SAE Technical Paper Series 2001-01-0742, "Compression Stress Relaxation Testing Comparisons, Methods, and Correlations", Mar. 5-8, 2001, 9 pages.
+Tuckner, SAE Technical Paper Series 2003-01-0946, "The Effects of Configuration on Sealing Force Measurement and Compression Stress Relaxation Response", Mar. 3-6, 2003, 8 pages.
+Written Opinion for PCTUS2009-032850, 6 pages.
+
+=== TABLE 15 (13 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2015088784A2 (en)	2013-12-11	2015-06-18	3M Innovative Properties Company	Highly fluorinated elastomers
+EP3597676A1 (en)	2013-12-11	2020-01-22	3M Innovative Properties Co.	Highly fluorinated elastomers
+US11111326B2 (en)	2013-12-11	2021-09-07	3M Innovative Properties Company	Highly fluorinated elastomers
+US9982091B2 (en)	2014-03-06	2018-05-29	3M Innovative Properties Company	Highly fluorinated elastomers
+EP3696224A1 (en)	2014-03-06	2020-08-19	3M Innovative Properties Co.	Highly fluorinated elastomers
+US10323142B2 (en)	2015-05-29	2019-06-18	3M Innovative Properties Company	Perfluoroelastomeric compositions comprising oxazoles
+US10557031B2 (en)	2015-10-23	2020-02-11	3M Innovative Properties Company	Composition including amorphous fluoropolymer and fluoroplastic particles and methods of making the same
+US10703833B2 (en)	2015-12-17	2020-07-07	3M Innovative Properties Company	Amine-containing polymers, dispersions thereof and methods of making and using the same
+WO2019215636A1 (en)	2018-05-09	2019-11-14	3M Innovative Properties Company	Fluoropolymers with very low amounts of a fluorinated alkanoic acid or its salts
+US12018105B2 (en)	2018-05-09	2024-06-25	3M Innovative Properties Company	Fluoropolymers with very low amounts of a fluorinated alkanoic acid or its salts
+WO2022180547A1 (en)	2021-02-26	2022-09-01	3M Innovative Properties Company	Process for making a fluoropolymer and fluoropolymer made therefrom
+WO2022259087A1 (en)	2021-06-11	2022-12-15	3M Innovative Properties Company	Method of making a fluoropolymer dispersion having a low amount of perfluoroalkanoic acids or salts thereof and the fluoropolymer comprises a low ionic end group ratio
+
+=== TABLE 16 (15 rows) ===
+Publication number	Publication date
+TW200940634A (en)	2009-10-01
+WO2009111120A2 (en)	2009-09-11
+TWI448501B (en)	2014-08-11
+JP5452508B2 (en)	2014-03-26
+CN102007150A (en)	2011-04-06
+BRPI0907775A2 (en)	2015-07-14
+KR101595137B1 (en)	2016-02-17
+US20110009569A1 (en)	2011-01-13
+CN102007150B (en)	2015-09-23
+EP2247631A2 (en)	2010-11-10
+WO2009111120A3 (en)	2009-11-05
+JP2011514414A (en)	2011-05-06
+EP2247631A4 (en)	2012-01-04
+KR20100137481A (en)	2010-12-30
+
+=== TABLE 17 (15 rows) ===
+Publication	Publication Date	Title
+US20110009569A1 (en)	2011-01-13	Perfluoroelastomers with low carbonyl endgroup ratios
+US9156926B2 (en)	2015-10-13	Peroxide curable fluoroelastomers containing modifiers and iodine or bromine endgroups
+JP5808893B2 (en)	2015-11-10	Fluoroplastic polymers with nitrogen-containing cure sites
+US6846880B2 (en)	2005-01-25	Fluoropolymer compositions
+US8906821B2 (en)	2014-12-09	Curing compositions for fluoropolymers
+US9982091B2 (en)	2018-05-29	Highly fluorinated elastomers
+US7208553B2 (en)	2007-04-24	Fluoropolymer curing system
+US20120088884A1 (en)	2012-04-12	Low temperature curable amorphous fluoropolymers
+WO2002083755A1 (en)	2002-10-24	Fluoropolymers having pendant imidate structures
+US20180312678A1 (en)	2018-11-01	Composition including amorphous fluoropolymer and fluoroplastic particles and methods of making the same
+EP2044146B1 (en)	2017-05-10	Scorch safe fluoropolymer compositions
+US20050143529A1 (en)	2005-06-30	Fluoropolymer compositions with nitrogen curing
+WO2025075006A1 (en)	2025-04-10	Rubber composition, method for producing rubber composition, and crosslinked rubber article
+WO2025075007A1 (en)	2025-04-10	Rubber composition and method for producing rubber composition
+
+=== TABLE 18 (7 rows) ===
+Date	Code	Title	Description
+2010-08-27	AS	Assignment	Owner name: 3M INNOVATIVE PROPERTIES COMPANY, MINNESOTA Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:GROOTAERT, WERNER M.A.;LOCHHAAS, KAI H.;SIGNING DATES FROM 20100729 TO 20100805;REEL/FRAME:024896/0648
+2013-11-20	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2014-10-14	CC	Certificate of correction	
+2017-05-25	FPAY	Fee payment	Year of fee payment: 4
+2021-05-26	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 8
+2025-05-20	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 12

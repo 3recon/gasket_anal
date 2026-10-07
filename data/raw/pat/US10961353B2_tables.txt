@@ -1,0 +1,200 @@
+# US10961353B2 :: US10961353B2 - Polymer, composition, and molded article 
+        - Google Patents
+
+=== TABLE 0 (6 rows) ===
+	TABLE 1
+	
+		Comparative
+	Example 1	Example 1
+	
+
+
+=== TABLE 1 (2 rows) ===
+	Weight reduction (g/m2)	34	420
+	
+
+=== TABLE 2 (6 rows) ===
+	TABLE 2
+	
+		Comparative
+	Example 2	Example 2
+	
+
+
+=== TABLE 3 (2 rows) ===
+	Weight reduction (g/m2)	16	92
+	
+
+=== TABLE 4 (6 rows) ===
+	TABLE 3
+	
+		Comparative
+	Example 3	Example 3
+	
+
+
+=== TABLE 5 (8 rows) ===
+Composition	Fluorine-containing	100	100
+(parts by mass)	elastomer
+	Cross-linking agent	0.8	0.8
+	P2c	10	0
+Amount of	Oxygen plasma	14300	31900
+material etched	CF4 plasma	4300	8400
+(nm)
+
+
+=== TABLE 6 (6 rows) ===
+	TABLE 4
+	
+		Comparative
+	Example 4	Example 4
+	
+
+
+=== TABLE 7 (3 rows) ===
+Composition	Fluorine-containing	100	100
+	elastomer
+(Parts by mass)	P2c	10	0
+
+=== TABLE 8 (2 rows) ===
+50% mass reduction temperature (° C.)	471	457
+
+
+=== TABLE 9 (5 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2016239356		2016-12-09	
+JP2016-239356		2016-12-09	
+JPJP2016-239356		2016-12-09	
+PCT/JP2017/044118 WO2018105716A1 (en)	2016-12-09	2017-12-08	Polymer, composition, and molded article
+
+=== TABLE 10 (3 rows) ===
+Publication Number	Publication Date
+US20200055993A1 US20200055993A1 (en)	2020-02-20
+US10961353B2 true US10961353B2 (en)	2021-03-30
+
+=== TABLE 11 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US16/461,090 Active 2037-12-11 US10961353B2 (en)	2016-12-09	2017-12-08	Polymer, composition, and molded article
+
+=== TABLE 12 (7 rows) ===
+Country	Link
+US (1)	US10961353B2 (en)
+EP (1)	EP3521339B1 (en)
+JP (1)	JP6895146B2 (en)
+KR (1)	KR102207516B1 (en)
+CN (1)	CN109996832B (en)
+WO (1)	WO2018105716A1 (en)
+
+=== TABLE 13 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN109232864B (en) *	2018-09-17	2021-01-22	京东方科技集团股份有限公司	Polymers, electron injection layers, OLED devices and display devices
+EP4021967B1 (en)	2019-08-27	2023-03-01	3M Innovative Properties Company	Curable fluoropolymer compositions comprising metal fluoride particles and articles therefrom
+
+=== TABLE 14 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3105085A (en) *	1961-07-21	1963-09-24	Dow Corning	Bissil ylcyclohexandienes, their preparation and use
+US3117149A (en) *	1961-12-14	1964-01-07	Gen Electric	Unsymmetrical poly (arylenesiloxane) fluids
+US3209018A (en) *	1960-07-22	1965-09-28	Dow Corning	Silarylenesilanes, cyclotrisiloxanes, and the preparation of silanols
+US3274153A (en) *	1962-05-02	1966-09-20	Dow Corning	Method of polymerizing hydroxylated organosilicon compounds
+US3280073A (en) *	1964-12-10	1966-10-18	Dow Corning	Polysilylbenzene compounds
+US3338870A (en)	1965-03-08	1967-08-29	Wacker Chemie Gmbh	Preparation of silarylenesilanol and polysilarylenesiloxanols
+US3576021A (en) *	1969-02-20	1971-04-20	Dow Corning	Bis-silylfluoroalkylaromatic compounds
+US4470831A (en) *	1981-01-22	1984-09-11	Toray Industries, Inc.	Permselective membrane
+US4990546A (en) *	1990-03-23	1991-02-05	General Electric Company	UV-curable silphenylene-containing epoxy functional silicones
+US5346980A (en) *	1992-04-14	1994-09-13	Minnesota Mining And Manufacturing Company	Crosslinkable silarylene-siloxane copolymers
+CN1777644A (en)	2003-04-22	2006-05-24	大金工业株式会社	Fluorine-containing elastomer composition having excellent effect of preventing plasma aging and molded article thereof
+US20060235140A1 (en)	2003-04-22	2006-10-19	Hiroyuki Tanaka	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+US7323250B2 (en) *	2004-03-25	2008-01-29	Shin-Etsu Chemical Co., Ltd.	Curable silicone resin composition, sealing material for optical semiconductor, and optical semiconductor device
+WO2014050833A1 (en)	2012-09-27	2014-04-03	旭硝子株式会社	Glass laminate and manufacturing method for same, and support substrate having silicone resin layer attached thereto and manufacturing method for same
+CN105980415A (en)	2014-02-18	2016-09-28	大金工业株式会社	Method for producing aqueous dispersion of perfluoroelastomer and method for producing perfluoroelastomer
+
+=== TABLE 15 (24 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5871906A (en)	1981-10-22	1983-04-28	Daikin Ind Ltd	Manufacture of fluorine-containing elastic copolymer
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+US4513128A (en)	1983-06-23	1985-04-23	E. I. Du Pont De Nemours And Company	Fluorinated vinyl ether copolymers having low glass transition temperatures
+JPS61223007A (en)	1985-03-28	1986-10-03	Daikin Ind Ltd	Emulsion polymerization of fluoroelastomer
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+JPH08227157A (en) *	1995-02-22	1996-09-03	Toyo Ink Mfg Co Ltd	Lithographic printing original plate
+JPH0940680A (en) *	1995-07-26	1997-02-10	Pola Chem Ind Inc	New silicone having leaving group
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP3972477B2 (en) *	1997-08-28	2007-09-05	凸版印刷株式会社	Electronic device parts and heat-resistant low dielectric constant compounds used therefor
+JP2000007649A (en)	1998-06-24	2000-01-11	Nippon Fine Chemical Kk	Production of aromatic sulfur compound
+GB9816638D0 (en)	1998-07-30	1998-09-30	Novartis Ag	Organic compounds
+US6451954B1 (en) *	2000-07-27	2002-09-17	General Electric Company	Copolymer sealant compositions and method for making
+EP1580233B1 (en) *	2002-12-05	2008-09-17	Daikin Industries, Ltd.	Fluorine-containing polymer composition and cured body
+JP4778782B2 (en) *	2004-12-28	2011-09-21	ニチアス株式会社	Sealing material
+CN101484476A (en) *	2006-06-30	2009-07-15	大金工业株式会社	Process for producing fluorine-containing elastomer
+TWI361205B (en) *	2006-10-16	2012-04-01	Rohm & Haas	Heat stable aryl polysiloxane compositions
+JP2008280402A (en) *	2007-05-09	2008-11-20	Univ Nihon	Poly (silarylenesiloxane) derivatives and copolymers thereof, and silicone rubber
+EP2154204A4 (en) *	2007-05-16	2011-11-23	Daikin Ind Ltd	FERTILIZER-CONTAINING ELASTOMERIC PARTICULATE CONTAINING FLUORINE, METHOD FOR THE PRODUCTION THEREOF, AND COMPOSITION
+US8017697B2 (en) *	2008-06-24	2011-09-13	Sabic Innovative Plastics Ip B.V.	Poly(arylene ether)-polysiloxane composition and method
+US9074074B2 (en) *	2011-12-15	2015-07-07	The Chemours Company Fc, Llc	Polyhydroxy curable fluoroelastomer compositions
+JP2015232053A (en) *	2012-09-27	2015-12-24	旭硝子株式会社	Organopolysiloxane, crosslinked organopolysiloxane and coating composition
+JP6380122B2 (en) *	2015-01-22	2018-08-29	株式会社デンソー	Ejector
+US10377881B2 (en) *	2015-02-20	2019-08-13	Akita University	Composition and molded article
+
+=== TABLE 16 (18 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3209018A (en) *	1960-07-22	1965-09-28	Dow Corning	Silarylenesilanes, cyclotrisiloxanes, and the preparation of silanols
+US3105085A (en) *	1961-07-21	1963-09-24	Dow Corning	Bissil ylcyclohexandienes, their preparation and use
+US3117149A (en) *	1961-12-14	1964-01-07	Gen Electric	Unsymmetrical poly (arylenesiloxane) fluids
+US3274153A (en) *	1962-05-02	1966-09-20	Dow Corning	Method of polymerizing hydroxylated organosilicon compounds
+US3280073A (en) *	1964-12-10	1966-10-18	Dow Corning	Polysilylbenzene compounds
+US3338870A (en)	1965-03-08	1967-08-29	Wacker Chemie Gmbh	Preparation of silarylenesilanol and polysilarylenesiloxanols
+US3576021A (en) *	1969-02-20	1971-04-20	Dow Corning	Bis-silylfluoroalkylaromatic compounds
+US4470831A (en) *	1981-01-22	1984-09-11	Toray Industries, Inc.	Permselective membrane
+US4990546A (en) *	1990-03-23	1991-02-05	General Electric Company	UV-curable silphenylene-containing epoxy functional silicones
+US5346980A (en) *	1992-04-14	1994-09-13	Minnesota Mining And Manufacturing Company	Crosslinkable silarylene-siloxane copolymers
+CN1777644A (en)	2003-04-22	2006-05-24	大金工业株式会社	Fluorine-containing elastomer composition having excellent effect of preventing plasma aging and molded article thereof
+US20060235140A1 (en)	2003-04-22	2006-10-19	Hiroyuki Tanaka	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+US7323250B2 (en) *	2004-03-25	2008-01-29	Shin-Etsu Chemical Co., Ltd.	Curable silicone resin composition, sealing material for optical semiconductor, and optical semiconductor device
+WO2014050833A1 (en)	2012-09-27	2014-04-03	旭硝子株式会社	Glass laminate and manufacturing method for same, and support substrate having silicone resin layer attached thereto and manufacturing method for same
+JP2015231668A (en)	2012-09-27	2015-12-24	旭硝子株式会社	GLASS LAMINATE AND METHOD FOR PRODUCING SAME, AND SUPPORT SUBSTRATE WITH SILICONE RESIN LAYER AND METHOD FOR PRODUCING SAME
+CN105980415A (en)	2014-02-18	2016-09-28	大金工业株式会社	Method for producing aqueous dispersion of perfluoroelastomer and method for producing perfluoroelastomer
+US20160347895A1 (en)	2014-02-18	2016-12-01	Daikin Industries, Ltd.	Method for producing aqueous perfluoroelastomer dispersion, and method for producing perfluoroelastomer
+
+=== TABLE 17 (6 rows) ===
+Title
+Extended European Search Report dated Apr. 29, 2020, from the European Patent Office in Application No. 17878565.5.
+International Preliminary Report on Patentability with English Translation of Written Opinion of the International Searching Authority for PCT/JP2017/044118 dated Jun. 11, 2019.
+International Search Report for PCT/JP2017/044118 dated Mar. 13, 2018 [PCT/ISA/210].
+Nemoto et al. (Synthesis and Charactersization of Poly(tetramethyl-1,4-silphenylenesiloxane) Derivatives with Oxyethylene Substituent on Phenylene Moiety) Polymer Bulletin, 2006, 57, 661-670. (Year: 2006). *
+Yoshinori Niwa, et al., "Synthesis and Thermal Characterization of Novel Poly(tetramethyl-1, 3-silphenylenesiloxane) Derivative with Phenol Moiety in the Main Chain", Journal of Polymer Science, 2008, pp. 692-701, vol. 46, No. 2.
+
+=== TABLE 18 (12 rows) ===
+Publication number	Publication date
+EP3521339B1 (en)	2024-02-07
+KR102207516B1 (en)	2021-01-26
+JP6895146B2 (en)	2021-06-30
+CN109996832B (en)	2022-07-01
+KR20190077454A (en)	2019-07-03
+EP3521339A1 (en)	2019-08-07
+EP3521339A4 (en)	2020-05-27
+JPWO2018105716A1 (en)	2019-08-08
+US20200055993A1 (en)	2020-02-20
+WO2018105716A1 (en)	2018-06-14
+CN109996832A (en)	2019-07-09
+
+=== TABLE 19 (12 rows) ===
+Publication	Publication Date	Title
+US10815369B2 (en)	2020-10-27	Composition and molded article
+TWI601777B (en)	2017-10-11	Fluoroelastomer composition and molded product
+US10377881B2 (en)	2019-08-13	Composition and molded article
+CN103842429A (en)	2014-06-04	Crosslinkable fluorine rubber composition, fluorine rubber molded article, and method for producing same
+TW202208535A (en)	2022-03-01	Rubber composition, fluoroelastomer, and sealing material
+US20240327633A1 (en)	2024-10-03	Perfluoroelastomer composition and perfluoroelastomer crosslinked article
+US12304984B2 (en)	2025-05-20	Composition containing fluorine-containing polymer and crosslinked article
+EP3521339B1 (en)	2024-02-07	Polymer, composition, and molded article
+TW200535189A (en)	2005-11-01	Perfluoroelastomer composition for use in vulcanization and method for making a molded perfluoroelastomer product
+TW201213417A (en)	2012-04-01	Fluoroelastomer composition
+JP6789521B2 (en)	2020-11-25	Dendrimer, composition and molded product
+
+=== TABLE 20 (7 rows) ===
+Date	Code	Title	Description
+2019-05-15	AS	Assignment	Owner name: NIHON UNIVERSITY, JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NOGUCHI, TSUYOSHI;KAMIYA, FUMIHIRO;KANBARA, TADASHI;AND OTHERS;SIGNING DATES FROM 20180123 TO 20190328;REEL/FRAME:049186/0409 Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NOGUCHI, TSUYOSHI;KAMIYA, FUMIHIRO;KANBARA, TADASHI;AND OTHERS;SIGNING DATES FROM 20180123 TO 20190328;REEL/FRAME:049186/0409
+2019-05-15	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2020-07-23	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2021-02-23	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+2021-03-10	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2024-09-18	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 4

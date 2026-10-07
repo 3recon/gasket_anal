@@ -1,0 +1,100 @@
+# CN117070043A :: CN117070043A - Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202311315199.2A CN117070043B (en)	2023-10-12	2023-10-12	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202311315199.2A CN117070043B (en)	2023-10-12	2023-10-12	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN117070043A true CN117070043A (en)	2023-11-17
+CN117070043B CN117070043B (en)	2024-01-02
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202311315199.2A Active CN117070043B (en)	2023-10-12	2023-10-12	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN117070043B (en)
+
+=== TABLE 5 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118599145A (en) *	2024-08-09	2024-09-06	上海森桓新材料科技有限公司	Method for preparing low temperature resistant perfluoroether elastomer by radiation crosslinking
+CN119261333A (en) *	2024-12-06	2025-01-07	上海森桓新材料科技有限公司	PFA composite laminate and preparation method thereof
+CN120607780A (en) *	2025-08-12	2025-09-09	上海森桓新材料科技有限公司	A high temperature resistant perfluoroether elastomer composition and preparation method
+CN121248828A (en) *	2025-12-05	2026-01-02	上海森桓新材料科技有限公司	Preparation method of hydrophobically modified perfluoroether elastomer
+
+=== TABLE 6 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN1373792A (en) *	1999-09-30	2002-10-09	大金工业株式会社	Transparent elastomer composition
+CN107868163A (en) *	2016-09-27	2018-04-03	中昊晨光化工研究院有限公司	A kind of low temperature resistant perfluoroether elastomer and preparation method thereof
+CN114106495A (en) *	2020-08-28	2022-03-01	中昊晨光化工研究院有限公司	Modified perfluoroether fluororubber and preparation method and application thereof
+CN114621383A (en) *	2020-12-14	2022-06-14	中昊晨光化工研究院有限公司	Perfluoro ether elastomer emulsion, preparation method and perfluoro ether elastomer
+CN116426024A (en) *	2023-06-14	2023-07-14	上海森桓新材料科技有限公司	A kind of method of fluoroelastomer end group passivation
+CN116574467A (en) *	2023-07-13	2023-08-11	上海森桓新材料科技有限公司	A crystal point-free perfluoroether elastomer composition and preparation method thereof
+CN116751428A (en) *	2023-08-23	2023-09-15	上海森桓新材料科技有限公司	Preparation method of high-temperature low-compression permanent deformation perfluoroether elastomer composition
+
+=== TABLE 7 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN1373792A (en) *	1999-09-30	2002-10-09	大金工业株式会社	Transparent elastomer composition
+CN107868163A (en) *	2016-09-27	2018-04-03	中昊晨光化工研究院有限公司	A kind of low temperature resistant perfluoroether elastomer and preparation method thereof
+CN114106495A (en) *	2020-08-28	2022-03-01	中昊晨光化工研究院有限公司	Modified perfluoroether fluororubber and preparation method and application thereof
+WO2022042110A1 (en) *	2020-08-28	2022-03-03	中昊晨光化工研究院有限公司	Modified perfluoroether fluororubber, preparation method therefor, and application thereof
+CN114621383A (en) *	2020-12-14	2022-06-14	中昊晨光化工研究院有限公司	Perfluoro ether elastomer emulsion, preparation method and perfluoro ether elastomer
+CN116426024A (en) *	2023-06-14	2023-07-14	上海森桓新材料科技有限公司	A kind of method of fluoroelastomer end group passivation
+CN116574467A (en) *	2023-07-13	2023-08-11	上海森桓新材料科技有限公司	A crystal point-free perfluoroether elastomer composition and preparation method thereof
+CN116751428A (en) *	2023-08-23	2023-09-15	上海森桓新材料科技有限公司	Preparation method of high-temperature low-compression permanent deformation perfluoroether elastomer composition
+
+=== TABLE 8 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118599145A (en) *	2024-08-09	2024-09-06	上海森桓新材料科技有限公司	Method for preparing low temperature resistant perfluoroether elastomer by radiation crosslinking
+CN118599145B (en) *	2024-08-09	2024-10-01	上海森桓新材料科技有限公司	Method for preparing low temperature resistant perfluoroether elastomer by radiation crosslinking
+CN119261333A (en) *	2024-12-06	2025-01-07	上海森桓新材料科技有限公司	PFA composite laminate and preparation method thereof
+CN120607780A (en) *	2025-08-12	2025-09-09	上海森桓新材料科技有限公司	A high temperature resistant perfluoroether elastomer composition and preparation method
+CN121248828A (en) *	2025-12-05	2026-01-02	上海森桓新材料科技有限公司	Preparation method of hydrophobically modified perfluoroether elastomer
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN117070043B (en)	2024-01-02
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN117070043B (en)	2024-01-02	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+EP0434046B1 (en)	1995-08-30	Fluorine-containing elastomer composition
+CN114106495A (en)	2022-03-01	Modified perfluoroether fluororubber and preparation method and application thereof
+TW201731881A (en)	2017-09-16	Composition including amorphous fluoropolymer and fluoroplastic particles and methods of making the same
+TW200427699A (en)	2004-12-16	Fluorine-containing elastomer composition having execllent prevention effect of plasma aging and molded article using the same
+CN117304625B (en)	2024-05-17	Fluororubber composition capable of effectively reducing adhesion with metal and preparation method thereof
+US11873357B2 (en)	2024-01-16	Fluoroelastomer curable composition
+CN110914320B (en)	2023-10-20	Fluorinated thermoplastic elastomer
+WO2004033580A1 (en)	2004-04-22	Sealing material for semiconductor device and method for production thereof
+EP3484953B1 (en)	2020-04-15	Fluoroelastomer composition
+CN114230737B (en)	2023-08-01	A kind of perfluoroether fluororubber and its preparation method and application
+EP3390470B1 (en)	2020-05-13	Method of manufacturing fluoroelastomers
+JP4797235B2 (en)	2011-10-19	Fluorine-containing elastomer
+JP2005140196A (en)	2005-06-02	Gasket for fuel cell
+CN119505065A (en)	2025-02-25	A cross-linkable perfluoroelastomer and its preparation method and application
+JP2000230096A (en)	2000-08-22	Fluorine-containing copolymer composition
+WO2019137920A1 (en)	2019-07-18	Fluoroelastomer curable composition
+WO2017153203A1 (en)	2017-09-14	Polyunsaturated compound for curing fluoroelastomer compositions
+JP6134293B2 (en)	2017-05-24	Sealing material
+TWI918597B (en)	2026-03-21	Composition including curable fluoropolymer and curative and methods of making and using them
+JPH01240552A (en)	1989-09-26	Novel fluorine-containing elastomer composition and production thereof
+CN119391113A (en)	2025-02-07	A method for preparing perfluoroether elastomer by mixing and grafting
+JP2004175855A (en)	2004-06-24	Method for producing fluorinated copolymer and fluorinated copolymer for molding obtained by the method
+CN120535686A (en)	2025-08-26	A fluoropolymer elastomer and its preparation method
+JP2541183B2 (en)	1996-10-09	Amorphous fluorine-containing copolymer
+
+=== TABLE 11 (7 rows) ===
+Date	Code	Title	Description
+2023-11-17	PB01	Publication	
+2023-11-17	PB01	Publication	
+2023-12-05	SE01	Entry into force of request for substantive examination	
+2023-12-05	SE01	Entry into force of request for substantive examination	
+2024-01-02	GR01	Patent grant	
+2024-01-02	GR01	Patent grant	

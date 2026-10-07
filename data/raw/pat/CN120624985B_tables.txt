@@ -1,0 +1,92 @@
+# CN120624985B :: CN120624985B - Passivated perfluoroether elastomer rubber, preparation method and application 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202511124560.2A CN120624985B (en)	2025-08-12	2025-08-12	Passivated perfluoroether elastomer rubber, preparation method and application
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202511124560.2A CN120624985B (en)	2025-08-12	2025-08-12	Passivated perfluoroether elastomer rubber, preparation method and application
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN120624985A CN120624985A (en)	2025-09-12
+CN120624985B true CN120624985B (en)	2025-12-09
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202511124560.2A Active CN120624985B (en)	2025-08-12	2025-08-12	Passivated perfluoroether elastomer rubber, preparation method and application
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN120624985B (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN121344540A (en) *	2025-12-18	2026-01-16	人本股份有限公司	Preparation method of closed bearing seal
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN119278496A (en) *	2022-05-26	2025-01-07	朗姆研究公司	Yttria coatings for plasma processing chamber components
+CN120138550A (en) *	2025-02-14	2025-06-13	广东佛山市陶瓷研究所控股集团股份有限公司	Strongly oriented yttrium oxide coating and its preparation method and application
+
+=== TABLE 7 (12 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2000072274A (en) *	1998-09-01	2000-03-07	Ge Toshiba Silicones Co Ltd	Flexible metal layer forming roller
+JP2008001894A (en) *	2006-05-26	2008-01-10	Daikin Ind Ltd	Fluorine-containing elastomer composition excellent in plasma resistance and sealing material comprising the same
+KR100992569B1 (en) *	2008-04-29	2010-11-05	두성산업 주식회사	Ultra-thin conductive tape for electromagnetic wave shielding and manufacturing method thereof
+US20110135915A1 (en) *	2009-11-25	2011-06-09	Greene, Tweed Of Delaware, Inc.	Methods of Coating Substrate With Plasma Resistant Coatings and Related Coated Substrates
+WO2016080956A1 (en) *	2014-11-18	2016-05-26	Schlumberger Canada Limited	Barrier surface for downhole elastomeric components
+EP3271494A1 (en) *	2015-03-18	2018-01-24	Entegris, Inc.	Articles coated with fluoro-annealed films
+US11851754B2 (en) *	2017-09-28	2023-12-26	Taiwan Semiconductor Manufacturing Co., Ltd.	Sealing article comprising metal coating, method of making and method of using the same
+CN113046695A (en) *	2019-12-27	2021-06-29	有研工程技术研究院有限公司	Yttrium/yttrium oxide composite hydrogen resistant coating
+US11661650B2 (en) *	2020-04-10	2023-05-30	Applied Materials, Inc.	Yttrium oxide based coating composition
+CN120138574A (en) *	2025-03-13	2025-06-13	宁波纳诺特新材料科技有限公司	A method for coloring fabric and coated fabric
+CN120292264A (en) *	2025-05-07	2025-07-11	常州法诺克密封科技有限公司	A corrosion-resistant oil seal and its surface treatment process
+
+=== TABLE 8 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN119278496A (en) *	2022-05-26	2025-01-07	朗姆研究公司	Yttria coatings for plasma processing chamber components
+CN120138550A (en) *	2025-02-14	2025-06-13	广东佛山市陶瓷研究所控股集团股份有限公司	Strongly oriented yttrium oxide coating and its preparation method and application
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN120624985A (en)	2025-09-12
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+JP7449900B2 (en)	2024-03-14	Articles coated with fluoroannealed films
+TWI683888B (en)	2020-02-01	Articles coated with fluoro-annealed films
+US8146924B2 (en)	2012-04-03	Low-compression force metal gaskets
+CN120624985A (en)	2025-09-12	A passivated perfluoroether elastomer rubber, preparation method and application
+JP2014046673A (en)	2014-03-17	Slide member
+JPWO2005050069A1 (en)	2007-06-07	Surface coated sealing material
+CN103866234A (en)	2014-06-18	Multilayer multielement high temperature resistant diamond-like nano composite thin film material
+CN101463466A (en)	2009-06-24	Preparation of metal doped diamond-like surface ion liquid lubricant self-assembled lubricating film
+CN110630492A (en)	2019-12-31	Self-lubricating type scroll plate and manufacturing method thereof
+CN219218125U (en)	2023-06-20	Article coated with crack resistant fluorine annealed film
+JP2006192356A (en)	2006-07-27	Primer layer and coating composition
+TW202338057A (en)	2023-10-01	Annular laminate, seal material, and manufacturing method
+CN110563988B (en)	2022-04-05	A kind of high temperature resistant polyimide/polytetrafluoroethylene anti-adhesion composite film and preparation method thereof
+CN101200565A (en)	2008-06-18	Fluororubber molded article, and rubber material and o-ring using the same
+JP2000055204A (en)	2000-02-22	Manufacture of composite structure o-ring
+Zhao et al.	2012	Micro/nano-texture design for improving tribological properties of DLC-IL composite films
+JP6855974B2 (en)	2021-04-07	Rolling bearings and their manufacturing methods
+WO2000015982A1 (en)	2000-03-23	Mechanical seal member
+CN109750259A (en)	2019-05-14	Preparation method suitable for ultra-low friction magnetic control boron nitride composite lubricating film under water environment
+JP3006631B2 (en)	2000-02-07	Rolling bearings for semiconductor manufacturing equipment
+CN116752091A (en)	2023-09-15	Anti-stick coating for non-stick pans and preparation method thereof
+JP2025125812A (en)	2025-08-28	Machine component and method for manufacturing machine component
+JP2025110738A (en)	2025-07-29	Liquid composition
+CN116947030A (en)	2023-10-27	Graphene coating for friction drag reduction of solid interface and method thereof
+JPH0655841B2 (en)	1994-07-27	Fluorine-containing polymer film and its formation method
+
+=== TABLE 11 (7 rows) ===
+Date	Code	Title	Description
+2025-09-12	PB01	Publication	
+2025-09-12	PB01	Publication	
+2025-09-30	SE01	Entry into force of request for substantive examination	
+2025-09-30	SE01	Entry into force of request for substantive examination	
+2025-12-09	GR01	Patent grant	
+2025-12-09	GR01	Patent grant	

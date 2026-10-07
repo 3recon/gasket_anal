@@ -1,0 +1,268 @@
+# US6803402B2 :: US6803402B2 - Elastomer molded article and crosslinkable fluorine-containing elastomer composition for semi-conductor production apparatuses 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+	TABLE 1
+	
+	Change in weight of filler (% by weight)
+
+=== TABLE 1 (3 rows) ===
+	Oxygen plasma	CF4 plasma	NF3 plasma
+	Irradiation time	Irradiation time	Irradiation time
+	(hour)	(hour)	(hour)
+
+=== TABLE 2 (2 rows) ===
+Sample	1	2	3	1	2	3	0.5
+
+
+=== TABLE 3 (6 rows) ===
+Filler 1	−0.04	−0.05	−0.06	0.42	0.53	0.61	0.62
+Filler 2	−0.05	−0.10	−0.12	0.58	0.68	0.79	0.95
+Filler 3	−0.03	−0.07	−0.09	0.26	0.35	0.46	0.44
+Filler 4	−0.08	−0.11	−0.11	−1.97	−3.12	−4.67	−76.7
+Filler 5	−0.04	−0.06	−0.08	−1.51	−2.55	−3.82	−100
+
+
+=== TABLE 4 (6 rows) ===
+	TABLE 2
+	
+			Com. Ex.	Com. Ex.	Com. Ex.
+	Ex. 1	Ex. 2	1	2	3
+	
+
+
+=== TABLE 5 (20 rows) ===
+Components (part by weight)					
+Crosslinkable elastomer	100	100	100	100	100
+Crosslinking agent	3	3	3	3	3
+Crosslinking aid	1	1	1	1	1
+Filler	10	10	10	10	10
+	(Filler 1)	(Filler 2)	(Filler 3)	(Filler 4)	(Filler 5)
+Processability	AA	A	B	B	B
+Vulcanization characteristics
+ML (kg · f)	0.66	0.22	0.12	0.11	0.15
+MH (kg · f)	6.50	5.72	6.30	5.81	5.37
+T10 (min)	0.6	0.6	0.5	0.7	0.6
+T90 (min)	1.0	1.0	1.2	1.2	1.0
+Physical properties in normal
+state
+M100 (kg · f)	57	81	63	79	60
+Tensile strength (kg · f)	250	200	184	170	201
+Elongation (%)	165	143	160	155	153
+Hardness (JIS A)	63	62	59	65	59
+Compression set	20	20	12	12	20
+
+
+=== TABLE 6 (3 rows) ===
+	TABLE 3
+	
+	Change in weight of O-ring (% of weight)
+
+=== TABLE 7 (3 rows) ===
+	Oxygen plasma	CF4 plasma	NF3 plasma
+	Irradiation time	Irradiation time	Irradiation time
+	(hour)	(hour)	(hour)
+
+=== TABLE 8 (2 rows) ===
+Sample	1	2	3	1	2	3	0.5
+
+
+=== TABLE 9 (6 rows) ===
+Ex. 3	−0.15	−0.21	−0.28	−0.09	−0.16	−0.20	−0.22
+Ex. 4	−0.16	−0.26	−0.31	−0.09	−0.15	−0.20	−0.22
+Com. Ex. 4	−0.17	−0.23	−0.30	−0.08	−0.17	−0.20	−0.23
+Com. Ex. 5	−0.17	−0.26	−0.34	−0.17	−0.29	−0.38	−1.09
+Com. Ex. 6	−0.17	−0.25	−0.35	−0.12	−0.25	−0.32	−0.82
+
+
+=== TABLE 10 (3 rows) ===
+	TABLE 4
+	
+	Number of particles (× 104/O-ring)
+
+=== TABLE 11 (3 rows) ===
+	Before	After 3-hour irradiation	After 3-hour irradiation	After 0.5-hour irradiation
+Sample	irradiation	of oxygen plasma	of CF4 plasma	of NF3 plasma
+
+
+=== TABLE 12 (6 rows) ===
+Ex. 5	7.23	14.62	14.81	38.21
+Ex. 6	7.89	14.71	15.01	39.01
+Com. Ex. 7	8.21	74.70	74.23	79.82
+Com. Ex. 8	6.98	21.23	17.32	41.30
+Com. Ex. 9	6.92	83.20	18.40	42.15
+
+
+=== TABLE 13 (4 rows) ===
+	TABLE 5
+	
+	Change in weight of O-ring
+	(Irradiation time: 30 min, % by weight)
+
+=== TABLE 14 (2 rows) ===
+Sample	Filler	Oxygen plasma	CF4 plasma	NF3 plasma
+
+
+=== TABLE 15 (6 rows) ===
+Ex. 7	Filler 1	0.90	0.98	1.63
+Ex. 8	Filler 2	0.92	1.08	1.65
+Com. Ex. 10	Filler 3	0.94	1.12	1.68
+Com. Ex. 11	Filler 4	1.39	3.68	5.82
+Com. Ex. 12	Filler 5	1.28	3.78	6.31
+
+
+=== TABLE 16 (4 rows) ===
+	TABLE 6
+	
+	Number of micro particles after 30-min
+	irradiation (× 104/O-ring)
+
+=== TABLE 17 (3 rows) ===
+	Before			
+Sample	irradiation	Oxygen plasma	CF4 plasma	NF3 plasma
+
+
+=== TABLE 18 (6 rows) ===
+Ex. 7	7.23	12.84	23.53	23.72
+Ex. 8	7.89	13.81	25.12	24.23
+Com. Ex. 10	8.21	78.71	78.69	81.23
+Com. Ex. 11	6.98	23.82	25.81	24.89
+Com. Ex. 12	6.92	92.18	32.28	28.48
+
+
+=== TABLE 19 (5 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP11/314273		1999-11-04	
+JP314273/1999		1999-11-04	
+JP31427399		1999-11-04	
+PCT/JP2000/007671 WO2001032782A1 (en)	1999-11-04	2000-10-31	Molded elastomer for semiconductor production apparatus and crosslinkable fluoroelastomer composition
+
+=== TABLE 20 (3 rows) ===
+Publication Number	Publication Date
+US20030045623A1 US20030045623A1 (en)	2003-03-06
+US6803402B2 true US6803402B2 (en)	2004-10-12
+
+=== TABLE 21 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US09/959,516 Expired - Lifetime US6803402B2 (en)	1999-11-04	2000-10-31	Elastomer molded article and crosslinkable fluorine-containing elastomer composition for semi-conductor production apparatuses
+
+=== TABLE 22 (7 rows) ===
+Country	Link
+US (1)	US6803402B2 (en)
+EP (1)	EP1253172B1 (en)
+JP (1)	JP3303915B2 (en)
+KR (1)	KR100646151B1 (en)
+TW (1)	TWI237047B (en)
+WO (1)	WO2001032782A1 (en)
+
+=== TABLE 23 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050020748A1 (en) *	2001-12-17	2005-01-27	Tatsuya Morikawa	Elastomer formed product
+US20090286922A1 (en) *	2006-07-03	2009-11-19	Solvay Solexis S.P.A	(per)fluoroelastomeric compositions
+US20090317624A1 (en) *	2006-02-20	2009-12-24	Ken Yoshioka	Uniformly dispersed photocatalyst coating liquid, method for producing same, and photocatalytically active composite material obtained by using same
+US20100069558A1 (en) *	2006-07-03	2010-03-18	SOLVAY SOLEXIS S.p. A.	(per)fluoroelastomeric compositions
+US20100286341A1 (en) *	2008-01-08	2010-11-11	Unimatec Co., Ltd.	Fluorine-containing elastomer
+US8969469B2 (en)	2010-11-18	2015-03-03	3M Innovative Properties Company	Method of coagulating an amorphous fluoropolymer latex
+US9309370B2 (en)	2011-02-04	2016-04-12	3M Innovative Properties Company	Amorphous perfluoropolymers comprising zirconium oxide nanoparticles
+
+=== TABLE 24 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR100597929B1 (en) *	2001-12-17	2006-07-13	다이킨 고교 가부시키가이샤	Crosslinkable Elastomer Composition and Molded Article Composed of the Composition
+JP4778782B2 (en)	2004-12-28	2011-09-21	ニチアス株式会社	Sealing material
+CN101238540B (en)	2005-06-02	2010-12-08	应用材料公司	Method and apparatus for incorporating nitrogen in oxide films
+JP4534956B2 (en) *	2005-11-04	2010-09-01	ユニマテック株式会社	Fluorine-containing elastomer composition
+US8044132B2 (en) *	2006-10-03	2011-10-25	Unimatec Co., Ltd.	Fluorine-containing elastomer composition
+JP5287532B2 (en) *	2009-06-16	2013-09-11	大日本印刷株式会社	Transparent vapor-deposited film having weather resistance and laminate using the same
+JP5287533B2 (en) *	2009-06-16	2013-09-11	大日本印刷株式会社	Transparent vapor-deposited film having weather resistance and laminate using the same
+US10138352B2 (en)	2014-09-16	2018-11-27	Daikin Industries, Ltd.	Fluoroelastomer composition and molded article
+US10377881B2 (en)	2015-02-20	2019-08-13	Akita University	Composition and molded article
+JP6757934B2 (en) *	2015-12-14	2020-09-23	ジャパンマテックス株式会社	Fluorine-based resin-aluminum oxide mixed dispersion and its manufacturing method
+WO2018030427A1 (en)	2016-08-10	2018-02-15	国立大学法人秋田大学	Composition and molded article
+JP6927319B2 (en) *	2017-10-18	2021-08-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded product
+WO2020235565A1 (en) *	2019-05-20	2020-11-26	ダイキン工業株式会社	Fluorine-containing elastomer composition and article
+
+=== TABLE 25 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS587441A (en)	1981-07-06	1983-01-17	Hitachi Cable Ltd	Fluorine resin composition
+JPS5874739A (en)	1981-10-30	1983-05-06	Du Pont Mitsui Fluorochem Co Ltd	Tetrafluoroethylene resin powder composition for molding
+JPH02155943A (en)	1988-12-07	1990-06-15	Shunji Onishi	Bonding of polyphenylene sulfide resin to tetrafluoroethylene-ethylene copolymer resin
+JPH02212541A (en)	1989-02-14	1990-08-23	Sumitomo Bakelite Co Ltd	Liquid resin composition for semiconductor encapsulation
+JPH06244320A (en)	1993-02-16	1994-09-02	Hitachi Ltd	Resin-sealed semiconductor device
+US5358775A (en)	1993-07-29	1994-10-25	Rogers Corporation	Fluoropolymeric electrical substrate material exhibiting low thermal coefficient of dielectric constant
+US5530060A (en)	1991-06-03	1996-06-25	Shin-Etsu Chemical Co., Ltd.	Silicone composition capable of yeilding a cured product having good thermal conductivity
+JP2000154369A (en)	1998-09-14	2000-06-06	Morisei Kako:Kk	Composition for sealing material, and sealing material
+
+=== TABLE 26 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5729813A (en) *	1995-03-27	1998-03-17	Xerox Corporation	Thin, thermally conductive fluoroelastomer coated fuser member
+
+=== TABLE 27 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS587441A (en)	1981-07-06	1983-01-17	Hitachi Cable Ltd	Fluorine resin composition
+JPS5874739A (en)	1981-10-30	1983-05-06	Du Pont Mitsui Fluorochem Co Ltd	Tetrafluoroethylene resin powder composition for molding
+JPH02155943A (en)	1988-12-07	1990-06-15	Shunji Onishi	Bonding of polyphenylene sulfide resin to tetrafluoroethylene-ethylene copolymer resin
+JPH02212541A (en)	1989-02-14	1990-08-23	Sumitomo Bakelite Co Ltd	Liquid resin composition for semiconductor encapsulation
+US5530060A (en)	1991-06-03	1996-06-25	Shin-Etsu Chemical Co., Ltd.	Silicone composition capable of yeilding a cured product having good thermal conductivity
+JPH06244320A (en)	1993-02-16	1994-09-02	Hitachi Ltd	Resin-sealed semiconductor device
+US5358775A (en)	1993-07-29	1994-10-25	Rogers Corporation	Fluoropolymeric electrical substrate material exhibiting low thermal coefficient of dielectric constant
+JP2000154369A (en)	1998-09-14	2000-06-06	Morisei Kako:Kk	Composition for sealing material, and sealing material
+
+=== TABLE 28 (3 rows) ===
+Title
+International Search Report for PCT/JP00/07671 dated Jan. 30, 2001.
+Office Action from Taiwan Patent Office dated Sep. 1, 2003.
+
+=== TABLE 29 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050020748A1 (en) *	2001-12-17	2005-01-27	Tatsuya Morikawa	Elastomer formed product
+US20090317624A1 (en) *	2006-02-20	2009-12-24	Ken Yoshioka	Uniformly dispersed photocatalyst coating liquid, method for producing same, and photocatalytically active composite material obtained by using same
+US20090286922A1 (en) *	2006-07-03	2009-11-19	Solvay Solexis S.P.A	(per)fluoroelastomeric compositions
+US20100069558A1 (en) *	2006-07-03	2010-03-18	SOLVAY SOLEXIS S.p. A.	(per)fluoroelastomeric compositions
+US8168714B2 (en) *	2006-07-03	2012-05-01	Solvay Solexis, S.P.A.	(Per)fluoroelastomeric compositions
+US8476356B2 (en) *	2006-07-03	2013-07-02	Solvay Solexis S.P.A.	(Per)fluoroelastomeric compositions
+US20100286341A1 (en) *	2008-01-08	2010-11-11	Unimatec Co., Ltd.	Fluorine-containing elastomer
+US8188176B2 (en) *	2008-01-08	2012-05-29	Unimatec Co., Ltd.	Fluorine-containing elastomer
+US8969469B2 (en)	2010-11-18	2015-03-03	3M Innovative Properties Company	Method of coagulating an amorphous fluoropolymer latex
+US9309370B2 (en)	2011-02-04	2016-04-12	3M Innovative Properties Company	Amorphous perfluoropolymers comprising zirconium oxide nanoparticles
+
+=== TABLE 30 (10 rows) ===
+Publication number	Publication date
+EP1253172B1 (en)	2012-03-14
+EP1253172A1 (en)	2002-10-30
+KR100646151B1 (en)	2006-11-14
+JP3303915B2 (en)	2002-07-22
+TWI237047B (en)	2005-08-01
+KR20020034189A (en)	2002-05-08
+US20030045623A1 (en)	2003-03-06
+EP1253172A4 (en)	2006-05-24
+WO2001032782A1 (en)	2001-05-10
+
+=== TABLE 31 (19 rows) ===
+Publication	Publication Date	Title
+EP1253172B1 (en)	2012-03-14	Use of molded elastomer comprising crosslinkable fluoroelastomer composition for semiconductor production apparatus
+JP4374819B2 (en)	2009-12-02	Manufacturing method of clean filler and manufacturing method of molded product containing the obtained filler
+US9914818B2 (en)	2018-03-13	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+EP1464676B2 (en)	2020-05-13	Crosslinkable elastomer composition and formed product comprising the same
+JPWO2001032782A1 (en)	2003-05-20	Elastomer molded article for semiconductor manufacturing equipment and crosslinkable fluorine-based elastomer composition
+EP1182230B1 (en)	2008-07-09	Use of a synthetic filler containing crosslinkable elastomer composition for sealing plasma generating equipment
+JPWO2001085848A1 (en)	2003-07-29	High molecular weight polymer composition containing clean filler
+JPWO1999024484A1 (en)	2002-09-03	Molding material
+JP2008001894A (en)	2008-01-10	Fluorine-containing elastomer composition excellent in plasma resistance and sealing material comprising the same
+US6515064B1 (en)	2003-02-04	Molded elastomer
+US20050090598A1 (en)	2005-04-28	Crosslinkable elastomer composition and molded article produced from same
+TWI381015B (en)	2013-01-01	Fluororubber composition, fluororubber material using the composition and method for producing the fluororubber molding
+JPWO2000042100A1 (en)	2002-05-08	Crosslinkable elastomer composition and molded article produced from said composition
+EP1211292B1 (en)	2006-05-24	Use of a crosslinked elastomer composition for sealing a semiconductor production apparatus
+JP5070805B2 (en)	2012-11-14	Crosslinkable fluoroelastomer composition containing clean filler
+US20050004298A1 (en)	2005-01-06	Crosslinkable elastomer composition and molded article produced from same
+JPWO2000078871A1 (en)	2003-01-14	Crosslinkable elastomer composition and molded article produced from said composition
+JP2024101544A (en)	2024-07-29	Fluorine-containing elastomer composition
+
+=== TABLE 32 (7 rows) ===
+Date	Code	Title	Description
+2001-10-29	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIGASHINO, KATSUHIKO;HASEGAWA, MASANORI;TANAKA, HIROYUKI;AND OTHERS;REEL/FRAME:012315/0922 Effective date: 20010830
+2004-09-23	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2004-12-01	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2008-03-13	FPAY	Fee payment	Year of fee payment: 4
+2012-03-14	FPAY	Fee payment	Year of fee payment: 8
+2016-03-30	FPAY	Fee payment	Year of fee payment: 12

@@ -1,0 +1,110 @@
+# JPWO2007119834A1 :: JPWO2007119834A1 - 
+        Fluorine-containing elastomer composition and fluorine-containing rubber molded product
+       
+      - Google Patents
+
+=== TABLE 0 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2006115359		2006-04-19	
+JP2006115359		2006-04-19	
+PCT/JP2007/058204 WO2007119834A1 (en)	2006-04-19	2007-04-13	Fluoroelastomer composition and molded fluororubber article
+
+=== TABLE 1 (2 rows) ===
+Publication Number	Publication Date
+JPWO2007119834A1 true JPWO2007119834A1 (en)	2009-08-27
+
+=== TABLE 2 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+JP2008511012A Withdrawn JPWO2007119834A1 (en)	2006-04-19	2007-04-13	Fluorine-containing elastomer composition and fluorine-containing rubber molded product
+
+=== TABLE 3 (9 rows) ===
+Country	Link
+US (1)	US20090054593A1 (en)
+EP (1)	EP2009054A4 (en)
+JP (1)	JPWO2007119834A1 (en)
+KR (1)	KR20090008236A (en)
+CN (1)	CN101426851A (en)
+RU (1)	RU2008145588A (en)
+TW (1)	TW200806732A (en)
+WO (1)	WO2007119834A1 (en)
+
+=== TABLE 4 (20 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN101977981B (en) *	2008-03-18	2013-08-14	日本华尔卡工业株式会社	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+EP2105465A1 (en) *	2008-03-27	2009-09-30	Greene, Tweed Of Delaware, Inc.	Inert Substrate-Bonded Perfluoroelastomer Components and Related Methods
+CN101981067B (en) *	2008-03-28	2013-03-27	旭硝子株式会社	Fluorine-containing elastic copolymer and method for producing the same
+WO2011013557A1 (en) *	2009-07-27	2011-02-03	昭和電工株式会社	Allylamine manufacturing method
+RU2539009C2 (en) *	2009-10-01	2015-01-10	Асахи Гласс Компани, Лимитед	Crosslinkable fluororubber composition and crosslinked rubber article
+WO2012141154A1 (en)	2011-04-13	2012-10-18	旭硝子株式会社	Fluorine-containing elastomer composition and fluorine-containing rubber foam
+IN2014DN07710A (en) *	2012-03-26	2015-05-15	Asahi Glass Co Ltd	
+JP5354051B2 (en) *	2012-04-09	2013-11-27	ユニマテック株式会社	Perfluoroelastomer composition
+EP3050923B1 (en) *	2013-09-25	2018-01-17	Asahi Glass Company, Limited	Fluorinated elastomer composition and method for its production, molded product, cross-linked product, and covered electric wire
+CN106103582B (en)	2014-03-25	2019-04-09	Ａｇｃ株式会社	Fluorine rubber molded products
+CN104277383B (en) *	2014-10-27	2016-07-06	安徽锐视光电技术有限公司	A kind of color selector anti-scorch burning synthetic rubber and preparation method thereof
+CN105218985B (en) *	2015-10-28	2017-07-11	湖北派克密封件有限公司	A kind of fluorubber of high temperature high voltage resistant hydrofluoric acid resistant and preparation method thereof
+KR102089481B1 (en) *	2017-12-28	2020-03-16	평화오일씰공업 주식회사	Rubber composite of oil seal for vehicle
+CN112543788B (en) *	2018-07-30	2023-10-24	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+GB2624325B (en) *	2021-09-14	2026-03-11	Halliburton Energy Services Inc	Polymer blends for use in wellbore applications
+EP4635990A1 (en) *	2022-12-16	2025-10-22	Agc Inc.	Method for producing fluorine-containing polymer, aqueous dispersion liquid, and particle
+CN116574467B (en) *	2023-07-13	2023-09-22	上海森桓新材料科技有限公司	A crystal-free perfluoroether elastomer composition and its preparation method
+CN121646623A (en) *	2023-08-08	2026-03-10	Ａｇｃ株式会社	Methods for manufacturing fluoropolymers, aqueous dispersions, particles, and compositions
+WO2025143165A1 (en) *	2023-12-28	2025-07-03	Ａｇｃ株式会社	Perfluoroelastomer and crosslinked rubber article
+
+=== TABLE 5 (18 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3852326A (en)	1972-06-14	1974-12-03	Du Pont	Cyanoperfluoro(vinyl ethers), their preparation and copolymers thereof
+US4973634A (en) *	1989-05-19	1990-11-27	E. I. Du Pont De Nemours And Company	Preparation of bromo-containing perfluoropolymers having iodine curesites
+JP3134511B2 (en) *	1992-07-09	2001-02-13	ダイキン工業株式会社	New fluoro rubber composition
+JPH06322214A (en) *	1993-05-11	1994-11-22	Asahi Glass Co Ltd	Fluorine rubber composition
+IT1265461B1 (en)	1993-12-29	1996-11-22	Ausimont Spa	FLUOROELASTOMERS INCLUDING MONOMERIC UNITS ARISING FROM A BIS-OLEPHINE
+US5459202A (en) *	1994-06-30	1995-10-17	E. I. Du Pont De Nemours And Company	Elastomer seal
+US6140437A (en) *	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP2002114884A (en)	2000-10-06	2002-04-16	Asahi Glass Co Ltd	Fluororesin composition and method for producing the same
+WO2003039858A1 (en) *	2001-11-05	2003-05-15	Daikin Industries, Ltd.	Rubber laminate
+JP2003165969A (en) *	2001-11-30	2003-06-10	Koyo Seiko Co Ltd	Composition for sealing member and sealing member using the same
+JP2003183466A (en) *	2001-12-19	2003-07-03	Asahi Glass Co Ltd	Fluororubber composition and molded product thereof
+EP1630179B1 (en) *	2004-08-25	2007-10-31	Asahi Glass Company Ltd.	Fluorocopolymer
+JP2006115359A (en)	2004-10-15	2006-04-27	Sharp Corp	Image processing device
+JP4778782B2 (en) *	2004-12-28	2011-09-21	ニチアス株式会社	Sealing material
+JP4628814B2 (en) *	2005-02-15	2011-02-09	日本バルカー工業株式会社	Sealant for semiconductor manufacturing equipment
+JP4945905B2 (en) *	2005-02-25	2012-06-06	旭硝子株式会社	Insulation coating layer for electric wires
+JP5044999B2 (en) *	2005-09-26	2012-10-10	旭硝子株式会社	Perfluoroelastomer composition and perfluororubber molded article
+
+=== TABLE 6 (9 rows) ===
+Publication number	Publication date
+KR20090008236A (en)	2009-01-21
+RU2008145588A (en)	2010-05-27
+TW200806732A (en)	2008-02-01
+EP2009054A4 (en)	2010-09-29
+US20090054593A1 (en)	2009-02-26
+EP2009054A1 (en)	2008-12-31
+CN101426851A (en)	2009-05-06
+WO2007119834A1 (en)	2007-10-25
+
+=== TABLE 7 (21 rows) ===
+Publication	Publication Date	Title
+US20090054593A1 (en)	2009-02-26	Fluoroelastomer composition and molded fluororubber article
+JP5321580B2 (en)	2013-10-23	Fluorine-containing elastic copolymer and production method
+US7884166B2 (en)	2011-02-08	Elastic fluorocopolymer, its composition and crosslinked rubber
+JP5967080B2 (en)	2016-08-10	Fluorine-containing elastomer composition and fluorine-containing foam rubber
+EP3225659B1 (en)	2020-10-14	Fluororubber compositions and crosslinked fluororubber article
+JP5044999B2 (en)	2012-10-10	Perfluoroelastomer composition and perfluororubber molded article
+KR20050053655A (en)	2005-06-08	Fluoroelastomers with improved permeation resistance and method for making the same
+JP5353880B2 (en)	2013-11-27	Fuel low permeability block copolymer
+JP2017193682A (en)	2017-10-26	Elastomer composition
+US20070167581A1 (en)	2007-07-19	Process for producing elastic fluorocopolymer and crosslinked fluororubber
+WO2016072397A1 (en)	2016-05-12	Fluorine-containing elastomer, fluorine-containing elastomer composition, and fluorine-containing elastomer crosslinked article
+JP4945905B2 (en)	2012-06-06	Insulation coating layer for electric wires
+EP1770120B1 (en)	2011-03-09	Perfluoroelastomer composition and perfluororubber molded article
+WO2017115812A1 (en)	2017-07-06	Fluoroelastomer composition and method for producing crosslinked product
+JP4640021B2 (en)	2011-03-02	Fluorine-containing copolymer
+HK1097283B (en)	2011-08-05	Perfluoroelastomer composition and perfluororubber molded article
+WO2024090559A1 (en)	2024-05-02	Composition for crosslinking fluororubber, and molded article
+JP2010090327A (en)	2010-04-22	Fluorine-containing elastomer composition
+JP2017193684A (en)	2017-10-26	Elastomer composition
+JP2018044078A (en)	2018-03-22	Fluorine-containing elastic copolymer composition and crosslinked rubber
+
+=== TABLE 8 (3 rows) ===
+Date	Code	Title	Description
+2010-02-13	A621	Written request for application examination	Free format text: JAPANESE INTERMEDIATE CODE: A621 Effective date: 20100212
+2010-09-14	A761	Written withdrawal of application	Free format text: JAPANESE INTERMEDIATE CODE: A761 Effective date: 20100913

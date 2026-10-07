@@ -1,0 +1,297 @@
+# US8138271B2 :: US8138271B2 - Crosslinkable composition and molded article made of same 
+        - Google Patents
+
+=== TABLE 0 (5 rows) ===
+TABLE 1
+
+	Ex. 1	Ex. 2	Ex. 3	Com. Ex. 1	Com. Ex. 2
+
+
+
+=== TABLE 1 (17 rows) ===
+Composition					
+Crosslinkable fluorine-containing elastomer (B-1)	100			100	
+Crosslinkable fluorine-containing elastomer (B-2)		100			
+Crosslinkable fluorine-containing elastomer (B-3)			100		
+Fluorine-containing elastomer 1					100
+MT carbon	20	20	20	20	20
+Caldic#2000					6
+MA-150					3
+Crosslinking agent TA-AF				3.8	
+Crosslinking agent OH-AF	3.1	1.8	2.5		
+Compression set (%)					
+250° C. × 70 hours	44	41	32	41	38
+250° C. × 168 hours	57	57	50	58	62
+250° C. × 336 hours	70	75	67	75	86
+250° C. × 500 hours	79	85	77	89	99
+250° C. × 1,000 hours	95	102	92	99	—
+
+
+=== TABLE 2 (28 rows) ===
+TABLE 2
+
+	Ex. 4	Ex. 5	Ex. 6	Ex. 7	Ex. 8
+
+Composition					
+Crosslinkable fluorine-containing elastomer (B-4)	100	100	100	100	100
+Crosslinkable fluorine-containing elastomer (B-5)					
+Crosslinkable fluorine-containing elastomer (B-6)					
+Fluorine-containing elastomer 2					
+MT carbon	20	20	20	20	16
+Mineral Black					20
+Crosslinking agent DOH		1.5			
+Crosslinking agent Salt-OH-AF				2.2	
+Crosslinking agent OH-AF	2.9				2.4
+Silicon nitride			0.75		
+Triallylisocyanurate					
+Perhexa 25B					
+Molecular sieve 4A					
+CARPLEX #1120					
+Vulcanizability, Curastometer II	16	46	40	13	28
+Optimum vulcanization speed T90 (min)					
+Compression set (%)					
+250° C. × 70 hours	28	44	30	43	33
+250° C. × 168 hours	40	64	48	65	—
+250° C. × 336 hours	55	82	60	80	—
+250° C. × 500 hours	65	91	69	89	—
+250° C. × 1,000 hours	79	99	84	99	—
+
+
+=== TABLE 3 (26 rows) ===
+	Ex. 9	Ex. 10	Ex. 11	Com. Ex. 3
+
+Composition				
+Crosslinkable fluorine-containing elastomer (B-4)				
+Crosslinkable fluorine-containing elastomer (B-5)	100			
+Crosslinkable fluorine-containing elastomer (B-6)		100	100	
+Fluorine-containing elastomer 2				100
+MT carbon	30	20	20	30
+Mineral Black				
+Crosslinking agent DOH				
+Crosslinking agent Salt-OH-AF				
+Crosslinking agent OH-AF	2.1	2.6	2.6	
+Silicon nitride				
+Triallylisocyanurate				3
+Perhexa 25B				1.5
+Molecular sieve 4A		3		
+CARPLEX #1120			3	
+Vulcanizability, Curastometer II	53	7	8	1.7
+Optimum vulcanization speed T90 (min)				
+Compression set (%)				
+250° C. × 70 hours	28	37	—	51
+250° C. × 168 hours	44	53	—	88
+250° C. × 336 hours	59	72	—	109
+250° C. × 500 hours	69	84	—	—
+250° C. × 1,000 hours	89	95	—	—
+
+
+=== TABLE 4 (6 rows) ===
+TABLE 3
+
+			Com.
+Composition (part by weight)	Ex. 12	Ex. 13	Ex. 4
+
+
+
+=== TABLE 5 (23 rows) ===
+Crosslinkable fluorine-containing	100	100	
+elastomer (B-7)			
+Fluorine-containing elastomer 1			100
+MT carbon	20	20	20
+Crosslinking agent OH-AF	3.1	2.5	
+Silicon nitride		0.1	
+Caldic #2000			6
+MA-150			3
+Vulcanizability, Curastometer II	5.8	4.5	4.8
+Optimum vulcanization speed T90 (min)			
+Compression set (%) 250° C.			
+70 hours	36	27	38
+168 hours	51	42	62
+336 hours	67	56	86
+500 hours	75	67	99
+1,000 hours	92	84	—
+Compression set (%) 280° C.			
+70 hours	56	50	78
+168 hours	76	62	92
+336 hours	91	77	108
+500 hours	97	89	—
+1,000 hours	111	102	—
+
+
+=== TABLE 6 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US13/180,188 US8138271B2 (en)	2005-10-27	2011-07-11	Crosslinkable composition and molded article made of same
+
+=== TABLE 7 (8 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2005-313521		2005-10-27	
+JP2005313521		2005-10-27	
+JP2006-118145		2006-04-21	
+JP2006118145		2006-04-21	
+PCT/JP2006/320458 WO2007049469A1 (en)	2005-10-27	2006-10-13	Crosslinkable composition and molded article made of same
+US9169408A	2008-04-25	2008-04-25	
+US13/180,188 US8138271B2 (en)	2005-10-27	2011-07-11	Crosslinkable composition and molded article made of same
+
+=== TABLE 8 (4 rows) ===
+Application Number	Title	Priority Date	Filing Date
+PCT/JP2006/320458 Division WO2007049469A1 (en)	2005-10-27	2006-10-13	Crosslinkable composition and molded article made of same
+US12/091,694 Division US20090124759A1 (en)	2005-10-27	2006-10-13	Crosslinkable composition and molded article made of same
+US9169408A Division	2005-10-27	2008-04-25	
+
+=== TABLE 9 (3 rows) ===
+Publication Number	Publication Date
+US20110263795A1 US20110263795A1 (en)	2011-10-27
+US8138271B2 true US8138271B2 (en)	2012-03-20
+
+=== TABLE 10 (3 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US12/091,694 Abandoned US20090124759A1 (en)	2005-10-27	2006-10-13	Crosslinkable composition and molded article made of same
+US13/180,188 Expired - Fee Related US8138271B2 (en)	2005-10-27	2011-07-11	Crosslinkable composition and molded article made of same
+
+=== TABLE 11 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US12/091,694 Abandoned US20090124759A1 (en)	2005-10-27	2006-10-13	Crosslinkable composition and molded article made of same
+
+=== TABLE 12 (5 rows) ===
+Country	Link
+US (2)	US20090124759A1 (en)
+EP (2)	EP2460852B1 (en)
+JP (1)	JP5067161B2 (en)
+WO (1)	WO2007049469A1 (en)
+
+=== TABLE 13 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20110112265A1 (en) *	2008-06-30	2011-05-12	Daikin Industries Ltd.	Curable composition and molded article made of same
+US20110151164A1 (en) *	2008-09-25	2011-06-23	Daikin Industries, Ltd.	Curable composition and molded article made of same
+US11492457B2 (en)	2019-06-06	2022-11-08	3M Innovative Properties Company	Curable fluoropolymer compositions comprising a compound containing a phthalonitrile and a nucleophilic functional group and cured articles therefrom
+US11499032B2 (en)	2019-08-23	2022-11-15	3M Innovative Properties Company	Curable fluoropolymer compositions comprising a compound containing a phthalonitrile and an olefinic bond and cured articles therefrom
+US12084561B2 (en)	2018-12-14	2024-09-10	3M Innovative Properties Company	Curable fluoropolymer compositions comprising bis phthalonitrile-containing compound and cured articles therefrom
+
+=== TABLE 14 (17 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20090124759A1 (en) *	2005-10-27	2009-05-14	Daikin Industries, Ltd.	Crosslinkable composition and molded article made of same
+JP5218048B2 (en) *	2006-05-19	2013-06-26	ダイキン工業株式会社	Fluorine-containing elastomer composition and molded article comprising the composition
+JP2010024339A (en) *	2008-07-18	2010-02-04	Daikin Ind Ltd	Fluorine-containing elastomer composition and molded product formed of the same
+US20110152487A1 (en) *	2009-12-17	2011-06-23	3M Innovative Properties Company	Peroxide cured partially fluorinated elastomers
+CA2863408C (en)	2012-02-03	2020-03-24	Greene, Tweed Technologies, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+WO2015122537A1 (en) *	2014-02-17	2015-08-20	ダイキン工業株式会社	Molded article
+US11267922B2 (en)	2017-01-18	2022-03-08	3M Innovative Properties Company	Fluorinated block copolymers derived from nitrile cure-site monomers
+US11084910B2 (en) *	2017-06-06	2021-08-10	Zeon Corporation	Cross-linked rubber and production method therefor
+MX2020003337A (en) *	2017-09-27	2020-10-28	Arkema Inc	COPOLYMERS OF HALOGENATED OLEFINS AND HALOGENATED CO-MONOMERS.
+CN112543788B (en) *	2018-07-30	2023-10-24	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+JP7206510B2 (en) *	2018-08-10	2023-01-18	ダイキン工業株式会社	Composition, crosslinked rubber molded article and fluorine-containing polymer
+CN112839969A (en) *	2018-10-18	2021-05-25	大金工业株式会社	Fluoroelastomers, crosslinkable compositions and molded articles
+KR102503908B1 (en) *	2020-04-13	2023-02-24	에이지씨 가부시키가이샤	Fluorinated Copolymer Compositions and Crosslinked Rubber Articles
+CN115362208B (en) *	2020-04-13	2024-09-24	Ａｇｃ株式会社	Fluorine-containing copolymer composition and cross-linked rubber article
+JP7549273B2 (en) *	2021-04-02	2024-09-11	ダイキン工業株式会社	Fluororubber crosslinking composition, molded article and sealing material
+JP7183335B2 (en) *	2021-05-10	2022-12-05	日本特殊陶業株式会社	gas sensor
+
+=== TABLE 15 (19 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+GB1496084A (en)	1974-01-31	1977-12-21	Du Pont	Fluoroelastomers
+JPS534035A (en)	1976-07-02	1978-01-14	Ube Industries	Method of calcinning raw materials for cement
+JPS53125491A (en)	1977-04-08	1978-11-01	Daikin Ind Ltd	Fluorine-containing polymer easily curable and its curable composition
+US4394489A (en)	1982-02-25	1983-07-19	E. I. Du Pont De Nemours & Co.	Fluoroelastomer curatives
+JPS59109546A (en)	1982-12-02	1984-06-25	イ−・アイ・デユポン・デ・ニモアス・アンド・カンパニ−	Vulcanizable perfluoro elastomer
+JPH06128334A (en)	1991-07-24	1994-05-10	Ausimont Spa	Fluoroelastomer copolymer based on vilylidene fluoride modified with perfluoroalkyl vinyl ether
+JPH08104789A (en)	1994-10-04	1996-04-23	Nippon Mektron Ltd	Fluorine-containing elastomer composition
+US5677389A (en)	1996-11-25	1997-10-14	E. I. Du Pont De Nemours	Perfluoroelastomer composition having enhanced curing performance
+US5824749A (en)	1994-10-04	1998-10-20	Nippon Mektron, Limited	Fluorine-containing elastomer composition
+EP0905177A1 (en)	1997-09-29	1999-03-31	Dupont Dow Elastomers L.L.C.	Process for curing elastomeric vinylidene fluoride copolymers
+WO2000029479A1 (en)	1998-11-13	2000-05-25	Daikin Industries, Ltd.	Fluoroelastomer and crosslinkable composition thereof
+EP1243601A1 (en)	1999-11-09	2002-09-25	Daikin Industries, Ltd.	Vulcanizable fluoroelastomer composition
+WO2002092683A1 (en)	2001-05-15	2002-11-21	Dupont Dow Elastomers L.L.C.	Curable base-resistant fluoroelastomers
+US20030208003A1 (en)	2002-05-02	2003-11-06	Schmiegel Walter Werner	Curable base-resistant fluoroelastomers
+EP1589047A1 (en)	2003-01-24	2005-10-26	Daikin Industries, Ltd.	Method for producing vulcanizable fluorine-containing elastomer
+EP1741748A1 (en)	2004-04-28	2007-01-10	Daikin Industries, Ltd.	Fluorine-containing elastomer composition and molded article formed therefrom
+US20080287627A1 (en) *	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+US20090124759A1 (en) *	2005-10-27	2009-05-14	Daikin Industries, Ltd.	Crosslinkable composition and molded article made of same
+
+=== TABLE 16 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+GB9816638D0 (en)	1998-07-30	1998-09-30	Novartis Ag	Organic compounds
+
+=== TABLE 17 (23 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+GB1496084A (en)	1974-01-31	1977-12-21	Du Pont	Fluoroelastomers
+JPS534035A (en)	1976-07-02	1978-01-14	Ube Industries	Method of calcinning raw materials for cement
+JPS53125491A (en)	1977-04-08	1978-11-01	Daikin Ind Ltd	Fluorine-containing polymer easily curable and its curable composition
+US4243770A (en)	1977-04-08	1981-01-06	Daikin Kogyo Co., Ltd.	Cross linkable fluorine-containing polymer and its production
+US4394489A (en)	1982-02-25	1983-07-19	E. I. Du Pont De Nemours & Co.	Fluoroelastomer curatives
+JPS58152041A (en)	1982-02-25	1983-09-09	イ−・アイ・デユポン・デ・ニモアス・アンド・カンパニ−	Nitrile substituted fluoro elastomer
+JPS59109546A (en)	1982-12-02	1984-06-25	イ−・アイ・デユポン・デ・ニモアス・アンド・カンパニ−	Vulcanizable perfluoro elastomer
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+JPH06128334A (en)	1991-07-24	1994-05-10	Ausimont Spa	Fluoroelastomer copolymer based on vilylidene fluoride modified with perfluoroalkyl vinyl ether
+US5824749A (en)	1994-10-04	1998-10-20	Nippon Mektron, Limited	Fluorine-containing elastomer composition
+JPH08104789A (en)	1994-10-04	1996-04-23	Nippon Mektron Ltd	Fluorine-containing elastomer composition
+US5677389A (en)	1996-11-25	1997-10-14	E. I. Du Pont De Nemours	Perfluoroelastomer composition having enhanced curing performance
+EP0905177A1 (en)	1997-09-29	1999-03-31	Dupont Dow Elastomers L.L.C.	Process for curing elastomeric vinylidene fluoride copolymers
+WO2000029479A1 (en)	1998-11-13	2000-05-25	Daikin Industries, Ltd.	Fluoroelastomer and crosslinkable composition thereof
+US20040122182A1 (en)	1998-11-13	2004-06-24	Daikin Industries, Ltd.	Fluorine-containing elastomer and composition thereof for crosslinking
+EP1243601A1 (en)	1999-11-09	2002-09-25	Daikin Industries, Ltd.	Vulcanizable fluoroelastomer composition
+WO2002092683A1 (en)	2001-05-15	2002-11-21	Dupont Dow Elastomers L.L.C.	Curable base-resistant fluoroelastomers
+US20030208003A1 (en)	2002-05-02	2003-11-06	Schmiegel Walter Werner	Curable base-resistant fluoroelastomers
+EP1589047A1 (en)	2003-01-24	2005-10-26	Daikin Industries, Ltd.	Method for producing vulcanizable fluorine-containing elastomer
+EP1741748A1 (en)	2004-04-28	2007-01-10	Daikin Industries, Ltd.	Fluorine-containing elastomer composition and molded article formed therefrom
+US20090124759A1 (en) *	2005-10-27	2009-05-14	Daikin Industries, Ltd.	Crosslinkable composition and molded article made of same
+US20080287627A1 (en) *	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+
+=== TABLE 18 (4 rows) ===
+Title
+Chapter 19-website (http://web.archive.org/web/20050505220932/http://crab.rutgers.edu/~alroche/Ch19.doc) archived May 5, 2005.
+Chapter 19—website (http://web.archive.org/web/20050505220932/http://crab.rutgers.edu/˜alroche/Ch19.doc) archived May 5, 2005.
+Preparation of Amine Website Snapshot of http://www.chemguide.co.uk/organicprops/amines/preparation.html taken Sep. 13, 2010.
+
+=== TABLE 19 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20110112265A1 (en) *	2008-06-30	2011-05-12	Daikin Industries Ltd.	Curable composition and molded article made of same
+US20110151164A1 (en) *	2008-09-25	2011-06-23	Daikin Industries, Ltd.	Curable composition and molded article made of same
+US12084561B2 (en)	2018-12-14	2024-09-10	3M Innovative Properties Company	Curable fluoropolymer compositions comprising bis phthalonitrile-containing compound and cured articles therefrom
+US11492457B2 (en)	2019-06-06	2022-11-08	3M Innovative Properties Company	Curable fluoropolymer compositions comprising a compound containing a phthalonitrile and a nucleophilic functional group and cured articles therefrom
+US11499032B2 (en)	2019-08-23	2022-11-15	3M Innovative Properties Company	Curable fluoropolymer compositions comprising a compound containing a phthalonitrile and an olefinic bond and cured articles therefrom
+
+=== TABLE 20 (11 rows) ===
+Publication number	Publication date
+US20110263795A1 (en)	2011-10-27
+EP1942138A4 (en)	2010-11-17
+US20090124759A1 (en)	2009-05-14
+EP2460852B1 (en)	2014-03-26
+JP5067161B2 (en)	2012-11-07
+EP2460852A2 (en)	2012-06-06
+EP2460852A3 (en)	2012-09-12
+JPWO2007049469A1 (en)	2009-04-30
+WO2007049469A1 (en)	2007-05-03
+EP1942138A1 (en)	2008-07-09
+
+=== TABLE 21 (22 rows) ===
+Publication	Publication Date	Title
+US20110263795A1 (en)	2011-10-27	Crosslinkable composition and molded article made of same
+US9068057B2 (en)	2015-06-30	Curable composition, molded article obtained from same and process for production of molded article
+EP0365053B1 (en)	1994-05-04	Peroxide-curable brominated fluoroelastomer compositions
+US5637648A (en)	1997-06-10	Fluorine-containing elastomer composition
+US8981009B2 (en)	2015-03-17	Fluorine-containing elastomer and crosslinkable composition comprising same
+EP1245635B1 (en)	2008-09-03	Fluoroelastomer composition for crosslinking
+US9169339B2 (en)	2015-10-27	Curable composition, molded product and method for producing molded product
+JPWO2017057512A1 (en)	2018-07-26	Fluorine-containing elastic copolymer, method for producing the same, crosslinked rubber and method for producing the same
+EP0758668A2 (en)	1997-02-19	Fluorine-containing elastomer composition
+KR20050053655A (en)	2005-06-08	Fluoroelastomers with improved permeation resistance and method for making the same
+JP3758323B2 (en)	2006-03-22	Method for producing fluorine-containing elastomer
+US20040236028A1 (en)	2004-11-25	Fluoroelastomer composition having excellent low temperature properties
+US20110319545A1 (en)	2011-12-29	Process for preparing curable perfluoroelastomer compositions
+US20140288232A1 (en)	2014-09-25	Curing compositions for fluoropolymers
+EP3720899B1 (en)	2023-05-31	Curable fluorinated polymer compositions
+JP2008274104A (en)	2008-11-13	Crosslinkable composition and molded article comprising the same
+US20210324137A1 (en)	2021-10-21	Peroxide curable highly fluorinated polymers comprising an internal fluorinated plasticizer and articles therefrom
+CN101296989A (en)	2008-10-29	Cross-linkable composition and molded article formed from the composition
+US20020091282A1 (en)	2002-07-11	Fluoropolymer composition with organo-onium and blocked oxalate compounds
+US20150148493A1 (en)	2015-05-28	Curable fluoroelastomer composition
+KR20190075975A (en)	2019-07-01	Fluoroelastomer composition
+
+=== TABLE 22 (7 rows) ===
+Date	Code	Title	Description
+2012-12-03	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2015-10-30	REMI	Maintenance fee reminder mailed	
+2016-03-20	LAPS	Lapse for failure to pay maintenance fees	
+2016-04-15	STCH	Information on status: patent discontinuation	Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+2016-04-18	STCH	Information on status: patent discontinuation	Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+2016-05-10	FP	Lapsed due to failure to pay maintenance fee	Effective date: 20160320

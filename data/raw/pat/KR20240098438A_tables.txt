@@ -1,0 +1,95 @@
+# KR20240098438A :: KR20240098438A - Perfluoro elastomer and fluororubber composite with improved heat resistance 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020220180178A KR102713660B1 (en)	2022-12-21	2022-12-21	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020220180178A KR102713660B1 (en)	2022-12-21	2022-12-21	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+KR20240098438A true KR20240098438A (en)	2024-06-28
+KR102713660B1 KR102713660B1 (en)	2024-10-07
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020220180178A Active KR102713660B1 (en)	2022-12-21	2022-12-21	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR102713660B1 (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20250051188A (en) *	2023-10-10	2025-04-17	한성테크 주식회사	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 6 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2001199715A (en) *	2000-01-14	2001-07-24	Sony Corp	Fullerene polymer and method for producing the same, and functional element using fullerene polymer and method for producing the same
+KR20060076726A (en) *	2004-12-28	2006-07-04	니찌아스 카부시키카이샤	Elastomer Compositions and Molded Articles
+KR100899134B1 (en) *	2007-12-27	2009-05-25	주식회사 엠앤이	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+KR102323568B1 (en) *	2021-06-23	2021-11-05	중앙대학교 산학협력단	Perfluoro elastomer composite with improved heat resistance, and method of fabricating the same
+KR102467058B1 (en)	2021-03-30	2022-11-14	(주)디엔테크	Fluoro rubber composition for o-ring with excellent low compression set at high temperature
+
+=== TABLE 7 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2001199715A (en) *	2000-01-14	2001-07-24	Sony Corp	Fullerene polymer and method for producing the same, and functional element using fullerene polymer and method for producing the same
+KR20060076726A (en) *	2004-12-28	2006-07-04	니찌아스 카부시키카이샤	Elastomer Compositions and Molded Articles
+KR100899134B1 (en) *	2007-12-27	2009-05-25	주식회사 엠앤이	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+KR102467058B1 (en)	2021-03-30	2022-11-14	(주)디엔테크	Fluoro rubber composition for o-ring with excellent low compression set at high temperature
+KR102323568B1 (en) *	2021-06-23	2021-11-05	중앙대학교 산학협력단	Perfluoro elastomer composite with improved heat resistance, and method of fabricating the same
+
+=== TABLE 8 (2 rows) ===
+Title
+비특허 1(Technical Physics Letters, 2007, Vol. 33, No. 10, pp. 893-895) *
+
+=== TABLE 9 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20250051188A (en) *	2023-10-10	2025-04-17	한성테크 주식회사	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 10 (2 rows) ===
+Publication number	Publication date
+KR102713660B1 (en)	2024-10-07
+
+=== TABLE 11 (26 rows) ===
+Publication	Publication Date	Title
+TWI328021B (en)	2010-08-01	
+CN101977981B (en)	2013-08-14	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+CN102115563B (en)	2012-12-12	Sealing element raw material applied to electrical appliance in high temperature, high pressure or high humidity environment and preparation method thereof
+CN118344739B (en)	2024-08-23	Oil-resistant heat-resistant sealing material and preparation method and application thereof
+KR102925968B1 (en)	2026-02-11	Perfluoro elastomer and fluororubber composite with improved heat resistance
+JP2021105179A (en)	2021-07-26	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+KR102237195B1 (en)	2021-04-07	A rubber blend composition having improved freezing resistance and a method for preparing thereof
+KR102713660B1 (en)	2024-10-07	Perfluoro elastomer and fluororubber composite with improved heat resistance
+CN100366681C (en)	2008-02-06	Crosslinkable elastomer composition and molded article formed from the crosslinkable elastomer composition
+EP1798252B1 (en)	2009-10-21	Crosslinked fluorocopolymer moldings
+EP3228663A1 (en)	2017-10-11	Fluorine rubber composition and cross-linked fluorine rubber
+KR102323568B1 (en)	2021-11-05	Perfluoro elastomer composite with improved heat resistance, and method of fabricating the same
+CN118834484A (en)	2024-10-25	Perfluoroether rubber composition, perfluoroether rubber, and preparation method and application thereof
+KR100870494B1 (en)	2008-11-26	Fluorine rubber with improved chemical resistance
+KR102959972B1 (en)	2026-05-08	Oil seal including synthetic rubber with improved resistance for heat
+JP6881541B2 (en)	2021-06-02	Compositions and crosslinked products containing fluoropolymers
+US20240287377A1 (en)	2024-08-29	Polymer blends for use in wellbore applications
+KR101792329B1 (en)	2017-11-20	Rubber composition for sealing material composing silica, carbonblack, and method thereof
+KR100899134B1 (en)	2009-05-25	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+KR102923956B1 (en)	2026-02-09	Sealing member for hydrogen filling including O-ring with improved freezing resistance
+KR102796110B1 (en)	2025-04-17	Fluororubber-based Composition for Sealing
+JP2005140196A (en)	2005-06-02	Gasket for fuel cell
+KR20250140194A (en)	2025-09-25	Oil seal including synthetic rubber with improved resistance for heat
+KR102951730B1 (en)	2026-04-13	O-ring for receptacles with improved freezing resistance
+CN110511517A (en)	2019-11-29	A kind of antistatic Teflon special material for tube and preparation method thereof
+
+=== TABLE 12 (10 rows) ===
+Date	Code	Title	Description
+2022-12-21	PA0109	Patent application	Patent event code: PA01091R01D Comment text: Patent Application Patent event date: 20221221
+2022-12-21	PA0201	Request for examination	Patent event code: PA02011R01I Patent event date: 20221221 Comment text: Patent Application
+2024-06-28	PG1501	Laying open of application	
+2024-09-20	E701	Decision to grant or registration of patent right	
+2024-09-20	PE0701	Decision of registration	Patent event code: PE07011S01D Comment text: Decision to Grant Registration Patent event date: 20240920
+2024-09-30	GRNT	Written decision to grant	
+2024-09-30	PR0701	Registration of establishment	Comment text: Registration of Establishment Patent event date: 20240930 Patent event code: PR07011E01D
+2024-09-30	PR1002	Payment of registration fee	Payment date: 20240930 End annual number: 3 Start annual number: 1
+2024-10-07	PG1601	Publication of registration	

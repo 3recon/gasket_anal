@@ -1,0 +1,140 @@
+# WO2004038781A1 :: WO2004038781A1 - Plasma resistant seal 
+        - Google Patents
+
+=== TABLE 0 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+AU2003254871A AU2003254871A1 (en)	2002-10-25	2003-08-07	Plasma resistant seal
+US10/529,261 US7942425B2 (en)	2002-10-25	2003-08-07	Plasma resistant seal
+JP2004546392A JP4247625B2 (en)	2002-10-25	2003-08-07	Plasma-resistant seal
+
+=== TABLE 1 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2002-310663		2002-10-25	
+JP2002310663		2002-10-25	
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+WO2004038781A1 true WO2004038781A1 (en)	2004-05-06
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+PCT/JP2003/010088 Ceased WO2004038781A1 (en)	2002-10-25	2003-08-07	Plasma resistant seal
+
+=== TABLE 4 (5 rows) ===
+Country	Link
+US (1)	US7942425B2 (en)
+JP (1)	JP4247625B2 (en)
+AU (1)	AU2003254871A1 (en)
+WO (1)	WO2004038781A1 (en)
+
+=== TABLE 5 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2006194303A (en) *	2005-01-12	2006-07-27	Nok Corp	Plasma resisting seal
+JP2006228805A (en) *	2005-02-15	2006-08-31	Nippon Valqua Ind Ltd	Sealant for semiconductor manufacturing equipment
+JP2007092892A (en) *	2005-09-29	2007-04-12	Mitsubishi Cable Ind Ltd	Oxygen-resistant radical seal material
+JP2008164079A (en) *	2006-12-28	2008-07-17	Nichias Corp	Rubber / resin composite sealing material
+JP2012087939A (en) *	2012-01-25	2012-05-10	Nichias Corp	Rubber/resin composite seal material and method of manufacturing the same
+DE102016009569A1 (en)	2015-08-12	2017-02-16	Fanuc Corporation	Vacuum container of a laser oscillator
+WO2018146817A1 (en) *	2017-02-13	2018-08-16	堺ディスプレイプロダクト株式会社	Vacuum device
+
+=== TABLE 6 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US8608856B2 (en) *	2005-09-30	2013-12-17	Tokyo Electron Limited	Sealing part and substrate processing apparatus
+JP5308679B2 (en) *	2008-01-22	2013-10-09	東京エレクトロン株式会社	Seal mechanism, seal groove, seal member, and substrate processing apparatus
+JP5534154B2 (en) *	2008-12-03	2014-06-25	Ｎｏｋ株式会社	Sealing structure for water pipe fittings
+EP2425160A1 (en) *	2009-05-01	2012-03-07	Swagelok Company	Seal with seal support shoulder
+US9869392B2 (en)	2011-10-20	2018-01-16	Lam Research Corporation	Edge seal for lower electrode assembly
+US9859142B2 (en)	2011-10-20	2018-01-02	Lam Research Corporation	Edge seal for lower electrode assembly
+US8677586B2 (en)	2012-04-04	2014-03-25	Lam Research Corporation	Installation fixture for elastomer bands and methods of using the same
+US9502279B2 (en)	2013-06-28	2016-11-22	Lam Research Corporation	Installation fixture having a micro-grooved non-stick surface
+US9583377B2 (en)	2013-12-17	2017-02-28	Lam Research Corporation	Installation fixture for elastomer bands
+US10090211B2 (en)	2013-12-26	2018-10-02	Lam Research Corporation	Edge seal for lower electrode assembly
+US10340171B2 (en) *	2016-05-18	2019-07-02	Lam Research Corporation	Permanent secondary erosion containment for electrostatic chuck bonds
+US10910195B2 (en)	2017-01-05	2021-02-02	Lam Research Corporation	Substrate support with improved process uniformity
+JP7243978B2 (en) *	2019-01-23	2023-03-22	株式会社荒井製作所	sealing device
+
+=== TABLE 7 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0680071A2 (en) *	1994-04-29	1995-11-02	Applied Materials, Inc.	Protective collar for a vacuum seal in a plasma etch reactor
+JPH1187320A (en) *	1997-09-08	1999-03-30	Sumitomo Metal Ind Ltd	Plasma processing equipment
+US6092486A (en) *	1996-05-27	2000-07-25	Sumimoto Metal Indsutries, Ltd.	Plasma processing apparatus and plasma processing method
+
+=== TABLE 8 (15 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US2862736A (en) *	1956-09-28	1958-12-02	Parker Hannifin Corp	Sealing assembly of packing rings of different qualities
+US3375016A (en) *	1964-03-09	1968-03-26	Navy Usa	Two-stage seal arrangement
+GB1297161A (en) *	1969-01-10	1972-11-22		
+US4039741A (en) *	1976-02-18	1977-08-02	Rockwell International Corporation	Gasket apparatus
+US5538262A (en) *	1993-11-08	1996-07-23	Matsumura; Keizo	Ultra-high vacuum gasket and vacuum apparatus using the same
+JP3050124B2 (en)	1996-05-27	2000-06-12	住友金属工業株式会社	Plasma processing equipment
+JPH11129398A (en) *	1997-10-27	1999-05-18	Daikin Ind Ltd	Perfluoro rubber laminate and method for producing the same
+JP3632888B2 (en)	1998-07-16	2005-03-23	ニチアス株式会社	Plasma-resistant sealing material
+US6165313A (en) *	1999-04-14	2000-12-26	Advanced Micro Devices, Inc.	Downstream plasma reactor system with an improved plasma tube sealing configuration
+US6443502B1 (en) *	1999-04-22	2002-09-03	Denso Corporation	Leakage restriction device for refrigeration cycle
+US6328847B1 (en) *	2000-01-19	2001-12-11	Advanced Micro Devices, Inc.	Downstream plasma reactor system incorporating a plasma-resistant blocking member
+JP2002161264A (en)	2000-11-24	2002-06-04	Mitsubishi Cable Ind Ltd	Plasma-resistant seal
+AU2003272956A1 (en) *	2002-10-11	2004-05-04	Asahi Glass Co., Ltd.	Sealing material for semiconductor device and method for production thereof
+JP2008164079A (en) *	2006-12-28	2008-07-17	Nichias Corp	Rubber / resin composite sealing material
+
+=== TABLE 9 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0680071A2 (en) *	1994-04-29	1995-11-02	Applied Materials, Inc.	Protective collar for a vacuum seal in a plasma etch reactor
+US6092486A (en) *	1996-05-27	2000-07-25	Sumimoto Metal Indsutries, Ltd.	Plasma processing apparatus and plasma processing method
+JPH1187320A (en) *	1997-09-08	1999-03-30	Sumitomo Metal Ind Ltd	Plasma processing equipment
+
+=== TABLE 10 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2006194303A (en) *	2005-01-12	2006-07-27	Nok Corp	Plasma resisting seal
+JP2006228805A (en) *	2005-02-15	2006-08-31	Nippon Valqua Ind Ltd	Sealant for semiconductor manufacturing equipment
+JP2007092892A (en) *	2005-09-29	2007-04-12	Mitsubishi Cable Ind Ltd	Oxygen-resistant radical seal material
+JP2008164079A (en) *	2006-12-28	2008-07-17	Nichias Corp	Rubber / resin composite sealing material
+JP2012087939A (en) *	2012-01-25	2012-05-10	Nichias Corp	Rubber/resin composite seal material and method of manufacturing the same
+DE102016009569A1 (en)	2015-08-12	2017-02-16	Fanuc Corporation	Vacuum container of a laser oscillator
+US9948054B2 (en)	2015-08-12	2018-04-17	Fanuc Corporation	Vacuum container of laser oscillator
+DE102016009569B4 (en)	2015-08-12	2019-04-25	Fanuc Corporation	Vacuum container of a laser oscillator
+WO2018146817A1 (en) *	2017-02-13	2018-08-16	堺ディスプレイプロダクト株式会社	Vacuum device
+
+=== TABLE 11 (6 rows) ===
+Publication number	Publication date
+US7942425B2 (en)	2011-05-17
+US20050253341A1 (en)	2005-11-17
+AU2003254871A1 (en)	2004-05-13
+JP4247625B2 (en)	2009-04-02
+JPWO2004038781A1 (en)	2006-02-23
+
+=== TABLE 12 (26 rows) ===
+Publication	Publication Date	Title
+JP4247625B2 (en)	2009-04-02	Plasma-resistant seal
+US7866669B2 (en)	2011-01-11	Composite sealing material
+CN101375090B (en)	2011-01-12	Dovetail groove seal material and vacuum gate valve where dovetail groove seal material is installed
+US7896354B2 (en)	2011-03-01	Composite sealing material
+JP4985973B2 (en)	2012-07-25	Sealing structure
+US6708984B1 (en)	2004-03-23	Seal assemblies
+CN102378873A (en)	2012-03-14	Gate valve structure and substrate processor equiped with the same
+US10113651B2 (en)	2018-10-30	Slit valve assembly having a spacer for maintaining a gap
+KR100793553B1 (en)	2008-01-14	Sealed Parts and Substrate Processing Equipment
+JP4689221B2 (en)	2011-05-25	Composite sealing material
+CN110056651A (en)	2019-07-26	For preventing water from penetrating into the annular ring and waterproof construction of electronic product
+JP2011525603A (en)	2011-09-22	Rubber seals for semi-dynamic and dynamic applications
+JPWO2009107495A1 (en)	2011-06-30	Sealing material and gate valve equipped with sealing material
+JP2006194303A (en)	2006-07-27	Plasma resisting seal
+JP2002202030A (en)	2002-07-19	Combustion gas seal for injector
+JPH05315262A (en)	1993-11-26	Equipment of semiconductor processing
+CN103608614A (en)	2014-02-26	Gasket and sealing structure
+JPWO2017099206A1 (en)	2018-09-13	Metal gasket
+KR20000057983A (en)	2000-09-25	Valve seal
+JP2003329140A (en)	2003-11-19	Gasket
+JP2003343727A (en)	2003-12-03	Plasma resisting seal
+JP4625746B2 (en)	2011-02-02	Sealing material
+JP2004059038A (en)	2004-02-26	Airtight structure of door in space environment test equipment
+JP5126462B2 (en)	2013-01-23	Fuel cell seal structure
+JP4782997B2 (en)	2011-09-28	Sealing material
+
+=== TABLE 13 (7 rows) ===
+Date	Code	Title	Description
+2004-05-06	AK	Designated states	Kind code of ref document: A1 Designated state(s): AE AG AL AU BA BB BR BZ CA CN CO CR CU DM DZ EC GD GE HR ID IL IN IS JP KR LC LK LR LT LV MA MG MK MN MX NI NO NZ OM PG PH PL SC SG SY TN TT UA US UZ VC VN YU ZA
+2004-05-06	AL	Designated countries for regional patents	Kind code of ref document: A1 Designated state(s): GH GM KE LS MW MZ SD SL SZ TZ UG ZM ZW AM AZ BY KG KZ MD RU TJ TM AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HU IE IT LU MC NL PT RO SE SI SK TR BF BJ CF CG CI CM GA GN GQ GW ML MR NE SN TD TG
+2004-06-30	121	Ep: the epo has been informed by wipo that ep was designated in this application	
+2005-03-02	WWE	Wipo information: entry into national phase	Ref document number: 2004546392 Country of ref document: JP
+2005-03-25	WWE	Wipo information: entry into national phase	Ref document number: 10529261 Country of ref document: US
+2005-12-07	122	Ep: pct application non-entry in european phase	

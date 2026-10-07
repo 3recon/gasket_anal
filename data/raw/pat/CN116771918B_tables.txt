@@ -1,0 +1,106 @@
+# CN116771918B :: CN116771918B - Multilayer sealing product for semiconductor and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310678382.2A CN116771918B (en)	2023-06-08	2023-06-08	Multilayer sealing product for semiconductor and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310678382.2A CN116771918B (en)	2023-06-08	2023-06-08	Multilayer sealing product for semiconductor and preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN116771918A CN116771918A (en)	2023-09-19
+CN116771918B true CN116771918B (en)	2024-03-26
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202310678382.2A Active CN116771918B (en)	2023-06-08	2023-06-08	Multilayer sealing product for semiconductor and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN116771918B (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118459966B (en) *	2024-05-22	2025-02-28	上海芯密科技股份有限公司	A semiconductor sealing ring material and its preparation method and application
+
+=== TABLE 6 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0533161A1 (en) *	1991-09-20	1993-03-24	Nippon Reinz Co.,Ltd.	Gasket with sealing layer
+JP2009172806A (en) *	2008-01-22	2009-08-06	Fujikura Rubber Ltd	Laminated body, method of manufacturing the same, and seal member
+CN102197249A (en) *	2008-07-16	2011-09-21	詹姆斯沃克有限公司	Seal
+CN103742511A (en) *	2013-12-02	2014-04-23	林学荣	Novel gasket
+CN104696515A (en) *	2015-02-02	2015-06-10	柳州市同进汽车零部件制造有限公司	Sealing piece of electronic injection pump
+CN106046631A (en) *	2016-05-26	2016-10-26	航天材料及工艺研究所	Method for preparing multilayer fluoroether rubber with regularly arranged electrospinning fillers
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN107553801A (en) *	2017-09-18	2018-01-09	滁州市永通交通设备有限公司	A kind of preparation method of double-decker train outer hood elastomeric material
+CN113242945A (en) *	2018-12-31	2021-08-10	美国圣戈班性能塑料公司	Seal including coating and method of forming same
+CN114102977A (en) *	2021-11-29	2022-03-01	浙江加诚新材料股份有限公司	Preparation technology of flame retardant rubber sealing ring
+CN114811052A (en) *	2022-05-19	2022-07-29	合肥一密科技有限公司	Manufacturing method of high-temperature-resistant, high-pressure-resistant and self-adaptive non-metallic composite sealing ring
+CN217328438U (en) *	2021-09-27	2022-08-30	长江存储科技有限责任公司	Sealing structure and etching device
+CN115230266A (en) *	2021-04-23	2022-10-25	中国科学院大连化学物理研究所	Multilayer structure oil-resistant sealing product with wide temperature range and preparation method and application thereof
+
+=== TABLE 7 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP5084617B2 (en) *	2007-06-15	2012-11-28	国立大学法人東北大学	Low tightening metal gasket
+
+=== TABLE 8 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0533161A1 (en) *	1991-09-20	1993-03-24	Nippon Reinz Co.,Ltd.	Gasket with sealing layer
+JP2009172806A (en) *	2008-01-22	2009-08-06	Fujikura Rubber Ltd	Laminated body, method of manufacturing the same, and seal member
+CN102197249A (en) *	2008-07-16	2011-09-21	詹姆斯沃克有限公司	Seal
+CN103742511A (en) *	2013-12-02	2014-04-23	林学荣	Novel gasket
+CN104696515A (en) *	2015-02-02	2015-06-10	柳州市同进汽车零部件制造有限公司	Sealing piece of electronic injection pump
+CN106046631A (en) *	2016-05-26	2016-10-26	航天材料及工艺研究所	Method for preparing multilayer fluoroether rubber with regularly arranged electrospinning fillers
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN107553801A (en) *	2017-09-18	2018-01-09	滁州市永通交通设备有限公司	A kind of preparation method of double-decker train outer hood elastomeric material
+CN113242945A (en) *	2018-12-31	2021-08-10	美国圣戈班性能塑料公司	Seal including coating and method of forming same
+CN115230266A (en) *	2021-04-23	2022-10-25	中国科学院大连化学物理研究所	Multilayer structure oil-resistant sealing product with wide temperature range and preparation method and application thereof
+CN217328438U (en) *	2021-09-27	2022-08-30	长江存储科技有限责任公司	Sealing structure and etching device
+CN114102977A (en) *	2021-11-29	2022-03-01	浙江加诚新材料股份有限公司	Preparation technology of flame retardant rubber sealing ring
+CN114811052A (en) *	2022-05-19	2022-07-29	合肥一密科技有限公司	Manufacturing method of high-temperature-resistant, high-pressure-resistant and self-adaptive non-metallic composite sealing ring
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN116771918A (en)	2023-09-19
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+JP6402786B2 (en)	2018-10-10	Film and manufacturing method thereof
+CN104080585B (en)	2017-04-12	Release film and method of manufacturing semiconductor device using same
+CN102431260B (en)	2014-01-22	Manufacturing method of automobile sound insulation pad
+CN116771918A (en)	2023-09-19	Multilayer sealing product for semiconductor and preparation method thereof
+CN1533329A (en)	2004-09-29	Multilayer polymer article having a crosslinked polymer layer and method of making the same
+CN103862682B (en)	2016-06-29	Mould pressing equipment and method for composite material
+CN106739011A (en)	2017-05-31	A hot molding mold capable of preparing hat-shaped front side beams with different thicknesses and its manufacturing method
+TW202348390A (en)	2023-12-16	Annular sealing material and manufacturing method
+CN103367761A (en)	2013-10-23	Composite conductive electrode and manufacturing method thereof
+EP2021165A1 (en)	2009-02-11	Thermocompression molding of plastic optical elements
+JP2002280403A (en)	2002-09-27	Semiconductor chip resin sealing method and semiconductor chip resin sealing release film
+CN110843236A (en)	2020-02-28	Preparation method of carbon fiber composite hollow blade
+CN103715329A (en)	2014-04-09	High-power LED chip making method
+CN101372150A (en)	2009-02-25	Forming device of composite material panel
+CN110884168B (en)	2022-03-18	A non-autoclave liquid forming device
+CN119552494A (en)	2025-03-04	A method for preparing high temperature resistant perfluoroether rubber
+CN103831980B (en)	2016-05-11	A kind of preparation method and mould with breach curved surface fibre pipe
+CN101085849B (en)	2010-09-08	Preparation method of a new multi-component hybrid high-performance vibration-damping composite material
+KR20090072080A (en)	2009-07-02	Large Diameter O-ring Manufacturing Machine for LCD Equipment Seals
+JP2004160901A (en)	2004-06-10	Fluoro rubber molded article and method for producing the same
+CN114292480A (en)	2022-04-08	ETFE film with excellent fracture resistance and stretchability
+CN122014872A (en)	2026-05-12	Valve plate sealing assembly resistant to plasmas and preparation method and application thereof
+JP6339396B2 (en)	2018-06-06	Manufacturing method of integrated seal member for fuel cell
+CN112389061A (en)	2021-02-23	Thermoplastic polymer film with interpenetrating polymer network
+TWI847057B (en)	2024-07-01	A molding method of thermoplastic composite material
+
+=== TABLE 11 (9 rows) ===
+Date	Code	Title	Description
+2023-09-19	PB01	Publication	
+2023-09-19	PB01	Publication	
+2023-10-10	SE01	Entry into force of request for substantive examination	
+2023-10-10	SE01	Entry into force of request for substantive examination	
+2024-03-26	GR01	Patent grant	
+2024-03-26	GR01	Patent grant	
+2025-01-10	CP03	Change of name, title or address	
+2025-01-10	CP03	Change of name, title or address	Address after: South Zone, 1st Floor, Building 13, Lane 2699 Jiangshan Road, Lingang New Area, China (Shanghai) Pilot Free Trade Zone, Pudong New Area, Shanghai, 200131 Patentee after: Shanghai Xinmi Technology Co.,Ltd. Country or region after: China Address before: 200120 South Area, Floor 1, Workshop 13, Lane 2699, Jiangshan Road, Lingang New Area, China (Shanghai) Free Trade Pilot Zone, Pudong New Area, Shanghai Patentee before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China

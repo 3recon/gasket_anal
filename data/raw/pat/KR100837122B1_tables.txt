@@ -1,0 +1,111 @@
+# KR100837122B1 :: KR100837122B1 - 
+        Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020070025625A KR100837122B1 (en)	2007-03-15	2007-03-15	Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020070025625A KR100837122B1 (en)	2007-03-15	2007-03-15	Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR100837122B1 true KR100837122B1 (en)	2008-06-11
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020070025625A Active KR100837122B1 (en)	2007-03-15	2007-03-15	Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR100837122B1 (en)
+
+=== TABLE 5 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR102400335B1 (en)	2021-11-04	2022-05-23	주식회사 엠앤이	A sealing material for a semiconductor manufacturing apparatus with improved plasma resistance in an oxygen atmosphere and a fluorine atmosphere plasma process
+KR20220119855A (en) *	2021-02-22	2022-08-30	주식회사 한화	Warhead with o-ring cutting sutructure for insensitiveness and munitation including the same
+KR20240137889A (en) *	2023-03-09	2024-09-20	에스케이실트론 주식회사	Wafer lift pin
+
+=== TABLE 6 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5696189A (en)	1995-12-01	1997-12-09	E. I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+JP2005206627A (en)	2004-01-20	2005-08-04	Nichias Corp	Non-sticking perfluoroelastomer molded body and method for producing the same
+US20060051570A1 (en)	2004-09-03	2006-03-09	Kaori Iwamoto	Perfluoroelastomer articles having good surface properties
+
+=== TABLE 7 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5696189A (en)	1995-12-01	1997-12-09	E. I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+JP2005206627A (en)	2004-01-20	2005-08-04	Nichias Corp	Non-sticking perfluoroelastomer molded body and method for producing the same
+US20060051570A1 (en)	2004-09-03	2006-03-09	Kaori Iwamoto	Perfluoroelastomer articles having good surface properties
+
+=== TABLE 8 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20220119855A (en) *	2021-02-22	2022-08-30	주식회사 한화	Warhead with o-ring cutting sutructure for insensitiveness and munitation including the same
+KR102500952B1 (en) *	2021-02-22	2023-02-16	주식회사 한화방산	Warhead with o-ring cutting sutructure for insensitiveness and munitation including the same
+KR102400335B1 (en)	2021-11-04	2022-05-23	주식회사 엠앤이	A sealing material for a semiconductor manufacturing apparatus with improved plasma resistance in an oxygen atmosphere and a fluorine atmosphere plasma process
+KR20240137889A (en) *	2023-03-09	2024-09-20	에스케이실트론 주식회사	Wafer lift pin
+KR102833899B1 (en) *	2023-03-09	2025-07-15	에스케이실트론 주식회사	Wafer lift pin
+
+=== TABLE 9 (23 rows) ===
+Publication	Publication Date	Title
+US9908980B2 (en)	2018-03-06	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+JP6230415B2 (en)	2017-11-15	Perfluoroelastomer composition, sealing material and method for producing the same
+JP2005314678A (en)	2005-11-10	Elastomer composition comprising fluoropolymer blend
+KR101148547B1 (en)	2012-05-23	Fluororubber composition, crosslinked fluororubber, process for production of the same, and crosslinked fluororubber for o-rings
+KR102342909B1 (en)	2021-12-23	Perfluoroelastomer composition and sealing material
+WO2012168351A1 (en)	2012-12-13	Hyperbranched fluoroelastomer additive
+KR101346824B1 (en)	2014-01-06	Dynamic cross-linking thermoplastic elastomer with improved debris and method producing thereof and shoe outsole using thesame
+KR102414805B1 (en)	2022-06-29	Perfluoroelastomer composition and sealing material
+WO2015014698A1 (en)	2015-02-05	Fluorine-containing thermoplastic elastomer composition
+KR100870494B1 (en)	2008-11-26	Fluorine rubber with improved chemical resistance
+CN118974453A (en)	2024-11-15	Annular seal and method of manufacturing
+KR102323568B1 (en)	2021-11-05	Perfluoro elastomer composite with improved heat resistance, and method of fabricating the same
+EP1167441B1 (en)	2015-07-29	Fluoroelastomer composition comprising a mineral oil
+KR100899134B1 (en)	2009-05-25	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+KR100907491B1 (en)	2009-07-10	Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+KR101756083B1 (en)	2017-07-11	Dynamic cross-linking thermoplastic elastomer having a good transparency and method producing thereof and shoe outsole using thesame
+KR100894110B1 (en)	2009-04-20	Perfluoro rubbers for semiconductor sealing with improved elongation
+US20250198517A1 (en)	2025-06-19	Annular seal material and manufacturing method
+JP2011513554A (en)	2011-04-28	Peroxide curable fluoroelastomer compositions and articles made therefrom
+EP3649193B1 (en)	2022-04-20	Composition containing fluorinated thermoplastic elastomers and vulcanizates
+CN121801203A (en)	2026-04-07	Preparation method of anti-aging and anti-deformation plastic storage box
+CN120865660A (en)	2025-10-31	Fluorine-containing elastomer toughened crystalline fluorine-containing polymer and application of sealing element thereof
+
+=== TABLE 10 (34 rows) ===
+Date	Code	Title	Description
+2007-03-15	A201	Request for examination	
+2007-03-15	PA0109	Patent application	Patent event code: PA01091R01D Comment text: Patent Application Patent event date: 20070315
+2007-03-15	PA0201	Request for examination	
+2007-12-14	E902	Notification of reason for refusal	
+2007-12-14	PE0902	Notice of grounds for rejection	Comment text: Notification of reason for refusal Patent event date: 20071214 Patent event code: PE09021S01D
+2008-05-30	E701	Decision to grant or registration of patent right	
+2008-05-30	PE0701	Decision of registration	Patent event code: PE07011S01D Comment text: Decision to Grant Registration Patent event date: 20080530
+2008-06-04	GRNT	Written decision to grant	
+2008-06-04	PR0701	Registration of establishment	Comment text: Registration of Establishment Patent event date: 20080604 Patent event code: PR07011E01D
+2008-06-04	PR1002	Payment of registration fee	Payment date: 20080604 End annual number: 3 Start annual number: 1
+2008-06-11	PG1601	Publication of registration	
+2011-06-03	PR1001	Payment of annual fee	Payment date: 20110603 Start annual number: 4 End annual number: 4
+2012-05-14	PR1001	Payment of annual fee	Payment date: 20120514 Start annual number: 5 End annual number: 5
+2013-06-03	FPAY	Annual fee payment	Payment date: 20130603 Year of fee payment: 6
+2013-06-03	PR1001	Payment of annual fee	Payment date: 20130603 Start annual number: 6 End annual number: 6
+2014-07-01	FPAY	Annual fee payment	Payment date: 20140701 Year of fee payment: 7
+2014-07-01	PR1001	Payment of annual fee	Payment date: 20140701 Start annual number: 7 End annual number: 7
+2015-06-02	FPAY	Annual fee payment	Payment date: 20150602 Year of fee payment: 8
+2015-06-02	PR1001	Payment of annual fee	Payment date: 20150602 Start annual number: 8 End annual number: 8
+2016-06-03	FPAY	Annual fee payment	Payment date: 20160603 Year of fee payment: 9
+2016-06-03	PR1001	Payment of annual fee	Payment date: 20160603 Start annual number: 9 End annual number: 9
+2017-06-01	FPAY	Annual fee payment	Payment date: 20170601 Year of fee payment: 10
+2017-06-01	PR1001	Payment of annual fee	Payment date: 20170601 Start annual number: 10 End annual number: 10
+2018-06-04	FPAY	Annual fee payment	Payment date: 20180604 Year of fee payment: 11
+2018-06-04	PR1001	Payment of annual fee	Payment date: 20180604 Start annual number: 11 End annual number: 11
+2019-06-03	FPAY	Annual fee payment	Payment date: 20190603 Year of fee payment: 12
+2019-06-03	PR1001	Payment of annual fee	Payment date: 20190603 Start annual number: 12 End annual number: 12
+2020-06-02	PR1001	Payment of annual fee	Payment date: 20200602 Start annual number: 13 End annual number: 13
+2021-06-01	PR1001	Payment of annual fee	Payment date: 20210601 Start annual number: 14 End annual number: 14
+2022-06-02	PR1001	Payment of annual fee	Payment date: 20220602 Start annual number: 15 End annual number: 15
+2023-06-01	PR1001	Payment of annual fee	Payment date: 20230601 Start annual number: 16 End annual number: 16
+2024-06-03	PR1001	Payment of annual fee	Payment date: 20240603 Start annual number: 17 End annual number: 17
+2025-05-22	PR1001	Payment of annual fee	Payment date: 20250522 Start annual number: 18 End annual number: 18

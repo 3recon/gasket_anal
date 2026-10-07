@@ -1,0 +1,91 @@
+# CN119613897B :: CN119613897B - 
+        A low-temperature resistant perfluoroether rubber and its preparation method
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202411868397.6A CN119613897B (en)	2024-12-18	2024-12-18	A low-temperature resistant perfluoroether rubber and its preparation method
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202411868397.6A CN119613897B (en)	2024-12-18	2024-12-18	A low-temperature resistant perfluoroether rubber and its preparation method
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN119613897A CN119613897A (en)	2025-03-14
+CN119613897B true CN119613897B (en)	2025-08-12
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202411868397.6A Active CN119613897B (en)	2024-12-18	2024-12-18	A low-temperature resistant perfluoroether rubber and its preparation method
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN119613897B (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120865661B (en) *	2025-09-26	2026-01-30	上海熹贾精密技术有限公司	Sealing material of perfluoro ether rubber and preparation method thereof
+CN121082047B (en) *	2025-11-11	2026-02-27	南大光电(乌兰察布)有限公司	A method for purifying nitrogen trifluoride gas by adsorption
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN110903428A (en) *	2018-09-17	2020-03-24	中昊晨光化工研究院有限公司	A kind of low temperature resistant fluoroether rubber and its preparation method and application
+CN111925615A (en) *	2020-07-10	2020-11-13	上海如实密封科技有限公司	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+
+=== TABLE 7 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN111040159A (en) *	2019-12-15	2020-04-21	湖南工业大学	High-barrier polyimide containing high-planarity structure and preparation method and application thereof
+CN114106495A (en) *	2020-08-28	2022-03-01	中昊晨光化工研究院有限公司	Modified perfluoroether fluororubber and preparation method and application thereof
+CN112457612B (en) *	2020-11-16	2023-03-10	上海如实密封科技有限公司	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+US20240026095A1 (en) *	2020-12-09	2024-01-25	Beyond Lotus Llc	Method of preparing a compound having elastomer and filler
+CN116063640B (en) *	2021-11-04	2024-09-27	中昊晨光化工研究院有限公司	A high temperature resistant perfluoroether fluororubber and preparation method thereof
+CN116217765B (en) *	2021-12-03	2024-04-02	中昊晨光化工研究院有限公司	A kind of polytetrafluoroethylene dispersion resin for dry electrode binder and its preparation method
+CN115368495B (en) *	2022-10-25	2023-01-03	山东华夏神舟新材料有限公司	Perfluoroether elastomer and preparation method and application thereof
+
+=== TABLE 8 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN110903428A (en) *	2018-09-17	2020-03-24	中昊晨光化工研究院有限公司	A kind of low temperature resistant fluoroether rubber and its preparation method and application
+CN111925615A (en) *	2020-07-10	2020-11-13	上海如实密封科技有限公司	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN119613897A (en)	2025-03-14
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN119613897A (en)	2025-03-14	A kind of low temperature resistant perfluoroether rubber and preparation method thereof
+RU2409592C2 (en)	2011-01-20	Fluorine-containing polymer with low residual content of fluorinated emulsifying agent and method of producing said polymer
+JP5578208B2 (en)	2014-08-27	Method for producing fluorine-containing elastomer
+CN100453564C (en)	2009-01-21	Molding material for ozone-resistant article and ozone-resistant injection-molded article
+JP4602555B2 (en)	2010-12-22	Fluorine-containing elastomer and composition for crosslinking
+JP5983633B2 (en)	2016-09-06	Method for producing polytetrafluoroethylene fine powder
+JPH08508062A (en)	1996-08-27	Fluorine-containing polymer, production method thereof and use thereof
+EP2985307B1 (en)	2019-10-02	Method for producing crosslinked fluoroelastomer
+CN1771622A (en)	2006-05-10	Electrolyte polymer for polymer electrolyte fuel cells, process for its production and membrane-electrode assembly
+KR20180071291A (en)	2018-06-27	Compositions comprising amorphous fluoropolymers and fluoroplastics particles and processes for their preparation
+TWI832985B (en)	2024-02-21	Fluorine-containing copolymer composition, cross-linked rubber and manufacturing method thereof
+KR20150082430A (en)	2015-07-15	Peroxide-curable fluoropolymer composition including solvent and method of using the same
+JP4341125B2 (en)	2009-10-07	Chemical liquid permeation inhibitor, chemical liquid permeation inhibiting fluorine-containing resin composition comprising the inhibitor
+EP4635995A1 (en)	2025-10-22	High-temperature-resistant perfluoroether fluororubber and preparation method therefor
+RU2348649C1 (en)	2009-03-10	Method of obtaining perfluorated copolymer containing functional groups
+JP4748125B2 (en)	2011-08-17	Fluorine rubber crosslinking composition
+CN119529156B (en)	2025-05-27	A method for in-situ synthesis of perfluoroether rubber material by emulsion polymerization
+WO2004033580A1 (en)	2004-04-22	Sealing material for semiconductor device and method for production thereof
+US20060047075A1 (en)	2006-03-02	Fluoro-rubber composite, rubber material using the same, and a method of manufacturing a fluoro-rubber molded product
+JP2007137994A (en)	2007-06-07	Fluorine-containing alloyed copolymer
+TWI869547B (en)	2025-01-11	Fluorinated copolymer composition, crosslinked product thereof, and compound
+JP7581493B2 (en)	2024-11-12	Perfluoroether fluororubber and its manufacturing method and application
+EP2115058A1 (en)	2009-11-11	Fluoroelastomer composition
+KR102950478B1 (en)	2026-04-09	Sealing member and battery
+CN101910221B (en)	2012-07-04	Fluorine-containing elastomer
+
+=== TABLE 11 (7 rows) ===
+Date	Code	Title	Description
+2025-03-14	PB01	Publication	
+2025-03-14	PB01	Publication	
+2025-04-01	SE01	Entry into force of request for substantive examination	
+2025-04-01	SE01	Entry into force of request for substantive examination	
+2025-08-12	GR01	Patent grant	
+2025-08-12	GR01	Patent grant	

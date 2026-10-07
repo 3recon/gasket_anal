@@ -1,0 +1,259 @@
+# US6787610B2 :: US6787610B2 - Plasma-resistant fluorine-based elastomer sealing material 
+        - Google Patents
+
+=== TABLE 0 (4 rows) ===
+	
+	Dielectric constant	Dielectric dissipation
+	
+
+
+=== TABLE 1 (5 rows) ===
+Fluorocarbon rubber	4.5 to 5.0	0.050 to 0.100
+Perfluoro elastomer	2.4 to 2.6	0.010 to 0.015
+Silicone rubber	3.0 to 3.5	0.005 to 0.015
+EPDM	2.2 to 2.5	0.003 to 0.005
+
+
+=== TABLE 2 (12 rows) ===
+
+Fluorine-based	SIFEL5701, made by Shin-Etsu Chemical Co., Ltd.
+elastomer:	SIFEL5701N, made by Shin-Etsu Chemical Co., Ltd.
+	SIFEL5800, made by Shin-Etsu Chemical Co., Ltd.
+	SIFEL3701A & 3701B (two-pack type), made by
+	Shin-Etsu Chemical Co., Ltd.
+	SIFEL3510A & 3510B (two-pack type),
+	made by Shin-Etsu Chemical Co., Ltd.
+Crosslinking	CP-2, made by Shin-Etsu Chemical Co., Ltd.
+polymer:
+Catalyst:	PLF-2, made by Shin-Etsu Chemical Co., Ltd.
+
+
+=== TABLE 3 (19 rows) ===
+
+Fluorine-based	DAI-EL Perfluoro GA-55, made by Daikin Industries,
+elastomer:	Ltd.
+	Viton GLT, made by DuPont Dow Elastomer
+	DAI-EL G912, mady by Daikin Industries, Ltd.
+	Aflas 100H, made by Asahi Glass Co., Ltd.
+	DAI-EL Thermoplastic T5, made by Daikin Industries,
+	Ltd.
+Silicone-based	KE961-U, made by Shin-Etsu Chemical Co., Ltd.
+elastomer:	KE971-U, made by Shin-Etsu Chemical Co., Ltd.
+	FE273-U, made by Shin-Etsu Chemical Co., Ltd.
+	FE261-U, made by Shin-Etsu Chemical Co., Ltd.
+	FE221-U, made by Shin-Etsu Chemical Co., Ltd.
+Crosslinking	Perhexa 25B, made by NOF Corporation
+agent:	C-8A (peroxide-based crosslinking agent), made by
+	Shin-Etsu Chemical Co., Ltd.
+Co-crosslinking	TAIC, made by Nippon Kasei Chemical
+agent:	Col., Ltd.
+
+
+=== TABLE 4 (10 rows) ===
+
+Oxygen gas flow rate:	20 SCCM
+Radio frequency:	13.56 MHz
+Output of radio frequency:	150 W
+Irradiation time:	2 hours
+Specimen:	O-ring (size: P26)
+Evaluation method:	Weight loss (mg/cm2) per unit surface
+	area was measured. The results obtained are
+	shown in Tables 1 and 2.
+
+
+=== TABLE 5 (5 rows) ===
+	TABLE 1
+	
+	Example 1	Example 2	Example 3	Example 4	Example 5
+	
+
+
+=== TABLE 6 (9 rows) ===
+Formula-	SIFEL5701	100				
+tion	SIFEL5701N		100
+(phr)	SIFEL5800			100
+	SIFEL3701A				50
+	SIFEL3701B					50
+	SIFEL3510A				50
+	SIFEL3510B					50
+	Crosslinking polymer, CP-2	1.8	1.8	1.8
+	Catalyst, PLF-2	1.0		0.3
+
+=== TABLE 7 (8 rows) ===
+Primary curing conditions	150 × 10	150 × 10	150 × 10	150 × 10	150 × 10
+(° C. × min.)
+Secondary curing conditions	200 × 4	200 × 4	200 × 4	200 × 4	200 × 4
+(° C. × hr.)
+Resistance to oxygen plasma,	1.6	1.7	1.8	1.2	1.2
+Weight loss (mg/cm2)
+Adhesion to quartz	No	No	No	No	No
+
+
+=== TABLE 8 (6 rows) ===
+	TABLE 2
+	
+	Com.	Com.	Com.	Com.	Com.	Com.	Com.	Com.	Com.	Com.
+	Ex. 1	Ex.2	Ex.3	Ex.4	Ex.5	Ex.6	Ex.7	Ex.8	Ex.9	Ex.10
+	
+
+
+=== TABLE 9 (18 rows) ===
+Formula-	DAI-EL	100									
+tion	Perfluoro GA-55
+(phr)	Viton GLT		100
+	DAI-EL G912			100
+	Aflas 100H				100
+	DAI-EL					100
+	Thermoplastic T530
+	KE961-U						100
+	KE971-U							100
+	FE273-U								100
+	FE261-U									100
+	FE221-U										100
+	Crosslinking agent,		2	2	2
+	Perhexa 25B
+	Crosslinking agent,						0.8	0.8	0.8	0.8	0/8
+	C-8A
+	Co-crosslinking		2	2	2
+	agent, TAIC
+
+=== TABLE 10 (8 rows) ===
+Primary curing conditions	150 × 10	160 × 8	160 × 5	160 × 12	Irradiation	165 × 10	165 × 10	165 × 10	165 × 10	165 × 10
+(° C. × min.)					with γ-rays
+Secondary curing conditions	180 × 4	200 × 4	200 × 4	200 × 4	80 kGy	200 × 4	200 × 4	200 × 4	200 × 4	200 × 4
+(° C. × hr.)
+Resistance to oxygen plasma,	4.3	16.5	20.1	7.8	17.8	0.8	0.7	1.2	1.1	1.2
+Weight loss (mg/cm2)
+Adhesion to quartz	No	No	No	No	No	Yes	Yes	Yes	Yes	Yes
+
+
+=== TABLE 11 (5 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2001315321		2001-10-12	
+JPP.2001-315321		2001-10-12	
+JP2002095254A JP2003183402A (en)	2001-10-12	2002-03-29	Plasma resistant fluoroelastomer sealing material
+JPP.2002-095254		2002-03-29	
+
+=== TABLE 12 (3 rows) ===
+Publication Number	Publication Date
+US20030114599A1 US20030114599A1 (en)	2003-06-19
+US6787610B2 true US6787610B2 (en)	2004-09-07
+
+=== TABLE 13 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US10/267,859 Expired - Fee Related US6787610B2 (en)	2001-10-12	2002-10-10	Plasma-resistant fluorine-based elastomer sealing material
+
+=== TABLE 14 (4 rows) ===
+Country	Link
+US (1)	US6787610B2 (en)
+EP (1)	EP1302500A3 (en)
+JP (1)	JP2003183402A (en)
+
+=== TABLE 15 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20060100343A1 (en) *	2004-11-10	2006-05-11	Shin-Etsu Chemical Co., Ltd.	Fluororubber/silicone rubber blend and molded rubber articles
+US20070155949A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Thermally stable composite material
+US20070154716A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Composite material
+US20070154717A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Thermally stable composite material
+US20070152195A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Electrostatic dissipative composite material
+US20080042107A1 (en) *	2006-08-18	2008-02-21	Saint-Gobain Performance Plastics Corporation	Highly filled thermoplastic composites
+US20080153986A1 (en) *	2004-12-20	2008-06-26	Nippon Valqua Industries, Ltd.	Rubber Composition and Sealing Material for Plasma Treatment Device
+
+=== TABLE 16 (12 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP5189728B2 (en) *	2005-06-08	2013-04-24	日本バルカー工業株式会社	Fluoro rubber sealant
+JP4768381B2 (en) *	2005-09-29	2011-09-07	三菱電線工業株式会社	Oxygen-resistant radical seal material
+JP5292815B2 (en)	2008-01-08	2013-09-18	ユニマテック株式会社	Fluorine-containing elastomer composition
+KR20220155303A (en)	2020-03-17	2022-11-22	주식회사 발카	paste
+WO2021230231A1 (en)	2020-05-14	2021-11-18	ニチアス株式会社	Rubber composition, fluoroelastomer, and sealing material
+JP7766038B2 (en)	2020-09-28	2025-11-07	株式会社バルカー	Elastomer composition, sealing material and method for producing sealing material
+KR20230079086A (en)	2020-09-28	2023-06-05	주식회사 발카	Elastomer composition, sealant and manufacturing method of sealant
+EP4219644B1 (en) *	2020-09-28	2025-10-22	VALQUA, Ltd.	Sealing material and method for producing sealing material
+US20230365802A1 (en)	2020-09-28	2023-11-16	Valqua, Ltd	Elastomer Composition, Sealing Material, and Method for Producing Sealing Material
+US20230365800A1 (en)	2020-09-28	2023-11-16	Valqua, Ltd.	Elastomer Composition, Sealing Material, and Method for Producing Sealing Material
+WO2024202607A1 (en)	2023-03-30	2024-10-03	株式会社バルカー	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+
+=== TABLE 17 (13 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0380104A2 (en)	1989-01-26	1990-08-01	Dow Corning Toray Silicone Company Ltd.	Fluororubber compositions exhibiting improved workability and mechanical properties
+US5132366A (en)	1989-01-27	1992-07-21	Shin-Etsu Chemical Co., Ltd.	Curable silicone composition
+EP0725113A1 (en)	1995-01-23	1996-08-07	Shin-Etsu Chemical Co., Ltd.	Fluorinated amide silicone compounds and curable siloxane compositions
+JP2000034466A (en)	1998-07-16	2000-02-02	Nichias Corp	Plasma resistant sealing material
+EP1033387A2 (en)	1999-03-02	2000-09-06	Shin-Etsu Chemical Co., Ltd.	Curable fluoropolyether base rubber compositions
+EP1081185A1 (en)	1999-09-03	2001-03-07	Shin-Etsu Chemical Co., Ltd.	Curable fluorinated elastomer compositions
+EP1114846A2 (en)	2000-01-07	2001-07-11	Shin-Etsu Chemical Co., Ltd.	Curable fluoropolyther base rubber compositions
+EP1125973A2 (en)	2000-02-08	2001-08-22	Shin-Etsu Chemical Co., Ltd.	Cured rubber and method of treating cured rubber
+JP2001348452A (en)	2000-06-05	2001-12-18	Nitto Denko Corp	Polyolefin resin foam and method for producing the same
+EP1217025A1 (en)	2000-11-30	2002-06-26	Shin-Etsu Chemical Co., Ltd.	Curable fluoropolyether base rubber compositions
+EP1223194A1 (en)	2001-01-16	2002-07-17	Shin-Etsu Chemical Co., Ltd.	Curable fluorinated elastomer compositions, their preparation and use
+EP1247830A2 (en)	2001-02-20	2002-10-09	Shin-Etsu Chemical Co., Ltd.	Fluorinated curable compositions, their preparations and use
+
+=== TABLE 18 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2001348462A (en) *	2000-06-09	2001-12-18	Nichias Corp	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+
+=== TABLE 19 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0380104A2 (en)	1989-01-26	1990-08-01	Dow Corning Toray Silicone Company Ltd.	Fluororubber compositions exhibiting improved workability and mechanical properties
+US5132366A (en)	1989-01-27	1992-07-21	Shin-Etsu Chemical Co., Ltd.	Curable silicone composition
+EP0725113A1 (en)	1995-01-23	1996-08-07	Shin-Etsu Chemical Co., Ltd.	Fluorinated amide silicone compounds and curable siloxane compositions
+JP2000034466A (en)	1998-07-16	2000-02-02	Nichias Corp	Plasma resistant sealing material
+EP1033387A2 (en)	1999-03-02	2000-09-06	Shin-Etsu Chemical Co., Ltd.	Curable fluoropolyether base rubber compositions
+EP1081185A1 (en)	1999-09-03	2001-03-07	Shin-Etsu Chemical Co., Ltd.	Curable fluorinated elastomer compositions
+EP1114846A2 (en)	2000-01-07	2001-07-11	Shin-Etsu Chemical Co., Ltd.	Curable fluoropolyther base rubber compositions
+US6441079B2 (en) *	2000-01-07	2002-08-27	Shin-Etsu Chemical Co., Ltd.	Curable fluoropolyether base rubber compositions
+EP1125973A2 (en)	2000-02-08	2001-08-22	Shin-Etsu Chemical Co., Ltd.	Cured rubber and method of treating cured rubber
+JP2001348452A (en)	2000-06-05	2001-12-18	Nitto Denko Corp	Polyolefin resin foam and method for producing the same
+EP1217025A1 (en)	2000-11-30	2002-06-26	Shin-Etsu Chemical Co., Ltd.	Curable fluoropolyether base rubber compositions
+EP1223194A1 (en)	2001-01-16	2002-07-17	Shin-Etsu Chemical Co., Ltd.	Curable fluorinated elastomer compositions, their preparation and use
+EP1247830A2 (en)	2001-02-20	2002-10-09	Shin-Etsu Chemical Co., Ltd.	Fluorinated curable compositions, their preparations and use
+
+=== TABLE 20 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20060100343A1 (en) *	2004-11-10	2006-05-11	Shin-Etsu Chemical Co., Ltd.	Fluororubber/silicone rubber blend and molded rubber articles
+US20080153986A1 (en) *	2004-12-20	2008-06-26	Nippon Valqua Industries, Ltd.	Rubber Composition and Sealing Material for Plasma Treatment Device
+US20070155949A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Thermally stable composite material
+US20070154716A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Composite material
+US20070154717A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Thermally stable composite material
+US20070152195A1 (en) *	2005-12-30	2007-07-05	Saint-Gobain Performance Plastics Corporation	Electrostatic dissipative composite material
+US20080042107A1 (en) *	2006-08-18	2008-02-21	Saint-Gobain Performance Plastics Corporation	Highly filled thermoplastic composites
+US7476339B2 (en)	2006-08-18	2009-01-13	Saint-Gobain Ceramics & Plastics, Inc.	Highly filled thermoplastic composites
+
+=== TABLE 21 (5 rows) ===
+Publication number	Publication date
+US20030114599A1 (en)	2003-06-19
+EP1302500A2 (en)	2003-04-16
+JP2003183402A (en)	2003-07-03
+EP1302500A3 (en)	2003-12-03
+
+=== TABLE 22 (18 rows) ===
+Publication	Publication Date	Title
+US20030114599A1 (en)	2003-06-19	Plasma-resistant fluorine-based elastomer sealing material
+EP1834990B1 (en)	2012-03-07	Rubber composition and sealing material for plasma treatment device
+US8013064B2 (en)	2011-09-06	Perfluoroelastomer composition and sealing material
+US6803402B2 (en)	2004-10-12	Elastomer molded article and crosslinkable fluorine-containing elastomer composition for semi-conductor production apparatuses
+EP1182230B1 (en)	2008-07-09	Use of a synthetic filler containing crosslinkable elastomer composition for sealing plasma generating equipment
+CN1427874A (en)	2003-07-02	Polymer composition with cleaning filler
+JP5189728B2 (en)	2013-04-24	Fluoro rubber sealant
+TWI896761B (en)	2025-09-11	Elastomeric composition, sealing material, and method for producing sealing material
+KR20230079086A (en)	2023-06-05	Elastomer composition, sealant and manufacturing method of sealant
+US20030232919A1 (en)	2003-12-18	Fluororubber compositions and making method
+JP2003201401A (en)	2003-07-18	Article containing fluororubber composition and cured product thereof
+TW202225310A (en)	2022-07-01	Elastomeric composition, sealing material and method for producing sealing material
+KR20230078694A (en)	2023-06-02	Sealing material and manufacturing method of sealing material
+KR20230078693A (en)	2023-06-02	Elastomer composition, sealant and manufacturing method of sealant
+US7332538B2 (en)	2008-02-19	Heat-curable fluoropolyether rubber compositions and rubber articles
+KR20250164178A (en)	2025-11-24	Elastomer composition, method for producing an elastomer composition, sealant and method for producing a sealant
+KR20250168433A (en)	2025-12-02	Sealant composition and sealant
+
+=== TABLE 23 (10 rows) ===
+Date	Code	Title	Description
+2002-10-10	AS	Assignment	Owner name: NICHIAS CORPORATION, JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MORIMOTO, KAZUKI;NAKANO, MITSUYUKI;NISHIMOTO, KAZUO;REEL/FRAME:013379/0764 Effective date: 20021004
+2003-11-02	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2008-02-08	FPAY	Fee payment	Year of fee payment: 4
+2012-02-08	FPAY	Fee payment	Year of fee payment: 8
+2016-04-15	REMI	Maintenance fee reminder mailed	
+2016-09-07	LAPS	Lapse for failure to pay maintenance fees	
+2016-09-30	STCH	Information on status: patent discontinuation	Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+2016-10-03	STCH	Information on status: patent discontinuation	Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+2016-10-25	FP	Lapsed due to failure to pay maintenance fee	Effective date: 20160907

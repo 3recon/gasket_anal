@@ -1,0 +1,250 @@
+# US20200332081A1 :: US20200332081A1 - Crosslinkable elastomer composition and fluororubber molded article 
+        - Google Patents
+
+=== TABLE 0 (40 rows) ===
+TABLE 1
+
+						Comparative	Comparative	Comparative
+	Example 1	Example 2	Example 3	Example 4	Example 5	Example 1	Example 2	Example 3
+
+Crosslinkable
+elastomer (part by mass)
+TFE/PMVE/CNVE	100	100	100	100	100	100	100	100
+Filler (part by mass)
+(average particle size)
+Oxidized silicon	10	10	15	15	20	10	10	15
+carbide (0.03 um)
+Silicon carbide (0.03 um)
+Silicon carbide (0.13 um)
+Silicon oxide (0.03 um)
+Surface-treated
+silicon oxide (0.03 um)
+Crosslinking agent
+(part by mass)
+NphAF	0.9	—	0.9	—	—	0.9	—	0.9
+Silicon nitride (0.03 um)	—	0.4	—	0.4	0.4	—	0.4	—
+Hardness (ShoreA)	72	71	75	75	80	72	71	75
+Compression set	33	33	42	36	47	43	59	55
+(70 hr/300° C.) (%)
+Compression set			58	46				75
+(168 hr/300° C.) (%)
+Plasma resistance
+O2 plasma irradiation
+Weight reduction	1.90	1.89	1.42	1.40	0.98	1.92	1.93	1.51
+percentage (%)
+Surface particle	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01
+amount (%)
+Particle transferring	Absent	Absent	Absent	Absent	Absent	Absent	Absent	Absent
+NF3 plasma irradiation
+Weight reduction	1.79	1.78	1.34	1.43	1.39	1.82	1.78	1.42
+percentage (%)
+Surface particle	0.01	0.01	0.01	0.01	0.01	0.01	0.01	0.01
+amount (%)
+Particle transferring	Absent	Absent	Absent	Absent	Absent	Absent	Absent	Absent
+
+
+=== TABLE 1 (38 rows) ===
+	Comparative	Comparative	Comparative	Comparative	Comparative	Comparative	Comparative
+	Example 4	Example 5	Example 6	Example 7	Example 8	Example 9	Example 10
+
+Crosslinkable
+elastomer (part by mass)
+TFE/PMVE/CNVE	100	100	100	100	100	100	100
+Filler (part by mass)
+(average particle size)
+Oxidized silicon	15	20	15	15	15	15
+carbide (0.03 um)
+Silicon carbide (0.03 um)
+Silicon carbide (0.13 um)
+Silicon oxide (0.03 um)
+Surface-treated
+silicon oxide (0.03 um)
+Crosslinking agent
+(part by mass)
+NphAF	—	—	0.9	0.9	0.9	—	0.9
+Silicon nitride (0.03 um)	0.4	0.4	—	—	—	0.4	—
+Hardness (ShoreA)	75	80	74	74	75	75	60
+Compression set	67	84	38	70	37	33	34
+(70 hr/300° C.) (%)
+Compression set	83			85	54	46	45
+(168 hr/300° C.) (%)
+Plasma resistance
+O2 plasma irradiation
+Weight reduction	1.54	1.15	1.71	—	1.40	1.38	3.01
+percentage (%)
+Surface particle	0.02	0.01	0.07	—	0.02	0.02	0.02
+amount (%)
+Particle transferring	Absent	Absent	Present	—	Absent	Absent	Absent
+NF3 plasma irradiation
+Weight reduction	1.44	1.39	1.62	—	2.10	2.17	2.73
+percentage (%)
+Surface particle	0.02	0.01	0.07	—	0.01	0.01	0.02
+amount (%)
+Particle transferring	Absent	Absent	Present	—	Absent	Absent	Absent
+
+
+=== TABLE 2 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2017-201923		2017-10-18	
+JP2017201923		2017-10-18	
+PCT/JP2018/038627 WO2019078238A1 (en)	2017-10-18	2018-10-17	Crosslinkable elastomer composition and fluororubber molded article
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+PCT/JP2018/038627 A-371-Of-International WO2019078238A1 (en)	2017-10-18	2018-10-17	Crosslinkable elastomer composition and fluororubber molded article
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US18/224,674 Continuation US12286523B2 (en)	2017-10-18	2023-07-21	Crosslinkable elastomer composition and fluororubber molded article
+
+=== TABLE 5 (3 rows) ===
+Publication Number	Publication Date
+US20200332081A1 true US20200332081A1 (en)	2020-10-22
+US11753523B2 US11753523B2 (en)	2023-09-12
+
+=== TABLE 6 (4 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US16/755,632 Active 2040-01-18 US11753523B2 (en)	2017-10-18	2018-10-17	Crosslinkable elastomer composition and fluororubber molded article
+US18/224,674 Active US12286523B2 (en)	2017-10-18	2023-07-21	Crosslinkable elastomer composition and fluororubber molded article
+US19/030,725 Pending US20250171614A1 (en)	2017-10-18	2025-01-17	Crosslinkable elastomer composition and fluororubber molded article
+
+=== TABLE 7 (3 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US18/224,674 Active US12286523B2 (en)	2017-10-18	2023-07-21	Crosslinkable elastomer composition and fluororubber molded article
+US19/030,725 Pending US20250171614A1 (en)	2017-10-18	2025-01-17	Crosslinkable elastomer composition and fluororubber molded article
+
+=== TABLE 8 (8 rows) ===
+Country	Link
+US (3)	US11753523B2 (en)
+EP (2)	EP4407002A1 (en)
+JP (3)	JP6927319B2 (en)
+KR (1)	KR102240635B1 (en)
+CN (2)	CN114456524B (en)
+TW (2)	TWI798274B (en)
+WO (1)	WO2019078238A1 (en)
+
+=== TABLE 9 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN114196146A (en) *	2021-12-27	2022-03-18	上海芯密科技有限公司	Preparation method and application of semiconductor sealing element
+
+=== TABLE 10 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP6927319B2 (en) *	2017-10-18	2021-08-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded product
+WO2020235565A1 (en) *	2019-05-20	2020-11-26	ダイキン工業株式会社	Fluorine-containing elastomer composition and article
+EP4021967B1 (en) *	2019-08-27	2023-03-01	3M Innovative Properties Company	Curable fluoropolymer compositions comprising metal fluoride particles and articles therefrom
+US20230064853A1 (en) *	2020-01-28	2023-03-02	Air Water Mach Inc.	Fluorine-containing elastomer composition and sealing material
+EP4219644B1 (en) *	2020-09-28	2025-10-22	VALQUA, Ltd.	Sealing material and method for producing sealing material
+EP4335897A4 (en) *	2021-06-08	2025-05-28	Mitsubishi Cable Industries, Ltd.	Non-crosslinked fluororubber composition, sealing material made therewith, and method for producing the same
+CN114230950B (en) *	2021-12-27	2023-04-14	上海芯密科技有限公司	A semiconductor device seal and its preparation method
+EP4502045A4 (en) *	2022-03-31	2026-03-18	Daikin Ind Ltd	COMPOSITION, INTERLOCKED PRODUCT AND SEALING MATERIAL
+CN119192756B (en) *	2024-09-23	2025-03-21	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+
+=== TABLE 11 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3549342A (en) *	1967-12-01	1970-12-22	Kempten Elektroschmelz Gmbh	Method of making abrasives for grinding tools
+DE4113853A1 (en) *	1991-04-27	1992-10-29	Karl Dipl Chem Dr Elbel	Oil-resistant abrasives mfr. - by mixing abrasive particles with binder, breaking up into pieces, screening, dry mixing with oil, resistant rubber and moulding
+US5912216A (en) *	1997-09-08	1999-06-15	Norton Company	Resin bonded abrasive tool and method of making the tool
+JP2005225947A (en) *	2004-02-12	2005-08-25	Tokuyama Corp	Inorganic filler and its use
+KR20110087290A (en) *	2008-12-29	2011-08-02	다이킨 고교 가부시키가이샤	Crosslinkable fluorine-containing elastomer composition and molded articles prepared from the composition
+
+=== TABLE 12 (31 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS584728B2 (en)	1976-06-30	1983-01-27	ダイキン工業株式会社	Method for producing fluorine-containing multi-segmented polymer
+JPS5551774A (en) *	1978-10-06	1980-04-15	Kyoto Ceramic	Composition and method for metallizing nonnoxide ceramic body
+JPS5871906A (en)	1981-10-22	1983-04-28	Daikin Ind Ltd	Manufacture of fluorine-containing elastic copolymer
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+US4513128A (en)	1983-06-23	1985-04-23	E. I. Du Pont De Nemours And Company	Fluorinated vinyl ether copolymers having low glass transition temperatures
+JPS6212734A (en)	1985-03-28	1987-01-21	Daikin Ind Ltd	Novel fluorovinyl ether and copolymer containing same
+JPS61223007A (en)	1985-03-28	1986-10-03	Daikin Ind Ltd	Emulsion polymerization of fluoroelastomer
+JPS6234324A (en)	1985-08-07	1987-02-14	Hitachi Maxell Ltd	Magnetic recording medium
+JPS6311572A (en) *	1986-07-02	1988-01-19	日本鋼管株式会社	Method for purifying non-oxide ceramic powder
+US4973634A (en)	1989-05-19	1990-11-27	E. I. Du Pont De Nemours And Company	Preparation of bromo-containing perfluoropolymers having iodine curesites
+US4972038A (en)	1989-05-19	1990-11-20	E. I. Du Pont De Nemours And Company	Cyano-containing perfluoropolymers having iodine curesites
+JPH02199075A (en) *	1989-12-15	1990-08-07	Toshiba Corp	Joined product of ceramic and metal
+IT1269514B (en)	1994-05-18	1997-04-01	Ausimont Spa	VULCANIZABLE FLUOROELASTOMERS PEROXIDE, PARTICULARLY SUITABLE FOR O-RING MANUFACTURE
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP3303915B2 (en)	1999-11-04	2002-07-22	ダイキン工業株式会社	Elastomer molded article for semiconductor manufacturing equipment and crosslinkable fluoroelastomer composition
+KR100597929B1 (en) *	2001-12-17	2006-07-13	다이킨 고교 가부시키가이샤	Crosslinkable Elastomer Composition and Molded Article Composed of the Composition
+KR20050092736A (en) *	2003-01-10	2005-09-22	다이킨 고교 가부시키가이샤	Cross-linked elastomer composition and formed product composed of such cross-linked elastomer composition
+US6992143B2 (en)	2003-08-15	2006-01-31	Dupont Dow Elastomers Llc	Curable perfluoroelastomer composition
+WO2005040783A1 (en) *	2003-10-22	2005-05-06	Ambri Limited	Novel sensor configuration
+KR100782663B1 (en) *	2004-02-26	2007-12-07	다이킨 고교 가부시키가이샤	Fluorinated Elastomer Composition
+CN100455624C (en) *	2006-04-20	2009-01-28	上海道氟化工科技有限公司	Fluorine rubber composition and its molded products
+JP2011213540A (en)	2010-03-31	2011-10-27	Covalent Materials Corp	Silicon impregnating silicon carbide ceramics and manufacturing method thereof
+US20110319545A1 (en)	2010-06-25	2011-12-29	E.I. Du Pont De Nemours And Company	Process for preparing curable perfluoroelastomer compositions
+JP2012106888A (en)	2010-11-18	2012-06-07	Shinano Denki Seiren Kk	Highly insulating silicon carbide powder and composition containing the same
+WO2013172334A1 (en)	2012-05-15	2013-11-21	日本ゼオン株式会社	Conductive composition
+JP6236400B2 (en)	2012-12-04	2017-11-22	日信工業株式会社	Carbon fiber composite material and method for producing carbon fiber composite material
+US10138352B2 (en)	2014-09-16	2018-11-27	Daikin Industries, Ltd.	Fluoroelastomer composition and molded article
+CN106084297A (en)	2016-06-08	2016-11-09	浙江克莱恩纳米材料股份有限公司	Micrometer silicon carbide silicon whiskerettes composite based on fullerene-based material and preparation method and derived material
+JP6927319B2 (en) *	2017-10-18	2021-08-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded product
+
+=== TABLE 13 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3549342A (en) *	1967-12-01	1970-12-22	Kempten Elektroschmelz Gmbh	Method of making abrasives for grinding tools
+DE4113853A1 (en) *	1991-04-27	1992-10-29	Karl Dipl Chem Dr Elbel	Oil-resistant abrasives mfr. - by mixing abrasive particles with binder, breaking up into pieces, screening, dry mixing with oil, resistant rubber and moulding
+US5912216A (en) *	1997-09-08	1999-06-15	Norton Company	Resin bonded abrasive tool and method of making the tool
+JP2005225947A (en) *	2004-02-12	2005-08-25	Tokuyama Corp	Inorganic filler and its use
+KR20110087290A (en) *	2008-12-29	2011-08-02	다이킨 고교 가부시키가이샤	Crosslinkable fluorine-containing elastomer composition and molded articles prepared from the composition
+
+=== TABLE 14 (2 rows) ===
+Title
+Machine translation of JP 200522547 A, retrieved December 2022 (Year: 2022) *
+
+=== TABLE 15 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN114196146A (en) *	2021-12-27	2022-03-18	上海芯密科技有限公司	Preparation method and application of semiconductor sealing element
+
+=== TABLE 16 (26 rows) ===
+Publication number	Publication date
+TW202536089A (en)	2025-09-16
+TWI885340B (en)	2025-06-01
+EP3674365A4 (en)	2021-05-26
+US12286523B2 (en)	2025-04-29
+EP3674365A1 (en)	2020-07-01
+EP4407002A1 (en)	2024-07-31
+TWI798274B (en)	2023-04-11
+JP6927319B2 (en)	2021-08-25
+KR102240635B1 (en)	2021-04-15
+KR20200042920A (en)	2020-04-24
+US20250171614A1 (en)	2025-05-29
+CN111212874A (en)	2020-05-29
+WO2019078238A1 (en)	2019-04-25
+US20230357535A1 (en)	2023-11-09
+CN114456524B (en)	2023-08-11
+TW201927880A (en)	2019-07-16
+CN111212874B (en)	2022-03-04
+CN114456524A (en)	2022-05-10
+JP2021176975A (en)	2021-11-11
+TW202330771A (en)	2023-08-01
+EP3674365B1 (en)	2024-06-19
+JPWO2019078238A1 (en)	2020-07-02
+US11753523B2 (en)	2023-09-12
+JP2023134557A (en)	2023-09-27
+JP7713826B2 (en)	2025-07-28
+
+=== TABLE 17 (10 rows) ===
+Publication	Publication Date	Title
+US12286523B2 (en)	2025-04-29	Crosslinkable elastomer composition and fluororubber molded article
+JP5487584B2 (en)	2014-05-07	Crosslinkable elastomer composition and molded article comprising the composition
+US11072700B2 (en)	2021-07-27	Composition comprising fluoropolymer and molded article
+JP2023154427A (en)	2023-10-19	Compositions and crosslinked products
+JPWO2005082998A1 (en)	2007-11-15	Fluorine-containing elastomer composition
+JP4086070B2 (en)	2008-05-14	Crosslinkable elastomer composition and molded article comprising the crosslinkable elastomer composition
+US12304984B2 (en)	2025-05-20	Composition containing fluorine-containing polymer and crosslinked article
+EP4253432B1 (en)	2026-02-25	Fluoropolymer, aqueous liquid dispersion, composition, and crosslinked product
+US20250340727A1 (en)	2025-11-06	Polymer blend, crosslinkable composition and article
+
+=== TABLE 18 (11 rows) ===
+Date	Code	Title	Description
+2020-04-13	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIRANO, SEIICHI;NOGUCHI, TSUYOSHI;REEL/FRAME:052376/0660 Effective date: 20181025
+2020-04-13	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2020-07-24	STPP	Information on status: patent application and granting procedure in general	Free format text: APPLICATION DISPATCHED FROM PREEXAM, NOT YET DOCKETED
+2021-08-20	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2022-06-08	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2022-10-13	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2022-12-12	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2023-04-19	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2023-07-25	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+2023-08-23	STCF	Information on status: patent grant	Free format text: PATENTED CASE

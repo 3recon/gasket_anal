@@ -1,0 +1,112 @@
+# CN106751257A :: CN106751257A - A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications 
+        - Google Patents
+
+=== TABLE 0 (9 rows) ===
+Perfluoroelastomers sequence number	No. 1	No. 2	No. 3	No. 4	No. 5	No. 6	No. 7
+Gum content, %	73.91	73.91	73.91	72.57	72.57	72.57	72.57
+Hardness, Shore A	85	90	94	84	90	94	97
+Tensile strength, MPa	21.70	29.30	31.70	17.40	24.10	24.20	25.53
+Elongation, %	178.60	126.10	113.10	135.70	109.20	84.80	57.50
+50% modulus, MPa	4.80	10.26	14.00	5.36	10.34	14.71	23.52
+100% modulus, MPa	12.08	23.05	28.35	13.95	22.75	0.00	0.00
+Right-angle tearing, KN/m	30.00	33.80	34.50	20.50	32.20	33.90	36.70
+Pants type tears, KN/m	21.90	39.20	39.50	15.50	25.30	42.20	45.50
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201611204398.6A CN106751257A (en)	2016-12-23	2016-12-23	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+
+=== TABLE 2 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201611204398.6A CN106751257A (en)	2016-12-23	2016-12-23	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+
+=== TABLE 3 (2 rows) ===
+Publication Number	Publication Date
+CN106751257A true CN106751257A (en)	2017-05-31
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN201611204398.6A Pending CN106751257A (en)	2016-12-23	2016-12-23	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+
+=== TABLE 5 (2 rows) ===
+Country	Link
+CN (1)	CN106751257A (en)
+
+=== TABLE 6 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN109181170A (en) *	2018-08-07	2019-01-11	浙江久运汽车零部件有限公司	A kind of wear-resisting type Viton pipe and preparation method thereof
+CN111849094A (en) *	2020-07-10	2020-10-30	上海如实密封科技有限公司	High-strength high-modulus fluororubber composition and preparation method and application thereof
+CN111925615A (en) *	2020-07-10	2020-11-13	上海如实密封科技有限公司	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+CN114874572A (en) *	2022-06-01	2022-08-09	上海熹贾精密技术有限公司	High-performance sealing piece for automobile fuel tank and preparation method thereof
+CN115873359A (en) *	2022-11-23	2023-03-31	上海芯密科技有限公司	Superfine fluororubber sealing piece for protecting electrostatic chuck gap
+CN116693958A (en) *	2023-08-07	2023-09-05	中石油(上海)新材料研究院有限公司	High-wear-resistance organic fluorine modified solution polymerized styrene-butadiene rubber and preparation method thereof
+CN116771918A (en) *	2023-06-08	2023-09-19	上海芯密科技有限公司	Multilayer sealing product for semiconductor and preparation method thereof
+CN118006062A (en) *	2024-02-29	2024-05-10	惠州市协同橡塑材料有限公司	A high temperature resistant perfluoroether rubber composition and preparation method thereof
+CN119529157A (en) *	2025-01-23	2025-02-28	上海熹贾精密技术有限公司	A perfluoroether rubber seal and preparation method thereof
+
+=== TABLE 7 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN106188996A (en) *	2016-08-03	2016-12-07	广州加士特密封技术有限公司	A kind of antiknock rubber o-ring material and preparation method thereof
+
+=== TABLE 8 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN106188996A (en) *	2016-08-03	2016-12-07	广州加士特密封技术有限公司	A kind of antiknock rubber o-ring material and preparation method thereof
+
+=== TABLE 9 (2 rows) ===
+Title
+高洪强等: ""碳纳米管在氟橡胶中的应用研究"", 《弹性体》 *
+
+=== TABLE 10 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN109181170A (en) *	2018-08-07	2019-01-11	浙江久运汽车零部件有限公司	A kind of wear-resisting type Viton pipe and preparation method thereof
+CN111849094A (en) *	2020-07-10	2020-10-30	上海如实密封科技有限公司	High-strength high-modulus fluororubber composition and preparation method and application thereof
+CN111925615A (en) *	2020-07-10	2020-11-13	上海如实密封科技有限公司	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+CN111925615B (en) *	2020-07-10	2022-04-29	上海如实密封科技有限公司	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+CN114874572A (en) *	2022-06-01	2022-08-09	上海熹贾精密技术有限公司	High-performance sealing piece for automobile fuel tank and preparation method thereof
+CN115873359A (en) *	2022-11-23	2023-03-31	上海芯密科技有限公司	Superfine fluororubber sealing piece for protecting electrostatic chuck gap
+CN115873359B (en) *	2022-11-23	2023-09-22	上海芯密科技有限公司	A fluorine rubber ultra-fine seal used to protect the gap between electrostatic chucks
+CN116771918B (en) *	2023-06-08	2024-03-26	上海芯密科技有限公司	Multilayer sealing product for semiconductor and preparation method thereof
+CN116771918A (en) *	2023-06-08	2023-09-19	上海芯密科技有限公司	Multilayer sealing product for semiconductor and preparation method thereof
+CN116693958A (en) *	2023-08-07	2023-09-05	中石油(上海)新材料研究院有限公司	High-wear-resistance organic fluorine modified solution polymerized styrene-butadiene rubber and preparation method thereof
+CN116693958B (en) *	2023-08-07	2023-11-03	中石油(上海)新材料研究院有限公司	High-wear-resistance organic fluorine modified solution polymerized styrene-butadiene rubber and preparation method thereof
+CN118006062A (en) *	2024-02-29	2024-05-10	惠州市协同橡塑材料有限公司	A high temperature resistant perfluoroether rubber composition and preparation method thereof
+CN118006062B (en) *	2024-02-29	2024-12-17	惠州市协同橡塑材料有限公司	High-temperature-resistant perfluoroether rubber composition and preparation method thereof
+CN119529157A (en) *	2025-01-23	2025-02-28	上海熹贾精密技术有限公司	A perfluoroether rubber seal and preparation method thereof
+CN119529157B (en) *	2025-01-23	2025-04-29	上海熹贾精密技术有限公司	A perfluoroether rubber seal and preparation method thereof
+
+=== TABLE 11 (26 rows) ===
+Publication	Publication Date	Title
+CN106633544B (en)	2019-07-19	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+EP2275720B1 (en)	2015-12-09	Heat-resistant sealant, endless sealing member using the same, and downhole unit furnished with endless sealing member
+CN105860179B (en)	2017-12-12	Rubber seal productses and its preparation method and application
+CN111925615B (en)	2022-04-29	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+Pittayavinai et al.	2017	Comparative study of natural rubber and acrylonitrile rubber reinforced with aligned short aramid fiber
+CN110218405A (en)	2019-09-10	A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application
+Kianfar et al.	2016	The effect of nano-composites on the mechanic and morphological characteristics of NBR/PA6 blends
+CN112457612B (en)	2023-03-10	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+CN104194108B (en)	2017-04-26	Hydrogenated butadiene-acrylonitrile rubber vulcanized rubber with high strength, high pressure resistance and hydrogen sulfide corrosion resistance
+CN108102169A (en)	2018-06-01	A kind of high hardness butadiene-acrylonitrile rubber and preparation method thereof
+Najipoor et al.	2018	Assessment of failures of nitrile rubber vulcanizates in rapid gas decompression (RGD) testing: Effect of physico-mechanical properties
+He et al.	2018	Mechanical properties of aramid fiber and carbon black filled hydrogenated nitrile rubber for packer compounds
+CN106715633A (en)	2017-05-24	Sealing body for dynamic applications
+CN111849094B (en)	2022-04-15	High-strength high-modulus fluororubber composition and preparation method and application thereof
+Yeo et al.	2013	A study on the characteristics of a rubber blend of fluorocarbon rubber and hydrogenated nitrile rubber
+Guo et al.	2023	Ageing behaviour and molecular/network structure evolution of EPDM/carbon black composites under compression and in thermal-oxidative environments
+EP2994310B1 (en)	2020-11-18	A layered tube and layer for use in same
+CN108350095A (en)	2018-07-31	The elastomer preventer packer and sealing element that short chain fluorohydrocarbon for enhancing H2S tolerances is grafted
+CN110157124A (en)	2019-08-23	A kind of tetrapropanate fluorine rubber composition of hydrogen sulfide corrosion-resistant and its application
+JP6284394B2 (en)	2018-02-28	Carbon fiber composite material and seal member
+CN102975324B (en)	2015-11-25	A kind of preparation method of waste and old sealing strip rubber powder/rubber-type chlorinated polyethylene blending foaming material
+González et al.	2004	Effect of heterogeneities on the physical properties of elastomers derived from butadiene cured with dicumyl peroxide
+Hertz	2012	Elastomers in CO2
+CN104861308B (en)	2019-03-26	A kind of rubber composition and vulcanized rubber and its application
+US9694528B2 (en)	2017-07-04	Method for forming a layered tube and layer therein
+
+=== TABLE 12 (7 rows) ===
+Date	Code	Title	Description
+2017-05-31	PB01	Publication	
+2017-05-31	PB01	Publication	
+2017-06-23	SE01	Entry into force of request for substantive examination	
+2017-06-23	SE01	Entry into force of request for substantive examination	
+2021-12-10	RJ01	Rejection of invention patent application after publication	
+2021-12-10	RJ01	Rejection of invention patent application after publication	Application publication date: 20170531

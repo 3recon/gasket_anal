@@ -1,0 +1,109 @@
+# KR102324534B1 :: KR102324534B1 - 
+        Composite material comprising fluoroelastomer and polyimide, method for making the composite material, and articles comprising the composite material
+       
+        - Google Patents
+
+=== TABLE 0 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US201662339394P	2016-05-20	2016-05-20	
+US62/339,394		2016-05-20	
+PCT/IB2017/052978 WO2017199222A1 (en)	2016-05-20	2017-05-19	Composite comprising a fluoroelastomer and a polyimide, method for making the composite and articles comprising it
+
+=== TABLE 1 (3 rows) ===
+Publication Number	Publication Date
+KR20190009768A KR20190009768A (en)	2019-01-29
+KR102324534B1 true KR102324534B1 (en)	2021-11-11
+
+=== TABLE 2 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020187036243A Active KR102324534B1 (en)	2016-05-20	2017-05-19	Composite material comprising fluoroelastomer and polyimide, method for making the composite material, and articles comprising the composite material
+
+=== TABLE 3 (6 rows) ===
+Country	Link
+US (1)	US20190345319A1 (en)
+EP (1)	EP3458518B1 (en)
+KR (1)	KR102324534B1 (en)
+CN (1)	CN109153834A (en)
+WO (1)	WO2017199222A1 (en)
+
+=== TABLE 4 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+DE102017011642A1 (en)	2017-12-15	2019-06-19	Carl Freudenberg Kg	Curable fluoroelastomers with low swelling tendency
+TWI807215B (en) *	2019-08-30	2023-07-01	美商大金美國股份有限公司	Chemically compatibilized fluoropolymer blends
+KR102334124B1 (en) *	2019-11-22	2021-12-03	피아이첨단소재 주식회사	Low Dielectric Polyimide Composite Powder and Method for Preparing the Same
+US20230197417A1 (en) *	2021-12-17	2023-06-22	Applied Materials, Inc.	Corrosion resistant polymer coatings for manufacturing equipment components
+CN114479458B (en) *	2022-01-24	2023-03-10	北京科技大学	All-organic low-dielectric polyimide composite film and preparation method and application thereof
+CN115521410A (en) *	2022-10-12	2022-12-27	上海森崚半导体科技有限公司	Preparation method of perfluoropolymer emulsion, perfluoroelastomer and preparation method thereof
+CN117430949B (en) *	2023-11-29	2024-06-11	苏州聚萃材料科技有限公司	Polyimide film with high heat conduction and low thermal expansion coefficient and preparation method thereof
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050054753A1 (en) *	2001-11-30	2005-03-10	1) Koyo Seiko Co., Ltd. 2) Koyo Sealing Techno Co., Ltd	Sealing composition and seals made by using the same
+
+=== TABLE 6 (13 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4404350A (en)	1982-07-07	1983-09-13	General Electric Company	Silicone-imide copolymers and method for making
+US4690997A (en)	1984-01-26	1987-09-01	General Electric Company	Flame retardant wire coating compositions
+US4808686A (en)	1987-06-18	1989-02-28	General Electric Company	Silicone-polyimides, and method for making
+US5538262A (en) *	1993-11-08	1996-07-23	Matsumura; Keizo	Ultra-high vacuum gasket and vacuum apparatus using the same
+CN1104465C (en) *	1994-02-04	2003-04-02	纳幕尔杜邦公司	Primer compsn. and use of the same compsn. for coating metal surfaces with a fluororesin
+US5626907A (en) *	1994-02-26	1997-05-06	E. I. Dupont De Nemours And Company	Process for coating metal surfaces with a fluororesin using a primer
+US20020123282A1 (en) *	2001-01-03	2002-09-05	Mccarthy Thomas F.	Fluoropolymer composites
+KR20050092736A (en) *	2003-01-10	2005-09-22	다이킨 고교 가부시키가이샤	Cross-linked elastomer composition and formed product composed of such cross-linked elastomer composition
+US8907042B2 (en) *	2011-10-28	2014-12-09	Sabic Global Technologies B.V.	Polyetherimides, methods of manufacture, and articles formed therefrom
+US10676571B2 (en) *	2013-12-02	2020-06-09	Sabic Global Technologies B.V.	Polyetherimides with improved melt stability
+JP6141377B2 (en) *	2015-10-07	2017-06-07	株式会社森清化工	Perfluoro rubber molding
+CN106380755A (en) *	2016-08-31	2017-02-08	江苏千富之丰科技有限公司	Fluorine-containing elastomer having ultrahigh abrasion resistance and preparation method thereof
+
+=== TABLE 7 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050054753A1 (en) *	2001-11-30	2005-03-10	1) Koyo Seiko Co., Ltd. 2) Koyo Sealing Techno Co., Ltd	Sealing composition and seals made by using the same
+
+=== TABLE 8 (7 rows) ===
+Publication number	Publication date
+EP3458518B1 (en)	2021-06-23
+CN109153834A (en)	2019-01-04
+EP3458518A1 (en)	2019-03-27
+US20190345319A1 (en)	2019-11-14
+KR20190009768A (en)	2019-01-29
+WO2017199222A1 (en)	2017-11-23
+
+=== TABLE 9 (20 rows) ===
+Publication	Publication Date	Title
+EP3458518B1 (en)	2021-06-23	Article comprising a composite of a fluoroelastomer and a polyimide on a metal substrate
+EP3262123B1 (en)	2019-04-17	Electrical tracking resistance compositions, articles formed therefrom, and methods of manufacture thereof
+CN105531336B (en)	2017-11-07	Polyetherimide, method of preparation, and articles formed therefrom
+WO2013063470A1 (en)	2013-05-02	Polyetherimides, methods of manufacture, and articles formed therefrom
+KR102467621B1 (en)	2022-11-16	High Flow Polyetherimide Compositions and Articles Made Therefrom
+CN107257826B (en)	2020-07-17	Tracking resistant compositions, articles formed therefrom, and methods of making the same
+EP3262117B1 (en)	2019-05-08	Electrical tracking resistance compositions, articles formed therefrom, and methods of manufacture thereof
+US10377860B2 (en)	2019-08-13	Polyetherimides, methods of manufacture, and articles formed therefrom
+EP3227376B1 (en)	2019-03-13	High melt flow polyetherimide-siloxane compositions, method of manufacture, and articles made therefrom
+EP3262119B1 (en)	2020-09-23	Electrical tracking resistance compositions, articles formed therefrom, and methods of manufacture thereof
+EP3262120B1 (en)	2018-12-26	Electrical tracking resistance compositions, articles formed therefrom, and methods of manufacture thereof
+EP3642282A1 (en)	2020-04-29	High flow, low gloss thermoplastic compositions, method for the manufacture thereof, and articles comprising the composition
+EP3484958B1 (en)	2021-05-26	Poly(etherimide-siloxane)/poly(phthalamide) compositions, articles prepared therefrom, and methods for the manufacture thereof
+EP3677646B1 (en)	2021-08-18	Thermoplastic composition, method for the manufacture thereof, and articles including the thermoplastic composition
+US10240030B2 (en)	2019-03-26	Article comprising a high flow polyetherimide composition
+US20190194491A1 (en)	2019-06-27	Coatings, methods and coated articles
+JP2023509631A (en)	2023-03-09	Flame Retardant, Thermally Stabilized Polyetherimide
+WO2020050913A1 (en)	2020-03-12	Composition, method for the manufacture thereof, and articles prepared therefrom
+WO2022220007A1 (en)	2022-10-20	Thermoplastic polyimide resin composition and molded product
+
+=== TABLE 10 (16 rows) ===
+Date	Code	Title	Description
+2018-12-13	PA0105	International application	Patent event date: 20181213 Patent event code: PA01051R01D Comment text: International Patent Application
+2019-01-29	PG1501	Laying open of application	
+2020-05-12	A201	Request for examination	
+2020-05-12	PA0201	Request for examination	Patent event code: PA02012R01D Patent event date: 20200512 Comment text: Request for Examination of Application
+2021-02-24	N231	Notification of change of applicant	
+2021-02-24	PN2301	Change of applicant	Patent event date: 20210224 Comment text: Notification of Change of Applicant Patent event code: PN23011R01D
+2021-04-27	E902	Notification of reason for refusal	
+2021-04-27	PE0902	Notice of grounds for rejection	Comment text: Notification of reason for refusal Patent event date: 20210427 Patent event code: PE09021S01D
+2021-08-20	E701	Decision to grant or registration of patent right	
+2021-08-20	PE0701	Decision of registration	Patent event code: PE07011S01D Comment text: Decision to Grant Registration Patent event date: 20210820
+2021-11-04	GRNT	Written decision to grant	
+2021-11-04	PR0701	Registration of establishment	Comment text: Registration of Establishment Patent event date: 20211104 Patent event code: PR07011E01D
+2021-11-04	PR1002	Payment of registration fee	Payment date: 20211105 End annual number: 3 Start annual number: 1
+2021-11-11	PG1601	Publication of registration	
+2024-10-29	PR1001	Payment of annual fee	Payment date: 20241029 Start annual number: 4 End annual number: 4

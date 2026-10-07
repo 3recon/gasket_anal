@@ -1,0 +1,82 @@
+# CN117534929B :: CN117534929B - 
+        A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202311742177.4A CN117534929B (en)	2023-12-18	2023-12-18	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202311742177.4A CN117534929B (en)	2023-12-18	2023-12-18	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN117534929A CN117534929A (en)	2024-02-09
+CN117534929B true CN117534929B (en)	2024-09-24
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202311742177.4A Active CN117534929B (en)	2023-12-18	2023-12-18	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN117534929B (en)
+
+=== TABLE 5 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118459966B (en) *	2024-05-22	2025-02-28	上海芯密科技股份有限公司	A semiconductor sealing ring material and its preparation method and application
+CN118388949B (en) *	2024-05-22	2024-12-13	上海芯密科技股份有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN119192756B (en) *	2024-09-23	2025-03-21	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120005335B (en) *	2025-02-14	2026-03-20	上海芯密科技股份有限公司	A perfluororubber composition, its preparation method and products
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4281092A (en) *	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+IT1265461B1 (en) *	1993-12-29	1996-11-22	Ausimont Spa	FLUOROELASTOMERS INCLUDING MONOMERIC UNITS ARISING FROM A BIS-OLEPHINE
+US8211964B2 (en) *	2005-07-26	2012-07-03	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 7 (2 rows) ===
+Publication number	Publication date
+CN117534929A (en)	2024-02-09
+
+=== TABLE 8 (26 rows) ===
+Publication	Publication Date	Title
+CN117534929A (en)	2024-02-09	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+Dong et al.	2018	Thermoplastic polyurethane-carbon black nanocomposite coating: Fabrication and solid particle erosion resistance
+JP5487584B2 (en)	2014-05-07	Crosslinkable elastomer composition and molded article comprising the composition
+CN1247923C (en)	2006-03-29	Surface treatment method for threaded joints of steel pipes
+US8044132B2 (en)	2011-10-25	Fluorine-containing elastomer composition
+Cao et al.	2019	In situ fabrication of CuO/UHMWPE nanocomposites and their tribological performance
+CN102089399B (en)	2014-04-09	Sealing material for piping material excellent in chlorine resistance, manufacturing method of sealing material for piping material excellent in chlorine resistance, sealing material for piping material excellent in oil resistance, and piping material
+CN107266753B (en)	2019-01-08	High tensile, high-wearing feature graphene/rubber composite wiper item and preparation method
+CN118459966B (en)	2025-02-28	A semiconductor sealing ring material and its preparation method and application
+CN114181484A (en)	2022-03-15	Perfluoroether rubber composition and preparation method and application thereof
+JP6284394B2 (en)	2018-02-28	Carbon fiber composite material and seal member
+CN119192756B (en)	2025-03-21	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+Mohammed et al.	2018	Effect of nano zinc oxide on tensile properties of natural rubber composite
+CN109844009B (en)	2021-05-28	Rubber compositions and tires
+CN120098462A (en)	2025-06-06	A fluororesin fluororubber composite material with high fracture work and preparation method thereof
+CN119431913A (en)	2025-02-14	A kind of aging-resistant rubber and preparation method thereof
+JP2004210821A (en)	2004-07-29	Chlorine water-resistant rubber composition
+Heidarian et al.	2017	Improving heat aging and mechanical properties of fluoroelastomer using carbon nanotubes
+KR102891272B1 (en)	2025-11-26	Fluororubber Sealing agent and manufacturing method for semiconductor devices
+CN104011115A (en)	2014-08-27	Process for manufacturing fluoroelastomer compositions containing fluoro-plastic fibrils, the composition so produced and cured articles prepared from said composition
+RU2792564C1 (en)	2023-03-22	Polyethylene powder composition for protection against ice and corrosion of ships' hulls and steel pipelines and method for its production
+CN121249062B (en)	2026-03-24	Preparation method of high-temperature-resistant anti-aging butyl rubber
+CN117050446B (en)	2024-05-10	High-performance tetrapropylacetonate fluororubber composition and preparation method thereof
+CN118725487A (en)	2024-10-01	Fluororubber system, fluororubber and preparation method and application thereof
+CN119931174A (en)	2025-05-06	Vulcanized stator rubber material and preparation method thereof
+
+=== TABLE 9 (9 rows) ===
+Date	Code	Title	Description
+2024-02-09	PB01	Publication	
+2024-02-09	PB01	Publication	
+2024-03-01	SE01	Entry into force of request for substantive examination	
+2024-03-01	SE01	Entry into force of request for substantive examination	
+2024-09-24	GR01	Patent grant	
+2024-09-24	GR01	Patent grant	
+2024-11-29	CP03	Change of name, title or address	Address after: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Patentee after: Shanghai Xinmi Technology Co.,Ltd. Country or region after: China Address before: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Patentee before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China
+2024-11-29	CP03	Change of name, title or address	

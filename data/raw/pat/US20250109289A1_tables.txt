@@ -1,0 +1,148 @@
+# US20250109289A1 :: US20250109289A1 - Composition and cross-linked article 
+      - Google Patents
+
+=== TABLE 0 (6 rows) ===
+	TABLE 1
+	
+	Example	Example	Example	Comparative	Comparative
+	1	2	3	Example 1	Example 2
+	
+
+
+=== TABLE 1 (1 rows) ===
+Physical properties of PTFE
+
+=== TABLE 2 (4 rows) ===
+HFP content	(mol %)	0.08	0.09	0.09	0.08	0.09
+Average primary size	(nm)	213	203	208	213	218
+Melting point	(° C.)	327.5	327.0	328.9	327.5	332
+Melt viscosity	(×104 poise)	26	67	154	26	Insoluble
+
+=== TABLE 3 (1 rows) ===
+Physical properties of molded article
+
+=== TABLE 4 (6 rows) ===
+Compression set (300° C.)	(%)	32	32	33	Unmeasurable	Unmeasurable
+Cracking rate (300° C.)	(%)	8	0	0	100	100
+Compression set (200° C.→70° C.)	(%)	46	50	50	54	53
+Cracking rate (200° C.→70° C.)	(%)	0	0	0	0	8
+Rate of decrease in weight by remote plasma	(%)	0.06	0.05	0.09	0.15	0.06
+
+
+=== TABLE 5 (6 rows) ===
+	TABLE 2
+	
+						Comparative
+	Example 4	Example 1	Example 5	Example 6	Example 7	Example 3
+	
+
+
+=== TABLE 6 (1 rows) ===
+Compositional feature
+
+=== TABLE 7 (3 rows) ===
+Perfluoro rubber	(phr)	100	100	100	100	100	100
+PTFE	(phr)	10	20	30	40	50	0
+Crosslinking agent	(phr)	0.9	0.9	0.9	0.9	0.9	0.9
+
+=== TABLE 8 (1 rows) ===
+Physical properties of molded article
+
+=== TABLE 9 (5 rows) ===
+Compression set (300° C.)	(%)	25	32	38	44	55	Unmeasurable
+Cracking rate (300° C.)	(%)	17	0	0	0	0	100
+Compression set (200° C.→70° C.)	(%)	42	46	55	60	65	31
+Cracking rate (200° C.→70° C.)	(%)	0	0	0	0	0	0
+
+
+=== TABLE 10 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2022-063403		2022-04-06	
+JP2022063403A JP7319573B1 (en)	2022-04-06	2022-04-06	Compositions and crosslinked products
+PCT/JP2023/014080 WO2023195485A1 (en)	2022-04-06	2023-04-05	Composition and crosslinked product
+
+=== TABLE 11 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+PCT/JP2023/014080 Continuation WO2023195485A1 (en)	2022-04-06	2023-04-05	Composition and crosslinked product
+
+=== TABLE 12 (2 rows) ===
+Publication Number	Publication Date
+US20250109289A1 true US20250109289A1 (en)	2025-04-03
+
+=== TABLE 13 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US18/906,273 Pending US20250109289A1 (en)	2022-04-06	2024-10-04	Composition and cross-linked article
+
+=== TABLE 14 (8 rows) ===
+Country	Link
+US (1)	US20250109289A1 (en)
+EP (1)	EP4506394A4 (en)
+JP (2)	JP7319573B1 (en)
+KR (2)	KR102883772B1 (en)
+CN (2)	CN121537728A (en)
+TW (2)	TWI900842B (en)
+WO (1)	WO2023195485A1 (en)
+
+=== TABLE 15 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2025080928A (en) *	2023-11-15	2025-05-27	ニチアス株式会社	Rubber composition, fluorine-containing elastomer and sealing material
+WO2025225463A1 (en) *	2024-04-22	2025-10-30	Ａｇｃ株式会社	Fluorine-containing copolymer composition, method for producing the same, and fluororubber article
+CN118388949B (en) *	2024-05-22	2024-12-13	上海芯密科技股份有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+
+=== TABLE 16 (22 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS6023701B2 (en) *	1976-01-12	1985-06-08	ダイキン工業株式会社	Tetrafluoroethylene/hexafluoropropene copolymer-fluorine-containing elastomer composition
+DE3419822C2 (en)	1984-05-26	1986-04-03	Werner & Pfleiderer, 7000 Stuttgart	Filter device for screw extruders
+JPH0259177A (en)	1988-08-26	1990-02-28	Babcock Hitachi Kk	Welding head
+JP2945450B2 (en)	1990-07-24	1999-09-06	古野電気株式会社	Tilt sensor and tilt angle measuring device
+JPH0513961A (en)	1991-06-28	1993-01-22	Toshiba Corp	Multilayer wiring board
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+JP3223776B2 (en)	1995-03-31	2001-10-29	日本メクトロン株式会社	Fluorine-containing elastomer composition
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP3931382B2 (en)	1996-09-18	2007-06-13	ダイキン工業株式会社	Polytetrafluoroethylene powder and method for producing the same
+JP2007246930A (en) *	1999-09-30	2007-09-27	Daikin Ind Ltd	Transparent elastomer composition and method for producing the same
+WO2001023470A1 (en) *	1999-09-30	2001-04-05	Daikin Industries, Ltd.	Transparent elastomer composition
+JP2003026811A (en)	2001-07-23	2003-01-29	Morisei Kako:Kk	Fluorine composition as sealing material and method for producing the same
+EP1661947B1 (en) *	2003-08-25	2016-05-11	Daikin Industries, Ltd.	Product for high-frequency signal transmission, process for producing the same and high-frequency transmission cable
+ES2623436T3 (en) *	2008-03-27	2017-07-11	Daikin Industries, Ltd.	Composition of elastomer containing crosslinkable fluorine with peroxide
+CN102471497B (en) *	2009-07-03	2014-10-22	大金工业株式会社	Crosslinkable fluorine rubber composition, fluorine rubber molded article, and method for producing the same
+JP2013082888A (en) *	2011-09-30	2013-05-09	Daikin Industries Ltd	Cross-linkable fluororubber composition, fluororubber-molded article, and method for producing the article
+JP2012082438A (en) *	2011-12-22	2012-04-26	Daikin Industries Ltd	Particle containing fluorine olefin polymer
+JP5880760B2 (en) *	2014-04-24	2016-03-09	ダイキン工業株式会社	Laminated body
+EP3365389A4 (en)	2015-10-23	2019-05-29	3M Innovative Properties Company	COMPOSITION COMPRISING AMORPHOUS FLUOROPOLYMER AND FLUORINATED PLASTIC PARTICLES AND METHODS OF PREPARATION THEREOF
+KR102414805B1 (en) *	2016-07-13	2022-06-29	주식회사 발카	Perfluoroelastomer composition and sealing material
+WO2020235565A1 (en) *	2019-05-20	2020-11-26	ダイキン工業株式会社	Fluorine-containing elastomer composition and article
+
+=== TABLE 17 (16 rows) ===
+Publication number	Publication date
+CN118922475B (en)	2025-12-12
+JP2023154219A (en)	2023-10-19
+CN118922475A (en)	2024-11-08
+EP4506394A4 (en)	2026-04-15
+JP2023154427A (en)	2023-10-19
+KR102883772B1 (en)	2025-11-11
+TWI900842B (en)	2025-10-11
+JP7319573B1 (en)	2023-08-02
+EP4506394A1 (en)	2025-02-12
+WO2023195485A1 (en)	2023-10-12
+CN121537728A (en)	2026-02-17
+TW202605059A (en)	2026-02-01
+KR20240164961A (en)	2024-11-21
+KR20250161052A (en)	2025-11-14
+TW202346434A (en)	2023-12-01
+
+=== TABLE 18 (9 rows) ===
+Publication	Publication Date	Title
+US12297341B2 (en)	2025-05-13	Fluorine-containing elastomer composition and article
+KR102883772B1 (en)	2025-11-11	Compositions and crosslinkers
+US20180179374A1 (en)	2018-06-28	Composition comprising fluoropolymer and molded article
+WO2020026909A1 (en)	2020-02-06	Fluoropolymer-containing composition and molded article
+US20250026905A1 (en)	2025-01-23	Composition, crosslinked article and sealing material
+US20230303748A1 (en)	2023-09-28	Fluoropolymer, aqueous liquid dispersion, composition, and crosslinked product
+US12304984B2 (en)	2025-05-20	Composition containing fluorine-containing polymer and crosslinked article
+US20250340727A1 (en)	2025-11-06	Polymer blend, crosslinkable composition and article
+
+=== TABLE 19 (3 rows) ===
+Date	Code	Title	Description
+2024-10-04	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:NOHARA, ASUKA;KONISHI, TOMOHISA;OTA, DAISUKE;REEL/FRAME:069115/0697 Effective date: 20230608
+2024-11-12	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION

@@ -1,0 +1,97 @@
+# CN118459966A :: CN118459966A - 
+        A semiconductor sealing ring material and its preparation method and application
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202410641324.7A CN118459966B (en)	2024-05-22	2024-05-22	A semiconductor sealing ring material and its preparation method and application
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202410641324.7A CN118459966B (en)	2024-05-22	2024-05-22	A semiconductor sealing ring material and its preparation method and application
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN118459966A true CN118459966A (en)	2024-08-09
+CN118459966B CN118459966B (en)	2025-02-28
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202410641324.7A Active CN118459966B (en)	2024-05-22	2024-05-22	A semiconductor sealing ring material and its preparation method and application
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN118459966B (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN119192756A (en) *	2024-09-23	2024-12-27	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120098462A (en) *	2025-04-11	2025-06-06	上海芯密科技股份有限公司	A fluororesin fluororubber composite material with high fracture work and preparation method thereof
+
+=== TABLE 6 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100144948A1 (en) *	2005-07-26	2010-06-10	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+JP2013127035A (en) *	2011-12-19	2013-06-27	Two-One:Kk	Thermal conductivity rubber composition that excels in insulation, flame retardancy, mechanical property, and flexibility, and where circuit contact failure is not caused, molding and sheet comprising the rubber composition, and manufacturing method of the same
+CN113121921A (en) *	2021-04-19	2021-07-16	启东市亿方密封科技有限公司	Combined rubber material for high-temperature-resistant sealing gasket and preparation method thereof
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+CN116771918A (en) *	2023-06-08	2023-09-19	上海芯密科技有限公司	Multilayer sealing product for semiconductor and preparation method thereof
+CN117534929A (en) *	2023-12-18	2024-02-09	上海芯密科技有限公司	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 7 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100144948A1 (en) *	2005-07-26	2010-06-10	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+JP2013127035A (en) *	2011-12-19	2013-06-27	Two-One:Kk	Thermal conductivity rubber composition that excels in insulation, flame retardancy, mechanical property, and flexibility, and where circuit contact failure is not caused, molding and sheet comprising the rubber composition, and manufacturing method of the same
+CN113121921A (en) *	2021-04-19	2021-07-16	启东市亿方密封科技有限公司	Combined rubber material for high-temperature-resistant sealing gasket and preparation method thereof
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+CN116771918A (en) *	2023-06-08	2023-09-19	上海芯密科技有限公司	Multilayer sealing product for semiconductor and preparation method thereof
+CN117534929A (en) *	2023-12-18	2024-02-09	上海芯密科技有限公司	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 8 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN119192756A (en) *	2024-09-23	2024-12-27	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120098462A (en) *	2025-04-11	2025-06-06	上海芯密科技股份有限公司	A fluororesin fluororubber composite material with high fracture work and preparation method thereof
+CN120098462B (en) *	2025-04-11	2025-11-07	上海芯密科技股份有限公司	Fluororesin fluororubber composite material with high breaking work and preparation method thereof
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN118459966B (en)	2025-02-28
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN118459966B (en)	2025-02-28	A semiconductor sealing ring material and its preparation method and application
+TW482805B (en)	2002-04-11	Curable perfluoroelastomer composition
+WO2025011002A1 (en)	2025-01-16	Semiconductor seal ring rubber material, preparation method therefor, and use thereof
+CN101702910B (en)	2013-07-24	Perfluoroelastomer composition and its preparation method
+CN103772859B (en)	2015-12-02	Fluororubber compounded rubber of a kind of modification and preparation method thereof
+CN104356563B (en)	2016-05-25	The fluororubber compounded rubber of high temperature high voltage resistant and water vapour
+CN107189236A (en)	2017-09-22	Sulfur cross-linking EPT rubber composition, preparation method, purposes and its application product that a kind of heat-proof aging, low pressure become
+CN111253687A (en)	2020-06-09	A kind of blend rubber of silicone rubber and EPDM rubber and preparation method thereof
+JP5228913B2 (en)	2013-07-03	Fluorine-containing elastomer composition
+CN103497437B (en)	2016-06-01	Light high-strength brominated butyl rubber airtight material and preparation method and application thereof
+CN105400199A (en)	2016-03-16	Modified rice hull ash-silicone rubber composite material and preparation method thereof
+CN105086299A (en)	2015-11-25	Low-temperature-resistant low-compressive deformation seal gasket material for intake manifolds and preparation method thereof
+CN105733087A (en)	2016-07-06	Rubber composition and preparation method thereof
+WO2025166999A1 (en)	2025-08-14	Modified diamond abrasive, and preparation method therefor and use thereof
+CN118388949B (en)	2024-12-13	High-whiteness fluororubber composition and preparation method and application thereof
+US20060058448A1 (en)	2006-03-16	Cross-linked elastomer composition and formed product composed of such cross-linked elastomer composition
+CN107698829A (en)	2018-02-16	A kind of wide temperature range damping rubber composite and preparation method thereof
+CN100424123C (en)	2008-10-08	Butyl rubber/chlorinated polyolefin blend vulcanized composite damping material and preparation method thereof
+JP2014114383A (en)	2014-06-26	Fluorine-containing elastomer composition and rubber member
+KR102713660B1 (en)	2024-10-07	Perfluoro elastomer and fluororubber composite with improved heat resistance
+CN102690467B (en)	2013-12-04	A kind of production method of solution method butyl rubber inner tube
+CN118324954A (en)	2024-07-12	A modified EPDM rubber compatibilizer, preparation method and EPDM rubber-fluororubber blend
+CN119192756A (en)	2024-12-27	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN114230950B (en)	2023-04-14	A semiconductor device seal and its preparation method
+CN107337861A (en)	2017-11-10	Graphene butyl material, its preparation method and application with solvent resistance
+
+=== TABLE 11 (9 rows) ===
+Date	Code	Title	Description
+2024-08-09	PB01	Publication	
+2024-08-09	PB01	Publication	
+2024-08-27	SE01	Entry into force of request for substantive examination	
+2024-08-27	SE01	Entry into force of request for substantive examination	
+2024-11-29	CB02	Change of applicant information	Country or region after: China Address after: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Applicant after: Shanghai Xinmi Technology Co.,Ltd. Address before: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Applicant before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China
+2024-11-29	CB02	Change of applicant information	
+2025-02-28	GR01	Patent grant	
+2025-02-28	GR01	Patent grant	

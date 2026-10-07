@@ -1,0 +1,62 @@
+# CN120271872A :: CN120271872A - Perfluoro ether rubber sealing component with anti-sticking property, and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510462576.8A CN120271872A (en)	2025-04-14	2025-04-14	Perfluoro ether rubber sealing component with anti-sticking property, and preparation method and application thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510462576.8A CN120271872A (en)	2025-04-14	2025-04-14	Perfluoro ether rubber sealing component with anti-sticking property, and preparation method and application thereof
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+CN120271872A true CN120271872A (en)	2025-07-08
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202510462576.8A Pending CN120271872A (en)	2025-04-14	2025-04-14	Perfluoro ether rubber sealing component with anti-sticking property, and preparation method and application thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN120271872A (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN121200271A (en) *	2025-11-27	2025-12-26	上海森桓新材料科技有限公司	A perfluoroether rubber valve plate and its preparation method
+
+=== TABLE 6 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN121200271A (en) *	2025-11-27	2025-12-26	上海森桓新材料科技有限公司	A perfluoroether rubber valve plate and its preparation method
+
+=== TABLE 7 (23 rows) ===
+Publication	Publication Date	Title
+JP6819717B2 (en)	2021-01-27	Coating composition and coating article
+WO2020004083A1 (en)	2020-01-02	Molded article and production method therefor
+TWI749181B (en)	2021-12-11	Composition and coating film
+JPWO1997021776A1 (en)	1999-01-12	Fluorine-containing paint material and coating method using the same
+US8075992B2 (en)	2011-12-13	Perfluoroelastomer articles having good surface properties
+CN1190618A (en)	1998-08-19	Products of compound made from polytetrafluorethylene and substrate
+JP7265215B2 (en)	2023-04-26	Coating compositions and coated articles
+CN113166581B (en)	2022-12-27	Coating composition and coated article
+TWI679223B (en)	2019-12-11	Composition and molded article
+CN112236280A (en)	2021-01-15	Fluoropolymer coating composition
+JPWO2018043165A1 (en)	2019-06-24	Fluorinated polymer, process for producing the same, and article provided with cured product of fluorinated polymer
+CN116655982B (en)	2023-12-29	Preparation method of perfluoro rubber product with non-adhesive surface
+TW201623411A (en)	2016-07-01	Fluoroelastomer composition and molded article
+JP6838636B2 (en)	2021-03-03	Compositions and coatings
+JP4531368B2 (en)	2010-08-25	Perfluoroelastomer products with improved surface properties
+JP6773167B1 (en)	2020-10-21	Wafer cup
+JP2003147256A (en)	2003-05-21	Fluorine-containing coating composition and coating regeneration method
+CN121925460A (en)	2026-04-24	Covered compositions and coated articles
+JP2025110738A (en)	2025-07-29	Liquid composition
+JP2021046512A (en)	2021-03-25	Nozzle and its manufacturing method
+KR20220045017A (en)	2022-04-12	Adhesive Amorphous Perfluoropolymer Composition
+TW202222952A (en)	2022-06-16	Fluoroelastomer composition and its molded article comprising a filler and a polymer component that includes a fluoroelastomer and a crosslinking agent
+
+=== TABLE 8 (5 rows) ===
+Date	Code	Title	Description
+2025-07-08	PB01	Publication	
+2025-07-08	PB01	Publication	
+2025-07-25	SE01	Entry into force of request for substantive examination	
+2025-07-25	SE01	Entry into force of request for substantive examination	

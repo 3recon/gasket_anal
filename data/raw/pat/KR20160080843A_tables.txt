@@ -1,0 +1,87 @@
+# KR20160080843A :: KR20160080843A - A RUBBER COMPOSITE FOR Low Density FKM RUBBER 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020140192505A KR20160080843A (en)	2014-12-29	2014-12-29	A RUBBER COMPOSITE FOR Low Density FKM RUBBER
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020140192505A KR20160080843A (en)	2014-12-29	2014-12-29	A RUBBER COMPOSITE FOR Low Density FKM RUBBER
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR20160080843A true KR20160080843A (en)	2016-07-08
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020140192505A Ceased KR20160080843A (en)	2014-12-29	2014-12-29	A RUBBER COMPOSITE FOR Low Density FKM RUBBER
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR20160080843A (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20190080561A (en)	2017-12-28	2019-07-08	평화오일씰공업주식회사	Rubber composite of oil seal for vehicle
+
+=== TABLE 6 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20190080561A (en)	2017-12-28	2019-07-08	평화오일씰공업주식회사	Rubber composite of oil seal for vehicle
+
+=== TABLE 7 (26 rows) ===
+Publication	Publication Date	Title
+CN104893186B (en)	2018-02-06	A kind of low friction fluorubber material
+CN101213618A (en)	2008-07-02	Flame retardant composition for cable wrapping material and submarine cable using same
+JP2019094430A (en)	2019-06-20	Fluororubber molded body and composition
+JP2610145B2 (en)	1997-05-14	Rubber composition
+CN103665917A (en)	2014-03-26	Novel plastic formula
+JP4767239B2 (en)	2011-09-07	Belt and belt material
+CN105440486A (en)	2016-03-30	PVC tube with excellent impact strength
+CN107586423A (en)	2018-01-16	A kind of teflon gasket material
+JP2024074901A (en)	2024-05-31	Rubber composition and vulcanized molded product
+CN111117113A (en)	2020-05-08	High-cold-resistance wear-resistant polyvinyl chloride modified material for automobile wire and preparation method thereof
+KR101405907B1 (en)	2014-06-19	Rubber composition of O-ring for mono tube type shock absorber
+CN102993682B (en)	2015-04-29	High-property epichlorohydrin rubber gasket and preparation method thereof
+JP4213937B2 (en)	2009-01-28	Fuel hose
+KR102089481B1 (en)	2020-03-16	Rubber composite of oil seal for vehicle
+CN107964195A (en)	2018-04-27	A kind of high pressure resistant pipe fitting and its preparation process
+KR101829449B1 (en)	2018-02-14	Composition for fluororubber having excellent mechanical strength
+CN108676264B (en)	2021-07-30	Rubber compound for rubber tube outer layer rubber and preparation method thereof
+CN107383713A (en)	2017-11-24	Undersea detection high-strength composite rubber and preparation method thereof
+KR20180003871A (en)	2018-01-10	Rubber Composition Having Nitrosamines-free Vulcanization Accelerator And Glassrun Weather-strip For Vehicle By Using The Same
+CN104974446A (en)	2015-10-14	Environmental protection cable material
+KR102160312B1 (en)	2020-09-25	Fluororesin composition with excellent wear-resistance, and low voltage cable having a dielectric layer made from the same
+CN108976518A (en)	2018-12-11	A kind of rubber hose of ozone and aging resistance outer glue material and preparation method thereof
+KR102346343B1 (en)	2022-01-03	Fluororesin composition with excellent heat-resistance, and cable having a dielectric layer made from the same
+KR102113074B1 (en)	2020-05-20	A rubber composition for boat materials and a rubber seat comprising the same
+KR102240636B1 (en)	2021-04-14	Fluororesin composition with excellent flexibility, and cable having a dielectric layer made from the same
+
+=== TABLE 8 (27 rows) ===
+Date	Code	Title	Description
+2014-12-29	A201	Request for examination	
+2014-12-29	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2014-12-29	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2015-07-10	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2015-09-10	D14-X000	Search report completed	St.27 status event code: A-1-2-D10-D14-srh-X000
+2016-06-21	E902	Notification of reason for refusal	
+2016-06-21	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2016-07-08	PG1501	Laying open of application	St.27 status event code: A-1-1-Q10-Q12-nap-PG1501
+2016-08-22	T11-X000	Administrative time limit extension requested	St.27 status event code: U-3-3-T10-T11-oth-X000
+2016-09-21	T11-X000	Administrative time limit extension requested	St.27 status event code: U-3-3-T10-T11-oth-X000
+2016-10-21	E13-X000	Pre-grant limitation requested	St.27 status event code: A-2-3-E10-E13-lim-X000
+2016-10-21	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2016-10-21	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2017-02-23	E90F	Notification of reason for final refusal	
+2017-02-23	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2017-04-24	T11-X000	Administrative time limit extension requested	St.27 status event code: U-3-3-T10-T11-oth-X000
+2017-05-23	T11-X000	Administrative time limit extension requested	St.27 status event code: U-3-3-T10-T11-oth-X000
+2017-06-23	T11-X000	Administrative time limit extension requested	St.27 status event code: U-3-3-T10-T11-oth-X000
+2017-07-24	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2017-07-24	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2017-11-01	E601	Decision to refuse application	
+2017-11-01	PE0601	Decision on rejection of patent	St.27 status event code: N-2-6-B10-B15-exm-PE0601
+2017-12-07	T11-X000	Administrative time limit extension requested	St.27 status event code: U-3-3-T10-T11-oth-X000
+2017-12-08	T13-X000	Administrative time limit extension granted	St.27 status event code: U-3-3-T10-T13-oth-X000
+2026-03-27	R18	Changes to party contact information recorded	Free format text: ST27 STATUS EVENT CODE: A-3-3-R10-R18-OTH-X000 (AS PROVIDED BY THE NATIONAL OFFICE)
+2026-03-27	R18-X000	Changes to party contact information recorded	St.27 status event code: A-3-3-R10-R18-oth-X000

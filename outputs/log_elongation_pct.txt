@@ -1,0 +1,25 @@
+targets: {'hardness_shoreA': 227, 'tensile_MPa': 263, 'elongation_pct': 270, 'm100_MPa': 264, 'compression_set_pct': 250}
+
+=============== elongation_pct ===============
+  baseline GP_sklearn_default   R2=-6466.222 RMSE=3939.398
+  baseline Ridge                R2=0.424 RMSE=42.924
+  baseline RandomForest         R2=0.499 RMSE=40.030
+  screen rbf       ard=True  R2=0.591
+  screen rbf       ard=False R2=0.496
+  screen matern12  ard=True  R2=0.622
+  screen matern12  ard=False R2=0.509
+  screen matern32  ard=True  R2=0.621
+  screen matern32  ard=False R2=0.507
+  screen matern52  ard=True  R2=0.612
+  screen matern52  ard=False R2=0.502
+  screen rq        ard=False R2=0.500
+  BO seed 0: best R2=0.654 at iter 24  {'kernel': 'matern12', 'ard': True, 'linear': True, 'x_transform': 'std', 'y_transform': 'none', 'feature_set': 'compact', 'ls_init': -0.28993232049883555, 'noise_init': -2.9695539734022574, 'noise_floor': -2.706758439569493}
+  BO seed 1: best R2=0.650 at iter 24  {'kernel': 'matern12', 'ard': True, 'linear': True, 'x_transform': 'std', 'y_transform': 'log', 'feature_set': 'compact', 'ls_init': -0.48660647816983627, 'noise_init': -0.006892936216326806, 'noise_floor': -4.660602622246218}
+  BO seed 2: best R2=0.644 at iter 28  {'kernel': 'matern12', 'ard': True, 'linear': True, 'x_transform': 'std', 'y_transform': 'log', 'feature_set': 'compact', 'ls_init': -0.6365565689045289, 'noise_init': -0.27870746686949754, 'noise_floor': -5.833101954607596}
+  robust matern12 ard=True lin=True x=std y=none fs=compact: search 0.654 -> robust 0.627±0.023
+  robust matern12 ard=True lin=True x=std y=log fs=compact: search 0.650 -> robust 0.630±0.012
+  robust matern52 ard=True lin=True x=std y=log fs=compact: search 0.637 -> robust 0.625±0.008
+  TEST GP R2=-0.192 RMSE=70.259 cov95=0.93 | GP_sklearn_default=-1052.517 Ridge=0.471 RandomForest=0.597
+  leave-source-out R2=-0.016
+  done in 73.5 min
+ALL DONE

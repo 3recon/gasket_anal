@@ -1,0 +1,82 @@
+# CN112457612B :: CN112457612B - Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202011275931.4A CN112457612B (en)	2020-11-16	2020-11-16	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202011275931.4A CN112457612B (en)	2020-11-16	2020-11-16	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN112457612A CN112457612A (en)	2021-03-09
+CN112457612B true CN112457612B (en)	2023-03-10
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202011275931.4A Active CN112457612B (en)	2020-11-16	2020-11-16	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN112457612B (en)
+
+=== TABLE 5 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN114369353A (en) *	2021-12-30	2022-04-19	温州大学	Perfluoroether rubber for food processing and preparation method thereof
+CN114395240A (en) *	2021-12-30	2022-04-26	温州大学	High-temperature-resistant ultra-pure perfluoroether rubber and preparation method thereof
+CN114874570A (en) *	2022-06-13	2022-08-09	上海杜实新材料科技有限公司	Fluoroelastomer composition for improving adhesion with silicon-containing elastomer, and preparation method and application thereof
+CN118834484A (en) *	2023-04-23	2024-10-25	中国石油化工股份有限公司	Perfluoroether rubber composition, perfluoroether rubber, and preparation method and application thereof
+CN116838789B (en) *	2023-07-03	2025-01-24	东莞市润银实业有限公司	A high temperature resistant ultra-clean perfluoroether rubber and preparation method thereof
+CN118834485B (en) *	2024-07-25	2025-01-24	上海芯密科技股份有限公司	A fluororubber composition containing cross-linked perfluoroether rubber and a preparation method thereof
+CN119686133B (en) *	2024-12-10	2025-10-21	青岛大学	A self-adhesive ionic skin that is stable in extreme environments and resistant to fatigue fracture, and its preparation method and application
+CN119613897B (en) *	2024-12-18	2025-08-12	福建永泓高新材料有限公司	A low-temperature resistant perfluoroether rubber and its preparation method
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6806306B2 (en) *	2001-05-22	2004-10-19	Freduenberg-Nok General Partnership	Low temperature, highly chemically resistant thermoplastic vulcanizates based on perfluroether elastomers
+CN106633544B (en) *	2016-11-17	2019-07-19	上海如实密封科技有限公司	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+JP6909040B2 (en) *	2017-04-21	2021-07-28	キヤノン株式会社	Fixing member for electrophotographic, fixing device and electrophotographic image forming device
+CN111925615B (en) *	2020-07-10	2022-04-29	上海如实密封科技有限公司	High-strength high-modulus perfluoroether rubber material and preparation method and application thereof
+
+=== TABLE 7 (2 rows) ===
+Publication number	Publication date
+CN112457612A (en)	2021-03-09
+
+=== TABLE 8 (26 rows) ===
+Publication	Publication Date	Title
+CN112457612A (en)	2021-03-09	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+US5444116A (en)	1995-08-22	Perfluoroelastomeric compositions and seals having improved chemical resistance and methods of making the same
+US7964667B2 (en)	2011-06-21	High temperature elastomers with low hydrocarbon vapor permeability
+US5459202A (en)	1995-10-17	Elastomer seal
+JP5967289B2 (en)	2016-08-10	Acrylonitrile butadiene rubber composition, acrylonitrile butadiene rubber molded article and method for producing the same
+CN112592548B (en)	2023-02-24	Low-temperature-resistant fluororubber composition and application thereof
+WO2014024698A1 (en)	2014-02-13	Nbr composition
+EP2691452B1 (en)	2018-11-28	Curable fluoroelastomer composition
+CN110218405A (en)	2019-09-10	A kind of fluoro-rubber composite of hydrogen sulfide corrosion-resistant and its application
+EP2928946B1 (en)	2019-02-27	Melt-processable perfluoropolymers having improved thermal and mechanical properties after heating treatment
+JP2011168630A (en)	2011-09-01	Low-temperature resistant fluororubber composition exhibiting good fuel permeation resistance
+CN103387634A (en)	2013-11-13	Method for preparing fluoroelastomer
+US12473484B2 (en)	2025-11-18	Polymer blends for use in wellbore applications
+WO2004069953A1 (en)	2004-08-19	Fluororubber base sealant composition and fluororubber base sealant
+JP4509516B2 (en)	2010-07-21	Composition for fluororubber-based sealing material and fluororubber-based sealing material
+KR101792329B1 (en)	2017-11-20	Rubber composition for sealing material composing silica, carbonblack, and method thereof
+JP2005140196A (en)	2005-06-02	Gasket for fuel cell
+WO1998014517A1 (en)	1998-04-09	Fluroelastomer alloy compositon having excellent low temperature properties
+KR101799547B1 (en)	2017-11-20	O―ring rubber composition for ship engine with excellent durability and O―ring for ship engine using the same
+JPH09143327A (en)	1997-06-03	Blend rubber composition
+Farrow et al.	2010	New low-temperature FKM for effective sealing in the chemical industry
+CA2836110C (en)	2019-08-27	Process for lining metal pipelines
+JP2015013972A (en)	2015-01-22	Composition for fluorine-containing rubber-based seal material and fluorine-containing rubber-based seal material
+WO2014004422A1 (en)	2014-01-03	Curable fluoroelastomer composition
+JP4914557B2 (en)	2012-04-11	Fluorine elastomer composition
+
+=== TABLE 9 (7 rows) ===
+Date	Code	Title	Description
+2021-03-09	PB01	Publication	
+2021-03-09	PB01	Publication	
+2021-03-26	SE01	Entry into force of request for substantive examination	
+2021-03-26	SE01	Entry into force of request for substantive examination	
+2023-03-10	GR01	Patent grant	
+2023-03-10	GR01	Patent grant	

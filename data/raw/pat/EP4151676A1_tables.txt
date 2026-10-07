@@ -1,0 +1,171 @@
+# EP4151676A1 :: EP4151676A1 - Rubber composition, fluoroelastomer, and sealing material 
+      - Google Patents
+
+=== TABLE 0 (18 rows) ===
+	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 5	Ex. 6	Ex. 7	Comp. Ex. 1	Comp. Ex. 2	Comp. Ex. 3	Comp. Ex. 4	Comp. Ex. 5	Comp. Ex. 6
+Composition [% by mass]	(a) Diel G912	100	100	100	100	100	100	100	100	100	100	100	100	100
+(b) Formula (b-5)	4.9 (8 mmol)	7.4 (12 mmol)	14.9 (24 mmol)	7.4 (12 mmol)	14.9 (24 mmol)	7.4 (12 mmol)	7.4 (12 mmol)	7.4 (12 mmol)	9.8 (16 mmol)	17.2 (28 mmol)	-	-	-
+(c) Formula (c-2)	1.0 (4 mmol)	1.0 (4 mmol)	1.0 (4 mmol)	4.0 (16 mmol)	-	4.0 (16 mmol)	4.0 (16 mmol)	-	-	-	-	1.0 (4 mmol)	4.0 (16 mmol)
+(c) Formula (c-3)	-	-	-	-	1.4 (4 mmol)	-	-	-	-	-	9.9 (28 mmol)	4.2 (12 mmol)	-
+(d) Perhexa 25B	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+(e) SIFEL8370A	-	-	-	-	-	6.0	-	-	-	-	-	-	-
+(e) SIFEL8370B	-	-	-	-	-	6.0	-	-	-	-	-	-	-
+(e) KrytoxVPF16256	-	-	-	-	-	-	6.0	-	-	-	-	-	-
+(f) Thermax N990	-	-	-	-	-	-	-	-	-	-	-	-	15.0
+total moles of (b) + (c)	12 mmol	16 mmol	28 mmol	28 mmol	28 mmol	28 mmol	28 mmol	12 mmol	16 mmol	28 mmol	28 mmol	16 mmol	16 mmol
+Hardness	63	67	80	73	72	69	69	64	64	72	57	61	74
+Compression set [%]	13	14	12	12	21	10	13	28	28	32	17	10	9
+Plasma resistance	Weight loss ratio [%]	2.1	2.2	2.3	1.9	2.1	1.2	1.1	1.9	1.9	1.9	1.8	1.8	3.0
+Particle	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Presence
+Tensile characteristics	Tensile strength [MPa]	6.2	100	12.8	14.7	6.5	12.4	13.7	9.0	10.3	11.4	5.6	5.9	16.9
+Elongation at break [%]	191	189	129	187	139	198	183	271	297	215	249	208	180
+M100 [MPa]	1.6	2.6	9.3	4.9	3.6	3.5	4.5	1.7	1.6	3.8	1.1	1.3	5.4
+
+=== TABLE 1 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2020084974		2020-05-14	
+JP2020160380		2020-09-25	
+PCT/JP2021/017845 WO2021230231A1 (en)	2020-05-14	2021-05-11	Rubber composition, fluoroelastomer, and sealing material
+
+=== TABLE 2 (4 rows) ===
+Publication Number	Publication Date
+EP4151676A1 true EP4151676A1 (en)	2023-03-22
+EP4151676A4 EP4151676A4 (en)	2023-10-11
+EP4151676B1 EP4151676B1 (en)	2025-03-05
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+EP21804191.1A Active EP4151676B1 (en)	2020-05-14	2021-05-11	Rubber composition, fluoroelastomer, and sealing material
+
+=== TABLE 4 (8 rows) ===
+Country	Link
+US (1)	US20230174764A1 (en)
+EP (1)	EP4151676B1 (en)
+JP (1)	JP7571134B2 (en)
+KR (1)	KR102846548B1 (en)
+CN (1)	CN115605540B (en)
+TW (1)	TWI801868B (en)
+WO (1)	WO2021230231A1 (en)
+
+=== TABLE 5 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2021125347A1 (en) *	2019-12-19	2021-06-24	ニチアス株式会社	Novel compound, crosslinking agent and crosslinked fluoroelastomer
+EP4644483A1 (en)	2022-12-28	2025-11-05	Agc Inc.	Fluorine-containing copolymer composition and crosslinked product of same
+WO2024185829A1 (en) *	2023-03-07	2024-09-12	ダイキン工業株式会社	Production method for fluoroalkyl aromatic compound
+WO2024202607A1 (en) *	2023-03-30	2024-10-03	株式会社バルカー	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+
+=== TABLE 6 (20 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP3523258B2 (en)	1993-07-16	2004-04-26	イー・アイ・デュポン・ドゥ・ヌムール・アンド・カンパニー	High purity fluoroelastomer compound
+JP3487744B2 (en)	1997-10-09	2004-01-19	信越化学工業株式会社	Curable composition
+JPH11116684A (en)	1997-10-13	1999-04-27	Shin Etsu Chem Co Ltd	Curable composition
+JP2000034380A (en)	1998-07-17	2000-02-02	Daikin Ind Ltd	Crosslinkable elastomer composition, sealing material produced from the composition, and filler used therefor
+KR20000034380A (en)	1998-11-30	2000-06-15	전주범	Digital audio encoding device
+JP2003183402A (en)	2001-10-12	2003-07-03	Nichias Corp	Plasma resistant fluoroelastomer sealing material
+ITMI20041252A1 (en)	2004-06-22	2004-09-22	Solvay Solexis Spa	PERFLUOROELASTOMERIC COMPOSITIONS
+JP4675907B2 (en) *	2004-12-20	2011-04-27	日本バルカー工業株式会社	Rubber composition, sealing material for plasma processing apparatus
+JP5189728B2 (en)	2005-06-08	2013-04-24	日本バルカー工業株式会社	Fluoro rubber sealant
+RU2539009C2 (en) *	2009-10-01	2015-01-10	Асахи Гласс Компани, Лимитед	Crosslinkable fluororubber composition and crosslinked rubber article
+JPWO2012073977A1 (en) *	2010-11-30	2014-05-19	旭硝子株式会社	Crosslinkable fluororubber composition and crosslinked rubber article
+EP2985307B1 (en)	2013-04-09	2019-10-02	Nichias Corporation	Method for producing crosslinked fluoroelastomer
+GB2543228B (en)	2014-08-01	2021-07-21	Nichias Corp	Crosslinking agent and fluorine-containing aromatic compound
+JP2016145277A (en) *	2015-02-06	2016-08-12	ニチアス株式会社	Crosslinking agent
+JP2016145167A (en)	2015-02-06	2016-08-12	ニチアス株式会社	Crosslinking agent and fluorine-containing aromatic compound
+JP6618506B2 (en) *	2016-05-30	2019-12-11	株式会社バルカー	Perfluoroelastomer composition and sealing material
+JP6620132B2 (en) *	2017-09-14	2019-12-11	三菱電線工業株式会社	Seal material and manufacturing method thereof
+KR101995133B1 (en)	2017-11-08	2019-07-01	동서대학교 산학협력단	random binary number column generating method using bidirectional mutual clock control way
+JP7066010B2 (en) *	2018-12-17	2022-05-12	ニチアス株式会社	Perfluoroelastomer compositions, crosslinked perfluoroelastomers and articles
+
+=== TABLE 7 (13 rows) ===
+Publication number	Publication date
+JP7571134B2 (en)	2024-10-22
+KR102846548B1 (en)	2025-08-20
+TW202208535A (en)	2022-03-01
+TWI801868B (en)	2023-05-11
+JPWO2021230231A1 (en)	2021-11-18
+CN115605540B (en)	2024-10-25
+WO2021230231A1 (en)	2021-11-18
+CN115605540A (en)	2023-01-13
+US20230174764A1 (en)	2023-06-08
+EP4151676A4 (en)	2023-10-11
+EP4151676B1 (en)	2025-03-05
+KR20230010703A (en)	2023-01-19
+
+=== TABLE 8 (17 rows) ===
+Publication	Publication Date	Title
+EP4151676B1 (en)	2025-03-05	Rubber composition, fluoroelastomer, and sealing material
+EP2593511B1 (en)	2014-06-04	Fluoroelastomer composition
+KR101729353B1 (en)	2017-04-21	Crosslinkable fluororubber composition and crosslinked rubber article
+EP1834990B1 (en)	2012-03-07	Rubber composition and sealing material for plasma treatment device
+CN116323787B (en)	2026-04-21	Elastomer composition, sealing material and method for manufacturing sealing material
+EP4219612A1 (en)	2023-08-02	Elastomer composition, sealing material, and method for producing sealing material
+KR20230078695A (en)	2023-06-02	Elastomer composition, sealant and manufacturing method of sealant
+EP4219644B1 (en)	2025-10-22	Sealing material and method for producing sealing material
+EP3901206A1 (en)	2021-10-27	Perfluoroelastomer composition, crosslinked perfluoroelastomer and molded article
+EP3755745B1 (en)	2021-07-21	Blends of crosslinking agents for fluoroelastomers
+JP2025080929A (en)	2025-05-27	Rubber composition, fluorine-containing elastomer and sealing material
+EP4219611A1 (en)	2023-08-02	Elastomer composition, sealing material, and method for producing sealing material
+JP2025080928A (en)	2025-05-27	Rubber composition, fluorine-containing elastomer and sealing material
+EP4644483A1 (en)	2025-11-05	Fluorine-containing copolymer composition and crosslinked product of same
+TW202611219A (en)	2026-03-16	Rubber compositions, fluoroelastomers, sealing materials, and storage methods for rubber compositions
+KR20250164178A (en)	2025-11-24	Elastomer composition, method for producing an elastomer composition, sealant and method for producing a sealant
+
+=== TABLE 9 (58 rows) ===
+Date	Code	Title	Description
+2021-11-19	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+2023-02-17	PUAI	Public reference made under article 153(3) epc to a published international application that has entered the european phase	Free format text: ORIGINAL CODE: 0009012
+2023-02-17	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+2023-03-22	17P	Request for examination filed	Effective date: 20221114
+2023-03-22	AK	Designated contracting states	Kind code of ref document: A1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2023-08-23	DAV	Request for validation of the european patent (deleted)	
+2023-08-23	DAX	Request for extension of the european patent (deleted)	
+2023-10-11	A4	Supplementary search report drawn up and despatched	Effective date: 20230911
+2023-10-11	RIC1	Information provided on ipc code assigned before grant	Ipc: F16J 15/10 20060101ALI20230905BHEP Ipc: C09K 3/10 20060101ALI20230905BHEP Ipc: C08L 27/12 20060101ALI20230905BHEP Ipc: C08K 5/3492 20060101ALI20230905BHEP Ipc: C08K 5/14 20060101ALI20230905BHEP Ipc: C08K 5/00 20060101ALI20230905BHEP Ipc: C08J 3/24 20060101AFI20230905BHEP
+2024-10-24	GRAP	Despatch of communication of intention to grant a patent	Free format text: ORIGINAL CODE: EPIDOSNIGR1
+2024-10-24	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: GRANT OF PATENT IS INTENDED
+2024-11-27	INTG	Intention to grant announced	Effective date: 20241025
+2025-01-24	GRAS	Grant fee paid	Free format text: ORIGINAL CODE: EPIDOSNIGR3
+2025-01-31	GRAA	(expected) grant	Free format text: ORIGINAL CODE: 0009210
+2025-01-31	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+2025-02-26	P01	Opt-out of the competence of the unified patent court (upc) registered	Free format text: CASE NUMBER: APP_3149/2025 Effective date: 20250121
+2025-03-05	AK	Designated contracting states	Kind code of ref document: B1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2025-03-05	REG	Reference to a national code	Ref country code: GB Ref legal event code: FG4D
+2025-03-14	REG	Reference to a national code	Ref country code: CH Ref legal event code: EP
+2025-03-26	REG	Reference to a national code	Ref country code: IE Ref legal event code: FG4D
+2025-03-27	REG	Reference to a national code	Ref country code: DE Ref legal event code: R096 Ref document number: 602021027254 Country of ref document: DE
+2025-07-07	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: RS Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250605
+2025-07-08	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: FI Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-07-09	REG	Reference to a national code	Ref country code: NL Ref legal event code: MP Effective date: 20250305
+2025-07-10	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: ES Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-07-10	PGFP	Annual fee paid to national office [announced via postgrant information from national office to epo]	Ref country code: GB Payment date: 20250527 Year of fee payment: 5
+2025-07-10	REG	Reference to a national code	Ref country code: LT Ref legal event code: MG9D
+2025-07-14	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: NO Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250605
+2025-07-16	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: HR Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-07-17	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: LV Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-07-21	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: GR Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250606 Ref country code: BG Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-08-15	REG	Reference to a national code	Ref country code: AT Ref legal event code: MK05 Ref document number: 1772923 Country of ref document: AT Kind code of ref document: T Effective date: 20250305
+2025-08-18	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: NL Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-09-09	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: SE Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-10-06	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: SM Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-10-09	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: PT Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250707
+2025-10-15	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: PL Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-10-15	PGFP	Annual fee paid to national office [announced via postgrant information from national office to epo]	Ref country code: IT Payment date: 20250627 Year of fee payment: 5
+2025-10-20	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: AT Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-10-22	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: CZ Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305 Ref country code: EE Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-10-24	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: RO Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-10-27	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: SK Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2025-10-28	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: IS Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250705
+2025-12-02	REG	Reference to a national code	Ref country code: DE Ref legal event code: R119 Ref document number: 602021027254 Country of ref document: DE
+2025-12-23	REG	Reference to a national code	Ref country code: CH Ref legal event code: H13 Free format text: ST27 STATUS EVENT CODE: U-0-0-H10-H13 (AS PROVIDED BY THE NATIONAL OFFICE) Effective date: 20251223
+2026-01-09	PLBE	No opposition filed within time limit	Free format text: ORIGINAL CODE: 0009261
+2026-01-09	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT
+2026-01-13	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: DK Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2026-01-14	REG	Reference to a national code	Ref country code: CH Ref legal event code: L10 Free format text: ST27 STATUS EVENT CODE: U-0-0-L10-L00 (AS PROVIDED BY THE NATIONAL OFFICE) Effective date: 20260114
+2026-01-15	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: LU Free format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES Effective date: 20250511
+2026-01-19	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: CH Free format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES Effective date: 20250531
+2026-01-29	REG	Reference to a national code	Ref country code: BE Ref legal event code: MM Effective date: 20250531
+2026-01-30	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: MC Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250305
+2026-02-11	26N	No opposition filed	Effective date: 20251208
+2026-04-13	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: DE Free format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES Effective date: 20251202 Ref country code: IE Free format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES Effective date: 20250511
+2026-04-15	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: BE Free format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES Effective date: 20250531
+2026-04-20	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: FR Free format text: LAPSE BECAUSE OF NON-PAYMENT OF DUE FEES Effective date: 20250531

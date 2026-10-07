@@ -1,0 +1,113 @@
+# CN116769266B :: CN116769266B - 
+        Semiconductor sealing ring rubber material and its preparation method and application
+       
+        - Google Patents
+
+=== TABLE 0 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310860467.2A CN116769266B (en)	2023-07-13	2023-07-13	Semiconductor sealing ring rubber material and its preparation method and application
+PCT/CN2024/073855 WO2025011002A1 (en)	2023-07-13	2024-01-24	Semiconductor seal ring rubber material, preparation method therefor, and use thereof
+EP24761152.8A EP4520786A4 (en)	2023-07-13	2024-01-24	Semiconductor sealing ring rubber material, manufacturing method therefor and use thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310860467.2A CN116769266B (en)	2023-07-13	2023-07-13	Semiconductor sealing ring rubber material and its preparation method and application
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN116769266A CN116769266A (en)	2023-09-19
+CN116769266B true CN116769266B (en)	2024-01-23
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202310860467.2A Active CN116769266B (en)	2023-07-13	2023-07-13	Semiconductor sealing ring rubber material and its preparation method and application
+
+=== TABLE 4 (4 rows) ===
+Country	Link
+EP (1)	EP4520786A4 (en)
+CN (1)	CN116769266B (en)
+WO (1)	WO2025011002A1 (en)
+
+=== TABLE 5 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN116769266B (en) *	2023-07-13	2024-01-23	上海芯密科技有限公司	Semiconductor sealing ring rubber material and its preparation method and application
+CN117245947A (en) *	2023-09-27	2023-12-19	四达氟塑股份有限公司	A post-processing method for perfluorinated sealing rings
+CN118388949B (en) *	2024-05-22	2024-12-13	上海芯密科技股份有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN120464117A (en) *	2025-05-21	2025-08-12	嘉兴金氟微电子材料有限公司	A crack-resistant perfluoroether rubber and its preparation method and application
+
+=== TABLE 6 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+GB1183616A (en) *	1966-07-05	1970-03-11	Genset Corp	Fibrous Sheet Compositions
+CN101657882A (en) *	2007-04-13	2010-02-24	株式会社半导体能源研究所	Display device, method for manufacturing display device, and SOI substrate
+CN102229748A (en) *	2011-04-15	2011-11-02	湖北飞宏新材料科技有限公司	Organic rectorite modified fluorosilicone rubber sealing and preparation method thereof
+CN106630838A (en) *	2016-12-22	2017-05-10	天津雨茅科技有限公司	Waterproof paint for architectural ornament engineering
+CN109843250A (en) *	2016-08-05	2019-06-04	派安科技有限公司	From expansion type cosmetic combination and its manufacturing method
+CN110644287A (en) *	2019-09-26	2020-01-03	浙江理工大学	A kind of preparation method of modified aluminosilicate composite rubber sealing sheet
+CN113913023A (en) *	2021-11-01	2022-01-11	南通万德科技有限公司	Quick-vulcanization addition type silicone rubber and preparation method thereof
+
+=== TABLE 7 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP5044999B2 (en) *	2005-09-26	2012-10-10	旭硝子株式会社	Perfluoroelastomer composition and perfluororubber molded article
+JP2007154043A (en) *	2005-12-05	2007-06-21	Nippon Valqua Ind Ltd	Fluororubber composition and sealing material composed thereof
+CN101977981B (en) *	2008-03-18	2013-08-14	日本华尔卡工业株式会社	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+JP2012512311A (en) *	2008-12-17	2012-05-31	グリーン， ツイード オブ デラウェア， インコーポレイテッド	Perfluoroelastomer composition containing barium titanate filler
+US20170022347A1 (en) *	2015-07-21	2017-01-26	E I Du Pont De Nemours And Company	Thermal Stability of FFKM Compounds
+CN114106495A (en) *	2020-08-28	2022-03-01	中昊晨光化工研究院有限公司	Modified perfluoroether fluororubber and preparation method and application thereof
+CN114437476A (en) *	2022-03-11	2022-05-06	江苏中煜橡塑科技有限公司	Fluororubber sealing ring with extrusion deformation resistance and preparation method thereof
+CN116769266B (en) *	2023-07-13	2024-01-23	上海芯密科技有限公司	Semiconductor sealing ring rubber material and its preparation method and application
+
+=== TABLE 8 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+GB1183616A (en) *	1966-07-05	1970-03-11	Genset Corp	Fibrous Sheet Compositions
+CN101657882A (en) *	2007-04-13	2010-02-24	株式会社半导体能源研究所	Display device, method for manufacturing display device, and SOI substrate
+CN102229748A (en) *	2011-04-15	2011-11-02	湖北飞宏新材料科技有限公司	Organic rectorite modified fluorosilicone rubber sealing and preparation method thereof
+CN109843250A (en) *	2016-08-05	2019-06-04	派安科技有限公司	From expansion type cosmetic combination and its manufacturing method
+CN106630838A (en) *	2016-12-22	2017-05-10	天津雨茅科技有限公司	Waterproof paint for architectural ornament engineering
+CN110644287A (en) *	2019-09-26	2020-01-03	浙江理工大学	A kind of preparation method of modified aluminosilicate composite rubber sealing sheet
+CN113913023A (en) *	2021-11-01	2022-01-11	南通万德科技有限公司	Quick-vulcanization addition type silicone rubber and preparation method thereof
+
+=== TABLE 9 (5 rows) ===
+Publication number	Publication date
+EP4520786A1 (en)	2025-03-12
+CN116769266A (en)	2023-09-19
+EP4520786A4 (en)	2025-07-02
+WO2025011002A1 (en)	2025-01-16
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN116769266A (en)	2023-09-19	Semiconductor sealing ring rubber material and preparation method and application thereof
+CN118459966B (en)	2025-02-28	A semiconductor sealing ring material and its preparation method and application
+CN1653096A (en)	2005-08-10	Diene rubber, its production method, rubber composition, its production method, and crosslinked product
+CN116694005B (en)	2024-07-16	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+CN117304625B (en)	2024-05-17	Fluororubber composition capable of effectively reducing adhesion with metal and preparation method thereof
+CN108530733A (en)	2018-09-14	A kind of anti-aging type polyethylene color master batch and preparation method thereof
+JPWO2008041557A1 (en)	2010-02-04	Fluorine-containing elastomer composition
+CN115710394A (en)	2023-02-24	Antistatic polyethylene composite material and preparation method and application thereof
+CN118388949B (en)	2024-12-13	High-whiteness fluororubber composition and preparation method and application thereof
+JP6073787B2 (en)	2017-02-01	Sealing material and manufacturing method thereof
+CN102762641B (en)	2016-04-13	high speed cross-linking system
+CN105732871B (en)	2018-04-17	The resin for preparing the method for the ethylene vinyl acetate copolymer for solar cell sealing agent and being obtained by this method
+JP2014114383A (en)	2014-06-26	Fluorine-containing elastomer composition and rubber member
+CN119192756B (en)	2025-03-21	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN104292391A (en)	2015-01-21	Melting production method for unsaturated anhydride grafted chlorinated polyethylene
+CN109988401A (en)	2019-07-09	A kind of preparation method of stretch-proof cable insulating layer
+CN118324954A (en)	2024-07-12	A modified EPDM rubber compatibilizer, preparation method and EPDM rubber-fluororubber blend
+CN117050446B (en)	2024-05-10	High-performance tetrapropylacetonate fluororubber composition and preparation method thereof
+CN116948330A (en)	2023-10-27	Fluororubber compound and preparation method and application thereof
+CN101402765A (en)	2009-04-08	Method for producing polythene/polystyrene alloy with capacity increasing of reaction in-situ
+CN113185781A (en)	2021-07-30	Mixed ethylene propylene diene monomer fluorine rubber and production process thereof
+CN103333279B (en)	2016-04-20	A kind of production method of amphoteric ion type polyvinyl butyral resin
+CN120442077A (en)	2025-08-08	A semiconductor seal and its preparation method and application
+CN112724521A (en)	2021-04-30	Super-hydrophobic anti-scaling pipe and preparation method thereof
+CN112961427A (en)	2021-06-15	Wear-resisting agent for shoes and preparation method and application thereof
+
+=== TABLE 11 (9 rows) ===
+Date	Code	Title	Description
+2023-09-19	PB01	Publication	
+2023-09-19	PB01	Publication	
+2023-10-10	SE01	Entry into force of request for substantive examination	
+2023-10-10	SE01	Entry into force of request for substantive examination	
+2024-01-23	GR01	Patent grant	
+2024-01-23	GR01	Patent grant	
+2024-11-29	CP03	Change of name, title or address	
+2024-11-29	CP03	Change of name, title or address	Address after: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Patentee after: Shanghai Xinmi Technology Co.,Ltd. Country or region after: China Address before: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Patentee before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China

@@ -1,0 +1,90 @@
+# KR101387690B1 :: KR101387690B1 - Sealing member for semiconductor equipment 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020130128999A KR101387690B1 (en)	2013-10-29	2013-10-29	Sealing member for semiconductor equipment
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020130128999A KR101387690B1 (en)	2013-10-29	2013-10-29	Sealing member for semiconductor equipment
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR101387690B1 true KR101387690B1 (en)	2014-04-21
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020130128999A Expired - Fee Related KR101387690B1 (en)	2013-10-29	2013-10-29	Sealing member for semiconductor equipment
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR101387690B1 (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR200350311Y1 (en) *	2004-02-10	2004-05-13	박현문	A semiconductor device for seal
+KR100685231B1 (en) *	2003-04-14	2007-02-22	닛폰 바루카 고교 가부시키가이샤	Seals for Ant Grooves
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR100685231B1 (en) *	2003-04-14	2007-02-22	닛폰 바루카 고교 가부시키가이샤	Seals for Ant Grooves
+KR200350311Y1 (en) *	2004-02-10	2004-05-13	박현문	A semiconductor device for seal
+
+=== TABLE 7 (26 rows) ===
+Publication	Publication Date	Title
+US10688293B2 (en)	2020-06-23	Medical connector
+CN101375090B (en)	2011-01-12	Dovetail groove seal material and vacuum gate valve where dovetail groove seal material is installed
+US10472140B2 (en)	2019-11-12	Water bottle with self-closing valve
+CN100400943C (en)	2008-07-09	Sealing material for ant traps
+KR102410441B1 (en)	2022-06-16	Seal member
+WO2006137372A1 (en)	2006-12-28	Sealing structure
+US20110169228A1 (en)	2011-07-14	Sealing gasket
+US7942425B2 (en)	2011-05-17	Plasma resistant seal
+CN109844924A (en)	2019-06-04	Sealing element for chip processing assembly
+JP5029831B2 (en)	2012-09-19	gasket
+US8074967B2 (en)	2011-12-13	Gate valve for vacuum and seal member used therefor
+JP2021501855A5 (en)	2021-07-29	
+US20090315277A1 (en)	2009-12-24	Rubber seal for semi-dynamic and dynamic applications
+JP5144253B2 (en)	2013-02-13	Pump sealing device
+KR20230087299A (en)	2023-06-16	Airtight type zipper
+JP5373831B2 (en)	2013-12-18	Elastic seal
+JP2006220229A (en)	2006-08-24	Dovetail groove sealing material
+KR20170084513A (en)	2017-07-20	Fluorine-based resin lined ball valve having duo-m packing for decreasing fugitive emissions
+KR102329533B1 (en)	2021-11-19	Structure of check valve
+KR102177661B1 (en)	2020-11-11	Check valve for pipes of semiconductor and display manufacturing device
+CN103133691A (en)	2013-06-05	Recess for O-ring
+KR101900394B1 (en)	2018-09-20	Seal ring
+TWI696775B (en)	2020-06-21	Sealing member
+US10167976B2 (en)	2019-01-01	Regulating valve
+KR101369404B1 (en)	2014-03-06	Sealing member for semiconductor equipment
+
+=== TABLE 8 (28 rows) ===
+Date	Code	Title	Description
+2013-10-29	A201	Request for examination	
+2013-10-29	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2013-10-29	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2013-11-05	A302	Request for accelerated examination	
+2013-11-05	PA0302	Request for accelerated examination	St.27 status event code: A-1-2-D10-D17-exm-PA0302 St.27 status event code: A-1-2-D10-D16-exm-PA0302
+2013-11-13	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2013-11-14	D14-X000	Search report completed	St.27 status event code: A-1-2-D10-D14-srh-X000
+2014-01-28	E902	Notification of reason for refusal	
+2014-01-28	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2014-02-24	E13-X000	Pre-grant limitation requested	St.27 status event code: A-2-3-E10-E13-lim-X000
+2014-02-24	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2014-02-24	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2014-04-09	E701	Decision to grant or registration of patent right	
+2014-04-09	PE0701	Decision of registration	St.27 status event code: A-1-2-D10-D22-exm-PE0701
+2014-04-15	GRNT	Written decision to grant	
+2014-04-15	PR0701	Registration of establishment	St.27 status event code: A-2-4-F10-F11-exm-PR0701
+2014-04-16	PR1002	Payment of registration fee	St.27 status event code: A-2-2-U10-U11-oth-PR1002 Fee payment year number: 1
+2014-04-21	PG1601	Publication of registration	St.27 status event code: A-4-4-Q10-Q13-nap-PG1601
+2017-02-24	FPAY	Annual fee payment	Payment date: 20170224 Year of fee payment: 4
+2017-02-24	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 4
+2017-07-02	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000
+2018-04-16	LAPS	Lapse due to unpaid annual fee	
+2018-04-16	PC1903	Unpaid annual fee	St.27 status event code: A-4-4-U10-U13-oth-PC1903 Not in force date: 20180416 Payment event data comment text: Termination Category : DEFAULT_OF_REGISTRATION_FEE
+2018-10-24	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000
+2019-01-26	PC1903	Unpaid annual fee	St.27 status event code: N-4-6-H10-H13-oth-PC1903 Ip right cessation event data comment text: Termination Category : DEFAULT_OF_REGISTRATION_FEE Not in force date: 20180416
+2020-05-20	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2026-01-06	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000

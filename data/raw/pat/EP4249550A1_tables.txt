@@ -1,0 +1,190 @@
+# EP4249550A1 :: EP4249550A1 - Fluorine rubber composition and rubber molded article formed using same 
+        - Google Patents
+
+=== TABLE 0 (32 rows) ===
+	Examples
+1	2	3	4	5	6	7	8	9	10	11	12	13
+Component A	Hydrogen-containing fluorine rubber	100	100	100	100	100	100	100	100	100	100	100	100	100
+Component B (PB)	Compound 1 containing alkenyl group	1	1	1	1	1	5	1	1		1	1	1	1
+Compound 2 containing alkenyl group									0.89				
+Compound 1 containing no alkenyl group					1			5					
+Compound 2 containing no alkenyl group							1						
+Component C (pc)	Dry silica 1	10												
+Dry silica 2		0.2	10		10	10	10	10					
+Wet silica				10									
+Silica									0.11				
+Phenolic resin powder 1										10			
+Phenolic resin powder 2											10		
+PVDF resin powder												10	
+PEEK resin powder													10
+Crosslinker	Organic Peroxide	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+Cross-linking aid	TAIC	4	4	4	4	4	4	4	4	4	4	4	4	4
+pC/pB	10	0.2	10	10	5	2	5	1.7	0.12	10	10	10	10
+dB (g/cm3)	1.85	1.85	1.85	1.85	1.88	1.85	1.88	1.90	1.90	1.85	1.85	1.85	1.85
+dC (g/cm3)	0.05	0.05	0.05	0.15	0.05	0.05	0.05	0.05	0.05	0.35	0.38	0.32	0.25
+(pC/dC)/(pB/dB)	370	7.4	370	123	188	74.0	188	63.3	4.70	52.9	48.7	57.8	74.0
+Plasma resistance	Mass reduction rate (%)	0.65	0.55	0.60	0.67	0.40	0.21	0.41	0.19	0.67	0.69	0.68	0.59	0.63
+A	A	A	A	A	A	A	A	A	A	A	A	A
+Presence or absence (none) of particles	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence	Absence
+Bleeding-out	A	A	A	A	A	A	A	A	A	A	A	A	A
+(ACF/ACH for surface)/(ACF/ACH for cross-sectional surface)	3.2	3.5	3.3	3.0	3.9	4.6	3.8	4.9	3.1	2.5	2.4	2.8	2.7
+XPS evaluation	A	A	A	A	A	A	A	A	A	A	A	A	A
+Hardness	73	57	72	71	71	69	71	68	57	64	62	63	64
+Tensile Properties	Tensile strength at break (MPa)	16.3	14.4	18.3	18.5	18.1	17.4	17.5	17.4	14.0	17.1	13.2	13.9	9.6
+Elongation at break (%)	150	350	180	180	180	190	180	190	340	180	180	310	240
+Tensile stress at 100% elongation (MPa)	6.0	1.4	5.9	6.1	5.8	5.5	5.7	5.4	1.4	4.8	3.9	2.6	4.2
+Compression Set (%)	31	32	30	25	30	32	29	33	31	21	28	29	38
+
+=== TABLE 1 (28 rows) ===
+	Comparative Examples
+1	2	3	4	5	6	7
+Component A	Hydrogen-containing fluorine rubber	100	100	100	100	100	100	100
+Component B (pB)	Compound 1 containing alkenyl group		1		1	1	1	1
+Compound 2 containing alkenyl group							
+Compound 1 containing no alkenyl group			1				1
+Compound 2 containing no alkenyl group							
+Component C (pC)	Dry silica 2			10				0.2
+Powdery filler (pC)	Phenolic resin powder 3				10			
+PTFE resin powder					10		
+MT carbon black						10	
+Crosslinker	Organic Peroxide	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+Cross-linking aid	TAIC	4	4	4	4	4	4	4
+pC/pB	-	-	10	10	10	10	0.1
+dB (g/cm3)	-	1.85	1.91	1.85	1.85	1.85	1.88
+dC (g/cm3)	-	-	0.05	0.60	0.61	0.66	0.05
+(pC/dC)/(pB/dB)	-	-	382	30.8	30.3	28.0	3.76
+Plasma resistance	Mass reduction rate (%)	1.0	0.17	0.11	0.73	0.29	0.96	0.19
+B	A	A	B	A	B	A
+Presence or absence of particles	Absence	Absence	Absence	Presence	Presence	Presence	Absence
+Bleeding-out	-	B	B	A	B	A	B
+(ACF/ACH for surface)/(ACF/ACH for cross-sectional surface)	1.6	5.9	6.1	2.6	3.5	1.8	5.9
+XPS evaluation	B	A	A	A	A	B	A
+Hardness	57	57	71	62	59	63	57
+Tensile Properties	Tensile strength at break (MPa)	14.7	13.3	18.1	11.3	13.9	18.9	13.8
+Elongation at break (%)	340	330	170	170	320	190	350
+Tensile stress at 100% elongation (MPa)	1.4	1.3	5.8	3.1	1.8	4.3	1.4
+Compression Set (%)	30	33	31	38	29	29	33
+
+=== TABLE 2 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2020210155A JP7048713B1 (en)	2020-12-18	2020-12-18	Fluororubber composition and rubber molded products formed using it
+PCT/JP2021/044711 WO2022131051A1 (en)	2020-12-18	2021-12-06	Fluorine rubber composition and rubber molded article formed using same
+
+=== TABLE 3 (5 rows) ===
+Publication Number	Publication Date
+EP4249550A1 true EP4249550A1 (en)	2023-09-27
+EP4249550A4 EP4249550A4 (en)	2024-05-01
+EP4249550C0 EP4249550C0 (en)	2025-07-09
+EP4249550B1 EP4249550B1 (en)	2025-07-09
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+EP21906414.4A Active EP4249550B1 (en)	2020-12-18	2021-12-06	Fluorine rubber composition and rubber molded article formed using same
+
+=== TABLE 5 (8 rows) ===
+Country	Link
+US (1)	US20240052155A1 (en)
+EP (1)	EP4249550B1 (en)
+JP (2)	JP7048713B1 (en)
+KR (1)	KR20230119123A (en)
+CN (1)	CN116568742B (en)
+TW (1)	TWI882194B (en)
+WO (2)	WO2022130713A1 (en)
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP7630472B2 (en) *	2022-10-06	2025-02-17	三菱電線工業株式会社	Sealing material and its manufacturing method
+WO2024202607A1 (en) *	2023-03-30	2024-10-03	株式会社バルカー	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+JP7799140B2 (en) *	2023-08-28	2026-01-14	三菱電線工業株式会社	Uncrosslinked rubber composition and rubber molded product using the same
+JP7792487B1 (en) *	2024-10-07	2025-12-25	三菱電線工業株式会社	sealing material
+
+=== TABLE 7 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP4016239B2 (en) *	2000-07-05	2007-12-05	信越化学工業株式会社	Curable fluoropolyether rubber composition
+JP2006036884A (en) *	2004-07-26	2006-02-09	Nippon Valqua Ind Ltd	SEALING MATERIAL, ITS MANUFACTURING METHOD, AND TREATING AGENT
+JP4675907B2 (en)	2004-12-20	2011-04-27	日本バルカー工業株式会社	Rubber composition, sealing material for plasma processing apparatus
+JP5189728B2 (en) *	2005-06-08	2013-04-24	日本バルカー工業株式会社	Fluoro rubber sealant
+JPWO2014084082A1 (en) *	2012-11-29	2017-01-05	旭硝子株式会社	Fluoro rubber composition and cross-linked rubber article using the same
+US10723872B2 (en) *	2015-11-30	2020-07-28	Nichias Corporation	Crosslinkable elastomer composition, molded article, seal member, plasma treatment apparatus and semiconductor manufacturing apparatus including said seal member, and agent for decreasing hardness of molded article, method for producing molded article
+JP6620132B2 (en) *	2017-09-14	2019-12-11	三菱電線工業株式会社	Seal material and manufacturing method thereof
+JP6918734B2 (en) *	2018-03-29	2021-08-11	三菱電線工業株式会社	An uncrosslinked rubber composition, a rubber product produced using the uncrosslinked rubber composition, and a method for producing the same.
+JP2020070326A (en) *	2018-10-30	2020-05-07	三菱電線工業株式会社	Uncrosslinked fluororubber composition and rubber product produced using the same
+
+=== TABLE 8 (16 rows) ===
+Publication number	Publication date
+EP4249550C0 (en)	2025-07-09
+JP7048713B1 (en)	2022-04-05
+CN116568742A (en)	2023-08-08
+TW202233749A (en)	2022-09-01
+JP7814903B2 (en)	2026-02-17
+WO2022131051A1 (en)	2022-06-23
+KR20230119123A (en)	2023-08-16
+JP2022096901A (en)	2022-06-30
+JP2022097403A (en)	2022-06-30
+TWI882194B (en)	2025-05-01
+EP4249550B1 (en)	2025-07-09
+US20240052155A1 (en)	2024-02-15
+WO2022130713A1 (en)	2022-06-23
+CN116568742B (en)	2025-11-18
+EP4249550A4 (en)	2024-05-01
+
+=== TABLE 9 (17 rows) ===
+Publication	Publication Date	Title
+EP4249550B1 (en)	2025-07-09	Fluorine rubber composition and rubber molded article formed using same
+EP4116374B1 (en)	2025-06-18	Method for manufacturing a rubber product
+EP1852902A1 (en)	2007-11-07	Seal material for semiconductor production apparatus
+JP6788716B2 (en)	2020-11-25	Rubber products and their manufacturing methods
+JP7562465B2 (en)	2024-10-07	Rubber products and their manufacturing method
+TWI679223B (en)	2019-12-11	Composition and molded article
+JP6924215B2 (en)	2021-08-25	Sealing material and its manufacturing method
+KR20140021615A (en)	2014-02-20	Curable fluoroelastomer composition
+EP4053176B1 (en)	2025-10-08	Fluorinated copolymer, fluorinated copolymer composition, and crosslinked rubber article
+US12584054B2 (en)	2026-03-24	Semiconductor production device sealing material
+JP2020070326A (en)	2020-05-07	Uncrosslinked fluororubber composition and rubber product produced using the same
+JP7630472B2 (en)	2025-02-17	Sealing material and its manufacturing method
+JP2013529710A (en)	2013-07-22	Method for preparing a curable perfluoroelastomer composition
+EP4335897A1 (en)	2024-03-13	Uncrosslinked fluororubber composition, seal material produced using same, and method for producing same
+JP7528309B1 (en)	2024-08-05	Rubber products and their manufacturing method
+EP4692223A1 (en)	2026-02-11	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+
+=== TABLE 10 (40 rows) ===
+Date	Code	Title	Description
+2022-06-25	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+2023-08-25	PUAI	Public reference made under article 153(3) epc to a published international application that has entered the european phase	Free format text: ORIGINAL CODE: 0009012
+2023-08-25	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+2023-09-27	17P	Request for examination filed	Effective date: 20230619
+2023-09-27	AK	Designated contracting states	Kind code of ref document: A1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2024-03-27	DAV	Request for validation of the european patent (deleted)	
+2024-03-27	DAX	Request for extension of the european patent (deleted)	
+2024-05-01	A4	Supplementary search report drawn up and despatched	Effective date: 20240328
+2024-05-01	RIC1	Information provided on ipc code assigned before grant	Ipc: C08K 5/3492 20060101ALI20240322BHEP Ipc: C08L 27/16 20060101ALI20240322BHEP Ipc: C08K 3/36 20060101ALI20240322BHEP Ipc: C08K 3/013 20180101ALI20240322BHEP Ipc: H01L 21/3065 20060101ALI20240322BHEP Ipc: C08L 71/00 20060101ALI20240322BHEP Ipc: C09K 3/10 20060101ALI20240322BHEP Ipc: C08L 27/12 20060101ALI20240322BHEP Ipc: C08K 5/14 20060101ALI20240322BHEP Ipc: C08K 5/06 20060101AFI20240322BHEP
+2024-10-17	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: EXAMINATION IS IN PROGRESS
+2024-11-20	17Q	First examination report despatched	Effective date: 20241016
+2025-03-06	GRAP	Despatch of communication of intention to grant a patent	Free format text: ORIGINAL CODE: EPIDOSNIGR1
+2025-03-06	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: GRANT OF PATENT IS INTENDED
+2025-04-09	INTG	Intention to grant announced	Effective date: 20250307
+2025-05-31	GRAS	Grant fee paid	Free format text: ORIGINAL CODE: EPIDOSNIGR3
+2025-06-06	GRAA	(expected) grant	Free format text: ORIGINAL CODE: 0009210
+2025-06-06	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE PATENT HAS BEEN GRANTED
+2025-07-09	AK	Designated contracting states	Kind code of ref document: B1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2025-07-09	REG	Reference to a national code	Ref country code: GB Ref legal event code: FG4D
+2025-07-15	REG	Reference to a national code	Ref country code: CH Ref legal event code: EP
+2025-07-30	REG	Reference to a national code	Ref country code: IE Ref legal event code: FG4D
+2025-07-31	REG	Reference to a national code	Ref country code: DE Ref legal event code: R096 Ref document number: 602021033989 Country of ref document: DE
+2025-08-27	U01	Request for unitary effect filed	Effective date: 20250718
+2025-08-27	U07	Unitary effect registered	Designated state(s): AT BE BG DE DK EE FI FR IT LT LU LV MT NL PT RO SE SI Effective date: 20250725
+2026-01-08	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: IS Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20251109
+2026-01-09	PGFP	Annual fee paid to national office [announced via postgrant information from national office to epo]	Ref country code: GB Payment date: 20251219 Year of fee payment: 5
+2026-01-12	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: NO Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20251009
+2026-01-15	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: HR Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250709
+2026-01-16	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: GR Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20251010
+2026-01-20	PGFP	Annual fee paid to national office [announced via postgrant information from national office to epo]	Ref country code: IE Payment date: 20251219 Year of fee payment: 5
+2026-01-23	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: PL Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250709
+2026-01-28	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: RS Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20251009
+2026-01-30	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: ES Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250709
+2026-02-04	U20	Renewal fee for the european patent with unitary effect paid	Year of fee payment: 5 Effective date: 20251230
+2026-04-06	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: SM Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250709
+2026-04-23	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: CZ Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250709
+2026-04-28	PG25	Lapsed in a contracting state [announced via postgrant information from national office to epo]	Ref country code: SK Free format text: LAPSE BECAUSE OF FAILURE TO SUBMIT A TRANSLATION OF THE DESCRIPTION OR TO PAY THE FEE WITHIN THE PRESCRIBED TIME-LIMIT Effective date: 20250709
+2026-05-15	PLBE	No opposition filed within time limit	Free format text: ORIGINAL CODE: 0009261
+2026-05-15	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: NO OPPOSITION FILED WITHIN TIME LIMIT

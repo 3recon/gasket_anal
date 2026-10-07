@@ -1,0 +1,17 @@
+importance hardness_shoreA
+importance tensile_MPa
+importance elongation_pct
+importance m100_MPa
+importance compression_set_pct
+  pool-BO tensile_MPa bo_ei  : reached top-5% in 100% runs, mean extra experiments 6.733333333333333
+  pool-BO tensile_MPa greedy : reached top-5% in 100% runs, mean extra experiments 8.933333333333334
+  pool-BO tensile_MPa random : reached top-5% in 90% runs, mean extra experiments 7.703703703703703
+  pool-BO compression_set_pct bo_ei  : reached top-5% in 87% runs, mean extra experiments 6.884615384615385
+  pool-BO compression_set_pct greedy : reached top-5% in 70% runs, mean extra experiments 8.666666666666666
+  pool-BO compression_set_pct random : reached top-5% in 83% runs, mean extra experiments 7.4
+  pool-BO hardness_shoreA bo_ei  : reached top-5% in 100% runs, mean extra experiments 1.5333333333333334
+  pool-BO hardness_shoreA greedy : reached top-5% in 100% runs, mean extra experiments 4.933333333333334
+  pool-BO hardness_shoreA random : reached top-5% in 97% runs, mean extra experiments 9.551724137931034
+inverse design: {'family': 'FFKM / nitrile', 'n_family_rows': 161, 'spec': {'hardness_shoreA': (70.0, 80.0), 'elongation_pct': (150.0, None), 'compression_set_pct': (None, 30.0)}, 'models_used': ['tensile_MPa', 'hardness_shoreA', 'elongation_pct'], 'incumbent_tensile': 26.18, 'n_candidates': 30000, 'n_feasible_obs': 72}
+DONE
+EXIT 0

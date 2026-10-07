@@ -1,0 +1,151 @@
+# EP4219614A1 :: EP4219614A1 - Elastomer composition, sealing material, and method for producing sealing material 
+      - Google Patents
+
+=== TABLE 0 (7 rows) ===
+	Ex. 1	Ex. 2	Comp. Ex. 1	Comp. Ex. 2
+Crosslinkable fluoroelastomer 1	100	100	100	100
+Composition B1	2			
+Composition B2		2		
+SIFEL 3590-N			2	
+SIFEL 8070A+B				2
+Evaluation	○	○	Δ	X
+
+=== TABLE 1 (9 rows) ===
+	Ex. 3	Ex. 4	Comp. Ex. 3	Comp. Ex. 4
+Crosslinkable fluoroelastomer 1	100	100	100	100
+Composition B1	2			
+Composition B2		2		
+SIFEL 3590-N			2	
+SIFEL 8070A+B				2
+TAIC	6	6	6	6
+PERHEXA 25B	1	1	1	1
+Evaluation	○	○	Δ	X
+
+=== TABLE 2 (8 rows) ===
+	Ex. 5	Ex. 6	Ex. 7	Ex. 8	Ex. 9
+Crosslinkable fluoroelastomer 1	70	70	70	70	70
+Crosslinkable fluoroelastomer 2	30	30	30	30	30
+Composition B1	2	10	20	50	100
+Normal physical properties	Hardness (shore A)	61	63	64	68	68
+Tensile strength (MPa)	10.4	13.8	16.2	15.4	8.2
+Elongation at break (%)	200	225	275	275	225
+100%Mo(MPa)	2.1	2.7	2.6	3.4	2.9
+
+=== TABLE 3 (9 rows) ===
+	Ex. 10	Ex. 11	Ex. 12	Ex. 13	Ex. 14
+Crosslinkable fluoroelastomer 1	70	70	70	70	70
+Crosslinkable fluoroelastomer 2	30	30	30	30	30
+Composition B1	2	10	20	50	100
+Normal physical properties	Hardness (shore A)	70	69	69	75	78
+Tensile strength (MPa)	10.1	12.8	11.9	12.1	8.5
+Elongation at break (%)	135	140	140	150	90
+100%Mo(MPa)	6.0	6.4	6.1	6.0	-
+Plasma resistance	Mass reduction ratio (%)	0.83	0.64	0.49	0.38	0.30
+
+=== TABLE 4 (9 rows) ===
+	Ex. 15	Comp. Ex. 5
+Crosslinkable fluoroelastomer 1	70	70
+Crosslinkable fluoroelastomer 2	30	30
+Composition B1	2	
+Normal physical properties	Hardness (shoreA)	68	69
+Tensile strength (MPa)	10.5	6.3
+Elongation at break (%)	140	100
+100%Mo(MPa)	5.3	4.6
+Plasma resistance	Mass reduction ratio (%)	0.84	0.97
+
+=== TABLE 5 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2020162303		2020-09-28	
+PCT/JP2021/033160 WO2022065057A1 (en)	2020-09-28	2021-09-09	Elastomer composition, sealing material, and method for producing sealing material
+
+=== TABLE 6 (3 rows) ===
+Publication Number	Publication Date
+EP4219614A1 true EP4219614A1 (en)	2023-08-02
+EP4219614A4 EP4219614A4 (en)	2024-10-09
+
+=== TABLE 7 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+EP21872188.4A Pending EP4219614A4 (en)	2020-09-28	2021-09-09	ELASTOMERIC COMPOSITION, SEALING MATERIAL AND PROCESS FOR PRODUCING THE SEALING MATERIAL
+
+=== TABLE 8 (8 rows) ===
+Country	Link
+US (1)	US20230365802A1 (en)
+EP (1)	EP4219614A4 (en)
+JP (1)	JP7689137B2 (en)
+KR (1)	KR20230078696A (en)
+CN (1)	CN116323787B (en)
+TW (1)	TWI896761B (en)
+WO (1)	WO2022065057A1 (en)
+
+=== TABLE 9 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20250168433A (en) *	2023-03-29	2025-12-02	주식회사 발카	Sealant composition and sealant
+WO2024202607A1 (en) *	2023-03-30	2024-10-03	株式会社バルカー	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+JP7799140B2 (en) *	2023-08-28	2026-01-14	三菱電線工業株式会社	Uncrosslinked rubber composition and rubber molded product using the same
+
+=== TABLE 10 (26 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP3487744B2 (en)	1997-10-09	2004-01-19	信越化学工業株式会社	Curable composition
+JPH11116684A (en)	1997-10-13	1999-04-27	Shin Etsu Chem Co Ltd	Curable composition
+JP4345214B2 (en)	2000-09-20	2009-10-14	ユニマテック株式会社	Fluorine-containing copolymer composition
+DE10126563A1 (en) *	2001-05-31	2002-12-12	Wacker Chemie Gmbh	Self-adhesive 1-component silicone compositions that can be cross-linked by heating
+JP2003183402A (en)	2001-10-12	2003-07-03	Nichias Corp	Plasma resistant fluoroelastomer sealing material
+JP2004051728A (en) *	2002-07-18	2004-02-19	Uchiyama Mfg Corp	Fluoro rubber composition
+KR100697171B1 (en)	2003-04-22	2007-03-21	다이킨 고교 가부시키가이샤	Fluorine-containing elastomer composition and its molded article excellent in anti-aging effect of plasma
+JP2006133304A (en) *	2004-11-02	2006-05-25	Canon Inc	Electrophotographic fixing elastic member and fixing device
+US7294677B2 (en) *	2005-08-25	2007-11-13	3M Innovative Properties Company	Catalyst for making fluoroelastomer compositions and methods of using the same
+JP2008056739A (en)	2006-08-29	2008-03-13	Nok Corp	Fluorine rubber composition
+CN101977981B (en) *	2008-03-18	2013-08-14	日本华尔卡工业株式会社	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+ES2623436T3 (en)	2008-03-27	2017-07-11	Daikin Industries, Ltd.	Composition of elastomer containing crosslinkable fluorine with peroxide
+JP2013082888A (en) *	2011-09-30	2013-05-09	Daikin Industries Ltd	Cross-linkable fluororubber composition, fluororubber-molded article, and method for producing the article
+EP2776498B1 (en) *	2011-11-09	2018-12-26	3M Innovative Properties Company	Curing compositions for fluoropolymers
+US9074074B2 (en) *	2011-12-15	2015-07-07	The Chemours Company Fc, Llc	Polyhydroxy curable fluoroelastomer compositions
+JP6001274B2 (en) *	2012-02-15	2016-10-05	スリーエム イノベイティブ プロパティズ カンパニー	Fluoropolymer composition
+JP6253328B2 (en)	2013-09-30	2017-12-27	日本バルカー工業株式会社	Thermally conductive resin composition and thermal conductive sheet using the same
+US10138352B2 (en)	2014-09-16	2018-11-27	Daikin Industries, Ltd.	Fluoroelastomer composition and molded article
+JP2017149839A (en) *	2016-02-24	2017-08-31	ダイキン工業株式会社	Fluororubber composition and molded product
+JP6914771B2 (en) *	2017-07-28	2021-08-04	Nok株式会社	Fluororubber composition for peroxide cross-linking
+JP6620132B2 (en) *	2017-09-14	2019-12-11	三菱電線工業株式会社	Seal material and manufacturing method thereof
+JP6924215B2 (en) *	2017-09-14	2021-08-25	三菱電線工業株式会社	Sealing material and its manufacturing method
+JP6918734B2 (en) *	2018-03-29	2021-08-11	三菱電線工業株式会社	An uncrosslinked rubber composition, a rubber product produced using the uncrosslinked rubber composition, and a method for producing the same.
+JP7215349B2 (en) *	2019-06-18	2023-01-31	信越化学工業株式会社	Method for manufacturing rubber articles and rubber products
+JP6788716B2 (en) *	2019-09-19	2020-11-25	三菱電線工業株式会社	Rubber products and their manufacturing methods
+
+=== TABLE 11 (12 rows) ===
+Publication number	Publication date
+JP7689137B2 (en)	2025-06-05
+TWI896761B (en)	2025-09-11
+KR20230078696A (en)	2023-06-02
+JPWO2022065057A1 (en)	2022-03-31
+US20230365802A1 (en)	2023-11-16
+CN116323787A (en)	2023-06-23
+WO2022065057A1 (en)	2022-03-31
+TW202225311A (en)	2022-07-01
+CN116323787B (en)	2026-04-21
+EP4219614A4 (en)	2024-10-09
+WO2022065057A9 (en)	2023-07-20
+
+=== TABLE 12 (10 rows) ===
+Publication	Publication Date	Title
+JP4675907B2 (en)	2011-04-27	Rubber composition, sealing material for plasma processing apparatus
+JP7689137B2 (en)	2025-06-05	Elastomer composition, sealing material and method for producing sealing material
+EP4219612A1 (en)	2023-08-02	Elastomer composition, sealing material, and method for producing sealing material
+JP5189728B2 (en)	2013-04-24	Fluoro rubber sealant
+JP7766038B2 (en)	2025-11-07	Elastomer composition, sealing material and method for producing sealing material
+EP4219644B1 (en)	2025-10-22	Sealing material and method for producing sealing material
+EP4219611A1 (en)	2023-08-02	Elastomer composition, sealing material, and method for producing sealing material
+EP4692223A1 (en)	2026-02-11	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+JP2025079590A (en)	2025-05-22	Sealant composition and sealant
+
+=== TABLE 13 (11 rows) ===
+Date	Code	Title	Description
+2022-04-02	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: THE INTERNATIONAL PUBLICATION HAS BEEN MADE
+2023-06-30	PUAI	Public reference made under article 153(3) epc to a published international application that has entered the european phase	Free format text: ORIGINAL CODE: 0009012
+2023-06-30	STAA	Information on the status of an ep patent application or granted ep patent	Free format text: STATUS: REQUEST FOR EXAMINATION WAS MADE
+2023-08-02	17P	Request for examination filed	Effective date: 20230330
+2023-08-02	AK	Designated contracting states	Kind code of ref document: A1 Designated state(s): AL AT BE BG CH CY CZ DE DK EE ES FI FR GB GR HR HU IE IS IT LI LT LU LV MC MK MT NL NO PL PT RO RS SE SI SK SM TR
+2024-01-03	DAV	Request for validation of the european patent (deleted)	
+2024-01-03	DAX	Request for extension of the european patent (deleted)	
+2024-08-30	REG	Reference to a national code	Ref country code: DE Ref legal event code: R079 Free format text: PREVIOUS MAIN CLASS: C08K0005542500 Ipc: C08K0005140000
+2024-10-09	A4	Supplementary search report drawn up and despatched	Effective date: 20240905
+2024-10-09	RIC1	Information provided on ipc code assigned before grant	Ipc: F16J 15/10 20060101ALI20240830BHEP Ipc: C09K 3/10 20060101ALI20240830BHEP Ipc: C08G 77/20 20060101ALI20240830BHEP Ipc: C08J 7/00 20060101ALI20240830BHEP Ipc: C08L 83/07 20060101ALI20240830BHEP Ipc: C08L 83/04 20060101ALI20240830BHEP Ipc: C08L 83/00 20060101ALI20240830BHEP Ipc: C08L 71/02 20060101ALI20240830BHEP Ipc: C08L 27/16 20060101ALI20240830BHEP Ipc: C08L 27/12 20060101ALI20240830BHEP Ipc: C08K 5/5425 20060101ALI20240830BHEP Ipc: C08K 5/3492 20060101ALI20240830BHEP Ipc: C08K 5/14 20060101AFI20240830BHEP

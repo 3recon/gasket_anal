@@ -1,0 +1,223 @@
+# US7666948B2 :: US7666948B2 - Elastomer composition and molded body 
+        - Google Patents
+
+=== TABLE 0 (6 rows) ===
+	TABLE 1
+	
+				Comparative	Comparative	Comparative	Comparative
+	Example 1	Example 2	Example 3	Example 1	Example 2	Example 3	Example 4
+	
+
+
+=== TABLE 1 (9 rows) ===
+(A)	DAI-EL PERFLUORO GA-05,	50	25	5	100	0.1	25	—
+Perfluoroelastomer	manufactured by Daikin
+	Industries, Ltd.
+(B) Fluorine rubber	VITON TR-8605, manufactured	50	75	95	—	99.9	75	100
+	by DuPont
+Crosslinking agent	PERHEXA 25B, manufactured	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+	by NOF Corporation
+Co-crosslinking agent	TAIC, manufactured by Nippon	1.0	1.0	1.0	1.0	1.0	1.0	1.0
+	Kasei Chemical Co., Ltd.
+
+=== TABLE 2 (2 rows) ===
+Rate of loss in weight by the exposure to plasma	0.75	1.89	3.92	0.05	10.1	4.2	11.5
+(weight %)
+
+=== TABLE 3 (5 rows) ===
+Ordinary temperature	Tensile strength (MPa)	9.04	6.48	10.3	4.36	5.03	4.23	4.86
+characteristic	Elongation at break (%)	360	340	380	270	330	260	330
+	100% stress (MPa)	1.05	1.05	1.13	1.01	1.08	1.00	1.08
+Hot characteristic at	Tensile strength (MPa)	1.23	1.4	1.21	0.93	—	0.92	1.19
+100° C.	Elongation at break (%)	132	140	111	110	—	105	108
+
+=== TABLE 4 (2 rows) ===
+Average particle size of aggregate (μm)	0.8	1.3	0.5	—	—	20.5	—
+
+
+=== TABLE 5 (6 rows) ===
+	TABLE 2
+	
+			Comparative	Comparative
+	Example 4	Example 5	Example 5	Example 6
+	
+
+
+=== TABLE 6 (14 rows) ===
+(A)	DAI-EL PERFLUORO GA-05, manufactured by	50	75	—	—
+Perfluoroelastomer	Daikin Industries, Ltd.
+(B) Silicone rubber	KE-941-U, manufactured by Shin-Etsu Chemical	50	—	100	—
+	Co., Ltd.
+(B) Ethylene-	EP51, manufactured by JSR Corporation	—	25	—	100
+propylene rubber
+Crosslinking agent	PERHEXA 25B, manufactured by NOF	0.5	0.75	—	—
+	Corporation
+Co-crosslinking	TAIC, manufactured by Nippon Kasei Chemical	0.5	0.75	—	—
+agent	Co., Ltd.
+Crosslinking agent	C8, manufactured by Shin-Etsu Chemical Co.,	1.0	—	2.0	—
+	Ltd.
+Crosslinking agent	PERCUMYL D, manufactured by NOF	—	0.25	—	1.0
+	Corporation
+
+=== TABLE 7 (1 rows) ===
+Rate of loss in weight by the exposure to plasma (weight %)	0.64	2.50	1.80	61.2
+
+=== TABLE 8 (5 rows) ===
+Ordinary temperature	Tensile strength (MPa)	7.24	7.38	8.30	4.98
+characteristic	Elongation at break (%)	390	390	450	580
+	100% stress (MPa)	0.96	1.11	0.89	1.14
+Hot characteristic at	Tensile strength (MPa)	2.41	1.64	2.62	1.57
+100° C.	Elongation at break (%)	210	200	250	160
+
+=== TABLE 9 (2 rows) ===
+Average particle size of aggregate (μm)	1.8	1.1	—	—
+
+
+=== TABLE 10 (5 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2004378969		2004-12-28	
+JPP.2004-378969		2004-12-28	
+JPP.2005-330112		2005-11-15	
+JP2005330112A JP4778782B2 (en)	2004-12-28	2005-11-15	Sealing material
+
+=== TABLE 11 (3 rows) ===
+Publication Number	Publication Date
+US20060148991A1 US20060148991A1 (en)	2006-07-06
+US7666948B2 true US7666948B2 (en)	2010-02-23
+
+=== TABLE 12 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US11/317,257 Active 2027-01-12 US7666948B2 (en)	2004-12-28	2005-12-27	Elastomer composition and molded body
+
+=== TABLE 13 (6 rows) ===
+Country	Link
+US (1)	US7666948B2 (en)
+EP (1)	EP1676885B1 (en)
+JP (1)	JP4778782B2 (en)
+KR (1)	KR101236651B1 (en)
+TW (1)	TWI340752B (en)
+
+=== TABLE 14 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20090054593A1 (en) *	2006-04-19	2009-02-26	Asahi Glass Company, Limited	Fluoroelastomer composition and molded fluororubber article
+US20090093590A1 (en) *	2005-02-15	2009-04-09	Nippon Valqua Industries, Ltd.	Seal Material for Semiconductor Production Apparatus
+US9068069B2 (en)	2007-04-16	2015-06-30	Greene, Tweed Technologies, Inc.	Perfluoroelastomer compositions and methods of preparing same
+US10723872B2 (en)	2015-11-30	2020-07-28	Nichias Corporation	Crosslinkable elastomer composition, molded article, seal member, plasma treatment apparatus and semiconductor manufacturing apparatus including said seal member, and agent for decreasing hardness of molded article, method for producing molded article
+
+=== TABLE 15 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EA019936B1 (en)	2007-04-27	2014-07-30	Эм-Ай ЭлЭлСи	Method of treating earth formation by forming an elastomeric gel (variants)
+US20090227726A1 (en) *	2008-03-04	2009-09-10	Dupont Performance Elastomers L.L.C.	Peroxide curable fluoroelastomer compositions and articles made therefrom
+JP5833657B2 (en)	2010-09-24	2015-12-16	グリーン， ツイード オブ デラウェア， インコーポレイテッド	Fluorine-containing elastomer composition suitable for high temperature applications
+US9365712B2 (en)	2010-09-24	2016-06-14	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions suitable for high temperature applications
+WO2018105716A1 (en) *	2016-12-09	2018-06-14	ダイキン工業株式会社	Polymer, composition, and molded article
+KR102237195B1 (en) *	2017-05-18	2021-04-07	현대자동차주식회사	A rubber blend composition having improved freezing resistance and a method for preparing thereof
+JP6620132B2 (en)	2017-09-14	2019-12-11	三菱電線工業株式会社	Seal material and manufacturing method thereof
+CN112812414B (en) *	2020-12-31	2022-07-26	浙江佳华精化股份有限公司	A kind of fluorosilicon polymer processing aid master batch and preparation method thereof
+KR102713660B1 (en) *	2022-12-21	2024-10-07	한성테크 주식회사	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 16 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4948830A (en) *	1988-10-07	1990-08-14	The United States Of America As Represented By The Secretary Of The Air Force	Broad temperature capability elastomer
+US5006594A (en) *	1988-12-30	1991-04-09	E. I. Du Pont De Nemours And Company	Fluorinated thermoplastic elastomers containing polymeric additives and process for preparing such elastomers
+EP0437806A2 (en)	1990-01-08	1991-07-24	Acushnet Company	Windshield wiper blade
+WO1993022379A1 (en)	1992-05-07	1993-11-11	E.I. Du Pont De Nemours And Company	Perfluoroelastomers with enhanced properties
+EP0656391A2 (en)	1993-11-30	1995-06-07	Dow Corning Toray Silicone Company, Limited	Rubber composition
+US5459202A (en)	1994-06-30	1995-10-17	E. I. Du Pont De Nemours And Company	Elastomer seal
+US5548028A (en)	1995-02-24	1996-08-20	E. I. Du Pont De Nemours And Company	Curable elastomeric blend with vulcanized fluoroelastomer
+JP2000044930A (en)	1998-05-29	2000-02-15	Du Pont Dow Elastomers Llc	White colored elastomer sealing material and preparation thereof
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2000321912A (en)	1999-03-09	2000-11-24	Canon Inc	Fixing roller using composite material
+US6321062B1 (en)	1999-03-09	2001-11-20	Canon Kabushiki Kaisha	Fixing-unit roller making use of composite material, process for its production, and fixing assembly employing the roller
+US20020099142A1 (en)	2000-11-17	2002-07-25	Roger Faulkner	Dynamically cured fluoroelastomer blends
+EP1260550A1 (en)	2001-05-22	2002-11-27	Ausimont S.p.A.	Fluoroelastomeric compositions
+
+=== TABLE 17 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH04180931A (en) *	1990-11-16	1992-06-29	Asahi Glass Co Ltd	Vulcanizable rubber composition
+JP3134534B2 (en) *	1992-09-08	2001-02-13	ダイキン工業株式会社	Fluoro rubber vulcanizing composition and vulcanized fluoro rubber
+JPH0741627A (en) *	1993-07-28	1995-02-10	Toray Dow Corning Silicone Co Ltd	Rubber composition
+EP1160285B1 (en) *	1998-07-17	2005-06-29	Daikin Industries, Ltd.	Fluororubber composition
+JP3303915B2 (en)	1999-11-04	2002-07-22	ダイキン工業株式会社	Elastomer molded article for semiconductor manufacturing equipment and crosslinkable fluoroelastomer composition
+JP2002012726A (en) *	2000-04-27	2002-01-15	Asahi Glass Co Ltd	Fluorine-containing elastic copolymer composition and vulcanized product thereof
+EP1748054A4 (en) *	2004-05-17	2008-11-19	Daikin Ind Ltd	THERMOPLASTIC POLYMER COMPOSITION
+JP4617790B2 (en) *	2004-09-15	2011-01-26	ダイキン工業株式会社	Curable composition
+
+=== TABLE 18 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4948830A (en) *	1988-10-07	1990-08-14	The United States Of America As Represented By The Secretary Of The Air Force	Broad temperature capability elastomer
+US5006594A (en) *	1988-12-30	1991-04-09	E. I. Du Pont De Nemours And Company	Fluorinated thermoplastic elastomers containing polymeric additives and process for preparing such elastomers
+EP0439734A1 (en)	1989-12-06	1991-08-07	E.I. Du Pont De Nemours And Company	Fluorinated thermoplastic elastomers containing polymeric additives and process for preparing such elastomers
+EP0437806A2 (en)	1990-01-08	1991-07-24	Acushnet Company	Windshield wiper blade
+WO1993022379A1 (en)	1992-05-07	1993-11-11	E.I. Du Pont De Nemours And Company	Perfluoroelastomers with enhanced properties
+EP0656391A2 (en)	1993-11-30	1995-06-07	Dow Corning Toray Silicone Company, Limited	Rubber composition
+US5459202A (en)	1994-06-30	1995-10-17	E. I. Du Pont De Nemours And Company	Elastomer seal
+US5548028A (en)	1995-02-24	1996-08-20	E. I. Du Pont De Nemours And Company	Curable elastomeric blend with vulcanized fluoroelastomer
+JP2000044930A (en)	1998-05-29	2000-02-15	Du Pont Dow Elastomers Llc	White colored elastomer sealing material and preparation thereof
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2000321912A (en)	1999-03-09	2000-11-24	Canon Inc	Fixing roller using composite material
+US6321062B1 (en)	1999-03-09	2001-11-20	Canon Kabushiki Kaisha	Fixing-unit roller making use of composite material, process for its production, and fixing assembly employing the roller
+US20020099142A1 (en)	2000-11-17	2002-07-25	Roger Faulkner	Dynamically cured fluoroelastomer blends
+EP1260550A1 (en)	2001-05-22	2002-11-27	Ausimont S.p.A.	Fluoroelastomeric compositions
+US20030004273A1 (en)	2001-05-22	2003-01-02	Ausimont S.P.A.	Fluoroelastomeric compositions
+
+=== TABLE 19 (2 rows) ===
+Title
+DuPont Performance Elastomers, "Perfluoroelastomer and Fluoroelastomer Seals for Photovoltaic Cell Manufacturing Processes", Technical Information, Paper Presented at InterSolar SMET, May 2009.
+
+=== TABLE 20 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20090093590A1 (en) *	2005-02-15	2009-04-09	Nippon Valqua Industries, Ltd.	Seal Material for Semiconductor Production Apparatus
+US20090054593A1 (en) *	2006-04-19	2009-02-26	Asahi Glass Company, Limited	Fluoroelastomer composition and molded fluororubber article
+US9068069B2 (en)	2007-04-16	2015-06-30	Greene, Tweed Technologies, Inc.	Perfluoroelastomer compositions and methods of preparing same
+US10723872B2 (en)	2015-11-30	2020-07-28	Nichias Corporation	Crosslinkable elastomer composition, molded article, seal member, plasma treatment apparatus and semiconductor manufacturing apparatus including said seal member, and agent for decreasing hardness of molded article, method for producing molded article
+
+=== TABLE 21 (11 rows) ===
+Publication number	Publication date
+EP1676885A2 (en)	2006-07-05
+US20060148991A1 (en)	2006-07-06
+EP1676885A3 (en)	2007-01-10
+JP2006206874A (en)	2006-08-10
+TWI340752B (en)	2011-04-21
+KR20060076726A (en)	2006-07-04
+EP1676885B1 (en)	2009-04-15
+JP4778782B2 (en)	2011-09-21
+TW200634085A (en)	2006-10-01
+KR101236651B1 (en)	2013-02-22
+
+=== TABLE 22 (26 rows) ===
+Publication	Publication Date	Title
+US20060148991A1 (en)	2006-07-06	Elastomer composition and molded body
+CN1891761B (en)	2010-10-06	Cross-linkable elastomer composition and molded article formed from the composition
+TWI464208B (en)	2014-12-11	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+TWI885340B (en)	2025-06-01	Cross-linked elastomer composition and fluororubber molded product
+TWI731978B (en)	2021-07-01	Perfluoroelastomer composition and sealing material
+EP1852902A1 (en)	2007-11-07	Seal material for semiconductor production apparatus
+CN108368317B (en)	2021-05-14	Crosslinkable elastomer composition, molded article, sealing material, plasma processing apparatus, and semiconductor manufacturing apparatus
+KR20160104620A (en)	2016-09-05	Perfluoroelastomer composition, sealing material and method for producing same
+CN107636066A (en)	2018-01-26	Composition and products formed comprising fluoropolymer
+JP2000309704A (en)	2000-11-07	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+KR102414805B1 (en)	2022-06-29	Perfluoroelastomer composition and sealing material
+US20250109289A1 (en)	2025-04-03	Composition and cross-linked article
+WO2003046105A1 (en)	2003-06-05	Sealing composition and seals made by using the same
+JP2017179210A (en)	2017-10-05	Fluorine elastomer composition, molded article, sealant, and plasma treatment device and semiconductor manufacturing device containing sealant
+TWI381015B (en)	2013-01-01	Fluororubber composition, fluororubber material using the composition and method for producing the fluororubber molding
+JP2000119468A (en)	2000-04-25	Fluoroelastomer composition, its crosslinking product, and its use
+EP4253432B1 (en)	2026-02-25	Fluoropolymer, aqueous liquid dispersion, composition, and crosslinked product
+TWI731977B (en)	2021-07-01	Perfluoroelastomer composition and sealing material
+JP4381087B2 (en)	2009-12-09	Method for producing fluoro rubber sealant
+JP7819254B2 (en)	2026-02-24	sealing material
+EP4043522B1 (en)	2025-03-05	Composition containing fluorine-containing polymer and crosslinked article
+TWI901883B (en)	2025-10-21	Uncrosslinked fluororubber composition, seal made using the uncrosslinked fluororubber composition, and manufacturing method thereof
+KR20210099076A (en)	2021-08-11	Elastomer composition and sealing material
+CN1800256A (en)	2006-07-12	Elastomer composition and molded body
+WO2026079078A1 (en)	2026-04-16	Seal member
+
+=== TABLE 23 (7 rows) ===
+Date	Code	Title	Description
+2006-03-13	AS	Assignment	Owner name: NICHIAS CORPORATION,JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:AIZAWA, SEIJI;SHIMIZU, TOMOYA;KUZAWA, NAOYA;AND OTHERS;REEL/FRAME:017676/0976 Effective date: 20060201 Owner name: NICHIAS CORPORATION, JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:AIZAWA, SEIJI;SHIMIZU, TOMOYA;KUZAWA, NAOYA;AND OTHERS;REEL/FRAME:017676/0976 Effective date: 20060201
+2009-12-05	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2010-02-03	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2013-03-14	FPAY	Fee payment	Year of fee payment: 4
+2017-08-10	FPAY	Fee payment	Year of fee payment: 8
+2021-08-11	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 12

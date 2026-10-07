@@ -1,0 +1,163 @@
+# US12297341B2 :: US12297341B2 - Fluorine-containing elastomer composition and article 
+        - Google Patents
+
+=== TABLE 0 (16 rows) ===
+TABLE 1
+
+		Rate of	
+		decrease in	
+		weight by	
+		NF3 remote	Compression
+	Compound	plasma (%)	set (%)
+
+Example 1	Crosslinked PTFE	0.11	49
+Comparative Example 1	Non-crosslinked PTFE	0.11	57
+Comparative Example 2	Quinacridone	0.23	43
+Comparative Example 3	Polyimide	0.33	39
+Comparative Example 4	SiO2	0.90	42
+Comparative Example 5	MT carbon black	0.46	37
+Comparative Example 6	Crosslinked ETFE	0.42	60
+
+
+=== TABLE 1 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2019-094327		2019-05-20	
+JP2019094327		2019-05-20	
+PCT/JP2020/019807 WO2020235565A1 (en)	2019-05-20	2020-05-19	Fluorine-containing elastomer composition and article
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+US20220243047A1 US20220243047A1 (en)	2022-08-04
+US12297341B2 true US12297341B2 (en)	2025-05-13
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US17/612,764 Active 2042-03-05 US12297341B2 (en)	2019-05-20	2020-05-19	Fluorine-containing elastomer composition and article
+
+=== TABLE 4 (8 rows) ===
+Country	Link
+US (1)	US12297341B2 (en)
+EP (1)	EP3974473A4 (en)
+JP (1)	JP7265197B2 (en)
+KR (1)	KR102591386B1 (en)
+CN (1)	CN113825795B (en)
+TW (1)	TWI830916B (en)
+WO (1)	WO2020235565A1 (en)
+
+=== TABLE 5 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN116964138A (en) *	2021-02-12	2023-10-27	大金工业株式会社	Modified fluororesin material, circuit board material, circuit board laminate, circuit board, and method for manufacturing modified fluororesin material
+EP4450557A4 (en) *	2021-12-13	2025-11-26	Daikin Ind Ltd	PERFLUORELASTOMER COMPOSITION AND LINKED PERFLUORELASTOMER PRODUCT
+JP7785034B2 (en) *	2022-03-31	2025-12-12	ダイキン工業株式会社	Fluororesin composition and molded body
+JP7319573B1 (en) *	2022-04-06	2023-08-02	ダイキン工業株式会社	Compositions and crosslinked products
+CN116535784A (en) *	2023-06-12	2023-08-04	惠州市中茂科技有限公司	Plasma-resistant sealing material and preparation method thereof
+JP7530485B1 (en) *	2023-07-21	2024-08-07	旭有機材株式会社	Diaphragm valve and its manufacturing method
+JP7530486B1 (en)	2023-07-21	2024-08-07	旭有機材株式会社	Needle valve and its manufacturing method
+JP2025080928A (en) *	2023-11-15	2025-05-27	ニチアス株式会社	Rubber composition, fluorine-containing elastomer and sealing material
+WO2025225463A1 (en) *	2024-04-22	2025-10-30	Ａｇｃ株式会社	Fluorine-containing copolymer composition, method for producing the same, and fluororubber article
+CN120865660B (en) *	2025-07-22	2026-04-10	上海芯密科技股份有限公司	Fluorine-containing elastomer toughened crystalline fluorine-containing polymer and application of sealing element thereof
+
+=== TABLE 6 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS59100141A (en)	1982-12-01	1984-06-09	Hitachi Cable Ltd	Production of crosslinked fluorocarbon resin molding
+WO1997008239A1 (en)	1995-08-30	1997-03-06	Morisei Kako Co., Ltd.	Sealing composition and sealant
+JPH09268245A (en)	1996-03-29	1997-10-14	Nichias Corp	Fluorine resin composition, method for producing the same and molded article
+WO1999050319A1 (en)	1998-03-25	1999-10-07	Daikin Industries, Ltd.	Method of reducing metal content in fluoroelastomer
+JP2001151086A (en)	1999-11-30	2001-06-05	Hitachi Cable Ltd	Elastomer composition for wiper blade and wiper blade
+WO2003051999A1 (en)	2001-12-17	2003-06-26	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+JP2005239835A (en)	2004-02-25	2005-09-08	Nippon Valqua Ind Ltd	Crosslinkable fluororubber composition
+US20060058448A1 (en) *	2003-01-10	2006-03-16	Daikin Industries Ltd.	Cross-linked elastomer composition and formed product composed of such cross-linked elastomer composition
+EP1719801A1 (en) *	2004-02-26	2006-11-08	Daikin Industries, Ltd.	Fluorinated elastomer composition
+US20080287627A1 (en)	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+JP2009138158A (en)	2007-12-10	2009-06-25	Daikin Ind Ltd	Fluorine-containing molded product and method for producing the same
+US20110171403A1 (en) *	2008-09-30	2011-07-14	Yoneho Tabata	Polytetrafluoroethylene resins that can be processed by shaping, shaped products thereof, and processes for producing the resins and shaped products
+US20120053297A1 (en)	2007-05-16	2012-03-01	Daikin Industries, Ltd.	Crosslinked fluorine-containing elastomer fine particles, preparation process of same, and composition
+JP2012215823A (en)	2011-03-31	2012-11-08	Gunze Ltd	Multilayer transfer member using fluororubber material
+JP2024100141A (en)	2023-01-13	2024-07-26	株式会社豊田自動織機	Autonomous Vehicles
+
+=== TABLE 7 (13 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+DE3419822C2 (en)	1984-05-26	1986-04-03	Werner & Pfleiderer, 7000 Stuttgart	Filter device for screw extruders
+JPH0259177A (en)	1988-08-26	1990-02-28	Babcock Hitachi Kk	Welding head
+JP2945450B2 (en)	1990-07-24	1999-09-06	古野電気株式会社	Tilt sensor and tilt angle measuring device
+JPH0513961A (en)	1991-06-28	1993-01-22	Toshiba Corp	Multilayer wiring board
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP2007246930A (en) *	1999-09-30	2007-09-27	Daikin Ind Ltd	Transparent elastomer composition and method for producing the same
+JP3303915B2 (en) *	1999-11-04	2002-07-22	ダイキン工業株式会社	Elastomer molded article for semiconductor manufacturing equipment and crosslinkable fluoroelastomer composition
+WO2010076889A1 (en) *	2008-12-29	2010-07-08	Daikin Industries, Ltd.	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+JP2013082888A (en) *	2011-09-30	2013-05-09	Daikin Industries Ltd	Cross-linkable fluororubber composition, fluororubber-molded article, and method for producing the article
+JP6403246B2 (en)	2013-12-27	2018-10-10	日本バルカー工業株式会社	Method for producing crosslinked rubber molding
+JP6927319B2 (en)	2017-10-18	2021-08-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded product
+
+=== TABLE 8 (25 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS59100141A (en)	1982-12-01	1984-06-09	Hitachi Cable Ltd	Production of crosslinked fluorocarbon resin molding
+WO1997008239A1 (en)	1995-08-30	1997-03-06	Morisei Kako Co., Ltd.	Sealing composition and sealant
+US6172162B1 (en)	1995-08-30	2001-01-09	Morisei Kako Co., Ltd.	Fluorine containing elastomeric sealing composition and sealant
+JPH09268245A (en)	1996-03-29	1997-10-14	Nichias Corp	Fluorine resin composition, method for producing the same and molded article
+WO1999050319A1 (en)	1998-03-25	1999-10-07	Daikin Industries, Ltd.	Method of reducing metal content in fluoroelastomer
+US6703461B1 (en)	1998-03-25	2004-03-09	Daikin Industries, Ltd.	Method of reducing metal content in fluoroelastomer
+US20040147698A1 (en)	1998-03-25	2004-07-29	Daikin Industries, Ltd.	Method of reducing metal content in fluorine-containing elastomer
+JP2001151086A (en)	1999-11-30	2001-06-05	Hitachi Cable Ltd	Elastomer composition for wiper blade and wiper blade
+WO2003051999A1 (en)	2001-12-17	2003-06-26	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+US20050070637A1 (en)	2001-12-17	2005-03-31	Hirofumi Nishibayashi	Crosslinkable elastomer composition and formed product comprising the same
+CN1604940A (en)	2001-12-17	2005-04-06	大金工业株式会社	Cross-linkable elastomer composition and molded article formed from the composition
+US20090076197A1 (en)	2001-12-17	2009-03-19	Daikin Industries, Ltd	Crosslinkable Elastomer Composition and Molded Article Using the Same
+US20060058448A1 (en) *	2003-01-10	2006-03-16	Daikin Industries Ltd.	Cross-linked elastomer composition and formed product composed of such cross-linked elastomer composition
+JP2005239835A (en)	2004-02-25	2005-09-08	Nippon Valqua Ind Ltd	Crosslinkable fluororubber composition
+EP1719801A1 (en) *	2004-02-26	2006-11-08	Daikin Industries, Ltd.	Fluorinated elastomer composition
+US20080287627A1 (en)	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+US20110086229A1 (en)	2007-04-16	2011-04-14	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+CN103242611A (en)	2007-04-16	2013-08-14	特拉华格林托德有限公司	Perfluoroelastomer compositions and methods of preparing same
+JP2013209665A (en)	2007-04-16	2013-10-10	Greene Tweed Of Delaware Inc	Perfluoroelastomer composition and method of preparing the same
+US20120053297A1 (en)	2007-05-16	2012-03-01	Daikin Industries, Ltd.	Crosslinked fluorine-containing elastomer fine particles, preparation process of same, and composition
+JP2009138158A (en)	2007-12-10	2009-06-25	Daikin Ind Ltd	Fluorine-containing molded product and method for producing the same
+US20110171403A1 (en) *	2008-09-30	2011-07-14	Yoneho Tabata	Polytetrafluoroethylene resins that can be processed by shaping, shaped products thereof, and processes for producing the resins and shaped products
+JP2012215823A (en)	2011-03-31	2012-11-08	Gunze Ltd	Multilayer transfer member using fluororubber material
+JP2024100141A (en)	2023-01-13	2024-07-26	株式会社豊田自動織機	Autonomous Vehicles
+
+=== TABLE 9 (4 rows) ===
+Title
+Extended European Search Report issued May 3, 2023 in application No. 20810740.9.
+International Preliminary Report on Patentability dated Nov. 16, 2021 with a Translation of the Written Opinion of the International Searching Authority in Application No. PCT/JP2020/019807.
+International Search Report of PCT/JP2020/019807 dated Jul. 21, 2020 [PCT/ISA/210].
+
+=== TABLE 10 (13 rows) ===
+Publication number	Publication date
+JPWO2020235565A1 (en)	2020-11-26
+US20220243047A1 (en)	2022-08-04
+JP7265197B2 (en)	2023-04-26
+TWI830916B (en)	2024-02-01
+WO2020235565A1 (en)	2020-11-26
+EP3974473A1 (en)	2022-03-30
+CN113825795B (en)	2023-07-18
+EP3974473A4 (en)	2023-05-31
+KR102591386B1 (en)	2023-10-19
+KR20220005018A (en)	2022-01-12
+CN113825795A (en)	2021-12-21
+TW202106790A (en)	2021-02-16
+
+=== TABLE 11 (10 rows) ===
+Publication	Publication Date	Title
+JP7265197B2 (en)	2023-04-26	Fluorine-containing elastomer composition and article
+KR102240635B1 (en)	2021-04-15	Crosslinkable elastomer composition and fluororubber molded product
+KR102883772B1 (en)	2025-11-11	Compositions and crosslinkers
+JP2012509975A (en)	2012-04-26	Crosslinkable fluorine-containing elastomer composition and molded article produced from the composition
+US20250026905A1 (en)	2025-01-23	Composition, crosslinked article and sealing material
+US12304984B2 (en)	2025-05-20	Composition containing fluorine-containing polymer and crosslinked article
+US20230303748A1 (en)	2023-09-28	Fluoropolymer, aqueous liquid dispersion, composition, and crosslinked product
+US20250340727A1 (en)	2025-11-06	Polymer blend, crosslinkable composition and article
+WO2020138493A1 (en)	2020-07-02	Composition and molded article
+
+=== TABLE 12 (10 rows) ===
+Date	Code	Title	Description
+2021-11-19	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:KONISHI, TOMOHISA;NOGUCHI, TSUYOSHI;REEL/FRAME:058167/0285 Effective date: 20200629
+2021-11-19	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2022-05-16	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2024-06-12	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2024-09-16	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2024-09-25	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2024-12-29	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2025-01-21	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2025-04-30	STCF	Information on status: patent grant	Free format text: PATENTED CASE

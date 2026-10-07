@@ -1,0 +1,79 @@
+# CN114874572B :: CN114874572B - High-performance sealing element for automobile fuel tank and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202210614327.2A CN114874572B (en)	2022-06-01	2022-06-01	High-performance sealing element for automobile fuel tank and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202210614327.2A CN114874572B (en)	2022-06-01	2022-06-01	High-performance sealing element for automobile fuel tank and preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN114874572A CN114874572A (en)	2022-08-09
+CN114874572B true CN114874572B (en)	2023-05-16
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202210614327.2A Active CN114874572B (en)	2022-06-01	2022-06-01	High-performance sealing element for automobile fuel tank and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN114874572B (en)
+
+=== TABLE 5 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN115746566A (en) *	2022-11-22	2023-03-07	芜湖集拓实心胎有限公司	Solid tire base rubber material and preparation method thereof
+CN119529156B (en) *	2025-01-22	2025-05-27	上海熹贾精密技术有限公司	A method for in-situ synthesis of perfluoroether rubber material by emulsion polymerization
+CN119529157B (en) *	2025-01-23	2025-04-29	上海熹贾精密技术有限公司	A perfluoroether rubber seal and preparation method thereof
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN101412835B (en) *	2008-11-28	2011-01-19	华南理工大学	Blend of fluorubber and silastic, and preparation thereof
+CN106633544B (en) *	2016-11-17	2019-07-19	上海如实密封科技有限公司	A kind of high temperature high voltage resistant sealing element fluorubber material and preparation method thereof
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN112500661A (en) *	2020-11-20	2021-03-16	阜阳申邦新材料技术有限公司	High-dielectric material containing carbon nano tube and dielectric film
+
+=== TABLE 7 (2 rows) ===
+Publication number	Publication date
+CN114874572A (en)	2022-08-09
+
+=== TABLE 8 (26 rows) ===
+Publication	Publication Date	Title
+CN114874572A (en)	2022-08-09	High-performance sealing piece for automobile fuel tank and preparation method thereof
+EP1651721B1 (en)	2009-10-28	Thermoplastic vulcanizates based on fluorocarbon polymers
+EP0422960B1 (en)	1997-01-08	Rubber composition and crosslinkable rubber composition
+EP0434046B1 (en)	1995-08-30	Fluorine-containing elastomer composition
+JP5414196B2 (en)	2014-02-12	Fluoro rubber sealant with good high / low temperature load sealability
+WO1997028217A1 (en)	1997-08-07	Rubber composition lowered in heat build-up and rolls
+US6274665B2 (en)	2001-08-14	Method of preparing a molded sealing composition for sealing against permeation of carbon dioxide gas
+CN115584093A (en)	2023-01-10	Fluororubber for valves and preparation method thereof
+JPH07196881A (en)	1995-08-01	Fluoro-elastomer vulcanizing composition
+CN117777629A (en)	2024-03-29	Fluororubber dynamic vulcanization thermoplastic elastomer material resistant to fuel oil permeation, and preparation method and application thereof
+JP2787049B2 (en)	1998-08-13	Fluoro rubber composition
+CN114479319A (en)	2022-05-13	Fluororubber compound and preparation method and application thereof
+US6610761B1 (en)	2003-08-26	Molded rubber irradiated with ionizing radiation and process for producing the same
+JP4610856B2 (en)	2011-01-12	Composition for fluororubber-based sealing material and fluororubber-based sealing material
+EP2214241A1 (en)	2010-08-04	Fluororubber composition for cell seals of fuel cells
+JPH0711087A (en)	1995-01-13	Fluorine-based elastomer composition
+JPWO2003074625A1 (en)	2005-06-30	Sealing material
+JP2005140196A (en)	2005-06-02	Gasket for fuel cell
+JP2004217892A (en)	2004-08-05	Fluoro rubber sealing material composition and fluoro rubber sealing material
+EP0824120A1 (en)	1998-02-18	Fluoroelastomer
+CN115960418A (en)	2023-04-14	Rubber material for air conditioner hose and preparation method thereof
+JP4449271B2 (en)	2010-04-14	Recycled vulcanized fluororubber production method and composition for recycled unvulcanized fluororubber
+US4463136A (en)	1984-07-31	Epihalohydrin polymer blends
+Drobny	2023	Fluorocarbon Elastomers
+Aguilar-Bolados et al.	2025	Synthetic rubber: A brief guide to its variants and applications
+
+=== TABLE 9 (9 rows) ===
+Date	Code	Title	Description
+2022-08-09	PB01	Publication	
+2022-08-09	PB01	Publication	
+2022-08-26	SE01	Entry into force of request for substantive examination	
+2022-08-26	SE01	Entry into force of request for substantive examination	
+2023-05-16	GR01	Patent grant	
+2023-05-16	GR01	Patent grant	
+2024-07-26	PE01	Entry into force of the registration of the contract for pledge of patent right	Denomination of invention: A high-performance sealing component for automotive fuel tanks and its preparation method Granted publication date: 20230516 Pledgee: Industrial and Commercial Bank of China Limited Shanghai Fengxian sub branch Pledgor: Shanghai Xijia Precision Technology Co.,Ltd. Registration number: Y2024980027796
+2024-07-26	PE01	Entry into force of the registration of the contract for pledge of patent right	

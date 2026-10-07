@@ -1,0 +1,83 @@
+# CN118834484A :: CN118834484A - Perfluoroether rubber composition, perfluoroether rubber, and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310439596.4A CN118834484A (en)	2023-04-23	2023-04-23	Perfluoroether rubber composition, perfluoroether rubber, and preparation method and application thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310439596.4A CN118834484A (en)	2023-04-23	2023-04-23	Perfluoroether rubber composition, perfluoroether rubber, and preparation method and application thereof
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+CN118834484A true CN118834484A (en)	2024-10-25
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202310439596.4A Pending CN118834484A (en)	2023-04-23	2023-04-23	Perfluoroether rubber composition, perfluoroether rubber, and preparation method and application thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN118834484A (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN119161852A (en) *	2024-11-15	2024-12-20	山东东岳有机硅材料股份有限公司	High-adhesion organosilicon electronic potting glue and preparation method thereof
+CN119955239A (en) *	2025-04-11	2025-05-09	上海熹贾精密技术有限公司	A plasma-resistant perfluoroether rubber and preparation method thereof
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2010024400A (en) *	2008-07-23	2010-02-04	Sumitomo Rubber Ind Ltd	Rubber composition
+CN101974227A (en) *	2010-05-20	2011-02-16	复旦大学	Low-stress epoxy/organic silicon/POSS nano hybrid material, and preparation method and application thereof
+CN108192455A (en) *	2018-01-15	2018-06-22	湖北航泰科技有限公司	Inierpeneirating network structure polymer of silicon rubber-fluorocarbon coating and preparation method thereof
+CN112457612A (en) *	2020-11-16	2021-03-09	上海如实密封科技有限公司	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2010024400A (en) *	2008-07-23	2010-02-04	Sumitomo Rubber Ind Ltd	Rubber composition
+CN101974227A (en) *	2010-05-20	2011-02-16	复旦大学	Low-stress epoxy/organic silicon/POSS nano hybrid material, and preparation method and application thereof
+CN108192455A (en) *	2018-01-15	2018-06-22	湖北航泰科技有限公司	Inierpeneirating network structure polymer of silicon rubber-fluorocarbon coating and preparation method thereof
+CN112457612A (en) *	2020-11-16	2021-03-09	上海如实密封科技有限公司	Low-temperature-resistant perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 8 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN119161852A (en) *	2024-11-15	2024-12-20	山东东岳有机硅材料股份有限公司	High-adhesion organosilicon electronic potting glue and preparation method thereof
+CN119161852B (en) *	2024-11-15	2025-02-18	山东东岳有机硅材料股份有限公司	High-adhesion organic silicon electronic pouring sealant and preparation method thereof
+CN119955239A (en) *	2025-04-11	2025-05-09	上海熹贾精密技术有限公司	A plasma-resistant perfluoroether rubber and preparation method thereof
+CN119955239B (en) *	2025-04-11	2025-08-26	上海熹贾精密技术有限公司	A plasma-resistant perfluoroether rubber and its preparation method
+
+=== TABLE 9 (26 rows) ===
+Publication	Publication Date	Title
+CN102250437B (en)	2013-04-03	Acidproof, alkali-proof and hydrogen-sulphide-corrosion-resistant aflas composite
+CN112321952B (en)	2022-12-20	Ethylene propylene diene monomer composite rubber material and preparation method thereof
+CN104583253A (en)	2015-04-29	Curable fluorine-containing polymer, method for producing same, and fluorine-containing polymer cured product
+CN104974530A (en)	2015-10-14	High-performance tracking-resistant silicone rubber and preparation method thereof
+CN102115563A (en)	2011-07-06	Sealing element raw material applied to electrical appliance in high temperature, high pressure or high humidity environment and preparation method thereof
+CN117070043B (en)	2024-01-02	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+KR102846548B1 (en)	2025-08-20	Rubber compositions, fluorine-containing elastomers and sealants
+KR20190088488A (en)	2019-07-26	Fluoropolymer compositions and coatings
+CN102140189B (en)	2012-06-13	Hydrogenated nitrile rubber composition capable of resisting hydrothion corrosion
+WO2013095704A1 (en)	2013-06-27	Elastomer compositions with silane functionalized silica as reinforcing fillers
+EP1592736A1 (en)	2005-11-09	Fluoroelastomer compositions
+CN104558364A (en)	2015-04-29	Fluoroelastomer and preparation method thereof
+CN114907649A (en)	2022-08-16	A kind of high-strength, low-expansion halogen-free flame-retardant EPDM rubber material and preparation method thereof
+KR102925968B1 (en)	2026-02-11	Perfluoro elastomer and fluororubber composite with improved heat resistance
+KR102713660B1 (en)	2024-10-07	Perfluoro elastomer and fluororubber composite with improved heat resistance
+CN105601845B (en)	2018-09-21	A kind of synthesis of high molecular weight nitrile group-containing polysiloxanes and the preparation method of peroxide type heat cure nitrile silicone rubber
+CN106117926B (en)	2018-08-10	With the method for poly- 1,2 butadiene rubber crosslinking and reinforcement tetrapropanate fluorine rubber
+KR100899134B1 (en)	2009-05-25	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+JPH0356545A (en)	1991-03-12	Fluorine-containing elastomer composition curable by peroxide
+CN115785556B (en)	2024-11-12	A high heat-resistant and super weather-resistant flame-retardant TPO polymer waterproofing membrane and preparation method thereof
+CN118421027A (en)	2024-08-02	Medium-resistant fluororubber material, preparation method thereof and fluororubber sealing ring
+CN110776708A (en)	2020-02-11	High-temperature-resistant rubber sealing gasket and preparation method thereof
+CN114230737A (en)	2022-03-25	Perfluoro ether fluororubber and preparation method and application thereof
+JPH0362842A (en)	1991-03-18	Crosslinkable fluorine-containing elastomer composition
+CN111548591A (en)	2020-08-18	Oil-resistant high-temperature-resistant acrylate rubber and preparation method thereof
+
+=== TABLE 10 (5 rows) ===
+Date	Code	Title	Description
+2024-10-25	PB01	Publication	
+2024-10-25	PB01	Publication	
+2024-11-12	SE01	Entry into force of request for substantive examination	
+2024-11-12	SE01	Entry into force of request for substantive examination	

@@ -1,0 +1,109 @@
+# KR101467101B1 :: KR101467101B1 - Compound for sealing 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020130064501A KR101467101B1 (en)	2013-06-05	2013-06-05	Compound for sealing
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020130064501A KR101467101B1 (en)	2013-06-05	2013-06-05	Compound for sealing
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR101467101B1 true KR101467101B1 (en)	2014-12-01
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020130064501A Active KR101467101B1 (en)	2013-06-05	2013-06-05	Compound for sealing
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR101467101B1 (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112679963A (en) *	2020-12-29	2021-04-20	睿合科技有限公司	Integrated black silica gel OCR (optical character recognition) based on crosslinking density improvement performance and preparation method thereof
+CN120648136A (en) *	2025-06-17	2025-09-16	无锡金源半导体科技有限公司	Sealing composite material and preparation method thereof
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH10139970A (en) *	1996-11-08	1998-05-26	Nok Corp	Fluororubber composition
+WO2003074625A1 (en) *	2002-03-05	2003-09-12	Daikin Industries, Ltd.	Sealing material
+KR100894110B1 (en) *	2007-10-24	2009-04-20	주식회사 엠앤이	Perfluoro rubbers for semiconductor sealing with improved elongation
+KR20100016566A (en) *	2007-04-16	2010-02-12	그린, 트위드 오브 델라웨어, 인코포레이티드	Perfluoroelastomer compositions and methods of preparing same
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH10139970A (en) *	1996-11-08	1998-05-26	Nok Corp	Fluororubber composition
+WO2003074625A1 (en) *	2002-03-05	2003-09-12	Daikin Industries, Ltd.	Sealing material
+KR20100016566A (en) *	2007-04-16	2010-02-12	그린, 트위드 오브 델라웨어, 인코포레이티드	Perfluoroelastomer compositions and methods of preparing same
+KR100894110B1 (en) *	2007-10-24	2009-04-20	주식회사 엠앤이	Perfluoro rubbers for semiconductor sealing with improved elongation
+
+=== TABLE 8 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112679963A (en) *	2020-12-29	2021-04-20	睿合科技有限公司	Integrated black silica gel OCR (optical character recognition) based on crosslinking density improvement performance and preparation method thereof
+CN120648136A (en) *	2025-06-17	2025-09-16	无锡金源半导体科技有限公司	Sealing composite material and preparation method thereof
+
+=== TABLE 9 (26 rows) ===
+Publication	Publication Date	Title
+CN101289573A (en)	2008-10-22	Preparation method of novel alloy based on chlorinated polyethylene and thermoplastic polyurethane
+US20120046418A1 (en)	2012-02-23	Crosslinkable polymer material, crosslinked polymer material, and production method thereof
+RU2718909C1 (en)	2020-04-15	Butyl rubber, method for production thereof; rubber article, composition and use thereof; inner tire shell, chamber and cure diaphragm
+CN102532673B (en)	2014-01-01	A kind of reinforcing method of ethylene-vinyl acetate copolymer
+JP2019529688A (en)	2019-10-17	Bio-based polymer composition
+US20150210839A1 (en)	2015-07-30	New composite materials based on rubbers, elastomers, and their recycled
+CN109851958B (en)	2020-12-29	High-hardness fluororubber and preparation method thereof
+CN112592461A (en)	2021-04-02	Modified hydrogenated nitrile rubber material and preparation method and application thereof
+US11345797B2 (en)	2022-05-31	Ethylene/C5-C10 alpha-olefin/ polyene interpolymers
+CN102120835B (en)	2013-11-27	Method for processing high-molecular-weight rare earth butadiene rubber
+CN104114364B (en)	2016-01-27	Rubber Laminated Resin Complex
+Saha et al.	2018	Smart thermoplastic elastomers with high extensibility from poly (vinylidene fluoride) and hydrogenated nitrile rubber: processing–structure–property relationship
+CN102888121A (en)	2013-01-23	High-resilience silicon rubber and preparation method thereof
+DK202530331A1 (en)	2025-06-12	Polymer Blends for Use in Wellbore Applications
+KR20170098849A (en)	2017-08-30	Thermoplastic vulcanizate including rubber block interpolymer
+RU2556638C2 (en)	2015-07-10	Thermoplastic elastomer composition based on block-copolymer of styrene and crystalline polymers and method of its preparation
+Kang et al.	2022	Effect of the highpressure hydrogen gas exposure in the silica-filled EPDM sealing composites with different silica content. Polymers 2022; 14: 1151
+KR101665953B1 (en)	2016-10-13	Shoe outsole contaning biomass polybutadiene prepared from waste vegitable oil
+KR102142118B1 (en)	2020-08-06	Ionomer supramolecular network thermo-reversible crosslinked elastomer having high mechanical properties and low compression set and Producing method of dynamic crosslinked thermoplastic elastomer using the same
+RU2849817C1 (en)	2025-10-30	Thermoplastic elastomer composition intended for the manufacture of products operating in aggressive environments
+CN113103560B (en)	2022-05-13	High-strength polyurethane material and preparation method thereof
+KR102950560B1 (en)	2026-04-10	Epdm copolymer and manufacturing method thereof
+KR101897681B1 (en)	2018-09-13	Thermoplastic polyesteric elastomer resin composition with good oil resistance
+Kruželák et al.	2024	Sulfur and Peroxide Vulcanization of Rubber Compounds Based on SBR, EPDM and Their Combinations
+CN120966165A (en)	2025-11-18	Silica aerogel modified PVDF/FKM thermoplastic elastomer and preparation method thereof
+
+=== TABLE 10 (33 rows) ===
+Date	Code	Title	Description
+2013-06-05	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2013-06-05	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2014-01-08	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2014-02-11	D14-X000	Search report completed	St.27 status event code: A-1-2-D10-D14-srh-X000
+2014-06-11	PN2301	Change of applicant	St.27 status event code: A-3-3-R10-R13-asn-PN2301 St.27 status event code: A-3-3-R10-R11-asn-PN2301
+2014-06-19	R18-X000	Changes to party contact information recorded	St.27 status event code: A-3-3-R10-R18-oth-X000
+2014-07-28	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2014-09-19	E13-X000	Pre-grant limitation requested	St.27 status event code: A-2-3-E10-E13-lim-X000
+2014-09-19	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2014-09-19	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2014-11-19	E701	Decision to grant or registration of patent right	
+2014-11-19	PE0701	Decision of registration	St.27 status event code: A-1-2-D10-D22-exm-PE0701
+2014-11-24	GRNT	Written decision to grant	
+2014-11-24	PR0701	Registration of establishment	St.27 status event code: A-2-4-F10-F11-exm-PR0701
+2014-11-24	PR1002	Payment of registration fee	St.27 status event code: A-2-2-U10-U11-oth-PR1002 Fee payment year number: 1
+2014-12-01	PG1601	Publication of registration	St.27 status event code: A-4-4-Q10-Q13-nap-PG1601
+2016-09-01	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000
+2017-05-25	P14-X000	Amendment of ip right document requested	St.27 status event code: A-5-5-P10-P14-nap-X000
+2017-11-28	FPAY	Annual fee payment	Payment date: 20171128 Year of fee payment: 4
+2017-11-28	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 4
+2018-11-19	FPAY	Annual fee payment	Payment date: 20181119 Year of fee payment: 5
+2018-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 5
+2019-11-25	FPAY	Annual fee payment	Payment date: 20191125 Year of fee payment: 6
+2019-11-25	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 6
+2020-11-24	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 7
+2021-11-16	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 8
+2022-05-27	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2022-11-09	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 9
+2023-11-02	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 10
+2024-11-19	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 11
+2025-11-11	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 12
+2025-11-11	U11	Full renewal or maintenance fee paid	Free format text: ST27 STATUS EVENT CODE: A-4-4-U10-U11-OTH-PR1001 (AS PROVIDED BY THE NATIONAL OFFICE) Year of fee payment: 12

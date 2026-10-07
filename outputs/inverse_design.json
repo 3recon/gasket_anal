@@ -1,0 +1,31 @@
+{
+ "family": "FFKM / nitrile",
+ "n_family_rows": 161,
+ "spec": {
+  "hardness_shoreA": [
+   70.0,
+   80.0
+  ],
+  "elongation_pct": [
+   150.0,
+   null
+  ],
+  "compression_set_pct": [
+   null,
+   30.0
+  ]
+ },
+ "practical": {
+  "total_filler_phr": 60.0,
+  "fluororesin_phr": 50.0
+ },
+ "n_generated": 30000,
+ "models_used": [
+  "tensile_MPa",
+  "hardness_shoreA",
+  "elongation_pct"
+ ],
+ "incumbent_tensile": 22.56,
+ "n_candidates": 27467,
+ "n_feasible_obs": 39
+}

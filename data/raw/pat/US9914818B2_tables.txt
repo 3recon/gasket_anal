@@ -1,0 +1,312 @@
+# US9914818B2 :: US9914818B2 - Crosslinkable fluorine-containing elastomer composition and molded article made of said composition 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+	TABLE 1
+	
+	Example
+
+=== TABLE 1 (8 rows) ===
+	1	2	3	4	5
+
+Crosslinkable elastomer (part by mass)
+TFE/PMVE/CNVE	100	100	100	100	—
+TFE/PMVE	—	—	—	—	100
+VdF/HFP/TFE	—	—	—	—	—
+VdF/HFP	—	—	—	—	—
+Thermoplastic elastomer	—	—	—	—	—
+
+=== TABLE 2 (6 rows) ===
+	Bulk	Average					
+Filler	density	particle
+(part by mass)	(g/cm3)	size
+Silicon carbide	0.07	30 nm	10	15	—	—	15
+Silicon carbide	0.10	40 nm	—	—	10	15	—
+Silicon carbide	0.12	40 nm	—	—	—	—	—
+
+=== TABLE 3 (18 rows) ===
+Crosslinking agent (part by mass)					
+NphAF	0.9	0.9	0.9	0.9	—
+PERHEXA 2.5B	—	—	—	—	1
+Silicon nitride	—	—	—	—	—
+Crosslinking accelerator (part by mass)
+TAIC	—	—	—	—	2
+Hardness (Shore A)	70	75	70	75	75
+Compression set (70 hr/300° C.)	37	51	37	50	—
+Resistance to plasma
+O2 plasma irradiation
+Weight reduction ratio (%)	6.1	4.5	6.2	4.5	4.3
+Amount of particles on surface (%)	0.01	0.02	0.02	0.02	0.02
+Transfer of particles	Nil	Nil	Nil	Nil	Nil
+O2/CF4 plasma irradiation
+Weight reduction ratio (%)	5.7	4.3	5.8	4.4	4.1
+Amount of particles on surface (%)	0.01	0.01	0.01	0.02	0.01
+Transfer of particles	Nil	Nil	Nil	Nil	Nil
+
+
+=== TABLE 4 (1 rows) ===
+	Example
+
+=== TABLE 5 (8 rows) ===
+	6	7	8	9	10
+
+Crosslinkable elastomer (part by mass)
+TFE/PMVE/CNVE	—	—	100	100	—
+TFE/PMVE	—	—	—	—	—
+VdF/HFP/TFE	100	—	—	—	—
+VdF/HFP	—	—	—	—	100
+Thermoplastic elastomer	—	100	—	—	—
+
+=== TABLE 6 (6 rows) ===
+	Bulk	Average					
+Filler	density	particle
+(part by mass)	(g/cm3)	size
+Silicon carbide	0.07	30 nm	15	15	—	15	15
+Silicon carbide	0.10	40 nm	—	—	—	—	—
+Silicon carbide	0.12	40 nm	—	—	15	—	—
+
+=== TABLE 7 (18 rows) ===
+Crosslinking agent (part by mass)					
+NphAF	—	—	0.9	—	—
+PERHEXA 2.5B	1.5	—	—	—	1.5
+Silicon nitride	—	—	—	0.4	—
+Crosslinking accelerator (part by mass)
+TAIC	4	—	—	—	4
+Hardness (Shore A)	75	79	74	74	81
+Compression set (70 hr/300° C.)	—	—	45	43	—
+Resistance to plasma
+O2 plasma irradiation
+Weight reduction ratio (%)	5.5	5.7	4.6	4.4	5.3
+Amount of particles on surface (%)	0.01	0.01	0.02	0.01	0.01
+Transfer of particles	Nil	Nil	Nil	Nil	Nil
+O2/CF4 plasma irradiation
+Weight reduction ratio (%)	5.2	5.7	4.5	4.2	5.4
+Amount of particles on surface (%)	0.01	0.01	0.02	0.01	0.01
+Transfer of particles	Nil	Nil	Nil	Nil	Nil
+
+
+=== TABLE 8 (3 rows) ===
+	TABLE 2
+	
+	Comparative Example
+
+=== TABLE 9 (7 rows) ===
+	1	2	3	4	5	6	7
+
+Crosslinkable elastomer (part by mass)
+TFE/PMVE/CNVE	100	100	100	100	100	100	—
+TFE/PMVE	—	—	—	—	—	—	100
+VdF/HFP/TFE	—	—	—	—	—	—	—
+Thermoplastic elastomer	—	—	—	—	—	—	—
+
+=== TABLE 10 (12 rows) ===
+	Bulk								
+	density	Average
+Filler	(g/	Particle
+(part by mass)	cm3)	size
+Silicon carbide	0.17	45 nm	10	15	—	—	—	—	10
+Silicon carbide	0.26	40 nm	—	—	10	15	—	—	—
+Silicon carbide	0.49	130 nm	—	—	—	—	10	15	—
+Aluminum oxide	0.38	30 nm	—	—	—	—	—	—	—
+Silicon oxide	0.05	30 nm	—	—	—	—	—	—	—
+Carbon black	0.68	300 nm	—	—	—	—	—	—	—
+Polyimide	0.57	3,000 nm	—	—	—	—	—	—	—
+particles
+
+=== TABLE 11 (17 rows) ===
+Crosslinking agent (part by mass)							
+NphAF	0.9	0.9	0.9	0.9	0.9	0.9	—
+PERHEXA 2.5B	—	—	—	—	—	—	1
+Crosslinking accelerator (part by mass)
+TAIC	—	—	—	—	—	—	2
+Hardness (Shore A)	70	75	70	75	69	74	70
+Compression set (70 hr/300° C.)	37	50	36	48	30	38	—
+Resistance to plasma
+O2 plasma irradiation
+Weight reduction ratio (%)	6.8	5.0	6.3	4.4	7.4	6.1	4.3
+Amount of particles on surface (%)	0.06	0.07	0.05	0.07	0.06	0.08	0.07
+Transfer of particles	found	found	found	found	found	found	found
+O2/CF4 plasma irradiation
+Weight reduction ratio (%)	6.5	4.8	5.9	4.2	7.0	5.7	4.0
+Amount of particles on surface (%)	0.06	0.07	0.06	0.07	0.06	0.08	0.07
+Transfer of particles	found	found	found	found	found	found	Found
+
+
+=== TABLE 12 (1 rows) ===
+	Comparative Example
+
+=== TABLE 13 (7 rows) ===
+	8	9	10	11	12	13
+
+Crosslinkable elastomer (part by mass)
+TFE/PMVE/CNVE	100	100	100	100	—	—
+TFE/PMVE	—	—	—	—	—	—
+VdF/HFP/TFE	—	—	—	—	100	—
+Thermoplastic elastomer	—	—	—	—	—	100
+
+=== TABLE 14 (11 rows) ===
+	Bulk							
+Filler	density	Average particle
+(part by mass)	(g/cm3)	size
+Silicon carbide	0.17	45 nm	—	—	—	—	15	15
+Silicon carbide	0.26	40 nm	—	—	—	—	—	—
+Silicon carbide	0.49	130 nm	—	—	—	—	—	—
+Aluminum oxide	0.38	30 nm	10	—	—	—	—	—
+Silicon oxide	0.05	30 nm	—	15	—	—	—	—
+Carbon black	0.68	300 nm	—	—	15	—	—	—
+Polyimide	0.57	3,000 nm	—	—	—	15	—	—
+particles
+
+=== TABLE 15 (17 rows) ===
+Crosslinking agent (part by mass)						
+NphAF	0.9	0.9	0.9	0.9	—	—
+PERHEXA 2.5B	—	—	—	—	1.5	—
+Crosslinking accelerator (part by mass)
+TAIC	—	—	—	—	4	—
+Hardness (Shore A)	70	76	71	71	75	79
+Compression set (70 hr/300° C.)	71	65	27	30	—	—
+Resistance to plasma
+O2 plasma irradiation
+Weight reduction ratio (%)	2.1	5.0	5.3	11.8	5.6	5.9
+Amount of particles on surface (%)	0.21	0.03	0.06	0.01	0.08	0.07
+Transfer of particles	found	Nil	found	Nil	found	found
+O2/CF4 plasma irradiation
+Weight reduction ratio (%)	2.1	6.4	1.7	11.0	5.4	6.0
+Amount of particles on surface (%)	0.25	0.02	0.22	0.01	0.08	0.08
+Transfer of particles	found	Nil	found	Nil	found	found
+
+
+=== TABLE 16 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US13/142,836 US9914818B2 (en)	2008-12-29	2009-12-24	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+
+=== TABLE 17 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US14120908P	2008-12-29	2008-12-29	
+PCT/JP2009/071882 WO2010076889A1 (en)	2008-12-29	2009-12-24	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+US13/142,836 US9914818B2 (en)	2008-12-29	2009-12-24	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+
+=== TABLE 18 (3 rows) ===
+Publication Number	Publication Date
+US20120289641A1 US20120289641A1 (en)	2012-11-15
+US9914818B2 true US9914818B2 (en)	2018-03-13
+
+=== TABLE 19 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US13/142,836 Active 2031-04-22 US9914818B2 (en)	2008-12-29	2009-12-24	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+
+=== TABLE 20 (6 rows) ===
+Country	Link
+US (1)	US9914818B2 (en)
+JP (1)	JP5553320B2 (en)
+KR (1)	KR101352661B1 (en)
+TW (1)	TWI464208B (en)
+WO (1)	WO2010076889A1 (en)
+
+=== TABLE 21 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2021041529A1 (en) *	2019-08-26	2021-03-04	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions including microdiamond
+
+=== TABLE 22 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US9365712B2 (en)	2010-09-24	2016-06-14	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions suitable for high temperature applications
+JP5833657B2 (en)	2010-09-24	2015-12-16	グリーン， ツイード オブ デラウェア， インコーポレイテッド	Fluorine-containing elastomer composition suitable for high temperature applications
+KR101529646B1 (en)	2012-09-10	2015-06-17	주식회사 엘지화학	Method of forming silicon oxide nano pattern, metal nano pattern and magnetic patterned media for information storage
+US9631036B2 (en) *	2012-09-18	2017-04-25	Honeywell International Inc.	Fluoroelastomers
+KR101490405B1 (en)	2012-10-19	2015-02-06	주식회사 엘지화학	Forming method of metal nano-structure of metal nano-wire pattern or metal nano-mesh pattern
+US9982812B2 (en) *	2014-03-10	2018-05-29	Saint-Gobain Performance Plastics Corporation	Multilayer flexible tube and methods for making same
+US10295089B2 (en)	2014-03-10	2019-05-21	Saint-Gobain Performance Plastics Corporation	Multilayer flexible tube and methods for making same
+JP2016079200A (en) *	2014-10-10	2016-05-16	ゴムノイナキ株式会社	Fluororubber composition and seal structure provided with sealing material using the fluororubber composition
+FR3040996B1 (en)	2015-09-16	2020-02-14	Nanomakers	PROCESS FOR THE MANUFACTURE OF A POLYMER-BASED MATERIAL.
+JP6927319B2 (en) *	2017-10-18	2021-08-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded product
+JP6493616B1 (en) *	2017-11-02	2019-04-03	ダイキン工業株式会社	Fluorine-containing elastomer composition and sheet for heat dissipation material
+DE102017011642A1 (en)	2017-12-15	2019-06-19	Carl Freudenberg Kg	Curable fluoroelastomers with low swelling tendency
+WO2020184427A1 (en) *	2019-03-08	2020-09-17	Ａｇｃ株式会社	Fluorine-containing copolymer composition, crosslinked rubber and method for producing same
+WO2020235565A1 (en) *	2019-05-20	2020-11-26	ダイキン工業株式会社	Fluorine-containing elastomer composition and article
+EP4502045A4 (en) *	2022-03-31	2026-03-18	Daikin Ind Ltd	COMPOSITION, INTERLOCKED PRODUCT AND SEALING MATERIAL
+
+=== TABLE 23 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5913616A (en) *	1982-07-09	1984-01-24	Fumio Hori	Hyperfine powder of sic, method and apparatus for manufacturing it
+US5093403A (en) *	1986-07-01	1992-03-03	Edlon Products, Inc.	Polymer-metal bonded composite and method of producing same
+US20010044019A1 (en) *	1999-05-14	2001-11-22	Huesmann Peter L.	Highly filled undercoat for non-stick finish
+EP1464676A1 (en)	2001-12-17	2004-10-06	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+US20060051280A1 (en) *	1995-03-31	2006-03-09	Hyperion Catalysis International, Inc.	Carbide nanofribrils and method of making same
+EP1935939A1 (en)	2005-10-12	2008-06-25	NOK Corporation	Ptfe resin composition
+US20110224350A1 (en) *	2007-07-17	2011-09-15	Whitford Plastics Limited	Method for the preparation of fluoropolymer powdered materials
+
+=== TABLE 24 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5871906A (en)	1981-10-22	1983-04-28	Daikin Ind Ltd	Manufacture of fluorine-containing elastic copolymer
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+US4513128A (en)	1983-06-23	1985-04-23	E. I. Du Pont De Nemours And Company	Fluorinated vinyl ether copolymers having low glass transition temperatures
+JPS61223007A (en)	1985-03-28	1986-10-03	Daikin Ind Ltd	Emulsion polymerization of fluoroelastomer
+JPS6212734A (en)	1985-03-28	1987-01-21	Daikin Ind Ltd	Novel fluorovinyl ether and copolymer containing same
+JP2783576B2 (en)	1989-02-22	1998-08-06	日本メクトロン株式会社	Peroxide vulcanizable fluoroelastomer composition
+US4972038A (en)	1989-05-19	1990-11-20	E. I. Du Pont De Nemours And Company	Cyano-containing perfluoropolymers having iodine curesites
+US4973634A (en)	1989-05-19	1990-11-27	E. I. Du Pont De Nemours And Company	Preparation of bromo-containing perfluoropolymers having iodine curesites
+JP2858198B2 (en)	1993-04-19	1999-02-17	三菱電線工業株式会社	Semiconductor manufacturing equipment seal
+IT1269514B (en)	1994-05-18	1997-04-01	Ausimont Spa	VULCANIZABLE FLUOROELASTOMERS PEROXIDE, PARTICULARLY SUITABLE FOR O-RING MANUFACTURE
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP4006716B2 (en) *	1997-06-20	2007-11-14	信越石英株式会社	High purity silicon carbide powder and method for producing the same
+JP3561736B2 (en) *	1998-04-17	2004-09-02	静岡県	Method for producing SiC particle dispersion-reinforced composite material and product produced by the method
+US6191208B1 (en)	1998-05-20	2001-02-20	Dupont Dow Elastomers L.L.S.	Thermally stable perfluoroelastomer composition
+
+=== TABLE 25 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5913616A (en) *	1982-07-09	1984-01-24	Fumio Hori	Hyperfine powder of sic, method and apparatus for manufacturing it
+US5093403A (en) *	1986-07-01	1992-03-03	Edlon Products, Inc.	Polymer-metal bonded composite and method of producing same
+US20060051280A1 (en) *	1995-03-31	2006-03-09	Hyperion Catalysis International, Inc.	Carbide nanofribrils and method of making same
+US20010044019A1 (en) *	1999-05-14	2001-11-22	Huesmann Peter L.	Highly filled undercoat for non-stick finish
+EP1464676A1 (en)	2001-12-17	2004-10-06	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+US20050070637A1 (en) *	2001-12-17	2005-03-31	Hirofumi Nishibayashi	Crosslinkable elastomer composition and formed product comprising the same
+US8173727B2 (en) *	2001-12-17	2012-05-08	Daikin Industries, Ltd.	Crosslinkable elastomer composition and molded article using the same
+EP1935939A1 (en)	2005-10-12	2008-06-25	NOK Corporation	Ptfe resin composition
+US20110224350A1 (en) *	2007-07-17	2011-09-15	Whitford Plastics Limited	Method for the preparation of fluoropolymer powdered materials
+
+=== TABLE 26 (3 rows) ===
+Title
+International Search Report for PCT/JP2009/071882, dated Jun. 8, 2010.
+Majewski et al., "Synthesis and characterisation of star polymer/silicon carbide nanocomposites", Materials Science and Engineering A, 434, 2006, 360-364. *
+
+=== TABLE 27 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2021041529A1 (en) *	2019-08-26	2021-03-04	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions including microdiamond
+
+=== TABLE 28 (9 rows) ===
+Publication number	Publication date
+JP5553320B2 (en)	2014-07-16
+TWI464208B (en)	2014-12-11
+JP2012509975A (en)	2012-04-26
+TW201038654A (en)	2010-11-01
+WO2010076889A1 (en)	2010-07-08
+US20120289641A1 (en)	2012-11-15
+KR101352661B1 (en)	2014-01-16
+KR20110087290A (en)	2011-08-02
+
+=== TABLE 29 (15 rows) ===
+Publication	Publication Date	Title
+US20120289641A1 (en)	2012-11-15	Crosslinkable Fluorine-Containing Elastomer Composition and Molded Article Made of Said Composition
+JP5487584B2 (en)	2014-05-07	Crosslinkable elastomer composition and molded article comprising the composition
+US10138352B2 (en)	2018-11-27	Fluoroelastomer composition and molded article
+EP1182230B1 (en)	2008-07-09	Use of a synthetic filler containing crosslinkable elastomer composition for sealing plasma generating equipment
+US20110083806A1 (en)	2011-04-14	Plasma Resistant Processing Apparatus
+JP3303915B2 (en)	2002-07-22	Elastomer molded article for semiconductor manufacturing equipment and crosslinkable fluoroelastomer composition
+US20210292451A1 (en)	2021-09-23	Fluoropolymer-containing composition and molded article
+JP6955384B2 (en)	2021-10-27	Perfluoroelastomer composition and sealant
+JPWO2001032782A1 (en)	2003-05-20	Elastomer molded article for semiconductor manufacturing equipment and crosslinkable fluorine-based elastomer composition
+EP3260490B1 (en)	2021-01-20	Composition and molded article
+JP4600393B2 (en)	2010-12-15	Fluorine-containing elastomer composition
+US20250026905A1 (en)	2025-01-23	Composition, crosslinked article and sealing material
+CN100366681C (en)	2008-02-06	Crosslinkable elastomer composition and molded article formed from the crosslinkable elastomer composition
+US12304984B2 (en)	2025-05-20	Composition containing fluorine-containing polymer and crosslinked article
+
+=== TABLE 30 (7 rows) ===
+Date	Code	Title	Description
+2011-11-01	AS	Assignment	Owner name: GREENE, TWEED OF DELAWARE, INC., DELAWARE Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIRANO, SEIICHI;NOGUCHI, TSUYOSHI;SIGNING DATES FROM 20110929 TO 20111003;REEL/FRAME:027157/0527 Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIRANO, SEIICHI;NOGUCHI, TSUYOSHI;SIGNING DATES FROM 20110929 TO 20111003;REEL/FRAME:027157/0527
+2014-02-07	AS	Assignment	Owner name: GREENE, TWEED OF DELAWARE, LLC, DELAWARE Free format text: CHANGE OF NAME;ASSIGNOR:GREENE, TWEED OF DELAWARE, INC.;REEL/FRAME:032174/0324 Effective date: 20131218
+2014-02-12	AS	Assignment	Owner name: GREENE, TWEED TECHNOLOGIES, INC., DELAWARE Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:GREENE, TWEED OF DELAWARE, LLC;REEL/FRAME:032263/0712 Effective date: 20140128
+2018-02-21	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2021-09-01	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 4TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1551); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 4
+2025-08-27	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 8

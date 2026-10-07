@@ -1,0 +1,85 @@
+# CN115847665A :: CN115847665A - Crushing process for recovering perfluoroether rubber and perfluoroether sealing element prepared by same 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202211261202.2A CN115847665A (en)	2022-10-14	2022-10-14	Crushing process for recovering perfluoroether rubber and perfluoroether sealing element prepared by same
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202211261202.2A CN115847665A (en)	2022-10-14	2022-10-14	Crushing process for recovering perfluoroether rubber and perfluoroether sealing element prepared by same
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+CN115847665A true CN115847665A (en)	2023-03-28
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202211261202.2A Pending CN115847665A (en)	2022-10-14	2022-10-14	Crushing process for recovering perfluoroether rubber and perfluoroether sealing element prepared by same
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN115847665A (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118834485B (en) *	2024-07-25	2025-01-24	上海芯密科技股份有限公司	A fluororubber composition containing cross-linked perfluoroether rubber and a preparation method thereof
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN1333116A (en) *	2000-07-12	2002-01-30	珠海经济特区精业机电技术研究所	Technology for producing fine rubber powder by method of liquefied nitrogen internal circulation type recovering cold energy
+CN105218985A (en) *	2015-10-28	2016-01-06	湖北派克密封件有限公司	Viton of a kind of high temperature high voltage resistant hydrofluoric acid resistant and preparation method thereof
+CN106584705A (en) *	2016-11-17	2017-04-26	冯艳丽	Fluorinated silicone rubber reclamation method
+CN107213970A (en) *	2017-07-27	2017-09-29	洛阳和梦科技有限公司	Ultra-fine rubber powder producing method
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN1333116A (en) *	2000-07-12	2002-01-30	珠海经济特区精业机电技术研究所	Technology for producing fine rubber powder by method of liquefied nitrogen internal circulation type recovering cold energy
+CN105218985A (en) *	2015-10-28	2016-01-06	湖北派克密封件有限公司	Viton of a kind of high temperature high voltage resistant hydrofluoric acid resistant and preparation method thereof
+CN106584705A (en) *	2016-11-17	2017-04-26	冯艳丽	Fluorinated silicone rubber reclamation method
+CN107213970A (en) *	2017-07-27	2017-09-29	洛阳和梦科技有限公司	Ultra-fine rubber powder producing method
+
+=== TABLE 8 (2 rows) ===
+Title
+刘毓燕，谢忠麟: "《橡胶制品维修技术》", 解放军出版社, pages: 25 - 26 *
+
+=== TABLE 9 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118834485B (en) *	2024-07-25	2025-01-24	上海芯密科技股份有限公司	A fluororubber composition containing cross-linked perfluoroether rubber and a preparation method thereof
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+KR100642956B1 (en)	2006-11-10	Transparent Elastomer Composition
+TW517070B (en)	2003-01-11	Curable perfluoroelastomer composition
+US7495046B2 (en)	2009-02-24	Crosslinkable elastomer composition and formed product comprising the same
+KR100697171B1 (en)	2007-03-21	Fluorine-containing elastomer composition and its molded article excellent in anti-aging effect of plasma
+CN101977981B (en)	2013-08-14	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+US8044132B2 (en)	2011-10-25	Fluorine-containing elastomer composition
+CN101426851A (en)	2009-05-06	Fluorine-containing elastomer composition and fluorine-containing rubber molded article
+EP3604433B1 (en)	2023-04-19	Crosslinkable rubber composition and crosslinked rubber object
+CN101668807B (en)	2012-07-18	Modified hydrogenated diene polymer composition
+CN108350229A (en)	2018-07-31	Rubber cross object
+EP4520786A1 (en)	2025-03-12	Semiconductor seal ring rubber material, preparation method therefor, and use thereof
+EP2161301B1 (en)	2012-05-16	EPDM rubber composition comprising Austin black
+CN112313274B (en)	2022-08-12	Crosslinkable nitrile rubber compositions and rubber crosslinks
+CN100352856C (en)	2007-12-05	Fluorine-containing elastomer composition having excellent effect of preventing plasma aging and molded article thereof
+EP1908796A1 (en)	2008-04-09	Curable composition, molded article obtained from same, and method for producing molded article
+JP2020143251A (en)	2020-09-10	Nitrile rubber composition and crosslinked rubber
+CN101146887B (en)	2011-01-05	Vulcanizable rubber composition for liquefied gas sealing material and liquefied gas sealing material
+CN118834485B (en)	2025-01-24	A fluororubber composition containing cross-linked perfluoroether rubber and a preparation method thereof
+EP3904394A1 (en)	2021-11-03	Carboxyl group-containing nitrile rubber
+TW201840686A (en)	2018-11-16	Nitrile group-containing copolymer rubber
+JP7338411B2 (en)	2023-09-05	Crosslinkable rubber composition and crosslinked rubber
+TW201736484A (en)	2017-10-16	Fluoroelastomer composition and method for producing crosslinked product
+JP7103352B2 (en)	2022-07-20	Method for manufacturing rubber crosslinked products
+TW201840685A (en)	2018-11-16	Nitrile group-containing copolymer rubber
+JP2002241561A (en)	2002-08-28	Fluororubber composition and molded article
+
+=== TABLE 11 (7 rows) ===
+Date	Code	Title	Description
+2023-03-28	PB01	Publication	
+2023-03-28	PB01	Publication	
+2023-04-14	SE01	Entry into force of request for substantive examination	
+2023-04-14	SE01	Entry into force of request for substantive examination	
+2025-01-10	CB02	Change of applicant information	Country or region after: China Address after: South Zone, 1st Floor, Building 13, Lane 2699 Jiangshan Road, Lingang New Area, China (Shanghai) Pilot Free Trade Zone, Pudong New Area, Shanghai, 200131 Applicant after: Shanghai Xinmi Technology Co.,Ltd. Address before: 200120 South Area, Floor 1, Workshop 13, Lane 2699, Jiangshan Road, Lingang New Area, China (Shanghai) Free Trade Pilot Zone, Pudong New Area, Shanghai Applicant before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China
+2025-01-10	CB02	Change of applicant information	

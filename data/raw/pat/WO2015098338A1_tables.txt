@@ -1,0 +1,160 @@
+# WO2015098338A1 :: WO2015098338A1 - Fluorine rubber composition, crosslinked rubber molded body and method for producing same 
+        - Google Patents
+
+=== TABLE 0 (7 rows) ===
+Application Number	Priority Date	Filing Date	Title
+EP14874562.3A EP3088461A4 (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+KR1020167014842A KR20160105778A (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+US15/107,368 US9908980B2 (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+SG11201605258XA SG11201605258XA (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+JP2015554668A JP6134391B2 (en)	2013-12-27	2014-11-13	Seal material and manufacturing method thereof
+CN201480070983.4A CN105849180B (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded article, and method for producing the same
+
+=== TABLE 1 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2013-272479		2013-12-27	
+JP2013272479		2013-12-27	
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+WO2015098338A1 true WO2015098338A1 (en)	2015-07-02
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+PCT/JP2014/080027 Ceased WO2015098338A1 (en)	2013-12-27	2014-11-13	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+
+=== TABLE 4 (9 rows) ===
+Country	Link
+US (1)	US9908980B2 (en)
+EP (1)	EP3088461A4 (en)
+JP (1)	JP6134391B2 (en)
+KR (1)	KR20160105778A (en)
+CN (1)	CN105849180B (en)
+SG (1)	SG11201605258XA (en)
+TW (1)	TWI617608B (en)
+WO (1)	WO2015098338A1 (en)
+
+=== TABLE 5 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2015127358A (en) *	2013-12-27	2015-07-09	日本バルカー工業株式会社	Method for producing crosslinked rubber molding
+WO2016190050A1 (en) *	2015-05-27	2016-12-01	日本バルカー工業株式会社	Thermoplastic fluorine resin composition and method for producing cross-linked body
+US20170321033A1 (en) *	2016-02-04	2017-11-09	Eastman Chemical Company	Processes for forming vulcanizable elastomeric formulations and vulcanized elastomeric articles
+JP2017538023A (en) *	2014-12-19	2017-12-21	スリーエム イノベイティブ プロパティズ カンパニー	Curable partially fluorinated polymer composition
+JP2019172897A (en) *	2018-03-29	2019-10-10	三菱電線工業株式会社	Uncrosslinked rubber composition and rubber product produced using the same and method for producing the same
+US20210171726A1 (en) *	2017-12-08	2021-06-10	Kureha Corporation	Molded article and production method therefor
+US12060446B2 (en)	2018-12-27	2024-08-13	Kureha Corporation	Resin composition, method for producing resin composition, molded article, and method for producing molded article
+WO2025105257A1 (en) *	2023-11-15	2025-05-22	ニチアス株式会社	Rubber composition, fluorine-containing elastomer, and sealing material
+
+=== TABLE 6 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US9283455B2 (en)	2011-06-01	2016-03-15	Triad Sports Inc.	Collapsible and portable sports net apparatus
+US9728298B2 (en) *	2015-06-26	2017-08-08	Daikin America, Inc.	Radiation crosslinked fluoropolymer compositions containing low level of extractable fluorides
+US11021581B2 (en) *	2016-02-04	2021-06-01	Eastman Chemical Company	Durable elastomeric compositions employing cyclododecasulfur as a vulcanizing agent
+US10011663B2 (en)	2016-02-04	2018-07-03	Eastman Chemical Company	Vulcanizing composition containing cyclododecasulfur and improved cyclododecasulfur compound
+US11059722B2 (en)	2016-03-02	2021-07-13	Eastman Chemical Company	Method for the manufacture of cyclododecasulfur
+US10000380B2 (en)	2016-03-02	2018-06-19	Eastman Chemical Company	Method for the manufacture of polymeric sulfur
+CN108928118B (en) *	2017-05-26	2020-01-14	精工爱普生株式会社	Nozzle plate, liquid ejecting head, liquid ejecting apparatus, and method of manufacturing nozzle plate
+CN110914354B (en)	2017-07-20	2022-07-19	3M创新有限公司	Fluorinated elastomers cured by actinic radiation and methods thereof
+PL3658614T3 (en) *	2017-07-25	2026-01-19	Flexsys Holdings, Inc.	Processes for forming vulcanizable elastomeric formulations and vulcanized elastomeric articles
+JP6620132B2 (en) *	2017-09-14	2019-12-11	三菱電線工業株式会社	Seal material and manufacturing method thereof
+CN109608795B (en) *	2018-12-27	2021-07-30	江苏金晟元特种阀门股份有限公司	Partially cross-linked high temperature resistant, creep resistant and corrosion resistant valve special gasket material and preparation method thereof
+CN114106496B (en) *	2020-08-28	2023-04-28	中昊晨光化工研究院有限公司	Rubber material and preparation method and application thereof
+CN112409731B (en) *	2020-10-21	2023-02-24	浙江巨化技术中心有限公司	Fluorine-containing resin composition for 3D printing and preparation method thereof
+CN113402829A (en) *	2021-05-21	2021-09-17	王卫茂	Anti-aging rubber material and preparation method thereof
+CN117304624A (en) *	2022-06-21	2023-12-29	上海森桓新材料科技有限公司	Compositions, methods and sealing products for preparing vacuum sealing materials
+
+=== TABLE 7 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH09268245A (en) *	1996-03-29	1997-10-14	Nichias Corp	Fluorine resin composition, method for producing the same and molded article
+JPH11315180A (en) *	1998-03-06	1999-11-16	Nippon Mektron Ltd	Fluorine-containing copolymer composition
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2000230096A (en) *	1999-02-12	2000-08-22	Nippon Mektron Ltd	Fluorine-containing copolymer composition
+JP2002097329A (en) *	2000-09-20	2002-04-02	Nippon Mektron Ltd	Fluorine-containing copolymer composition
+JP2004134665A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Semiconductor device sealing material and method for manufacturing the same
+JP2005113035A (en)	2003-10-08	2005-04-28	Nippon Valqua Ind Ltd	Method of manufacturing fluororubber sealing material
+WO2006038424A1 (en) *	2004-10-04	2006-04-13	Unimatec Co., Ltd.	Crosslinked fluorocopolymer moldings
+JP2011513554A (en) *	2008-03-04	2011-04-28	デュポン パフォーマンス エラストマーズ エルエルシー	Peroxide curable fluoroelastomer compositions and articles made therefrom
+JP2013189655A (en) *	2013-07-04	2013-09-26	Asahi Glass Co Ltd	Crosslinked rubber article
+
+=== TABLE 8 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS51145582A (en) *	1975-06-09	1976-12-14	Shinetsu Chemical Co	Method of making molded fluorineerubber article
+US5109071A (en) *	1986-04-22	1992-04-28	Raychem Corporation	Fluoropolymer compositions
+JP3663519B2 (en) *	1995-03-31	2005-06-22	株式会社日立製作所	Pressure detector
+AU2003272956A1 (en)	2002-10-11	2004-05-04	Asahi Glass Co., Ltd.	Sealing material for semiconductor device and method for production thereof
+JP2004131656A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Sealing material for semiconductor devices
+WO2006057331A1 (en)	2004-11-26	2006-06-01	Daikin Industries, Ltd.	Thermoplastic polymer composition
+JP4628814B2 (en)	2005-02-15	2011-02-09	日本バルカー工業株式会社	Sealant for semiconductor manufacturing equipment
+JP5428150B2 (en) *	2007-11-20	2014-02-26	旭硝子株式会社	Crosslinkable fluorine-containing elastomer having excellent crosslinkability, and method for producing the same
+CN102471497B (en) *	2009-07-03	2014-10-22	大金工业株式会社	Crosslinkable fluorine rubber composition, fluorine rubber molded article, and method for producing the same
+JP2013082888A (en) *	2011-09-30	2013-05-09	Daikin Industries Ltd	Cross-linkable fluororubber composition, fluororubber-molded article, and method for producing the article
+
+=== TABLE 9 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH09268245A (en) *	1996-03-29	1997-10-14	Nichias Corp	Fluorine resin composition, method for producing the same and molded article
+JPH11315180A (en) *	1998-03-06	1999-11-16	Nippon Mektron Ltd	Fluorine-containing copolymer composition
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2000230096A (en) *	1999-02-12	2000-08-22	Nippon Mektron Ltd	Fluorine-containing copolymer composition
+JP2002097329A (en) *	2000-09-20	2002-04-02	Nippon Mektron Ltd	Fluorine-containing copolymer composition
+JP2004134665A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Semiconductor device sealing material and method for manufacturing the same
+JP2005113035A (en)	2003-10-08	2005-04-28	Nippon Valqua Ind Ltd	Method of manufacturing fluororubber sealing material
+WO2006038424A1 (en) *	2004-10-04	2006-04-13	Unimatec Co., Ltd.	Crosslinked fluorocopolymer moldings
+JP2011513554A (en) *	2008-03-04	2011-04-28	デュポン パフォーマンス エラストマーズ エルエルシー	Peroxide curable fluoroelastomer compositions and articles made therefrom
+JP2013189655A (en) *	2013-07-04	2013-09-26	Asahi Glass Co Ltd	Crosslinked rubber article
+
+=== TABLE 10 (2 rows) ===
+Title
+See also references of EP3088461A4
+
+=== TABLE 11 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2015127358A (en) *	2013-12-27	2015-07-09	日本バルカー工業株式会社	Method for producing crosslinked rubber molding
+EP3234011A4 (en) *	2014-12-19	2018-08-01	3M Innovative Properties Company	Curable partially fluorinated polymer compositions
+JP2017538023A (en) *	2014-12-19	2017-12-21	スリーエム イノベイティブ プロパティズ カンパニー	Curable partially fluorinated polymer composition
+WO2016190050A1 (en) *	2015-05-27	2016-12-01	日本バルカー工業株式会社	Thermoplastic fluorine resin composition and method for producing cross-linked body
+JP2016222752A (en) *	2015-05-27	2016-12-28	日本バルカー工業株式会社	Thermoplastic fluororesin composition and method for producing crosslinked product
+US10280281B2 (en) *	2016-02-04	2019-05-07	Eastman Chemical Company	Processes for forming vulcanizable elastomeric formulations and vulcanized elastomeric articles
+US20170321033A1 (en) *	2016-02-04	2017-11-09	Eastman Chemical Company	Processes for forming vulcanizable elastomeric formulations and vulcanized elastomeric articles
+US20210171726A1 (en) *	2017-12-08	2021-06-10	Kureha Corporation	Molded article and production method therefor
+JP2019172897A (en) *	2018-03-29	2019-10-10	三菱電線工業株式会社	Uncrosslinked rubber composition and rubber product produced using the same and method for producing the same
+JP2021105179A (en) *	2018-03-29	2021-07-26	三菱電線工業株式会社	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+JP7562465B2 (en)	2018-03-29	2024-10-07	三菱電線工業株式会社	Rubber products and their manufacturing method
+US12060446B2 (en)	2018-12-27	2024-08-13	Kureha Corporation	Resin composition, method for producing resin composition, molded article, and method for producing molded article
+WO2025105257A1 (en) *	2023-11-15	2025-05-22	ニチアス株式会社	Rubber composition, fluorine-containing elastomer, and sealing material
+
+=== TABLE 12 (13 rows) ===
+Publication number	Publication date
+JPWO2015098338A1 (en)	2017-03-23
+CN105849180B (en)	2018-09-21
+KR20160105778A (en)	2016-09-07
+JP6134391B2 (en)	2017-05-24
+EP3088461A4 (en)	2017-08-16
+EP3088461A1 (en)	2016-11-02
+CN105849180A (en)	2016-08-10
+SG11201605258XA (en)	2016-08-30
+US9908980B2 (en)	2018-03-06
+TW201533118A (en)	2015-09-01
+US20170002153A1 (en)	2017-01-05
+TWI617608B (en)	2018-03-11
+
+=== TABLE 13 (10 rows) ===
+Publication	Publication Date	Title
+JP6134391B2 (en)	2017-05-24	Seal material and manufacturing method thereof
+JP6230415B2 (en)	2017-11-15	Perfluoroelastomer composition, sealing material and method for producing the same
+US11015096B2 (en)	2021-05-25	Perfluoroelastomer composition and sealing material
+KR102414274B1 (en)	2022-06-28	Thermoplastic fluorine resin composition and method for producing cross-linked body
+JP6403246B2 (en)	2018-10-10	Method for producing crosslinked rubber molding
+KR102414805B1 (en)	2022-06-29	Perfluoroelastomer composition and sealing material
+JP6618506B2 (en)	2019-12-11	Perfluoroelastomer composition and sealing material
+JP7155286B2 (en)	2022-10-18	Elastomer composition and sealing material
+CN117304624A (en)	2023-12-29	Compositions, methods and sealing products for preparing vacuum sealing materials
+
+=== TABLE 14 (8 rows) ===
+Date	Code	Title	Description
+2015-08-26	121	Ep: the epo has been informed by wipo that ep was designated in this application	Ref document number: 14874562 Country of ref document: EP Kind code of ref document: A1
+2016-06-02	ENP	Entry into the national phase	Ref document number: 2015554668 Country of ref document: JP Kind code of ref document: A
+2016-06-03	ENP	Entry into the national phase	Ref document number: 20167014842 Country of ref document: KR Kind code of ref document: A
+2016-06-22	WWE	Wipo information: entry into national phase	Ref document number: 15107368 Country of ref document: US
+2016-06-27	NENP	Non-entry into the national phase	Ref country code: DE
+2016-07-26	REEP	Request for entry into the european phase	Ref document number: 2014874562 Country of ref document: EP
+2016-07-26	WWE	Wipo information: entry into national phase	Ref document number: 2014874562 Country of ref document: EP

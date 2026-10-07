@@ -1,0 +1,172 @@
+# US20160319102A1 :: US20160319102A1 - Perfluoroelastomer composition, sealing material, and method for producing same 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+	TABLE 1
+	
+	Examples	Comparative Examples
+
+=== TABLE 1 (2 rows) ===
+	1	2	3	4	5	6	1	2
+	
+
+=== TABLE 2 (11 rows) ===
+Perfluoroelastomers	FFKM 1	87.6	74.5	55.6	20.4	100	100	100	
+	FFKM 2	12.4	25.5	44.4	79.6				100
+	(Elastomer component)
+	FFKM 3
+Fluororesins	Fluororesin 1	3.1	6.4	11.1	19.9				25.0
+	(derived from FFKM 2)
+	Fluororesin 2					3.0	20.0
+Crosslinking agents or	BOAP	1.55	1.60	1.67	1.80	1.50	1.50	1.50	1.89
+crosslinking catalysts	triazine-type crosslinking catalyst
+	TAIC
+	Perhexa 25B
+
+=== TABLE 3 (6 rows) ===
+Hardness	shoreA	68	70	74	80	68	81	64	85
+Tensile strength	MPa	12.6	13.3	15.5	16.5	12.2	13.4	11.5	20.0
+Breaking elongation	%	220	225	210	225	220	160	210	215
+100% Modulus	MPa	2.8	3.1	4.3	5.7	2.1	5.1	1.5	7.9
+Compressive permanent strain	%	15	19	23	26	18	29	11	36
+
+
+=== TABLE 4 (1 rows) ===
+	Comparative Examples
+
+=== TABLE 5 (2 rows) ===
+	3	4	5	6	7	8	9
+	
+
+=== TABLE 6 (11 rows) ===
+	Perfluoroelastomers	FFKM 1	74.5	55.6	20.4		100	100	100
+		FFKM 2	25.5	44.4	79.6
+		(Elastomer component)
+		FFKM 3				100
+	Fluororesins	Fluororesin 1	6.4	11.1	19.9
+		(derived from FFKM 2)
+		Fluororesin 2				11.0	3.0	20.0	25.0
+	Crosslinking agents or	BOAP							1.50
+	crosslinking catalysts	triazine-type crosslinking catalyst	1.38	1.44	1.56		1.30	1.30
+		TAIC				3.00
+		Perhexa 25B				1.00
+
+=== TABLE 7 (6 rows) ===
+	Hardness	shoreA	61	64	68	64	61	74	86
+	Tensile strength	MPa	15.9	17.5	18.0	11.3	13.5	8.8	13.9
+	Breaking elongation	%	260	280	270	160	240	190	130
+	100% Modulus	MPa	2.0	2.5	2.8	2.5	1.7	2.7	6.9
+	Compressive permanent strain	%	21	23	27	95	20	30	33
+	
+
+=== TABLE 8 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2013-271345		2013-12-27	
+JP2013271345A JP6230415B2 (en)	2013-12-27	2013-12-27	Perfluoroelastomer composition, sealing material and method for producing the same
+PCT/JP2014/080026 WO2015098337A1 (en)	2013-12-27	2014-11-13	Perfluoroelastomer composition, sealing material and method for producing same
+
+=== TABLE 9 (2 rows) ===
+Publication Number	Publication Date
+US20160319102A1 true US20160319102A1 (en)	2016-11-03
+
+=== TABLE 10 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US15/108,110 Abandoned US20160319102A1 (en)	2013-12-27	2014-11-13	Perfluoroelastomer composition, sealing material, and method for producing same
+
+=== TABLE 11 (9 rows) ===
+Country	Link
+US (1)	US20160319102A1 (en)
+EP (1)	EP3088460A4 (en)
+JP (1)	JP6230415B2 (en)
+KR (1)	KR20160104620A (en)
+CN (1)	CN105899600B (en)
+SG (1)	SG11201605257UA (en)
+TW (1)	TWI617609B (en)
+WO (1)	WO2015098337A1 (en)
+
+=== TABLE 12 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US12180315B2 (en)	2018-12-04	2024-12-31	Valqua, Ltd.	Elastomer composition and sealing material
+US12584054B2 (en)	2019-12-11	2026-03-24	Mitsubishi Cable Industries, Ltd.	Semiconductor production device sealing material
+
+=== TABLE 13 (12 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US9908992B2 (en) *	2015-09-26	2018-03-06	E I Du Pont De Nemours And Company	Curing agents for fluoroelastomers
+JP6990579B2 (en) *	2017-12-25	2022-01-12	三井・ケマーズ フロロプロダクツ株式会社	Material for melt molding and its manufacturing method
+CN112119510B (en) *	2018-03-15	2024-08-09	索尔维特殊聚合物意大利有限公司	Fluoropolymer compositions for components of light emitting devices
+EP4013830A1 (en) *	2019-08-12	2022-06-22	The Chemours Company FC, LLC	Adherent amorphous perfluoropolymer composition
+TW202112932A (en) *	2019-08-26	2021-04-01	美商葛林陀德科技公司	Fluorine-containing elastomer compositions including microdiamond
+GB2591500B (en) *	2020-01-30	2022-11-30	Edwards Ltd	A pump and a set of seals sealing the stator components of such a pump
+CN115362208B (en) *	2020-04-13	2024-09-24	Ａｇｃ株式会社	Fluorine-containing copolymer composition and cross-linked rubber article
+WO2022125666A1 (en) *	2020-12-08	2022-06-16	Greene, Tweed Technologies, Inc.	Polymer and elastomer compositions having carbon nanostructure additives and articles formed therefrom for use in emi and rfi shielding and in pressure sensing seals having quantum tunneling composite effects
+JP2023113432A (en) *	2022-02-03	2023-08-16	株式会社バルカー	Annular laminate, sealing material and manufacturing method
+EP4502045A4 (en) *	2022-03-31	2026-03-18	Daikin Ind Ltd	COMPOSITION, INTERLOCKED PRODUCT AND SEALING MATERIAL
+JP2025080928A (en) *	2023-11-15	2025-05-27	ニチアス株式会社	Rubber composition, fluorine-containing elastomer and sealing material
+
+=== TABLE 14 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6114452A (en) *	1996-11-25	2000-09-05	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having excellent heat stability
+US20110269909A1 (en) *	2010-04-29	2011-11-03	E.I. Du Pont De Nemours And Company	Manufacture of perfluoroelastomer compounds containing fibrillating ptfe
+
+=== TABLE 15 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2833645B2 (en) *	1994-10-21	1998-12-09	日本メクトロン株式会社	Fluorine-containing elastomer composition
+JP2937302B2 (en)	1995-08-30	1999-08-23	株式会社 森清化工	Composition for sealing material of plasma etching apparatus and sealing material for plasma etching apparatus
+WO1997008239A1 (en) *	1995-08-30	1997-03-06	Morisei Kako Co., Ltd.	Sealing composition and sealant
+US6703461B1 (en) *	1998-03-25	2004-03-09	Daikin Industries, Ltd.	Method of reducing metal content in fluoroelastomer
+WO2001023470A1 (en) *	1999-09-30	2001-04-05	Daikin Industries, Ltd.	Transparent elastomer composition
+JP5044800B2 (en) *	2001-03-28	2012-10-10	ダイキン工業株式会社	Fluorine-containing elastomer composition
+US20060270780A1 (en)	2005-05-25	2006-11-30	Ping Xu	High purity perfluoroelastomer composites and a processes to produce the same
+JP2007154043A (en) *	2005-12-05	2007-06-21	Nippon Valqua Ind Ltd	Fluororubber composition and sealing material composed thereof
+JP2008001894A (en) *	2006-05-26	2008-01-10	Daikin Ind Ltd	Fluorine-containing elastomer composition excellent in plasma resistance and sealing material comprising the same
+EP2268679A4 (en) *	2008-04-08	2011-10-26	Greene Tweed Inc	OXYGEN PLASMA RESISTANT COMPOSITION CHARACTERIZED BY LOW ADHESION AND ASSOCIATED METHODS
+JP5833657B2 (en) *	2010-09-24	2015-12-16	グリーン， ツイード オブ デラウェア， インコーポレイテッド	Fluorine-containing elastomer composition suitable for high temperature applications
+JP2013014640A (en) *	2011-06-30	2013-01-24	Daikin Industries Ltd	Fluorine-containing elastomer composition
+JP2012082438A (en) *	2011-12-22	2012-04-26	Daikin Industries Ltd	Particle containing fluorine olefin polymer
+
+=== TABLE 16 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6114452A (en) *	1996-11-25	2000-09-05	E. I. Du Pont De Nemours And Company	Perfluoroelastomer composition having excellent heat stability
+US20110269909A1 (en) *	2010-04-29	2011-11-03	E.I. Du Pont De Nemours And Company	Manufacture of perfluoroelastomer compounds containing fibrillating ptfe
+
+=== TABLE 17 (3 rows) ===
+Title
+Kuboyama US 2005/0197458 *
+Noguchi US 2008/0287627 *
+
+=== TABLE 18 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US12180315B2 (en)	2018-12-04	2024-12-31	Valqua, Ltd.	Elastomer composition and sealing material
+US12584054B2 (en)	2019-12-11	2026-03-24	Mitsubishi Cable Industries, Ltd.	Semiconductor production device sealing material
+
+=== TABLE 19 (12 rows) ===
+Publication number	Publication date
+WO2015098337A1 (en)	2015-07-02
+SG11201605257UA (en)	2016-08-30
+CN105899600A (en)	2016-08-24
+KR20160104620A (en)	2016-09-05
+EP3088460A1 (en)	2016-11-02
+JP6230415B2 (en)	2017-11-15
+JP2015124346A (en)	2015-07-06
+TW201529679A (en)	2015-08-01
+EP3088460A4 (en)	2017-08-09
+CN105899600B (en)	2019-02-22
+TWI617609B (en)	2018-03-11
+
+=== TABLE 20 (9 rows) ===
+Publication	Publication Date	Title
+TWI617609B (en)	2018-03-11	Perfluoroelastomer composition, sealing material and method of producing the same
+US9908980B2 (en)	2018-03-06	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+JP5458007B2 (en)	2014-04-02	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+US11274199B2 (en)	2022-03-15	Perfluoroelastomer composition and sealing material
+EP3467026B1 (en)	2025-10-29	Perfluoroelastomer composition and sealing material
+KR102414274B1 (en)	2022-06-28	Thermoplastic fluorine resin composition and method for producing cross-linked body
+JP2015124346A5 (en)	2016-12-28	
+US11118045B2 (en)	2021-09-14	Perfluoroelastomer composition and sealing material
+
+=== TABLE 21 (5 rows) ===
+Date	Code	Title	Description
+2016-06-24	AS	Assignment	Owner name: NIPPON VALQUA INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OSUMI, NAOKI;TODA, SAYAKA;REEL/FRAME:039007/0226 Effective date: 20160526
+2019-01-24	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2019-01-30	AS	Assignment	Owner name: VALQUA, LTD., JAPAN Free format text: CHANGE OF NAME;ASSIGNOR:NIPPON VALQUA INDUSTRIES, LTD.;REEL/FRAME:048191/0147 Effective date: 20181001
+2019-09-27	STCB	Information on status: application discontinuation	Free format text: ABANDONED -- FAILURE TO RESPOND TO AN OFFICE ACTION

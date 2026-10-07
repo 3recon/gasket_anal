@@ -1,0 +1,94 @@
+# CN119529157A :: CN119529157A - 
+        A perfluoroether rubber seal and preparation method thereof
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510107426.5A CN119529157B (en)	2025-01-23	2025-01-23	A perfluoroether rubber seal and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510107426.5A CN119529157B (en)	2025-01-23	2025-01-23	A perfluoroether rubber seal and preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN119529157A true CN119529157A (en)	2025-02-28
+CN119529157B CN119529157B (en)	2025-04-29
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202510107426.5A Active CN119529157B (en)	2025-01-23	2025-01-23	A perfluoroether rubber seal and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN119529157B (en)
+
+=== TABLE 5 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120208830A (en) *	2025-03-27	2025-06-27	四川道弘新材料股份有限公司	A high temperature resistant perfluoroether rubber and its preparation method and use
+CN120620808A (en) *	2025-08-08	2025-09-12	山东森荣新材料股份有限公司	ETFE-based sealing gasket and preparation method thereof
+CN120865661A (en) *	2025-09-26	2025-10-31	上海熹贾精密技术有限公司	Sealing material of perfluoro ether rubber and preparation method thereof
+
+=== TABLE 6 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN106084176A (en) *	2016-07-28	2016-11-09	东莞市雄林新材料科技股份有限公司	A kind of environment-friendly type antibiotic Polyurethane Thermoplastic Elastomer and preparation method thereof
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN114874572A (en) *	2022-06-01	2022-08-09	上海熹贾精密技术有限公司	High-performance sealing piece for automobile fuel tank and preparation method thereof
+
+=== TABLE 7 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN106084176A (en) *	2016-07-28	2016-11-09	东莞市雄林新材料科技股份有限公司	A kind of environment-friendly type antibiotic Polyurethane Thermoplastic Elastomer and preparation method thereof
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+CN114874572A (en) *	2022-06-01	2022-08-09	上海熹贾精密技术有限公司	High-performance sealing piece for automobile fuel tank and preparation method thereof
+
+=== TABLE 8 (2 rows) ===
+Title
+SHIXIN SONG 等: "Fluoro-polymer-coated carbon nanotubes for improved interfacial interactions and dielectric properties in MWCNTs/PVDF composites", J MATER SCI, vol. 55, 5 November 2019 (2019-11-05), pages 3212, XP036965893, DOI: 10.1007/s10853-019-04161-9 *
+
+=== TABLE 9 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120208830A (en) *	2025-03-27	2025-06-27	四川道弘新材料股份有限公司	A high temperature resistant perfluoroether rubber and its preparation method and use
+CN120620808A (en) *	2025-08-08	2025-09-12	山东森荣新材料股份有限公司	ETFE-based sealing gasket and preparation method thereof
+CN120865661A (en) *	2025-09-26	2025-10-31	上海熹贾精密技术有限公司	Sealing material of perfluoro ether rubber and preparation method thereof
+
+=== TABLE 10 (2 rows) ===
+Publication number	Publication date
+CN119529157B (en)	2025-04-29
+
+=== TABLE 11 (26 rows) ===
+Publication	Publication Date	Title
+CN119529157B (en)	2025-04-29	A perfluoroether rubber seal and preparation method thereof
+CN1289547C (en)	2006-12-13	Aqueous emulsion polymerization in presence of ethers as chaine transfer agents to produce fluoropolymers
+US4035565A (en)	1977-07-12	Fluoropolymer containing a small amount of bromine-containing olefin units
+JPH0745554B2 (en)	1995-05-17	Manufacturing method of curable fluoroelastomer
+CN103038266A (en)	2013-04-10	Peroxide curable fluoroelastomers containing modifiers and iodine or bromine endgroups
+KR20160130238A (en)	2016-11-10	Highly fluorinated elastomers
+CN105102409B (en)	2017-07-04	Fluoriodine Compounds for Fluoropolymers
+CN114621383B (en)	2023-12-12	Perfluoroether elastomer emulsion, preparation method and perfluoroether elastomer
+CN102459454A (en)	2012-05-16	Low Temperature Curing Amorphous Fluoropolymers
+CN115716895A (en)	2023-02-28	Method for synthesizing fluorine-containing polymer, fluorine-containing rubber and preparation method thereof
+US20130317162A1 (en)	2013-11-28	Perfluoroelastomer gels
+CN110684141A (en)	2020-01-14	Peroxide vulcanized fluororubber with low Mooney viscosity and high fluorine content
+TWI751348B (en)	2022-01-01	Fluorinated elastic copolymer and its manufacturing method, fluorinated elastic copolymer composition and crosslinked rubber article
+US20040014900A1 (en)	2004-01-22	Fluoropolymers having improved compression set
+US6291576B1 (en)	2001-09-18	Crosslinkable fluoroelastomer composition
+CN119529156B (en)	2025-05-27	A method for in-situ synthesis of perfluoroether rubber material by emulsion polymerization
+JPH02191613A (en)	1990-07-27	New non-crystalline fluorine-containing copolymer
+CN114230737B (en)	2023-08-01	A kind of perfluoroether fluororubber and its preparation method and application
+CN108017746A (en)	2018-05-11	A kind of peroxide cure fluorubber of low compression set and preparation method thereof
+JP3632330B2 (en)	2005-03-23	Method for producing thermoplastic fluorine-containing graft copolymer
+CN116143967B (en)	2024-05-14	Fluoroelastomer for lithium battery sealing and preparation method thereof
+CN116162199B (en)	2024-09-27	A kind of fluororubber raw rubber and preparation method thereof
+US5650472A (en)	1997-07-22	Fluorine-containing copolymer, process for preparing the same and fluorine-containing elastomer
+CN115725016B (en)	2024-05-14	Ether modified fluororubber and preparation method thereof
+WO2019009250A1 (en)	2019-01-10	Fluorine-containing elastic copolymer composition and crosslinked rubber article
+
+=== TABLE 12 (7 rows) ===
+Date	Code	Title	Description
+2025-02-28	PB01	Publication	
+2025-02-28	PB01	Publication	
+2025-03-18	SE01	Entry into force of request for substantive examination	
+2025-03-18	SE01	Entry into force of request for substantive examination	
+2025-04-29	GR01	Patent grant	
+2025-04-29	GR01	Patent grant	

@@ -1,0 +1,86 @@
+# JP2001348462A :: JP2001348462A - 
+        Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2000173761A JP2001348462A (en)	2000-06-09	2000-06-09	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2000173761A JP2001348462A (en)	2000-06-09	2000-06-09	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+JP2001348462A true JP2001348462A (en)	2001-12-18
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+JP2000173761A Pending JP2001348462A (en)	2000-06-09	2000-06-09	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+JP (1)	JP2001348462A (en)
+
+=== TABLE 5 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP1302500A3 (en) *	2001-10-12	2003-12-03	Nichias Corporation	Plasma-resistant fluorine-based elastomer sealing material
+WO2004033580A1 (en) *	2002-10-11	2004-04-22	Asahi Glass Co., Ltd.	Sealing material for semiconductor device and method for production thereof
+JP2006096976A (en) *	2004-09-02	2006-04-13	Nichias Corp	Fluoro rubber composition, rubber material using the same, and method for producing fluoro rubber molding
+WO2006087942A1 (en) *	2005-02-15	2006-08-24	Nippon Valqua Industries, Ltd.	Seal material for semiconductor production apparatus
+JP2006527274A (en) *	2003-06-06	2006-11-30	ダウ・コーニング・コーポレイション	Fluorine resin silicone vulcanized rubber
+JP2008045001A (en) *	2006-08-11	2008-02-28	Daikin Ind Ltd	PEROXIDE CROSSLINKING COMPOSITION AND MOLDED ARTICLE COMPRISING THE SAME
+US7964667B2 (en)	2005-04-07	2011-06-21	Freudenberg-Nok General Partnership	High temperature elastomers with low hydrocarbon vapor permeability
+JP2014118510A (en) *	2012-12-18	2014-06-30	Unimatec Co Ltd	Fluororubber composition
+CN104530610A (en) *	2014-12-29	2015-04-22	中国兵器工业集团第五三研究所	Fluorine rubber-fluorosilicone rubber blend and preparation method thereof
+WO2019054293A1 (en)	2017-09-14	2019-03-21	三菱電線工業株式会社	Uncrosslinked rubber composition and rubber product manufactured by using same and manufacturing method therefor
+
+=== TABLE 6 (17 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP1302500A3 (en) *	2001-10-12	2003-12-03	Nichias Corporation	Plasma-resistant fluorine-based elastomer sealing material
+WO2004033580A1 (en) *	2002-10-11	2004-04-22	Asahi Glass Co., Ltd.	Sealing material for semiconductor device and method for production thereof
+JP2006527274A (en) *	2003-06-06	2006-11-30	ダウ・コーニング・コーポレイション	Fluorine resin silicone vulcanized rubber
+JP2006096976A (en) *	2004-09-02	2006-04-13	Nichias Corp	Fluoro rubber composition, rubber material using the same, and method for producing fluoro rubber molding
+KR100918351B1 (en)	2005-02-15	2009-09-22	닛폰 바루카 고교 가부시키가이샤	Sealing material for semiconductor manufacturing apparatus
+WO2006087942A1 (en) *	2005-02-15	2006-08-24	Nippon Valqua Industries, Ltd.	Seal material for semiconductor production apparatus
+JP2006228805A (en) *	2005-02-15	2006-08-31	Nippon Valqua Ind Ltd	Sealant for semiconductor manufacturing equipment
+US7964667B2 (en)	2005-04-07	2011-06-21	Freudenberg-Nok General Partnership	High temperature elastomers with low hydrocarbon vapor permeability
+JP2008045001A (en) *	2006-08-11	2008-02-28	Daikin Ind Ltd	PEROXIDE CROSSLINKING COMPOSITION AND MOLDED ARTICLE COMPRISING THE SAME
+JP2014118510A (en) *	2012-12-18	2014-06-30	Unimatec Co Ltd	Fluororubber composition
+CN104530610A (en) *	2014-12-29	2015-04-22	中国兵器工业集团第五三研究所	Fluorine rubber-fluorosilicone rubber blend and preparation method thereof
+WO2019054293A1 (en)	2017-09-14	2019-03-21	三菱電線工業株式会社	Uncrosslinked rubber composition and rubber product manufactured by using same and manufacturing method therefor
+CN111094437A (en) *	2017-09-14	2020-05-01	三菱电线工业株式会社	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+KR20200049835A (en)	2017-09-14	2020-05-08	미츠비시 덴센 고교 가부시키가이샤	Uncrosslinked rubber composition and rubber product manufactured using same and manufacturing method thereof
+CN111094437B (en) *	2017-09-14	2022-05-13	三菱电线工业株式会社	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+EP4116374A1 (en)	2017-09-14	2023-01-11	Mitsubishi Cable Industries, Ltd.	Method for manufacturing a rubber product
+
+=== TABLE 7 (24 rows) ===
+Publication	Publication Date	Title
+JP4628814B2 (en)	2011-02-09	Sealant for semiconductor manufacturing equipment
+US5696189A (en)	1997-12-09	Perfluoroelastomer compositions
+TWI222977B (en)	2004-11-01	A molding material
+EP2824144B1 (en)	2016-12-07	Fluorine rubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+JP2014118536A (en)	2014-06-30	Fluorine-containing elastomer composition, and rubber member
+US7323515B2 (en)	2008-01-29	Sealing composition and seals made by using the same
+WO2003051987A1 (en)	2003-06-26	Elastomer formed product
+JP2008001894A (en)	2008-01-10	Fluorine-containing elastomer composition excellent in plasma resistance and sealing material comprising the same
+TWI381015B (en)	2013-01-01	Fluororubber composition, fluororubber material using the composition and method for producing the fluororubber molding
+KR101236651B1 (en)	2013-02-22	Elastomer composition and molded body
+JP2000119468A (en)	2000-04-25	Fluoroelastomer composition, its crosslinking product, and its use
+WO2004033580A1 (en)	2004-04-22	Sealing material for semiconductor device and method for production thereof
+JP4381087B2 (en)	2009-12-09	Method for producing fluoro rubber sealant
+JP2001114964A (en)	2001-04-24	Plasma resistant fluoro rubber composition
+JP2003055577A (en)	2003-02-26	Modified inorganic filler
+JP4331368B2 (en)	2009-09-16	Seal for semiconductor manufacturing equipment
+JP2002161264A (en)	2002-06-04	Plasma-resistant seal
+WO2000078871A1 (en)	2000-12-28	Crosslinkable elastomer composition and molded article produced from the composition
+JP2002173543A (en)	2002-06-21	Plasma resistant fluoroelastomer moldings
+JP2001164066A (en)	2001-06-19	Plasma resistant fluoro rubber composition
+EP3892676A1 (en)	2021-10-13	Elastomer composition and sealing material
+JP7522418B1 (en)	2024-07-25	Sealant forming material, sealant, and method for producing sealant
+TW202544149A (en)	2025-11-16	Production method of regenerated perfluoro(co)polymers and production method of regenerated materials
+
+=== TABLE 8 (2 rows) ===
+Date	Code	Title	Description
+2006-03-25	RD04	Notification of resignation of power of attorney	Free format text: JAPANESE INTERMEDIATE CODE: A7424 Effective date: 20060324

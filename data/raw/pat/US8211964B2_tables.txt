@@ -1,0 +1,224 @@
+# US8211964B2 :: US8211964B2 - Curable composition, molded article obtained from same and process for production of molded article 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+	TABLE 1
+	
+	Example
+
+=== TABLE 1 (2 rows) ===
+	1	2	3	4	5
+	
+
+=== TABLE 2 (4 rows) ===
+Composition	Fluorine-containing elastomer (A)	100	100	100	100	100
+(part by weight)	Si3N4 (particle size: 30 nm)	0.20	0.35	0.40	0	0
+	Si3N4 (particle size: ≦300 nm)	0	0	0	20	0
+	ALN (pulverized product)	0	0	0	0	20
+
+=== TABLE 3 (1 rows) ===
+Results of evaluation
+
+=== TABLE 4 (12 rows) ===
+Vulcanizability	MH (kgf)	2.75	3.77	4.26	1.7	2.0
+180° C. model II	ML (kgf)	0.70	0.75	0.80	0.6	0.7
+	T10 (min)	0.9	0.8	0.5	4	4
+	T90 (min)	18.0	17.5	21.0	45	40
+Physical properties	M100 (kgf/cm2)	—	12	14	51	50
+under normal conditions	Tb (kgf/cm2)	—	95	102	130	120
+	Eb (%)	—	295	265	180	170
+	Shore A	—	57.2	58	76	78
+Compression set (%)	300° C. × 72 hr	—	33	30	—	—
+	250° C. × 72 hr	—	18	17	42	48
+	200° C. × 72 hr	—	18	17	—	—
+
+
+=== TABLE 5 (6 rows) ===
+	TABLE 2
+	
+		Com.		Com.		Com.
+	Ex. 6	Ex. 1	Ex. 7	Ex. 2	Ex. 8	Ex. 3
+	
+
+
+=== TABLE 6 (7 rows) ===
+Composition	Fluorine-containing elastomer (A)	100	100	100	100	100	100
+(part by weight)	Crosslinking agent	1.2	1.2	1.2	1.2	1.0	1.0
+	Polyimide	15	15	0	0	0	0
+	SiO2	0	0	10	10	0	0
+	Carbon	0	0	0	0	20	20
+	Si3N4 (particle size: 30 nm)	0.1	0	0.1	0	0	0
+	Si3N4 (particle size: 300 nm)	0	0	0	0	5	0
+
+=== TABLE 7 (1 rows) ===
+Results of evaluation
+
+=== TABLE 8 (13 rows) ===
+Vulcanizability	MH (kgf)	4.10	2.76	3.40	2.55	3.8	3.5
+180° C. model II	ML (kgf)	0.66	0.57	1.08	1.22	0.8	0.7
+	T10 (min)	1.5	11.0	1.9	15.0	3	6
+	T90 (min)	7.6	62.0	9.2	>100.0	12	17
+Physical properties	M100 (kgf/cm2)	53	50	51	52	65	60
+under normal conditions	Tb (kgf/cm2)	133	131	180	174	190	230
+	Eb (%)	234	256	310	288	205	200
+	Shore A	73	73	77	75	83	73
+Compression set (%)	275° C. × 72 hr	10	18	43	58	22	22
+	275° C. × 168 hr	14	26	50	67	25	25
+	300° C. × 72 hr	24	31	53	72	32	30
+	300° C. × 168 hr	35	44	71	88	39	38
+
+
+=== TABLE 9 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2005-215922		2005-07-26	
+JP2005215922		2005-07-26	
+PCT/JP2006/314570 WO2007013397A1 (en)	2005-07-26	2006-07-24	Curable composition, molded article obtained from same, and method for producing molded article
+
+=== TABLE 10 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+PCT/JP2006/314570 A-371-Of-International WO2007013397A1 (en)	2005-07-26	2006-07-24	Curable composition, molded article obtained from same, and method for producing molded article
+
+=== TABLE 11 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US13/340,751 Continuation US20120108727A1 (en)	2005-07-26	2011-12-30	Curable composition, molded article obtained from same and process for production of molded article
+
+=== TABLE 12 (3 rows) ===
+Publication Number	Publication Date
+US20100144948A1 US20100144948A1 (en)	2010-06-10
+US8211964B2 true US8211964B2 (en)	2012-07-03
+
+=== TABLE 13 (4 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US11/996,917 Active 2028-01-03 US8211964B2 (en)	2005-07-26	2006-07-24	Curable composition, molded article obtained from same and process for production of molded article
+US13/340,751 Abandoned US20120108727A1 (en)	2005-07-26	2011-12-30	Curable composition, molded article obtained from same and process for production of molded article
+US13/776,384 Active US9068057B2 (en)	2005-07-26	2013-02-25	Curable composition, molded article obtained from same and process for production of molded article
+
+=== TABLE 14 (3 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US13/340,751 Abandoned US20120108727A1 (en)	2005-07-26	2011-12-30	Curable composition, molded article obtained from same and process for production of molded article
+US13/776,384 Active US9068057B2 (en)	2005-07-26	2013-02-25	Curable composition, molded article obtained from same and process for production of molded article
+
+=== TABLE 15 (9 rows) ===
+Country	Link
+US (3)	US8211964B2 (en)
+EP (2)	EP1908796B1 (en)
+JP (1)	JP4998267B2 (en)
+KR (2)	KR100950352B1 (en)
+AT (2)	ATE491747T1 (en)
+DE (1)	DE602006018939D1 (en)
+TW (1)	TWI358425B (en)
+WO (1)	WO2007013397A1 (en)
+
+=== TABLE 16 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20130165594A1 (en) *	2005-07-26	2013-06-27	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+
+=== TABLE 17 (12 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2011125614A1 (en) *	2010-03-31	2011-10-13	ダイキン工業株式会社	Curable composition for use in a heat-resistant component in a semiconductor, liquid crystal, solar cell, or organic el manufacturing device
+US9169339B2 (en)	2010-12-07	2015-10-27	Daikin Industries, Ltd.	Curable composition, molded product and method for producing molded product
+WO2016072397A1 (en) *	2014-11-07	2016-05-12	旭硝子株式会社	Fluorine-containing elastomer, fluorine-containing elastomer composition, and fluorine-containing elastomer crosslinked article
+CN107636066B (en) *	2015-06-19	2020-06-05	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+CN112543788B (en) *	2018-07-30	2023-10-24	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+CN111524883B (en) *	2020-04-29	2022-09-20	业成科技（成都）有限公司	In-film electronic assembly and preparation method thereof
+CN117534929B (en) *	2023-12-18	2024-09-24	上海芯密科技有限公司	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+CN118459966B (en) *	2024-05-22	2025-02-28	上海芯密科技股份有限公司	A semiconductor sealing ring material and its preparation method and application
+CN118388949B (en) *	2024-05-22	2024-12-13	上海芯密科技股份有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN119192756B (en) *	2024-09-23	2025-03-21	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120005335B (en) *	2025-02-14	2026-03-20	上海芯密科技股份有限公司	A perfluororubber composition, its preparation method and products
+
+=== TABLE 18 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3637628A (en) *	1970-11-12	1972-01-25	Hooker Chemical Corp	Metal nitride catalysts for preparing triazines and cross-linked nitrile polymers
+WO2000009569A2 (en)	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+JP2000259022A (en)	1999-03-05	2000-09-22	Fuji Xerox Co Ltd	Electrophotographic fixing parts and fixing device
+WO2001059005A2 (en)	2000-02-08	2001-08-16	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+WO2001079337A1 (en)	2000-04-19	2001-10-25	Daikin Industries, Ltd.	Molded fluoroelastomer with excellent detachability and process for producing the same
+WO2001085848A1 (en)	2000-05-09	2001-11-15	Daikin Industries, Ltd.	Polymer composition containing clean filler incorporated therein
+WO2003051987A1 (en)	2001-12-17	2003-06-26	Daikin Industries, Ltd.	Elastomer formed product
+EP1464676A1 (en)	2001-12-17	2004-10-06	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+
+=== TABLE 19 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5871906A (en)	1981-10-22	1983-04-28	Daikin Ind Ltd	Manufacture of fluorine-containing elastic copolymer
+US4525539A (en)	1982-12-02	1985-06-25	E. I. Du Pont De Nemours And Company	Vulcanizable nitrile-containing perfluoroelastomer
+US4513128A (en)	1983-06-23	1985-04-23	E. I. Du Pont De Nemours And Company	Fluorinated vinyl ether copolymers having low glass transition temperatures
+JPS61223007A (en)	1985-03-28	1986-10-03	Daikin Ind Ltd	Emulsion polymerization of fluoroelastomer
+US4973634A (en)	1989-05-19	1990-11-27	E. I. Du Pont De Nemours And Company	Preparation of bromo-containing perfluoropolymers having iodine curesites
+US4972038A (en)	1989-05-19	1990-11-20	E. I. Du Pont De Nemours And Company	Cyano-containing perfluoropolymers having iodine curesites
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP2006316112A (en)	2005-05-10	2006-11-24	Daikin Ind Ltd	Fluorine-containing elastomer composition and molded article comprising the same
+US8211964B2 (en) *	2005-07-26	2012-07-03	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+
+=== TABLE 20 (17 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3637628A (en) *	1970-11-12	1972-01-25	Hooker Chemical Corp	Metal nitride catalysts for preparing triazines and cross-linked nitrile polymers
+WO2000009569A2 (en)	1998-08-10	2000-02-24	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+JP2003531222A (en)	1998-08-10	2003-10-21	デュポン ダウ エラストマーズ エルエルシー	Curable perfluoroelastomer composition
+JP2000259022A (en)	1999-03-05	2000-09-22	Fuji Xerox Co Ltd	Electrophotographic fixing parts and fixing device
+WO2001059005A2 (en)	2000-02-08	2001-08-16	Dupont Dow Elastomers L.L.C.	Curable perfluoroelastomer composition
+JP2004500459A (en)	2000-02-08	2004-01-08	デュポン ダウ エラストマーズ エルエルシー	Curable perfluoroelastomer composition
+US20030180503A1 (en)	2000-04-19	2003-09-25	Takafumi Yamato	Molded fluoroelastomer with excellent detachability and process for producing the same
+WO2001079337A1 (en)	2000-04-19	2001-10-25	Daikin Industries, Ltd.	Molded fluoroelastomer with excellent detachability and process for producing the same
+US20030149159A1 (en)	2000-05-09	2003-08-07	Katsuhiko Higashino	Polymer composition containing clean filler incorporated therein
+WO2001085848A1 (en)	2000-05-09	2001-11-15	Daikin Industries, Ltd.	Polymer composition containing clean filler incorporated therein
+WO2003051987A1 (en)	2001-12-17	2003-06-26	Daikin Industries, Ltd.	Elastomer formed product
+TW200305606A (en)	2001-12-17	2003-11-01	Daikin Ind Ltd	Elastomer formed product
+EP1464676A1 (en)	2001-12-17	2004-10-06	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+US20050020748A1 (en)	2001-12-17	2005-01-27	Tatsuya Morikawa	Elastomer formed product
+US20050070637A1 (en) *	2001-12-17	2005-03-31	Hirofumi Nishibayashi	Crosslinkable elastomer composition and formed product comprising the same
+US7495046B2 (en) *	2001-12-17	2009-02-24	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed product comprising the same
+
+=== TABLE 21 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20130165594A1 (en) *	2005-07-26	2013-06-27	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+US9068057B2 (en) *	2005-07-26	2015-06-30	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+
+=== TABLE 22 (22 rows) ===
+Publication number	Publication date
+EP2196499B1 (en)	2012-01-25
+KR100950352B1 (en)	2010-03-29
+WO2007013397A1 (en)	2007-02-01
+TW200710150A (en)	2007-03-16
+US20120108727A1 (en)	2012-05-03
+EP2196499A1 (en)	2010-06-16
+DE602006018939D1 (en)	2011-01-27
+US20100144948A1 (en)	2010-06-10
+US9068057B2 (en)	2015-06-30
+TWI358425B (en)	2012-02-21
+ATE542856T1 (en)	2012-02-15
+EP1908796A4 (en)	2009-09-02
+KR20080039934A (en)	2008-05-07
+KR101004155B1 (en)	2010-12-24
+JP4998267B2 (en)	2012-08-15
+US20130165594A1 (en)	2013-06-27
+JPWO2007013397A1 (en)	2009-02-05
+EP1908796A1 (en)	2008-04-09
+KR20090069332A (en)	2009-06-30
+ATE491747T1 (en)	2011-01-15
+EP1908796B1 (en)	2010-12-15
+
+=== TABLE 23 (13 rows) ===
+Publication	Publication Date	Title
+US9068057B2 (en)	2015-06-30	Curable composition, molded article obtained from same and process for production of molded article
+US8138271B2 (en)	2012-03-20	Crosslinkable composition and molded article made of same
+US9169339B2 (en)	2015-10-27	Curable composition, molded product and method for producing molded product
+US7309743B2 (en)	2007-12-18	Fluorine-containing elastomer and composition thereof for crosslinking
+EP1245635B1 (en)	2008-09-03	Fluoroelastomer composition for crosslinking
+US8981009B2 (en)	2015-03-17	Fluorine-containing elastomer and crosslinkable composition comprising same
+US20060293432A1 (en)	2006-12-28	Fluorine-containing elastomer composition and molded article comprising the same
+WO2004074363A1 (en)	2004-09-02	Fluoroelastomer compositions
+US8198386B2 (en)	2012-06-12	Fluorine-containing elastomer composition and sealing material made of same
+US20110319545A1 (en)	2011-12-29	Process for preparing curable perfluoroelastomer compositions
+WO2011125614A1 (en)	2011-10-13	Curable composition for use in a heat-resistant component in a semiconductor, liquid crystal, solar cell, or organic el manufacturing device
+US20150099850A1 (en)	2015-04-09	Fluorine-containing elastomer and a vulcanizable composition thereof
+
+=== TABLE 24 (7 rows) ===
+Date	Code	Title	Description
+2008-01-25	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD.,JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HIRANO, SEIICHI;REEL/FRAME:020419/0113 Effective date: 20061220 Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:HIRANO, SEIICHI;REEL/FRAME:020419/0113 Effective date: 20061220
+2012-06-13	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2012-12-03	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2015-12-16	FPAY	Fee payment	Year of fee payment: 4
+2019-12-19	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 8
+2023-12-21	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 12

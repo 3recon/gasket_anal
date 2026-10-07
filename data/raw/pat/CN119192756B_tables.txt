@@ -1,0 +1,87 @@
+# CN119192756B :: CN119192756B - 
+        A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202411325482.8A CN119192756B (en)	2024-09-23	2024-09-23	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202411325482.8A CN119192756B (en)	2024-09-23	2024-09-23	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN119192756A CN119192756A (en)	2024-12-27
+CN119192756B true CN119192756B (en)	2025-03-21
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202411325482.8A Active CN119192756B (en)	2024-09-23	2024-09-23	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN119192756B (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120098462B (en) *	2025-04-11	2025-11-07	上海芯密科技股份有限公司	Fluororesin fluororubber composite material with high breaking work and preparation method thereof
+
+=== TABLE 6 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2011168630A (en) *	2010-02-16	2011-09-01	Nok Corp	Low-temperature resistant fluororubber composition exhibiting good fuel permeation resistance
+
+=== TABLE 7 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US8211964B2 (en) *	2005-07-26	2012-07-03	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+JP6927319B2 (en) *	2017-10-18	2021-08-25	ダイキン工業株式会社	Crosslinkable elastomer composition and fluororubber molded product
+CN112543788B (en) *	2018-07-30	2023-10-24	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+CN116694005B (en) *	2023-07-10	2024-07-16	上海芯密科技有限公司	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+CN117534929B (en) *	2023-12-18	2024-09-24	上海芯密科技有限公司	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+CN118459966B (en) *	2024-05-22	2025-02-28	上海芯密科技股份有限公司	A semiconductor sealing ring material and its preparation method and application
+
+=== TABLE 8 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2011168630A (en) *	2010-02-16	2011-09-01	Nok Corp	Low-temperature resistant fluororubber composition exhibiting good fuel permeation resistance
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN119192756A (en)	2024-12-27
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN111225931B (en)	2022-07-15	Method for producing acrylic rubber, acrylic rubber, acrylic rubber composition, its sulfide and use of sulfide
+EP1464676B2 (en)	2020-05-13	Crosslinkable elastomer composition and formed product comprising the same
+CN101868499B (en)	2014-04-16	Crosslinkable fluoroelastomer excellent in crosslinkability and production method thereof
+CN105992777B (en)	2019-08-23	Perfluoroelastomer, perfluoroelastomer composition, crosslinked rubber article, and method for producing perfluoroelastomer
+EP2927276B1 (en)	2018-01-03	Fluororubber composition and crosslinked rubber article using same
+CN103703066B (en)	2015-10-07	For the polymer composition of electrical means
+CN105829424B (en)	2019-09-06	Crosslinked polymer composition, power cable insulation and power cable
+CN116694005B (en)	2024-07-16	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+TWI731978B (en)	2021-07-01	Perfluoroelastomer composition and sealing material
+CN116769266B (en)	2024-01-23	Semiconductor sealing ring rubber material and its preparation method and application
+JP6964196B2 (en)	2021-11-10	Vinyl chloride polymer and its production method
+JP7235724B2 (en)	2023-03-08	Peroxide-containing polyolefin formulation
+CN110437525A (en)	2019-11-12	Polymer compositions, power cable insulation and power cables
+CN119192756A (en)	2024-12-27	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+JPWO2008041557A1 (en)	2010-02-04	Fluorine-containing elastomer composition
+CN117534929A (en)	2024-02-09	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+CN115710394A (en)	2023-02-24	Antistatic polyethylene composite material and preparation method and application thereof
+CN118459966B (en)	2025-02-28	A semiconductor sealing ring material and its preparation method and application
+CN103214715B (en)	2015-10-28	A kind of method being applicable to the mach crosslinked weather resistance polyolefin composite of adhesive plaster and the adhesive plaster made thereof and manufacturing this adhesive plaster
+CN113646362B (en)	2025-03-07	Fluorinated elastic copolymer composition, fluororubber and method for producing the same
+CN108699188A (en)	2018-10-23	Vinyl chloride vinyl acetate copolymer particle and automobile under body coating agent
+CN105829426A (en)	2016-08-03	A new crosslinked low MFR polymer composition, power cable insulation and power cable
+Shokrzadeh et al.	2014	Mechanical and rheological properties of calcium carbonate-filled ethylene propylene diene elastomer reinforced by metallic acrylate salt
+EP3831876B1 (en)	2025-07-16	Composition and molded article containing fluorine-containing polymer
+CN106660296A (en)	2017-05-10	New crosslinked polymer compositions, structured layers and cables
+
+=== TABLE 11 (7 rows) ===
+Date	Code	Title	Description
+2024-12-27	PB01	Publication	
+2024-12-27	PB01	Publication	
+2025-01-14	SE01	Entry into force of request for substantive examination	
+2025-01-14	SE01	Entry into force of request for substantive examination	
+2025-03-21	GR01	Patent grant	
+2025-03-21	GR01	Patent grant	

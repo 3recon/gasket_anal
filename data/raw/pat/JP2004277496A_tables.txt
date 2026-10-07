@@ -1,0 +1,62 @@
+# JP2004277496A :: JP2004277496A - 
+        Fluorine elastomer molded body
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2003068303A JP2004277496A (en)	2003-03-13	2003-03-13	Fluorine elastomer molded body
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2003068303A JP2004277496A (en)	2003-03-13	2003-03-13	Fluorine elastomer molded body
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+JP2004277496A true JP2004277496A (en)	2004-10-07
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+JP2003068303A Pending JP2004277496A (en)	2003-03-13	2003-03-13	Fluorine elastomer molded body
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+JP (1)	JP2004277496A (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2006228805A (en) *	2005-02-15	2006-08-31	Nippon Valqua Ind Ltd	Sealant for semiconductor manufacturing equipment
+JP2014001360A (en) *	2012-05-25	2014-01-09	Olympus Corp	Elastomer composition and molded product
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2006228805A (en) *	2005-02-15	2006-08-31	Nippon Valqua Ind Ltd	Sealant for semiconductor manufacturing equipment
+JP2014001360A (en) *	2012-05-25	2014-01-09	Olympus Corp	Elastomer composition and molded product
+
+=== TABLE 7 (26 rows) ===
+Publication	Publication Date	Title
+JP3523258B2 (en)	2004-04-26	High purity fluoroelastomer compound
+TWI617608B (en)	2018-03-11	Sealing material and method of manufacturing same
+CN1332988C (en)	2007-08-22	Moldings of fluororubbers and process for their production
+TW201704325A (en)	2017-02-01	Thermoplastic fluorine resin composition and method for producing cross-linked body
+JPH04209643A (en)	1992-07-31	Fluoroelastomer composition
+JP2017214556A (en)	2017-12-07	Perfluoroelastomer composition and seal material
+JP2010095578A (en)	2010-04-30	Fluororubber composition, cross-linked fluororubber and method for producing the same
+CN1308411C (en)	2007-04-04	Sealing material for semiconductor device and method for production thereof
+TWI381015B (en)	2013-01-01	Fluororubber composition, fluororubber material using the composition and method for producing the fluororubber molding
+JP2017179210A (en)	2017-10-05	Fluorine elastomer composition, molded article, sealant, and plasma treatment device and semiconductor manufacturing device containing sealant
+JP2019172897A (en)	2019-10-10	Uncrosslinked rubber composition and rubber product produced using the same and method for producing the same
+CN102037073B (en)	2013-09-25	Fluorine-containing elastic copolymer composition and cross-linked rubber member therefrom
+JP3927088B2 (en)	2007-06-06	Fluoro rubber molded product and method for producing the same
+CN101035840A (en)	2007-09-12	Crosslinked fluorocopolymer moldings
+JP4381087B2 (en)	2009-12-09	Method for producing fluoro rubber sealant
+JP2025134878A (en)	2025-09-17	Uncrosslinked fluororubber composition, sealing material produced using the same, and method for producing the same
+JP2001348462A (en)	2001-12-18	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+JPH08151450A (en)	1996-06-11	Ozone-resistant fluororubber molding
+KR20190013809A (en)	2019-02-11	The perfluoroelastomer composition and the sealing material
+JP4331368B2 (en)	2009-09-16	Seal for semiconductor manufacturing equipment
+JP2000034380A (en)	2000-02-02	Crosslinkable elastomer composition, sealing material produced from the composition, and filler used therefor
+JP2002167454A (en)	2002-06-11	Ozone-resistant fluoroelastomer molding
+JPH10219064A (en)	1998-08-18	Vulcanizable composition comprising fluorine elastomer and acrylic elastomer
+JP2002173543A (en)	2002-06-21	Plasma resistant fluoroelastomer moldings
+JP2003277445A (en)	2003-10-02	Tetrafluoroethylene-propylene copolymer and method for producing the same

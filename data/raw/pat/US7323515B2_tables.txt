@@ -1,0 +1,293 @@
+# US7323515B2 :: US7323515B2 - Sealing composition and seals made by using the same 
+        - Google Patents
+
+=== TABLE 0 (5 rows) ===
+	TABLE 1
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 1 (5 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	PI power (6 μm)	20
+	
+
+=== TABLE 2 (5 rows) ===
+	TABLE 2
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 3 (5 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	PI power (6 μm)	50
+	
+
+=== TABLE 4 (5 rows) ===
+	TABLE 3
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 5 (5 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	PI power (50 μm)	20
+	
+
+=== TABLE 6 (5 rows) ===
+	TABLE 4
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 7 (5 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	PI power (50 μm)	50
+	
+
+=== TABLE 8 (5 rows) ===
+	TABLE 5
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 9 (4 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	
+
+=== TABLE 10 (5 rows) ===
+	TABLE 6
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 11 (6 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	Fluorine resin	20
+	powder (3 μm)
+	
+
+=== TABLE 12 (5 rows) ===
+	TABLE 7
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 13 (6 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	Fluorine resin	50
+	powder (3 μm)
+	
+
+=== TABLE 14 (5 rows) ===
+	TABLE 8
+	
+	Component	Parts by weight
+	
+
+
+=== TABLE 15 (6 rows) ===
+	Fluoroelastomer	100
+	TAIC	4
+	DBPO	1.5
+	Fluorine resin	80
+	powder (3 μm)
+	
+
+=== TABLE 16 (5 rows) ===
+	TABLE 9
+	
+	Ex. 1	Ex. 2	Ex. 3	Ex. 4
+	
+
+
+=== TABLE 17 (21 rows) ===
+Parts by weight	Fluoroelastomer	100	100	100	100
+	TAIC	4	4	4	4
+	DBPO	1.5	1.5	1.5	1.5
+	PI powder (6 μm)	20	50	—	—
+	PI powder (50 μm)	—	—	20	50
+Ordinary state	A durometer	70	81	71	85
+physical properties	hardness (A)
+tests	Tensile strength	9.9	7	11.5	6.5
+	(MPa)
+	Elongation at	380	210	200	190
+	Broken (%)
+	Compression set	13	15	15	16
+	percentage (%)
+	Metal content (wt %)	<1	<1	<1	<1
+Heat aged tests I	ΔHA	1	2	1	1
+	ΔTB	2	5	1	2
+	ΔEB	−5	−3	−2	−2
+Heat aged tests II	ΔHA	0	2	1	0
+	ΔTB	−3	1	0	−2
+	ΔEB	−2	1	−4	0
+
+
+=== TABLE 18 (5 rows) ===
+	TABLE 10
+	
+		Ex. 1	Ex. 2	Ex. 3	Ex. 4
+	
+
+
+=== TABLE 19 (21 rows) ===
+Parts by weight	Fluoroelastomer	100	100	100	100
+	TAIC	4	4	4	4
+	DBPO	1.5	1.5	1.5	1.5
+	Fluorine resin	—	20	50	80
+	powder (3 μm)
+Ordinary state	A durometer	53	60	67	72
+physical properties	hardness (A)
+tests	Tensile strength	5.7	13	13.1	12.7
+	(MPa)
+	Elongation at	300	450	440	440
+	Broken (%)
+	Compression set	13	12	14	18
+	percentage (%)
+	Metal content (wt %)	<1	<1	<1	<1
+Heat aged tests I	ΔHA	1	1	1	2
+	ΔTB	1	0	−4	0
+	ΔEB	15	4	8	6
+Heat aged tests II	ΔHA	2	2	3	4
+	ΔTB	66	−10	2	−10
+	ΔEB	54	7	22	6
+
+
+=== TABLE 20 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2001365895A JP2003165969A (en)	2001-11-30	2001-11-30	Composition for sealing member and sealing member using the same
+JP2001-365895		2001-11-30	
+PCT/JP2002/012478 WO2003046105A1 (en)	2001-11-30	2002-11-29	Sealing composition and seals made by using the same
+
+=== TABLE 21 (3 rows) ===
+Publication Number	Publication Date
+US20050054753A1 US20050054753A1 (en)	2005-03-10
+US7323515B2 true US7323515B2 (en)	2008-01-29
+
+=== TABLE 22 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US10/497,035 Expired - Fee Related US7323515B2 (en)	2001-11-30	2002-11-29	Sealing composition and seals made by using the same
+
+=== TABLE 23 (5 rows) ===
+Country	Link
+US (1)	US7323515B2 (en)
+JP (1)	JP2003165969A (en)
+KR (1)	KR20040068558A (en)
+WO (1)	WO2003046105A1 (en)
+
+=== TABLE 24 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20060235140A1 (en) *	2003-04-22	2006-10-19	Hiroyuki Tanaka	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+WO2019115083A1 (en) *	2017-12-15	2019-06-20	Carl Freudenberg Kg	Curable fluoroelastomers having low swelling tendency
+WO2019155073A1 (en)	2018-02-12	2019-08-15	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer curable composition
+
+=== TABLE 25 (13 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+DE102004031889B4 (en) *	2004-06-30	2012-07-12	Infineon Technologies Ag	Semiconductor component with a housing and a semi-embedded in a plastic housing material semiconductor chip and method for producing the same
+JPWO2007119834A1 (en) *	2006-04-19	2009-08-27	旭硝子株式会社	Fluorine-containing elastomer composition and fluorine-containing rubber molded product
+US20090227726A1 (en) *	2008-03-04	2009-09-10	Dupont Performance Elastomers L.L.C.	Peroxide curable fluoroelastomer compositions and articles made therefrom
+WO2010074038A1 (en) *	2008-12-24	2010-07-01	旭硝子株式会社	Light-emitting module and method for manufacturing same
+JP6141377B2 (en) *	2015-10-07	2017-06-07	株式会社森清化工	Perfluoro rubber molding
+KR102324534B1 (en) *	2016-05-20	2021-11-11	에스에이치피피 글로벌 테크놀러지스 비.브이.	Composite material comprising fluoroelastomer and polyimide, method for making the composite material, and articles comprising the composite material
+JP6855804B2 (en)	2017-01-17	2021-04-07	富士電機株式会社	Semiconductor devices and methods for manufacturing semiconductor devices
+EP4065657A4 (en)	2019-11-27	2023-12-06	Saint-Gobain Performance Plastics Corporation	SEAL AND FORMING METHOD
+CN114181480A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Fluororubber composition and preparation method and application thereof
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+CN114181483A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Tetrapropylene-fluoride rubber composition and preparation method and application thereof
+CN119661958A (en) *	2023-09-21	2025-03-21	北京小米移动软件有限公司	Composition, method for making plastic, plastic, wristband and wearable device
+
+=== TABLE 26 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5457568A (en)	1977-10-18	1979-05-09	Riken Piston Ring Ind Co Ltd	Sealing material
+JPS55108485A (en)	1979-02-14	1980-08-20	Riken Corp	Sealant
+JPH05171132A (en)	1991-12-25	1993-07-09	Ntn Corp	Seal for carbon box
+JPH0649438A (en)	1992-07-29	1994-02-22	Ntn Corp	Valve stem oil seal material
+JPH10139970A (en)	1996-11-08	1998-05-26	Nok Corp	Fluororubber composition
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2000309704A (en)	1999-04-23	2000-11-07	Daikin Ind Ltd	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+
+=== TABLE 27 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS5457568A (en)	1977-10-18	1979-05-09	Riken Piston Ring Ind Co Ltd	Sealing material
+JPS55108485A (en)	1979-02-14	1980-08-20	Riken Corp	Sealant
+JPH05171132A (en)	1991-12-25	1993-07-09	Ntn Corp	Seal for carbon box
+JPH0649438A (en)	1992-07-29	1994-02-22	Ntn Corp	Valve stem oil seal material
+JPH10139970A (en)	1996-11-08	1998-05-26	Nok Corp	Fluororubber composition
+JP2000119468A (en)	1998-10-16	2000-04-25	Nippon Valqua Ind Ltd	Fluoroelastomer composition, its crosslinking product, and its use
+JP2000309704A (en)	1999-04-23	2000-11-07	Daikin Ind Ltd	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+US6642300B1 (en)	1999-04-23	2003-11-04	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+
+=== TABLE 28 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20060235140A1 (en) *	2003-04-22	2006-10-19	Hiroyuki Tanaka	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+US7678858B2 (en) *	2003-04-22	2010-03-16	Daikin Industries, Ltd.	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+WO2019115083A1 (en) *	2017-12-15	2019-06-20	Carl Freudenberg Kg	Curable fluoroelastomers having low swelling tendency
+CN111465649A (en) *	2017-12-15	2020-07-28	科德宝两合公司	Curable fluoroelastomers with low tendency to swell
+US12534612B2 (en)	2017-12-15	2026-01-27	Carl Freudenberg Kg	Curable fluoroelastomers having low swelling tendency
+WO2019155073A1 (en)	2018-02-12	2019-08-15	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer curable composition
+
+=== TABLE 29 (5 rows) ===
+Publication number	Publication date
+KR20040068558A (en)	2004-07-31
+WO2003046105A1 (en)	2003-06-05
+US20050054753A1 (en)	2005-03-10
+JP2003165969A (en)	2003-06-10
+
+=== TABLE 30 (24 rows) ===
+Publication	Publication Date	Title
+US20050054753A1 (en)	2005-03-10	Sealing composition and seals made by using the same
+US20070044906A1 (en)	2007-03-01	Multilayer polymeric composites having a layer of dispersed fluoroelastomer in thermoplastic
+EP1852902A1 (en)	2007-11-07	Seal material for semiconductor production apparatus
+EP3088461A1 (en)	2016-11-02	Fluorine rubber composition, crosslinked rubber molded body and method for producing same
+TWI731978B (en)	2021-07-01	Perfluoroelastomer composition and sealing material
+KR102414274B1 (en)	2022-06-28	Thermoplastic fluorine resin composition and method for producing cross-linked body
+KR102479620B1 (en)	2022-12-20	Laminate, method for producing same, and gate seal
+KR101236651B1 (en)	2013-02-22	Elastomer composition and molded body
+EP4253432B1 (en)	2026-02-25	Fluoropolymer, aqueous liquid dispersion, composition, and crosslinked product
+JP4177984B2 (en)	2008-11-05	Sealing material
+JP4381087B2 (en)	2009-12-09	Method for producing fluoro rubber sealant
+EP3467025B1 (en)	2024-10-02	Perfluoroelastomer composition and sealing material
+JP2001348462A (en)	2001-12-18	Plasma-resistant rubber composition and rubber material for plasma processing apparatus
+JP3740411B2 (en)	2006-02-01	Sealing material
+TWI901883B (en)	2025-10-21	Uncrosslinked fluororubber composition, seal made using the uncrosslinked fluororubber composition, and manufacturing method thereof
+JP4844739B2 (en)	2011-12-28	Modified fluororesin composition and molded body
+US12180315B2 (en)	2024-12-31	Elastomer composition and sealing material
+EP0428158A2 (en)	1991-05-22	Curable polymer composition and packing material comprising the same
+RU2100389C1 (en)	1997-12-27	Composition comprising fluorovinylidene-containing rubber
+EP4692273A1 (en)	2026-02-11	Sealing material composition and sealing material
+JP2002338766A (en)	2002-11-27	Modified fluororesin composition
+CN117304624A (en)	2023-12-29	Compositions, methods and sealing products for preparing vacuum sealing materials
+JPH03220247A (en)	1991-09-27	Vulcanizable composition and packing material
+
+=== TABLE 31 (9 rows) ===
+Date	Code	Title	Description
+2004-11-02	AS	Assignment	Owner name: KOYO SEIKO CO., LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HAYASHIDA, KAZUNORI;KIDA, TAKEHISA;YAMAMOTO, KAZUTOSHI;AND OTHERS;REEL/FRAME:016023/0157 Effective date: 20040524 Owner name: KOYO SEALING TECHNO CO., LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HAYASHIDA, KAZUNORI;KIDA, TAKEHISA;YAMAMOTO, KAZUTOSHI;AND OTHERS;REEL/FRAME:016023/0157 Effective date: 20040524
+2005-09-19	AS	Assignment	Owner name: KOYO SEALING TECHNO CO., LTD., JAPAN Free format text: CORRECT ADDRESS OF FIRST ASSIGNEE ON REEL 016023/0157;ASSIGNORS:HAYASHIDA, KAZUNORI;KIDA, TAKEHISA;YAMAMOTO, KAZUTOSHI;AND OTHERS;REEL/FRAME:016704/0767 Effective date: 20040524 Owner name: KOYO SEIKO CO., LTD., JAPAN Free format text: CORRECT ADDRESS OF FIRST ASSIGNEE ON REEL 016023/0157;ASSIGNORS:HAYASHIDA, KAZUNORI;KIDA, TAKEHISA;YAMAMOTO, KAZUTOSHI;AND OTHERS;REEL/FRAME:016704/0767 Effective date: 20040524
+2007-03-09	AS	Assignment	Owner name: JTEKT CORPORATION,JAPAN Free format text: CHANGE OF NAME;ASSIGNOR:KOYO SEIKO CO., LTD.;REEL/FRAME:018992/0365 Effective date: 20060101 Owner name: JTEKT CORPORATION, JAPAN Free format text: CHANGE OF NAME;ASSIGNOR:KOYO SEIKO CO., LTD.;REEL/FRAME:018992/0365 Effective date: 20060101
+2007-12-06	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2011-09-05	REMI	Maintenance fee reminder mailed	
+2012-01-29	LAPS	Lapse for failure to pay maintenance fees	
+2012-02-27	STCH	Information on status: patent discontinuation	Free format text: PATENT EXPIRED DUE TO NONPAYMENT OF MAINTENANCE FEES UNDER 37 CFR 1.362
+2012-03-20	FP	Lapsed due to failure to pay maintenance fee	Effective date: 20120129

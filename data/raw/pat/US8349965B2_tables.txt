@@ -1,0 +1,225 @@
+# US8349965B2 :: US8349965B2 - Fluororubber composition capable of forming crack-resistant seal and crack-resistant seal formed from the composition 
+        - Google Patents
+
+=== TABLE 0 (20 rows) ===
+TABLE 1
+
+										Ex.
+	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 5	Ex. 6	Ex. 7	Ex. 8	Ex. 9	10
+
+FKM polymer 1	100	0	50	100	100	100	0	100	100	100
+FKM polymer 2	0	100	50	0	0	0	0	0	0	0
+FKM polymer 3	0	0	0	0	0	0	0	0	0	0
+FKM polymer 4	0	0	0	0	0	0	0	0	0	0
+FKM polymer 5	0	0	0	0	0	0	100	0	0	0
+Bisphenol AF	0.5	0.5	0.5	0.10	1.0	3	0.5	0	0.5	0.5
+Bisphenol S	0	0	0	0	0	0	0	0.5	0	0
+Curative VC20	0	0	0	0	0	0	0	0	0	0
+Kyowamag 150	0	0	0	0	0	0	0	0	0	0
+Caldic 2000	0	0	0	0	0	0	0	0	0	0
+TAIC	4	4	4	4	4	4	4	4	2.5	7
+PERHEXA 25B	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+PERBUTYL P	0	0	0	0	0	0	0	0	0	0
+Total (parts by weight)	106.0	106.0	106.0	105.65	108.5	108.5	106.0	106.0	104.5	111.0
+
+
+=== TABLE 1 (18 rows) ===
+		Ex.	Ex.	Ex.	Ex.	Com.	Com.	Com.	Com.	Com.
+		11	12	13	14	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 5
+	
+	FKM polymer 1	100	100	100	100	100	0	50	0	0
+	FKM polymer 2	0	0	0	0	0	100	50	0	0
+	FKM polymer 3	0	0	0	0	0	0	0	100	0
+	FKM polymer 4	0	0	0	0	0	0	0	0	100
+	FKM polymer 5	0	0	0	0	0	0	0	0	0
+	Bisphenol AF	0.5	0.5	0.5	0.5	0	0	0	2	0
+	Bisphenol S	0	0	0	0	0	0	0	0	0
+	Curative VC20	0	0	0	0	0	0	0	4.5	0
+	Kyowamag 150	0	0	0	0	0	0	0	3	3
+	Caldic 2000	0	0	0	0	0	0	0	6	6
+	TAIC	4	4	4	4	4	4	4	0	0
+	PERHEXA 25B	3	0	0.5	1.0	1.5	1.5	1.5	0	0
+	PERBUTYL P	0	1.5	0	0	0	0	0	0	0
+	Total (parts by weight)	107.5	106.0	105.0	105.5	105.5	105.5	105.5	115.5	109.0
+	
+
+=== TABLE 2 (22 rows) ===
+TABLE 2
+
+	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 5	Ex. 6	Ex. 7	Ex. 8	Ex. 9	Ex. 10
+
+Pressing	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./
+conditions	30 min	30 min	30 min	30 min	30 min	30 min	30 min	30 min	30 min	30 min
+(temp./time)
+Secondary	180° C./	180° C./	180° C./	180° C./	180° C./	180° C./	180° C./	180° C./	180° C./	180° C./
+vulcanization	16 h	16 h	16 h	16 h	16 h	16 h	16 h	16 h	16 h	16 h
+conditions
+(temp./time)
+Plasma	2.1	4.3	3.5	2.0	2.1	2.3	4.7	2.3	2.2	2.3
+resistance
+(rate of
+weight
+loss; %)
+Crack	No	No	No	No	No	No	No	No	No	No
+resistance	crack	crack	crack	crack	crack	crack	crack	crack	crack	crack
+(crack)
+Compression	24	36	29	25	38	56	26	30	35	30
+set (%)
+
+
+=== TABLE 3 (21 rows) ===
+						Com.	Com.	Com.	Com.	Com.
+		Ex. 11	Ex. 12	Ex. 13	Ex. 14	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 5
+	
+	Pressing	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./	160° C./
+	conditions	30 min	30 min	30 min	30 min	30 min	30 min	30 min	30 min	30 min
+	(temp./time)
+	Secondary	180° C./	180° C./	180° C./	180° C./	180° C./	180° C./	180° C./	230° C./	230° C./
+	vulcanization	16 h	16 h	16 h	16 h	16 h	16 h	16 h	24 h	24 h
+	conditions
+	(temp./time)
+	Plasma	2.1	2.2	2.3	2.1	2.0	4.5	3.7	4.7	3.0
+	resistance
+	(rate of
+	weight
+	loss; %)
+	Crack	No	No	No	No	Crack	Crack	Crack	Crack	Crack
+	resistance	crack	crack	crack	crack
+	(crack)
+	Compression	28	32	34	31	23	34	30	28	45
+	set (%)
+	
+
+=== TABLE 4 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2008069611		2008-03-18	
+JP2008-069611		2008-03-18	
+PCT/JP2009/054773 WO2009116451A1 (en)	2008-03-18	2009-03-12	Fluorine rubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+
+=== TABLE 5 (3 rows) ===
+Publication Number	Publication Date
+US20110009568A1 US20110009568A1 (en)	2011-01-13
+US8349965B2 true US8349965B2 (en)	2013-01-08
+
+=== TABLE 6 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US12/922,903 Active 2029-06-19 US8349965B2 (en)	2008-03-18	2009-03-12	Fluororubber composition capable of forming crack-resistant seal and crack-resistant seal formed from the composition
+
+=== TABLE 7 (8 rows) ===
+Country	Link
+US (1)	US8349965B2 (en)
+EP (2)	EP2824144B1 (en)
+JP (1)	JP5458007B2 (en)
+KR (1)	KR101640953B1 (en)
+CN (1)	CN101977981B (en)
+TW (1)	TWI406897B (en)
+WO (1)	WO2009116451A1 (en)
+
+=== TABLE 8 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20190077926A1 (en) *	2016-03-01	2019-03-14	Nok Corporation	Fluororubber composition and crosslinked fluororubber product
+
+=== TABLE 9 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP5311127B2 (en) *	2009-04-21	2013-10-09	ニチアス株式会社	Gasket material
+JP5746168B2 (en)	2009-07-31	2015-07-08	スリーエム イノベイティブ プロパティズ カンパニー	Fluoropolymer composition containing polyol compound and method for producing the same
+US9625105B2 (en) *	2010-03-03	2017-04-18	Cree, Inc.	LED lamp with active cooling element
+WO2012137724A1 (en) *	2011-04-06	2012-10-11	Nok株式会社	Fluorine rubber composition
+CA2863408C (en)	2012-02-03	2020-03-24	Greene, Tweed Technologies, Inc.	Rapid gas decompression-resistant fluoroelastomer compositions and molded articles
+JP2017160394A (en) *	2016-03-11	2017-09-14	オリンパス株式会社	Elastomer material for medical equipment and elastomer molding for medical equipment
+CN110573569B (en) *	2017-06-12	2022-03-25	Nok株式会社	Fluororubber composition and fluororubber sealing material
+EP4047055A4 (en) *	2019-10-17	2023-11-15	Agc Inc.	MOLDED PERFLUOROELASTOMER ARTICLE AND PROTECTIVE ELEMENT
+CN110951194A (en) *	2019-12-12	2020-04-03	四川福翔科技有限公司	Sealing ring for oil-gas drilling machine
+US11566090B2 (en) *	2020-02-19	2023-01-31	Cnpc Usa Corporation	Co-cured fluoroelastomers with improved chemical resistance
+US20230365802A1 (en) *	2020-09-28	2023-11-16	Valqua, Ltd	Elastomer Composition, Sealing Material, and Method for Producing Sealing Material
+CN116606514A (en) *	2022-02-09	2023-08-18	上海森桓新材料科技有限公司	Fluorine-containing rubber sealing material with plasma resistance and application thereof
+CN116769266B (en) *	2023-07-13	2024-01-23	上海芯密科技有限公司	Semiconductor sealing ring rubber material and its preparation method and application
+
+=== TABLE 10 (14 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4708988A (en) *	1985-07-01	1987-11-24	E. I. Du Pont De Nemours And Company	Process for dynamically partially gelling fluoroelastomers
+JPH06302527A (en)	1993-04-19	1994-10-28	Mitsubishi Cable Ind Ltd	Seal for semiconductor manufacturing equipment
+US5412034A (en) *	1993-10-26	1995-05-02	E. I. Du Pont De Nemours And Company	Curable elastomeric blends
+JPH07179704A (en)	1993-12-22	1995-07-18	Asahi Glass Co Ltd	Fluorine rubber composition
+JPH07316376A (en)	1994-05-24	1995-12-05	Asahi Glass Co Ltd	Fluorine rubber composition
+JPH10139969A (en)	1996-11-12	1998-05-26	Jsr Corp	Fluoro rubber composition
+JPH10139968A (en)	1996-11-06	1998-05-26	Jsr Corp	Fluoro rubber composition
+JP2001114964A (en)	1999-10-20	2001-04-24	Nichias Corp	Plasma resistant fluoro rubber composition
+JP2001164066A (en)	1999-12-13	2001-06-19	Nichias Corp	Plasma resistant fluoro rubber composition
+US20060041069A1 (en) *	2002-10-11	2006-02-23	Asahi Glass Co., Ltd.	Sealing material for semiconductor device and method for production thereof
+JP2006228805A (en)	2005-02-15	2006-08-31	Nippon Valqua Ind Ltd	Sealant for semiconductor manufacturing equipment
+JP2007131720A (en)	2005-11-10	2007-05-31	Yunimatekku Kk	Fluorine elastomer composition
+JP2007137994A (en)	2005-11-17	2007-06-07	Yunimatekku Kk	Fluorine-containing alloyed copolymer
+
+=== TABLE 11 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6737479B2 (en) *	2000-11-17	2004-05-18	Immix Technologies, Llc	Dynamically cured fluoroelastomer blends
+US7098270B2 (en) *	2002-09-10	2006-08-29	Freudenberg-Nok General Partnership	Fluoroelastomer composition
+JP4675907B2 (en) *	2004-12-20	2011-04-27	日本バルカー工業株式会社	Rubber composition, sealing material for plasma processing apparatus
+JPWO2007119834A1 (en) *	2006-04-19	2009-08-27	旭硝子株式会社	Fluorine-containing elastomer composition and fluorine-containing rubber molded product
+JP4992897B2 (en) *	2006-06-22	2012-08-08	ダイキン工業株式会社	Seal material, component for plasma processing apparatus having the seal material, and method for producing the seal material
+
+=== TABLE 12 (16 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4708988A (en) *	1985-07-01	1987-11-24	E. I. Du Pont De Nemours And Company	Process for dynamically partially gelling fluoroelastomers
+JPH06302527A (en)	1993-04-19	1994-10-28	Mitsubishi Cable Ind Ltd	Seal for semiconductor manufacturing equipment
+US5412034A (en) *	1993-10-26	1995-05-02	E. I. Du Pont De Nemours And Company	Curable elastomeric blends
+JPH07179704A (en)	1993-12-22	1995-07-18	Asahi Glass Co Ltd	Fluorine rubber composition
+JPH07316376A (en)	1994-05-24	1995-12-05	Asahi Glass Co Ltd	Fluorine rubber composition
+JPH10139968A (en)	1996-11-06	1998-05-26	Jsr Corp	Fluoro rubber composition
+JPH10139969A (en)	1996-11-12	1998-05-26	Jsr Corp	Fluoro rubber composition
+JP2001114964A (en)	1999-10-20	2001-04-24	Nichias Corp	Plasma resistant fluoro rubber composition
+JP2001164066A (en)	1999-12-13	2001-06-19	Nichias Corp	Plasma resistant fluoro rubber composition
+US20060041069A1 (en) *	2002-10-11	2006-02-23	Asahi Glass Co., Ltd.	Sealing material for semiconductor device and method for production thereof
+JP2006228805A (en)	2005-02-15	2006-08-31	Nippon Valqua Ind Ltd	Sealant for semiconductor manufacturing equipment
+US20090093590A1 (en)	2005-02-15	2009-04-09	Nippon Valqua Industries, Ltd.	Seal Material for Semiconductor Production Apparatus
+JP2007131720A (en)	2005-11-10	2007-05-31	Yunimatekku Kk	Fluorine elastomer composition
+JP2007137994A (en)	2005-11-17	2007-06-07	Yunimatekku Kk	Fluorine-containing alloyed copolymer
+US20090312473A1 (en)	2005-11-17	2009-12-17	Jun Kanega	Fluorine-Containing Alloyed Copolymer
+
+=== TABLE 13 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20190077926A1 (en) *	2016-03-01	2019-03-14	Nok Corporation	Fluororubber composition and crosslinked fluororubber product
+
+=== TABLE 14 (17 rows) ===
+Publication number	Publication date
+EP2824144A2 (en)	2015-01-14
+TWI406897B (en)	2013-09-01
+CN101977981A (en)	2011-02-16
+JPWO2009116451A1 (en)	2011-07-21
+EP2272911B1 (en)	2017-05-03
+KR101640953B1 (en)	2016-07-19
+TW200948884A (en)	2009-12-01
+JP5458007B2 (en)	2014-04-02
+CN101977981B (en)	2013-08-14
+EP2824144B1 (en)	2016-12-07
+EP2272911A1 (en)	2011-01-12
+WO2009116451A1 (en)	2009-09-24
+KR20100137505A (en)	2010-12-30
+EP2824144A3 (en)	2015-02-11
+EP2272911A4 (en)	2014-04-30
+US20110009568A1 (en)	2011-01-13
+
+=== TABLE 15 (14 rows) ===
+Publication	Publication Date	Title
+EP2824144B1 (en)	2016-12-07	Fluorine rubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+JP4628814B2 (en)	2011-02-09	Sealant for semiconductor manufacturing equipment
+CN105849180B (en)	2018-09-21	Fluorine rubber composition, crosslinked rubber molded article, and method for producing the same
+US20160319102A1 (en)	2016-11-03	Perfluoroelastomer composition, sealing material, and method for producing same
+JP2014118536A (en)	2014-06-30	Fluorine-containing elastomer composition, and rubber member
+TWI801343B (en)	2023-05-11	Perfluoroelastomer composition and sealing material
+JPWO2019070040A1 (en)	2020-11-05	Fluorine-containing copolymer composition and metal rubber laminate
+TWI735769B (en)	2021-08-11	Laminated body, its manufacturing method, and gate seal
+US11118045B2 (en)	2021-09-14	Perfluoroelastomer composition and sealing material
+EP2596057B1 (en)	2014-03-19	Fluoroelastomer composition
+JP2021063197A (en)	2021-04-22	Fluorine-containing copolymer composition, metal-rubber laminate, and method of manufacturing metal-rubber laminate
+TWI821469B (en)	2023-11-11	Elastomer compositions and sealing materials
+KR101692765B1 (en)	2017-01-04	Fluorine-containing elastomer and vulcanizable composition thereof
+
+=== TABLE 16 (6 rows) ===
+Date	Code	Title	Description
+2010-09-16	AS	Assignment	Owner name: NIPPON VALQUA INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:OKAZAKI, MASANORI;OHSUMI, NAOKI;REEL/FRAME:024997/0369 Effective date: 20100901
+2012-12-18	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2016-06-23	FPAY	Fee payment	Year of fee payment: 4
+2019-02-21	AS	Assignment	Owner name: VALQUA, LTD., JAPAN Free format text: CHANGE OF NAME;ASSIGNOR:NIPPON VALQUA INDUSTRIES, LTD.;REEL/FRAME:048390/0311 Effective date: 20181001
+2020-06-25	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 8

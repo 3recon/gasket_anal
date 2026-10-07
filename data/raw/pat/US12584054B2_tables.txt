@@ -1,0 +1,283 @@
+# US12584054B2 :: US12584054B2 - Semiconductor production device sealing material 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+	TABLE 1
+	
+	Example	Comparative Example
+
+=== TABLE 1 (18 rows) ===
+			1	2	3	4	5	1	2
+
+Base Rubber	FKM	Tecnoflon P959	100	100	100	100	100	100	100
+Crosslinking	Organic	PERHEXA 25B	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+Agent	Peroxide
+Crosslinking	Polyfunctional	TAIC	2	2	2	2	2	2	2
+Aid	Compound
+Filler	Phenol Resin	BellPearl R100	1	10	25	50	—	—	—
+		BellPearl R200	—	—	—	—	10	—	—
+		BellPearl R800	—	—	—	—	—	—	—
+	Carbon Black	Thermax N990	—	—	—	—	—	—	10
+		DIABLACK H	—	—	—	—	—	—	—
+	Silica	AEROSIL R972	—	—	—	—	—	—	—
+	Silica-	OPTOBEADS	—	—	—	—	—	—	—
+	Melamine	2000M
+	Complex
+	PVDF	KYNAR MG15	—	—	—	—	—	—	—
+	PTFE	Fluon L173JE	—	—	—	—	—	—	—
+
+=== TABLE 2 (9 rows) ===
+Normal	Hardness (Type-A)	51	58	69	85	58	51	55
+Physical	Tensile Strength (Mpa)	12	15	20	21	12	8.9	15
+Properties	Elongation (%)	270	210	190	120	230	290	210
+	100% Modulus (Mpa)	1.4	2.8	7.5	17	2.2	1.3	2.8
+Thermal	Compression Set (%)	20	13	17	24	13	27	25
+Resistance
+Plasma	Weight Reduction Rate (%)	2	2.1	2.3	2.6	2.2	2	3.1
+Resistance	Dust Generation	A	A	A	A	A	A	B
+
+
+=== TABLE 3 (1 rows) ===
+	Comparative Example
+
+=== TABLE 4 (18 rows) ===
+			3	4	5	6	7	8	9	13
+
+Base Rubber	FKM	Tecnoflon P959	100	100	100	100	100	100	100	100
+Crosslinking	Organic	PERHEXA 25B	1.5	1.5	1.5	1.5	1.5	1.5	1.5	1.5
+Agent	Peroxide
+Crosslinking	Polyfunctional	TAIC	2	2	2	2	2	2	2	2
+Aid	Compound
+Filler	Phenol Resin	BellPearl R100	—	—	—	—	—	—	—	—
+		BellPearl R200	—	—	—	—	—	—	—	—
+		BellPearl R800	—	—	—	—	—	—	—	10
+	Carbon Black	Thermax N990	25	—	—	—	—	—	—	—
+		DIABLACK H	—	10	—	—	—	—	—	—
+	Silica	AEROSIL R972	—	—	10	—	—	—	—	—
+	Silica-	OPTOBEADS	—	—	—	10	—	—	—	—
+	Melamine	2000M
+	Complex
+	PVDF	KYNAR MG15	—	—	—	—	10	25	—	—
+	PTFE	Fluon L173JE	—	—	—	—	—	—	10	—
+
+=== TABLE 5 (9 rows) ===
+Normal	Hardness (Type-A)	68	63	65	59	55	68	55	58
+Physical	Tensile Strength (Mpa)	24	23	20	18	13	17	16	9.5
+Properties	Elongation (%)	260	220	270	210	280	270	350	240
+	100% Modulus (Mpa)	5.6	3.7	3.7	2.5	2.3	5.4	1.4	2.4
+Thermal	Compression Set (%)	25	24	36	30	26	30	28	Crushed
+Resistance
+Plasma	Weight Reduction Rate (%)	4.3	3.2	2.4	2.2	2.1	2.3	3	2.2
+Resistance	Dust Generation	B	B	A	A	A	A	B	A
+
+
+=== TABLE 6 (3 rows) ===
+	TABLE 2
+	
+	Example	Comparative Example
+
+=== TABLE 7 (2 rows) ===
+	6	7	3	10	14	15	16
+	
+
+=== TABLE 8 (12 rows) ===
+Base Rubber	FKM	Tecnoflon P959	100	—	100	—	—	—	—
+		Viton E60C	—	100	—	100	—	—	—
+	VMQ	KE-871C-U	—	—	—	—	100	100	—
+	EPDM	EP51	—	—	—	—	—	—	100
+Crosslinking	Organic Peroxide	PERHEXA 25B	1.5	—	1.5	—	—	—	1.5
+Agent		C-8	—	—	—	—	1	1	—
+Crosslinking	Polyfunctional	TAIC	2	—	—	—	—	—	2
+Aid	Compound
+Acid Acceptor	Magnesium Oxide	Kyowamag 150	—	3	—	3	—	—	—
+	Calcium Hydroxide	CALVIT	—	6	—	6	—	—	—
+Filler	Phenol Resin	BellPearl R100	10	10	—	—	—	10	10
+	Carbon Black	Thermax N990	10	25	10	25	—	—	—
+
+=== TABLE 9 (7 rows) ===
+Normal Physical	Hardness (Type-A)	64	71	55	68	70	72	Unmeasurable
+Properties	Tensile Strength (Mpa)	21.5	18.9	14.5	16.6	7.4	7.3	due to
+	Elongation (%)	200	180	210	190	180	160	surface layer
+	100% Modulus (Mpa)	5.1	8.9	2.8	7	5.3	6	cracking
+Thermal	Compression Set (%)	13	9	25	18	10	18
+Resistance
+
+
+=== TABLE 10 (3 rows) ===
+	TABLE 3
+	
+	Example	Comparative Example
+
+=== TABLE 11 (2 rows) ===
+	8	9	1	11	12
+	
+
+=== TABLE 12 (5 rows) ===
+Base Rubber	FKM	Tecnoflon P959	100	100	100	100	100
+Crosslinking Agent	Organic Peroxide	PERHEXA 25B	1.5	0.3	1.5	1.5	0.3
+Crosslinking Aid	Polyfunctional Compound	TAIC	2	2	2	2	2
+Filler	Phenol Resin	BellPearl R100	10	10	—	—	—
+	Carbon Black	Thermax N990	—	—	—	10	10
+
+=== TABLE 13 (9 rows) ===
+Vulcanization Rate	t90 (minute)	2.5	4.1	3.6	3.8	7.0
+Press Conditions	Temperature (° C.)	160	160	160	160	160
+	Time (minute)	5	5	10	5	5
+Normal Physical	Hardness (Type-A)	58	57	51	55	52
+Properties	Tensile Strength (Mpa)	14.1	13.9	8.9	14.4	13.2
+	Elongation (%)	220	220	290	220	250
+	100% Modulus (Mpa)	2.7	2.6	1.3	2.8	2.2
+Thermal Resistance	Compression Set (%)	14	10	27	27	39
+
+
+=== TABLE 14 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2019223673A JP7012063B2 (en)	2019-12-11	2019-12-11	Sealing material for semiconductor manufacturing equipment
+JP2019-223673		2019-12-11	
+PCT/JP2020/045739 WO2021117743A1 (en)	2019-12-11	2020-12-08	Semiconductor production device sealing material
+
+=== TABLE 15 (3 rows) ===
+Publication Number	Publication Date
+US20230017563A1 US20230017563A1 (en)	2023-01-19
+US12584054B2 true US12584054B2 (en)	2026-03-24
+
+=== TABLE 16 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US17/784,638 Active 2042-11-09 US12584054B2 (en)	2019-12-11	2020-12-08	Semiconductor production device sealing material
+
+=== TABLE 17 (7 rows) ===
+Country	Link
+US (1)	US12584054B2 (en)
+JP (1)	JP7012063B2 (en)
+KR (1)	KR20220114545A (en)
+CN (1)	CN114761513B (en)
+TW (1)	TWI853129B (en)
+WO (1)	WO2021117743A1 (en)
+
+=== TABLE 18 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2020070326A (en) *	2018-10-30	2020-05-07	三菱電線工業株式会社	Uncrosslinked fluororubber composition and rubber product produced using the same
+JP7792487B1 (en) *	2024-10-07	2025-12-25	三菱電線工業株式会社	sealing material
+
+=== TABLE 19 (18 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS58152032A (en)	1982-03-04	1983-09-09	Kanebo Ltd	Rubber composition
+US4946883A (en) *	1989-01-26	1990-08-07	Toray Dow Corning Silicone	Fluororubber compositions exhibiting improved workability and mechanical properties
+JPH06278153A (en) *	1993-03-25	1994-10-04	Yamauchi Corp	Cushioning material for molding press
+JP2003041238A (en) *	2001-07-31	2003-02-13	Tokyo Electron Ltd	Semiconductor processing apparatus, rubber seal material for liquid crystal substrate processing apparatus, manufacturing method thereof, semiconductor processing apparatus, and liquid crystal substrate processing apparatus
+JP2004044745A (en) *	2002-07-15	2004-02-12	Mitsubishi Cable Ind Ltd	Rotating shaft seal
+KR100840484B1 (en)	2004-12-20	2008-06-20	닛폰 바루카 고교 가부시키가이샤	Rubber composition and sealing material for plasma treatment device
+US20090093590A1 (en)	2005-02-15	2009-04-09	Nippon Valqua Industries, Ltd.	Seal Material for Semiconductor Production Apparatus
+CN102336878A (en) *	2011-07-18	2012-02-01	山东圣泉化工股份有限公司	Low free phenol phenolic resin and preparation method thereof
+CN102844177A (en)	2010-02-22	2012-12-26	Nok株式会社	Fluororubber-metal laminate
+US20160319102A1 (en)	2013-12-27	2016-11-03	Nippon Valqua Industries, Ltd.	Perfluoroelastomer composition, sealing material, and method for producing same
+CN106751237A (en)	2016-12-22	2017-05-31	浙江中科应化科技有限公司	A kind of ship pipeline system seal washer and preparation method thereof
+WO2017170827A1 (en) *	2016-03-30	2017-10-05	積水化学工業株式会社	Closed-cell foam waterproof sheet with adhesive layer
+JP2017179210A (en)	2016-03-31	2017-10-05	ニチアス株式会社	Fluorine elastomer composition, molded article, sealant, and plasma treatment device and semiconductor manufacturing device containing sealant
+US20180355487A1 (en)	2017-06-08	2018-12-13	Tatsuta Electric Wire & Cable Co., Ltd.	Film material and cold spray method
+JP2020070326A (en)	2018-10-30	2020-05-07	三菱電線工業株式会社	Uncrosslinked fluororubber composition and rubber product produced using the same
+US20230174763A1 (en)	2020-04-21	2023-06-08	Mitsubishi Cable Industries, Ltd.	Elastomer composition and sealing material comprising same
+JP2025152032A (en)	2024-03-28	2025-10-09	キヤノン株式会社	Lens device and imaging device
+
+=== TABLE 20 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH06230415A (en)	1993-02-04	1994-08-19	Toshiba Corp	Production of liquid crystal display device
+JP2003306595A (en) *	2002-04-17	2003-10-31	Kyocera Chemical Corp	Sealing resin composition and electronic component sealing device
+JP2004131656A (en) *	2002-10-11	2004-04-30	Asahi Glass Co Ltd	Sealing material for semiconductor devices
+JP5244469B2 (en) *	2008-06-13	2013-07-24	藤倉ゴム工業株式会社	Method for imparting DME resistance to rubber components
+JP5407233B2 (en) *	2008-09-09	2014-02-05	Ｎｏｋ株式会社	Fluoro rubber metal laminate
+WO2012137724A1 (en) *	2011-04-06	2012-10-11	Nok株式会社	Fluorine rubber composition
+CN103694606A (en) *	2013-11-29	2014-04-02	马鞍山市中澜橡塑制品有限公司	Modified fluororubber sealing gasket material and preparation method thereof
+
+=== TABLE 21 (23 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPS58152032A (en)	1982-03-04	1983-09-09	Kanebo Ltd	Rubber composition
+US4946883A (en) *	1989-01-26	1990-08-07	Toray Dow Corning Silicone	Fluororubber compositions exhibiting improved workability and mechanical properties
+JPH06278153A (en) *	1993-03-25	1994-10-04	Yamauchi Corp	Cushioning material for molding press
+JP2003041238A (en) *	2001-07-31	2003-02-13	Tokyo Electron Ltd	Semiconductor processing apparatus, rubber seal material for liquid crystal substrate processing apparatus, manufacturing method thereof, semiconductor processing apparatus, and liquid crystal substrate processing apparatus
+JP2004044745A (en) *	2002-07-15	2004-02-12	Mitsubishi Cable Ind Ltd	Rotating shaft seal
+KR100840484B1 (en)	2004-12-20	2008-06-20	닛폰 바루카 고교 가부시키가이샤	Rubber composition and sealing material for plasma treatment device
+US20080153986A1 (en)	2004-12-20	2008-06-26	Nippon Valqua Industries, Ltd.	Rubber Composition and Sealing Material for Plasma Treatment Device
+US20090093590A1 (en)	2005-02-15	2009-04-09	Nippon Valqua Industries, Ltd.	Seal Material for Semiconductor Production Apparatus
+JP4628814B2 (en)	2005-02-15	2011-02-09	日本バルカー工業株式会社	Sealant for semiconductor manufacturing equipment
+CN102844177A (en)	2010-02-22	2012-12-26	Nok株式会社	Fluororubber-metal laminate
+EP2540494A1 (en)	2010-02-22	2013-01-02	NOK Corporation	Fluororubber-metal laminate
+CN102336878A (en) *	2011-07-18	2012-02-01	山东圣泉化工股份有限公司	Low free phenol phenolic resin and preparation method thereof
+US20160319102A1 (en)	2013-12-27	2016-11-03	Nippon Valqua Industries, Ltd.	Perfluoroelastomer composition, sealing material, and method for producing same
+JP6230415B2 (en)	2013-12-27	2017-11-15	日本バルカー工業株式会社	Perfluoroelastomer composition, sealing material and method for producing the same
+WO2017170827A1 (en) *	2016-03-30	2017-10-05	積水化学工業株式会社	Closed-cell foam waterproof sheet with adhesive layer
+JP2017179210A (en)	2016-03-31	2017-10-05	ニチアス株式会社	Fluorine elastomer composition, molded article, sealant, and plasma treatment device and semiconductor manufacturing device containing sealant
+CN106751237A (en)	2016-12-22	2017-05-31	浙江中科应化科技有限公司	A kind of ship pipeline system seal washer and preparation method thereof
+US20180355487A1 (en)	2017-06-08	2018-12-13	Tatsuta Electric Wire & Cable Co., Ltd.	Film material and cold spray method
+JP2018204086A (en)	2017-06-08	2018-12-27	タツタ電線株式会社	Film material and cold spray method
+JP2020070326A (en)	2018-10-30	2020-05-07	三菱電線工業株式会社	Uncrosslinked fluororubber composition and rubber product produced using the same
+US20230174763A1 (en)	2020-04-21	2023-06-08	Mitsubishi Cable Industries, Ltd.	Elastomer composition and sealing material comprising same
+JP2025152032A (en)	2024-03-28	2025-10-09	キヤノン株式会社	Lens device and imaging device
+
+=== TABLE 22 (21 rows) ===
+Title
+KR Decision to Grant Dated Dec. 10, 2021 as received in Application No. 2019-223673.
+KR Office Action dated Jul. 31, 2025 as received in Application No. 10-2022-7019184.
+KR Office Action dated Sep. 28, 2021 as received in Application No. 2019-223673.
+Machine translation of CN-102336878-A (Year: 2011). *
+Machine translation of JP-2003041238-A (Year: 2003). *
+Machine translation of JP-2004044745-A (Year: 2004). *
+Machine translation of JP-H06278153-A (Year: 1994). *
+Machine translation of JP-H06278153-A, including a machine translation of Table 1 (Year: 1994). *
+Machine translation of WO2017170827A1 (Year: 2017). *
+Nipsil Silica Catalog, Tosoh Silica Corporation (Year: 2023). *
+KR Decision to Grant Dated Dec. 10, 2021 as received in Application No. 2019-223673.
+KR Office Action dated Jul. 31, 2025 as received in Application No. 10-2022-7019184.
+KR Office Action dated Sep. 28, 2021 as received in Application No. 2019-223673.
+Machine translation of CN-102336878-A (Year: 2011). *
+Machine translation of JP-2003041238-A (Year: 2003). *
+Machine translation of JP-2004044745-A (Year: 2004). *
+Machine translation of JP-H06278153-A (Year: 1994). *
+Machine translation of JP-H06278153-A, including a machine translation of Table 1 (Year: 1994). *
+Machine translation of WO2017170827A1 (Year: 2017). *
+Nipsil Silica Catalog, Tosoh Silica Corporation (Year: 2023). *
+
+=== TABLE 23 (10 rows) ===
+Publication number	Publication date
+JP7012063B2 (en)	2022-01-27
+WO2021117743A1 (en)	2021-06-17
+US20230017563A1 (en)	2023-01-19
+TWI853129B (en)	2024-08-21
+TW202124562A (en)	2021-07-01
+KR20220114545A (en)	2022-08-17
+CN114761513B (en)	2024-07-12
+CN114761513A (en)	2022-07-15
+JP2021091800A (en)	2021-06-17
+
+=== TABLE 24 (14 rows) ===
+Publication	Publication Date	Title
+KR102803202B1 (en)	2025-05-07	Elastomer composition and sealing material comprising the same
+KR101640953B1 (en)	2016-07-19	Fluorine rubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+JP6620132B2 (en)	2019-12-11	Seal material and manufacturing method thereof
+JP7814903B2 (en)	2026-02-17	Rubber molded products
+EP3088460A1 (en)	2016-11-02	Perfluoroelastomer composition, sealing material and method for producing same
+CN111194333B (en)	2022-04-05	Fluorine-containing copolymer composition and metal rubber laminate
+JP7562465B2 (en)	2024-10-07	Rubber products and their manufacturing method
+US11274199B2 (en)	2022-03-15	Perfluoroelastomer composition and sealing material
+US20230017563A1 (en)	2023-01-19	Semiconductor production device sealing material
+KR20180012782A (en)	2018-02-06	Thermoplastic fluorine resin composition and method for producing cross-linked body
+EP4047055A1 (en)	2022-08-24	Perfluoroelastomer molded article and protective member
+JP2020070326A (en)	2020-05-07	Uncrosslinked fluororubber composition and rubber product produced using the same
+JP7792487B1 (en)	2025-12-25	sealing material
+
+=== TABLE 25 (15 rows) ===
+Date	Code	Title	Description
+2022-06-11	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2022-06-13	AS	Assignment	Owner name: MITSUBISHI CABLE INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:ITO, TAKAO;REEL/FRAME:060186/0656 Effective date: 20220519
+2022-11-02	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2025-03-10	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2025-06-17	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2025-09-03	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2025-09-16	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION COUNTED, NOT YET MAILED
+2025-09-17	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2025-12-15	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2026-01-09	STPP	Information on status: patent application and granting procedure in general	Free format text: ALLOWED -- NOTICE OF ALLOWANCE NOT YET MAILED
+2026-01-23	STPP	Information on status: patent application and granting procedure in general	Free format text: ALLOWED -- NOTICE OF ALLOWANCE NOT YET MAILED
+2026-01-27	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2026-02-09	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+2026-03-11	STCF	Information on status: patent grant	Free format text: PATENTED CASE

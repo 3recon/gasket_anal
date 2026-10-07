@@ -1,0 +1,286 @@
+# US20050107544A1 :: US20050107544A1 - Plasma resistant curable fluoroelastomer composition 
+        - Google Patents
+
+=== TABLE 0 (3 rows) ===
+	
+	
+	Gas
+
+=== TABLE 1 (2 rows) ===
+	NF3/Ar	O2	CF4/O2
+	
+
+=== TABLE 2 (6 rows) ===
+	Flow Rate (sccm1)	13/37	50	45.5/4.5
+	Power (W)	900	900	900
+	Pressure (Pa)	31	13	13
+	Time (hour)	1	1	1
+	
+	1sccm is standard cubic centimeters per minute
+
+=== TABLE 3 (7 rows) ===
+TABLE I
+
+
+						Comparative	Comparative
+	Sample 1	Sample 2	Sample 3	Sample 4	Sample 5	Example A	Example B
+
+
+
+=== TABLE 4 (28 rows) ===
+Formulation (phr)							
+Fluoroelastomer 1	100	100	100	100	100	100	100
+Sachtoperse HU-N1	10	0	10	18	20	0	0
+Sachtoperse HU-D2	0	10	0	0	0	0	0
+Blanc Fixe F3	0	0	0	0	0	10	10
+DABPAF4	1.75	1.75	0	1.75	0	1.75	0
+Urea	0	0	0.3	0.1	0	0	0.3
+Diak 85	0	0	0	0	2	0	0
+PLC(DBPH)-686	0	0	0	0	3	0	0
+Tensile Properties
+M100 (MPa)	1.6	1.8	1.8	2.9	3.4	1.4	1.4
+TB (MPa)	10.1	9.1	6.2	6.4	9.6	6.3	5.2
+EB (%)	161	195	214	185	195	161	199
+Hardness, Shore A	66	66	65	70	74	63	64
+Compression Set @	18	21	33	18	33	13	21
+204° C., 70 hours
+Cure Characteristics
+ML (dN · m)	2.77	3.14	4.1	3.6	4.3	2.3	2.63
+MH (dN · m)	6.50	7.19	11.51	13.2	16.8	11.97	10.55
+Ts2 (minutes)	1	1	2.2	0.03	1.17	4.5	1.6
+Tc90 (minutes)	28	29	5.3	2.28	4.75	11.8	4.5
+
+1100 nm average particle size barium sulfate (available from Sachtleben Chemie GMBH)
+2organic surface treated 100 nm average particle size barium sulfate (available from Sachtleben Chemie GMBH)
+31 micron average particle size barium sulfate (available from Sachtleben Chemie GMBH)
+4diaminobisphenol AF
+5trimethallylisocyanurate (available from DuPont Dow Elastomers L.L.C.)
+62,5-dimethyl-2,5-di(t-butylperoxy)hexane organic peroxide (available from Elastochem, Inc.)
+
+=== TABLE 5 (7 rows) ===
+	TABLE II
+	
+	
+	Percent			
+	Weight Loss	CF4/O2 Plasma	O2 Plasma	NF3/Ar Plasma
+	
+
+
+=== TABLE 6 (10 rows) ===
+	Sample 1	1.04%	1.69%	1.39%
+	Sample 2	1.06	1.98	1.47
+	Sample 3	1.06	1.77	1.36
+	Sample 4	0.61	1.08	0.94
+	Sample 5	0.56	1.08	0.66
+	Comparative	1.59	3.25	2.08
+	Sample A
+	Comparative	1.53	3.26	2.19
+	Sample B
+	
+
+=== TABLE 7 (10 rows) ===
+TABLE III
+
+
+Particle																
+Distribution
+(per mm2)
+Size range,													10-	15-	20-
+um	0.5-0.6	0.6-0.7	0.7-0.8	0.8-0.9	0.9-1	1-1.5	1.5-2	2-3	3-4	4-5	5-7.5	7.5-10	15	20	25	Total
+
+
+
+=== TABLE 8 (10 rows) ===
+Sample 1	2323	783	414	243	145	315	108	75	25	10	4	1	1	0	0	4450
+Sample 2	3259	1081	591	313	184	296	71	34	11	3	2	0	0	0	0	5846
+Sample 3	3702	1062	476	237	124	199	56	37	14	5	3	1	0	0	0	5916
+Sample 4	1108	343	174	97	51	75	21	13	5	2	1	0	0	0	0	1890
+Sample 5	1945	955	575	352	223	453	133	88	43	19	17	4	3	0	0	4810
+Comp.	165412	83585	56175	33532	21740	43047	11216	2864	231	58	0	29	0	0	10	417897
+Sample A
+Comp.	144877	79481	54708	34689	23165	49625	14776	5563	591	79	8	31	10	0	20	407623
+Sample B
+
+
+=== TABLE 9 (7 rows) ===
+	TABLE IV
+	
+	
+		Comparative
+	Sample 6	Example C
+	
+
+
+=== TABLE 10 (1 rows) ===
+	Formulation, phr
+
+=== TABLE 11 (5 rows) ===
+	Fluoroelastomer 2	100	100
+	Sachtoperse HU-N1	20	0
+	Blanc Fixe F2	0	20
+	PLC(DBPH)-683	2	2
+	TAIC DLC-A 72%4	4.2	4.2
+
+=== TABLE 12 (1 rows) ===
+	Tensile Properties
+
+=== TABLE 13 (6 rows) ===
+	M100 (MPa)	1.7	1.6
+	TB (MPa)	6.7	5.2
+	EB (%)	232	242
+	Hardness, Shore A	66	66
+	Compression Set @	28	32
+	204° C., 70 hours
+
+=== TABLE 14 (2 rows) ===
+	Cure
+	Characteristics
+
+=== TABLE 15 (9 rows) ===
+	ML (dN · m)	1.77	1.40
+	MH (dN · m)	24.03	23.07
+	Ts2 (minutes)	0.57	0.57
+	Tc90 (minutes)	1.47	1.53
+	
+	1100 nm average particle size barium sulfate (available from Sachtleben Chemie GMBH)
+	21 micron average particle size barium sulfate (available from Sachtleben Chemie GMBH)
+	32,5-dimethyl-2,5-di(t-butylperoxy)hexane organic peroxide (available from Elastochem, Inc.)
+	4triallylisocyanurate on silicon dioxide (available from Natrochem, Inc.)
+
+=== TABLE 16 (7 rows) ===
+	TABLE V
+	
+	
+	Percent Weight
+	Loss
+	
+
+
+=== TABLE 17 (4 rows) ===
+	Sample 6	1.06
+	Comparative	1.38
+	Sample C
+	
+
+=== TABLE 18 (10 rows) ===
+TABLE VI
+
+
+Particle																
+Distribution
+(per mm2)
+Size range,														15-	20-	
+um	0.5-0.6	0.6-0.7	0.7-0.8	0.8-0.9	0.9-1	1-1.5	1.5-2	2-3	3-4	4-5	5-7.5	7.5-10	10-15	20	25	Total
+
+
+
+=== TABLE 19 (4 rows) ===
+Sample 6	3213	1289	648	343	173	249	42	17	4	2	1	2	2	0	0	5986
+Comp.	385610	179056	87438	46200	24572	26408	1508	0	0	0	0	36	0	0	0	750829
+Sample C
+
+
+=== TABLE 20 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US10/963,021 US20050107544A1 (en)	2003-11-13	2004-10-12	Plasma resistant curable fluoroelastomer composition
+PCT/US2004/038042 WO2005049712A1 (en)	2003-11-13	2004-11-12	Plasma resistant curable fluoroelastomer composition
+
+=== TABLE 21 (3 rows) ===
+Application Number	Priority Date	Filing Date	Title
+US51968803P	2003-11-13	2003-11-13	
+US10/963,021 US20050107544A1 (en)	2003-11-13	2004-10-12	Plasma resistant curable fluoroelastomer composition
+
+=== TABLE 22 (2 rows) ===
+Publication Number	Publication Date
+US20050107544A1 true US20050107544A1 (en)	2005-05-19
+
+=== TABLE 23 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US10/963,021 Abandoned US20050107544A1 (en)	2003-11-13	2004-10-12	Plasma resistant curable fluoroelastomer composition
+
+=== TABLE 24 (3 rows) ===
+Country	Link
+US (1)	US20050107544A1 (en)
+WO (1)	WO2005049712A1 (en)
+
+=== TABLE 25 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2008023075A1 (en) *	2006-08-25	2008-02-28	Sachtleben Chemie Gmbh	Barium sulfate-containing composite
+US20080287627A1 (en) *	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+WO2012010495A1 (en) *	2010-07-20	2012-01-26	Solvay Solexis S.P.A.	Fluoroelastomer composition
+WO2014088921A1 (en) *	2012-12-03	2014-06-12	E. I. Du Pont De Nemours And Company	Cured perfluoroelastomer article
+US8969469B2 (en)	2010-11-18	2015-03-03	3M Innovative Properties Company	Method of coagulating an amorphous fluoropolymer latex
+US9018309B2 (en)	2010-09-24	2015-04-28	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions suitable for high temperature applications
+US9309370B2 (en)	2011-02-04	2016-04-12	3M Innovative Properties Company	Amorphous perfluoropolymers comprising zirconium oxide nanoparticles
+US9365712B2 (en)	2010-09-24	2016-06-14	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions suitable for high temperature applications
+
+=== TABLE 26 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP1741748A4 (en) *	2004-04-28	2009-07-22	Daikin Ind Ltd	FLUORINE-CONTAINING ELASTOMER COMPOSITION AND MOLDED ARTICLE FORMED THEREFROM
+
+=== TABLE 27 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5696189A (en) *	1995-12-01	1997-12-09	E. I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+US6191208B1 (en) *	1998-05-20	2001-02-20	Dupont Dow Elastomers L.L.S.	Thermally stable perfluoroelastomer composition
+US6410630B1 (en) *	1999-12-29	2002-06-25	Pelseal Technologies, Llc	High solids fluoroelastomer compositions
+US6740697B1 (en) *	1999-02-24	2004-05-25	Bayer Aktiengesellschaft	Flame-resistant thermoplastic molding material
+
+=== TABLE 28 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP4331368B2 (en) *	2000-01-06	2009-09-16	三菱電線工業株式会社	Seal for semiconductor manufacturing equipment
+WO2003051987A1 (en) *	2001-12-17	2003-06-26	Daikin Industries, Ltd.	Elastomer formed product
+US6956085B2 (en) *	2003-02-14	2005-10-18	3M Innovative Properties Company	Fluoroelastomer compositions
+
+=== TABLE 29 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US5696189A (en) *	1995-12-01	1997-12-09	E. I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+US6191208B1 (en) *	1998-05-20	2001-02-20	Dupont Dow Elastomers L.L.S.	Thermally stable perfluoroelastomer composition
+US6740697B1 (en) *	1999-02-24	2004-05-25	Bayer Aktiengesellschaft	Flame-resistant thermoplastic molding material
+US6410630B1 (en) *	1999-12-29	2002-06-25	Pelseal Technologies, Llc	High solids fluoroelastomer compositions
+
+=== TABLE 30 (15 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20090326114A1 (en) *	2006-08-25	2009-12-31	Sonja Grothe	Barium sulfate-containing composite
+WO2008023075A1 (en) *	2006-08-25	2008-02-28	Sachtleben Chemie Gmbh	Barium sulfate-containing composite
+US20080287627A1 (en) *	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+US8367776B2 (en)	2007-04-16	2013-02-05	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+US9068069B2 (en)	2007-04-16	2015-06-30	Greene, Tweed Technologies, Inc.	Perfluoroelastomer compositions and methods of preparing same
+WO2012010495A1 (en) *	2010-07-20	2012-01-26	Solvay Solexis S.P.A.	Fluoroelastomer composition
+US10358551B2 (en)	2010-07-20	2019-07-23	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer composition
+US9365712B2 (en)	2010-09-24	2016-06-14	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions suitable for high temperature applications
+US9018309B2 (en)	2010-09-24	2015-04-28	Greene, Tweed Technologies, Inc.	Fluorine-containing elastomer compositions suitable for high temperature applications
+US8969469B2 (en)	2010-11-18	2015-03-03	3M Innovative Properties Company	Method of coagulating an amorphous fluoropolymer latex
+US9309370B2 (en)	2011-02-04	2016-04-12	3M Innovative Properties Company	Amorphous perfluoropolymers comprising zirconium oxide nanoparticles
+US9315644B2 (en) *	2012-12-03	2016-04-19	E I Du Pont De Nemours And Company	Cured perfluoroelastomer article
+CN104822749A (en) *	2012-12-03	2015-08-05	纳幕尔杜邦公司	Cured perfluoroelastomer article
+WO2014088921A1 (en) *	2012-12-03	2014-06-12	E. I. Du Pont De Nemours And Company	Cured perfluoroelastomer article
+
+=== TABLE 31 (2 rows) ===
+Publication number	Publication date
+WO2005049712A1 (en)	2005-06-02
+
+=== TABLE 32 (19 rows) ===
+Publication	Publication Date	Title
+US6191208B1 (en)	2001-02-20	Thermally stable perfluoroelastomer composition
+US6992143B2 (en)	2006-01-31	Curable perfluoroelastomer composition
+EP1112311B1 (en)	2003-10-15	Curable perfluoroelastomer composition
+EP1951808B1 (en)	2009-04-01	Perfluoroelastomer compositions for low temperature applications
+EP2691455B1 (en)	2024-03-13	Curable fluoroelastomer composition
+US20240327633A1 (en)	2024-10-03	Perfluoroelastomer composition and perfluoroelastomer crosslinked article
+WO2005049712A1 (en)	2005-06-02	Plasma resistant curable fluoroelastomer composition
+EP3387054B1 (en)	2020-02-26	Curing agents for fluorinated elastomers
+US20110319545A1 (en)	2011-12-29	Process for preparing curable perfluoroelastomer compositions
+EP3556803B1 (en)	2023-10-04	Curing agents for compounds
+CN108473718B (en)	2021-03-30	Curable Fluoroelastomer Composition
+KR101347007B1 (en)	2014-01-02	A process for bonding a curable perfluoroelastomer composition to a surface of an aluminum substrate
+KR20220066127A (en)	2022-05-23	Compositions and crosslinked products containing fluorine-containing polymers
+US20110207890A1 (en)	2011-08-25	Perfluoroelastomer composition
+KR101206666B1 (en)	2012-11-29	Blends of perfluoroelastomers and fluoroplastics
+CN100484996C (en)	2009-05-06	Blends of perfluoroelastomers and fluoroplastics
+KR20140021617A (en)	2014-02-20	Curable fluoroelastomer composition
+EP3074452A1 (en)	2016-10-05	Curable fluoroelastomer composition
+
+=== TABLE 33 (3 rows) ===
+Date	Code	Title	Description
+2005-03-10	AS	Assignment	Owner name: DUPONT DOW ELASTOMERS L.L.C., DELAWARE Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNOR:WANG, SHUHONG;REEL/FRAME:015759/0952 Effective date: 20041005
+2007-02-21	STCB	Information on status: application discontinuation	Free format text: ABANDONED -- FAILURE TO PAY ISSUE FEE

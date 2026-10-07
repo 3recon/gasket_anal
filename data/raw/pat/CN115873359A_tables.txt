@@ -1,0 +1,95 @@
+# CN115873359A :: CN115873359A - Superfine fluororubber sealing piece for protecting electrostatic chuck gap 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202211472179.1A CN115873359B (en)	2022-11-23	2022-11-23	A fluorine rubber ultra-fine seal used to protect the gap between electrostatic chucks
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202211472179.1A CN115873359B (en)	2022-11-23	2022-11-23	A fluorine rubber ultra-fine seal used to protect the gap between electrostatic chucks
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN115873359A true CN115873359A (en)	2023-03-31
+CN115873359B CN115873359B (en)	2023-09-22
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202211472179.1A Active CN115873359B (en)	2022-11-23	2022-11-23	A fluorine rubber ultra-fine seal used to protect the gap between electrostatic chucks
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN115873359B (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN117777941A (en) *	2023-11-22	2024-03-29	上海芯密科技有限公司	A kind of sealant for electrostatic chuck gap and its preparation method and application
+
+=== TABLE 6 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2007126568A (en) *	2005-11-04	2007-05-24	Yunimatekku Kk	Fluorine-containing elastomer composition
+JP2008144061A (en) *	2006-12-11	2008-06-26	Nok Corp	Fluororubber composition and fluororubber crosslinked product
+US20110034639A1 (en) *	2008-04-14	2011-02-10	Nok Corporation	Fluororubber-based sealing material having good sealing properties under high/low temperature load
+JP2012236969A (en) *	2011-04-25	2012-12-06	Fujikura Rubber Ltd	Fluororubber composition, and composite sealing member using the same
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+
+=== TABLE 7 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2007126568A (en) *	2005-11-04	2007-05-24	Yunimatekku Kk	Fluorine-containing elastomer composition
+JP2008144061A (en) *	2006-12-11	2008-06-26	Nok Corp	Fluororubber composition and fluororubber crosslinked product
+US20110034639A1 (en) *	2008-04-14	2011-02-10	Nok Corporation	Fluororubber-based sealing material having good sealing properties under high/low temperature load
+JP2012236969A (en) *	2011-04-25	2012-12-06	Fujikura Rubber Ltd	Fluororubber composition, and composite sealing member using the same
+CN106751257A (en) *	2016-12-23	2017-05-31	上海如实密封科技有限公司	A kind of high temperature high voltage resistant seal perfluoroelastomers material, preparation method and applications
+
+=== TABLE 8 (2 rows) ===
+Title
+陈士朝等: "《橡胶技术与制造概论》", vol. 1, 中国石化出版社, pages: 149 - 150 *
+
+=== TABLE 9 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN117777941A (en) *	2023-11-22	2024-03-29	上海芯密科技有限公司	A kind of sealant for electrostatic chuck gap and its preparation method and application
+CN117777941B (en) *	2023-11-22	2025-03-14	上海芯密科技股份有限公司	Sealant for gap of electrostatic chuck and preparation method and application thereof
+
+=== TABLE 10 (2 rows) ===
+Publication number	Publication date
+CN115873359B (en)	2023-09-22
+
+=== TABLE 11 (26 rows) ===
+Publication	Publication Date	Title
+EP3221392B1 (en)	2018-09-19	Melt processible fluoropolymer composition with excellent heat conductivity, molded product manufactured from the composition and manufacturing method
+CN105899600B (en)	2019-02-22	Perfluoroelastomer composition, and sealing material and method for producing the same
+CN101080463B (en)	2010-06-23	Rubber composition, sealing material for plasma processing equipment
+EP0878503B1 (en)	2003-12-17	Rubber composition lowered in heat build-up and rolls
+JP5228913B2 (en)	2013-07-03	Fluorine-containing elastomer composition
+CN105255021B (en)	2017-12-12	A kind of high intensity low compression set elastomeric material and preparation method thereof
+CN115873359B (en)	2023-09-22	A fluorine rubber ultra-fine seal used to protect the gap between electrostatic chucks
+CN108368317B (en)	2021-05-14	Crosslinkable elastomer composition, molded article, sealing material, plasma processing apparatus, and semiconductor manufacturing apparatus
+TWI237047B (en)	2005-08-01	Elastomer molded article and crosslinkable fluorine-containing elastomer composition for semiconductor production apparatuses
+CN117534929B (en)	2024-09-24	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+TW200948884A (en)	2009-12-01	Fluorine-containing rubber composition capable of forming seal member having crack resistance, and seal member having crack resistance obtained from the composition
+CN117304625B (en)	2024-05-17	Fluororubber composition capable of effectively reducing adhesion with metal and preparation method thereof
+CN102532673B (en)	2014-01-01	A kind of reinforcing method of ethylene-vinyl acetate copolymer
+CN118459966B (en)	2025-02-28	A semiconductor sealing ring material and its preparation method and application
+JP2013057057A (en)	2013-03-28	Fluorine-containing elastomer composition and rubber member
+TWI735769B (en)	2021-08-11	Laminated body, its manufacturing method, and gate seal
+JP2014114383A (en)	2014-06-26	Fluorine-containing elastomer composition and rubber member
+CN107922699A (en)	2018-04-17	Rubber composition and vulcanisation bladder for vulcanisation bladder
+CN1703480A (en)	2005-11-30	Sealing material for semiconductor device and method for production thereof
+TW202338057A (en)	2023-10-01	Annular laminate, seal material, and manufacturing method
+JP4534956B2 (en)	2010-09-01	Fluorine-containing elastomer composition
+JP2014172931A (en)	2014-09-22	Rubber composition, rubber member, and seal member and conveying member using rubber member
+CN104927272A (en)	2015-09-23	EVA/EVM blending type thermoplastic vulcanizate and preparation method therefor
+JP6821980B2 (en)	2021-01-27	Rubber composition containing antistatic agent and method for producing the same
+JP7270504B2 (en)	2023-05-10	Elastomer composition and sealing material
+
+=== TABLE 12 (9 rows) ===
+Date	Code	Title	Description
+2023-03-31	PB01	Publication	
+2023-03-31	PB01	Publication	
+2023-04-18	SE01	Entry into force of request for substantive examination	
+2023-04-18	SE01	Entry into force of request for substantive examination	
+2023-09-22	GR01	Patent grant	
+2023-09-22	GR01	Patent grant	
+2025-01-10	CP03	Change of name, title or address	Address after: South Zone, 1st Floor, Building 13, Lane 2699 Jiangshan Road, Lingang New Area, China (Shanghai) Pilot Free Trade Zone, Pudong New Area, Shanghai, 200131 Patentee after: Shanghai Xinmi Technology Co.,Ltd. Country or region after: China Address before: 200120 South Area, Floor 1, Workshop 13, Lane 2699, Jiangshan Road, Lingang New Area, China (Shanghai) Free Trade Pilot Zone, Pudong New Area, Shanghai Patentee before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China
+2025-01-10	CP03	Change of name, title or address	

@@ -1,0 +1,373 @@
+# US7678858B2 :: US7678858B2 - Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof 
+        - Google Patents
+
+=== TABLE 0 (7 rows) ===
+
+Fluorine containing elastomer	100	parts by weight
+Triallyl isocyanurate (TAIC)	2	parts by weight
+PERHEXA 25B	1	part by weight
+Filler	15	parts by weight
+Compound having plasma antiaging effects	0.5 to 20	parts by weight
+
+
+=== TABLE 1 (7 rows) ===
+
+Fluorine containing elastomer	100	parts by weight
+Triallyl isocyanurate (TAIC)	2	parts by weight
+PERHEXA 25B	1	part by weight
+Filler	15	parts by weight
+Compound having plasma antiaging effects	0.5 to 20	parts by weight
+
+
+=== TABLE 2 (7 rows) ===
+	
+	CROMOPHTHAL Yellow 3RLP	isoindolinone
+	CROMOPHTHAL Red 2020	quinacridone
+	CROMOPHTHAL Red 2030	diketopyrrolopyrrole
+	CROMOPHTHAL Magenta P	quinacridone
+	CROMOPHTHAL Blue A3R	anthraquinone
+	
+
+=== TABLE 3 (6 rows) ===
+	
+	ANTAGE RD	amine
+	ANTAGE W-300	phenol
+	ANTAGE CRYSTAL	phenol
+	ANTAGE MB	amine and sulfur
+	
+
+=== TABLE 4 (3 rows) ===
+	
+	NONFLEX OD-3	amine
+	
+
+=== TABLE 5 (3 rows) ===
+	TABLE 1
+	
+	Ex.	Com. Ex.
+
+=== TABLE 6 (2 rows) ===
+	1	2	3	4	5	6	7	8	9	1
+	
+
+=== TABLE 7 (14 rows) ===
+DAI-EL PERFLO GA-105	100	100	100	100	100	100	100	100	100	100
+TAIC	2	2	2	2	2	2	2	2	2	2
+PERHEXA 25B	1	1	1	1	1	1	1	1	1	1
+Aluminum oxide	15	15	15	15	15	15	15	15	15	15
+CROMOPHTAL Yellow 3RLP	2
+CROMOPHTAL Red 2020		2
+CROMOPHTAL Red 2030			2
+CROMOPHTAL Magenta P				2
+CROMOPHTAL Blue A3R					2
+Antage RD						2
+Antage W-300							2
+Antage Crystal								2
+Antage MB									2
+
+
+=== TABLE 8 (3 rows) ===
+	TABLE 2
+	
+	Ex.
+
+=== TABLE 9 (2 rows) ===
+	10	11	12	13	14	15
+	
+
+=== TABLE 10 (8 rows) ===
+DAI-EL PERFLO GA-105	100	100	100	100	100	100
+TAIC	2	2	2	2	2	2
+PERHEXA 25B	1	1	1	1	1	1
+Aluminum oxide		15	15	15	15	15
+CROMOPHTAL Red 2020	15	15	7.5	3.75
+NONFLEX OD-3					2
+PPST-1						2
+
+
+=== TABLE 11 (4 rows) ===
+	TABLE 3
+	
+		Com.
+	Ex.	Ex.
+
+=== TABLE 12 (2 rows) ===
+Evaluation results	1	2	3	4	5	6	7	8	9	1
+
+
+=== TABLE 13 (41 rows) ===
+Curing properties, 150° C.										
+(JSR Curelastometer II)
+The lowest viscosity (kgf)	0.22	0.22	0.23	0.24	0.21	0.17				0.21
+The highest viscosity (kgf)	5.30	5.35	5.35	5.34	5.08	3.45				5.30
+Induction time (min)	1.4	1.3	1.1	1.3	1.4	3.8				1.0
+Curing time (min)	2.3	2.5	2.0	2.2	2.7	7.0				1.8
+Curing properties, 160° C.
+(JSR Curelastometer II)
+The lowest viscosity (kgf)						0.14	0.13	0.13	0.13	0.20
+The highest viscosity (kgf)						4.34	3.56	3.60	4.77	6.30
+Induction time (min)						1.7	2.0	2.0	1.3	0.6
+Curing time (min)						3.0	3.8	3.4	2.2	1.1
+Normal state (JIS No. 6 (ISO No. 2)
+super dumbbell)
+100% tensile at stress (kgf/cm2)	92	95	93	95	93	85	61	71	91	90
+Tensile strength (kgf/cm2)	250	267	254	240	237	241	256	252	236	243
+Elongation (%)	170	170	170	170	170	170	200	190	170	160
+Hardness (SHORE A)	78	79	78	79	78	78	79	78	80	75
+Thermal aging test
+(200° C. × 168 hours)
+100% tensile at stress (kgf/cm2)	88	94	89	96	94	80	50	55	86	93
+Tensile strength (kgf/cm2)	183	286	211	285	250	200	190	185	201	224
+Elongation (%)	140	160	150	160	160	180	220	220	180	150
+Hardness (SHORE A)	77	76	77	76	77	76	76	76	78	73
+↑ Rate of change
+ΔM100 (%)	−5	−1	−5	1	1	−6	−18	−23	−5	3
+ΔTB (%)	−27	7	−17	18	5	−17	−26	−27	−15	−8
+ΔEL (%)	−18	−6	−21	−6	−6	6	10	16	6	−6
+Hardness change (point)	−1	−3	−1	−3	−1	−2	−3	−2	−2	−2
+Compression permanent strain rate,
+200° C. (P-24, O-ring)
+70 hours (%)	21	22	21	21	23	28	48	45	28	21
+Plasma resistance
+(weight reduction rate %)
+O2 plasma	0.69	0.70	0.71	0.67	0.73	0.69	0.70	0.67	0.71	0.78
+CF4 plasma	0.72	0.76	0.74	0.77	0.74	0.59	0.78	0.73	0.67	0.82
+Number of surface particles
+(×104/O-ring)
+O2 plasma	9.1	9.3	9.5	8.8	9.6	9.2	9.3	8.9	9.4	10.4
+CF4 plasma	10.3	11.0	10.7	11.1	10.7	8.7	11.3	10.5	9.7	11.9
+
+
+=== TABLE 14 (3 rows) ===
+	TABLE 4
+	
+	Ex.
+
+=== TABLE 15 (2 rows) ===
+Evaluation results	10	11	12	13	14	15
+
+
+=== TABLE 16 (20 rows) ===
+Curing properties, 150° C.						
+(JSR Curelastometer II)
+The lowest viscosity (kgf)	0.13	0.22	0.29	0.41	0.14	0.19
+The highest viscosity (kgf)	5.13	5.22	5.92	6.60	2.36	4.75
+Induction time (min)	1.7	1.5	1.7	1.8	4.6	1.2
+Curing time (min)	3.8	3.0	3.3	3.9	9.2	2.2
+Normal state (JIS No. 6 (ISO No. 2)
+super dumbbell)
+100% tensile at stress (kgf/cm2)	73	140	131	123	66	111
+Tensile strength (kgf/cm2)	165	201	225	224	163	187
+Elongation (%)	190	140	150	150	170	140
+Hardness (SHORE A)	82	89	86	83	78	82
+Compression permanent strain rate,
+200° C. (P-24, O-ring)
+70 hours (%)	17	33	27	24	28	22
+Plasma resistance
+(weight reduction rate %)
+O2 plasma	3.49	0.65	0.66	0.67	0.65	0.69
+CF4 plasma	2.01	0.70	0.66	0.73	0.67	0.58
+
+
+=== TABLE 17 (3 rows) ===
+	TABLE 5
+	
+	Ex.	Com. Ex.
+
+=== TABLE 18 (2 rows) ===
+	16	17	18	19	20	2	3
+
+
+=== TABLE 19 (9 rows) ===
+DAI-EL PERFLO	100	100	100	100	100	100	100
+GA-105
+TAIC	2	2	2	2	2	2	2
+PERHEXA 25B	1	1	1	1	1	1	1
+MT carbon black					15		15
+Polyimide	15	15	15	15		15
+CROMOPHTAL	0.5	1	2	5	2
+Red 2020
+
+
+=== TABLE 20 (3 rows) ===
+	TABLE 6
+	
+	Ex.	Com. Ex.
+
+=== TABLE 21 (2 rows) ===
+Evaluation results	16	17	18	19	20	2	3
+
+
+=== TABLE 22 (20 rows) ===
+Curing properties, 150° C.							
+(JSR Curelastometer II)
+The lowest viscosity (kgf)	0.12	0.12	0.12	0.13	0.09	0.12	0.09
+The highest viscosity (kgf)	5.70	5.70	6.05	6.15	4.57	5.65	4.85
+Induction time (min)	1.3	1.4	1.5	1.7	4.7	1.3	1.4
+Curing time (min)	2.5	2.9	3.1	3.4	4.2	2.2	3.4
+Normal state (JIS No. 6 (ISO No. 2)
+super dumbbell)
+100% tensile at stress (kgf/cm2)	155	155	147	142	104	148	93
+Tensile strength (kgf/cm2)	171	176	170	165	214	158	249
+Elongation (%)	130	130	130	140	170	130	200
+Hardness (SHORE A)	82	81	82	84	82	80	81
+Compression permanent strain rate,
+200° C. (P-24, O-ring)
+70 hours (%)	24	26	25	25	18	23	15
+Plasma resistance
+(weight reduction rate %)
+O2 plasma	2.29	2.15	2.09	2.05	3.32	2.38	3.69
+CF4 plasma	0.19	0.19	0.19	0.19	0.25	0.19	0.27
+
+
+=== TABLE 23 (8 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2003117520		2003-04-22	
+JP2003-117520		2003-04-22	
+JP2003117520		2003-04-22	
+JP2003381323		2003-11-11	
+JP2003381323		2003-11-11	
+JP2003-381323		2003-11-11	
+PCT/JP2004/005688 WO2004094527A1 (en)	2003-04-22	2004-04-21	Fluorine-containing elastomer composition with excellent plasma-aging prevention effect and shaped article made thereof
+
+=== TABLE 24 (3 rows) ===
+Publication Number	Publication Date
+US20060235140A1 US20060235140A1 (en)	2006-10-19
+US7678858B2 true US7678858B2 (en)	2010-03-16
+
+=== TABLE 25 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US10/553,976 Active 2027-02-22 US7678858B2 (en)	2003-04-22	2004-04-21	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+
+=== TABLE 26 (6 rows) ===
+Country	Link
+US (1)	US7678858B2 (en)
+JP (1)	JP4720501B2 (en)
+KR (1)	KR100697171B1 (en)
+TW (1)	TWI335337B (en)
+WO (1)	WO2004094527A1 (en)
+
+=== TABLE 27 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100151254A1 (en) *	2008-12-17	2010-06-17	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer Compositions Including Barium Titanate Fillers
+EP3156448A4 (en) *	2014-09-16	2018-02-07	Daikin Industries, Ltd.	Fluoroelastomer composition and molded article
+US10401338B2 (en)	2014-02-14	2019-09-03	Sakura Color Products Corporation	Plasma processing detection indicator
+US10400125B2 (en)	2014-09-16	2019-09-03	Sakura Color Products Corporation	Ink composition for plasma treatment detection, and plasma treatment detection indicator
+
+=== TABLE 28 (29 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR100697171B1 (en) *	2003-04-22	2007-03-21	다이킨 고교 가부시키가이샤	Fluorine-containing elastomer composition and its molded article excellent in anti-aging effect of plasma
+US7514506B2 (en) *	2004-03-31	2009-04-07	Greene, Tweed Of Delaware, Inc.	Fast curing fluoroelastomeric compositions, adhesive fluoroelastomeric compositions and methods for bonding fluoroelastomeric compositions
+JP4628814B2 (en) *	2005-02-15	2011-02-09	日本バルカー工業株式会社	Sealant for semiconductor manufacturing equipment
+JP5044999B2 (en) *	2005-09-26	2012-10-10	旭硝子株式会社	Perfluoroelastomer composition and perfluororubber molded article
+JP5162818B2 (en) *	2005-11-17	2013-03-13	ユニマテック株式会社	Fluorine-containing copolymer blend
+JP2008001894A (en) *	2006-05-26	2008-01-10	Daikin Ind Ltd	Fluorine-containing elastomer composition excellent in plasma resistance and sealing material comprising the same
+WO2008132959A1 (en) *	2007-04-13	2008-11-06	Asahi Glass Company, Limited	Method for producing fluorine-containing polymer using fluorine-containing carboxylic acid compound
+JP5292815B2 (en) *	2008-01-08	2013-09-18	ユニマテック株式会社	Fluorine-containing elastomer composition
+JP2011086920A (en) *	2009-10-14	2011-04-28	Greene Tweed Of Delaware Inc	Processing apparatus excelling in plasma resistance
+WO2012023485A1 (en) *	2010-08-20	2012-02-23	ダイキン工業株式会社	Fluoroelastomer composition and molded article
+JP5354051B2 (en) *	2012-04-09	2013-11-27	ユニマテック株式会社	Perfluoroelastomer composition
+US10377881B2 (en)	2015-02-20	2019-08-13	Akita University	Composition and molded article
+US10323142B2 (en)	2015-05-29	2019-06-18	3M Innovative Properties Company	Perfluoroelastomeric compositions comprising oxazoles
+EP3378896B1 (en)	2015-11-19	2020-09-30	AGC Inc.	Crosslinkable composition containing fluorinated copolymer, crosslinked product, and sealing material for semiconductor production equipment
+JP6618507B2 (en) *	2016-05-30	2019-12-11	株式会社バルカー	Perfluoroelastomer composition and sealing material
+KR102414805B1 (en)	2016-07-13	2022-06-29	주식회사 발카	Perfluoroelastomer composition and sealing material
+WO2018030427A1 (en)	2016-08-10	2018-02-15	国立大学法人秋田大学	Composition and molded article
+EP3512893B1 (en) *	2016-09-16	2020-08-19	Solvay Specialty Polymers Italy S.p.A.	Fluoropolymer composition comprising a colouring compound
+WO2018105716A1 (en)	2016-12-09	2018-06-14	ダイキン工業株式会社	Polymer, composition, and molded article
+EP4021967B1 (en)	2019-08-27	2023-03-01	3M Innovative Properties Company	Curable fluoropolymer compositions comprising metal fluoride particles and articles therefrom
+KR20230079086A (en)	2020-09-28	2023-06-05	주식회사 발카	Elastomer composition, sealant and manufacturing method of sealant
+US20230365802A1 (en)	2020-09-28	2023-11-16	Valqua, Ltd	Elastomer Composition, Sealing Material, and Method for Producing Sealing Material
+EP4219644B1 (en)	2020-09-28	2025-10-22	VALQUA, Ltd.	Sealing material and method for producing sealing material
+JP7766038B2 (en)	2020-09-28	2025-11-07	株式会社バルカー	Elastomer composition, sealing material and method for producing sealing material
+US20230365800A1 (en)	2020-09-28	2023-11-16	Valqua, Ltd.	Elastomer Composition, Sealing Material, and Method for Producing Sealing Material
+EP4335897A4 (en) *	2021-06-08	2025-05-28	Mitsubishi Cable Industries, Ltd.	Non-crosslinked fluororubber composition, sealing material made therewith, and method for producing the same
+JP2024175146A (en) *	2021-09-14	2024-12-18	ユニマテック株式会社	Fluorine-containing elastomer composition
+WO2024202607A1 (en)	2023-03-30	2024-10-03	株式会社バルカー	Elastomer composition, method for producing elastomer composition, sealing material, and method for producing sealing material
+
+=== TABLE 29 (18 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP0432911A1 (en) *	1989-11-16	1991-06-19	Minnesota Mining And Manufacturing Company	Polymer blend composition
+JPH05279535A (en)	1992-04-01	1993-10-26	Asahi Chem Ind Co Ltd	Vulcanizable fluoroelastomer composition
+JPH073099A (en)	1993-06-16	1995-01-06	Asahi Glass Co Ltd	Fluororubber composition and method for producing vulcanized molded article thereof
+JPH07179704A (en)	1993-12-22	1995-07-18	Asahi Glass Co Ltd	Fluorine rubber composition
+US5541258A (en) *	1991-07-18	1996-07-30	Nippon Zeon Co., Ltd.	Thermoplastic elastomer composition
+US5698363A (en) *	1995-07-10	1997-12-16	Konica Corporation	Image forming method
+US6110549A (en) *	1997-04-30	2000-08-29	Mitsui Chemicals Inc.	Sealant resin composition for use in retort film and sealant film
+JP2000309704A (en)	1999-04-23	2000-11-07	Daikin Ind Ltd	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+US6252001B1 (en) *	1986-09-12	2001-06-26	The Dow Chemical Company	Ethynyl substituted aromatic compounds, synthesis, polymers and uses thereof
+JP2001192643A (en)	2000-01-06	2001-07-17	Mitsubishi Cable Ind Ltd	Seal for semiconductor-manufacturing apparatus
+JP2002161264A (en)	2000-11-24	2002-06-04	Mitsubishi Cable Ind Ltd	Plasma-resistant seal
+JP2003055577A (en)	2001-08-22	2003-02-26	Daikin Ind Ltd	Modified inorganic filler
+WO2004094527A1 (en) *	2003-04-22	2004-11-04	Daikin Industries Ltd.	Fluorine-containing elastomer composition with excellent plasma-aging prevention effect and shaped article made thereof
+US6837918B2 (en) *	2001-12-20	2005-01-04	Aveka, Inc.	Process for the manufacture of nanoparticle organic pigments
+US6870662B2 (en) *	2002-05-03	2005-03-22	Sipix Imaging, Inc.	Methods of surface modification for improving electrophoretic display performance
+US7323515B2 (en) *	2001-11-30	2008-01-29	Jtekt Corporation	Sealing composition and seals made by using the same
+US20080287627A1 (en) *	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+
+=== TABLE 30 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+DE60031148T2 (en) *	1999-08-31	2007-10-25	Daikin Industries, Ltd.	UV-CURABLE POLYMERIC COMPOSITION
+
+=== TABLE 31 (21 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6252001B1 (en) *	1986-09-12	2001-06-26	The Dow Chemical Company	Ethynyl substituted aromatic compounds, synthesis, polymers and uses thereof
+JPH03185042A (en)	1989-11-16	1991-08-13	Minnesota Mining & Mfg Co <3M>	Polymer blend composition
+EP0432911A1 (en) *	1989-11-16	1991-06-19	Minnesota Mining And Manufacturing Company	Polymer blend composition
+US5541258A (en) *	1991-07-18	1996-07-30	Nippon Zeon Co., Ltd.	Thermoplastic elastomer composition
+JPH05279535A (en)	1992-04-01	1993-10-26	Asahi Chem Ind Co Ltd	Vulcanizable fluoroelastomer composition
+JPH073099A (en)	1993-06-16	1995-01-06	Asahi Glass Co Ltd	Fluororubber composition and method for producing vulcanized molded article thereof
+JPH07179704A (en)	1993-12-22	1995-07-18	Asahi Glass Co Ltd	Fluorine rubber composition
+US5698363A (en) *	1995-07-10	1997-12-16	Konica Corporation	Image forming method
+US6110549A (en) *	1997-04-30	2000-08-29	Mitsui Chemicals Inc.	Sealant resin composition for use in retort film and sealant film
+US6642300B1 (en) *	1999-04-23	2003-11-04	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+JP2000309704A (en)	1999-04-23	2000-11-07	Daikin Ind Ltd	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+EP1182230A1 (en) *	1999-04-23	2002-02-27	Daikin Industries, Ltd.	Filler for crosslinkable elastomer and crosslinkable elastomer composition containing the same
+JP2001192643A (en)	2000-01-06	2001-07-17	Mitsubishi Cable Ind Ltd	Seal for semiconductor-manufacturing apparatus
+JP2002161264A (en)	2000-11-24	2002-06-04	Mitsubishi Cable Ind Ltd	Plasma-resistant seal
+JP2003055577A (en)	2001-08-22	2003-02-26	Daikin Ind Ltd	Modified inorganic filler
+US7323515B2 (en) *	2001-11-30	2008-01-29	Jtekt Corporation	Sealing composition and seals made by using the same
+US6837918B2 (en) *	2001-12-20	2005-01-04	Aveka, Inc.	Process for the manufacture of nanoparticle organic pigments
+US6870662B2 (en) *	2002-05-03	2005-03-22	Sipix Imaging, Inc.	Methods of surface modification for improving electrophoretic display performance
+WO2004094527A1 (en) *	2003-04-22	2004-11-04	Daikin Industries Ltd.	Fluorine-containing elastomer composition with excellent plasma-aging prevention effect and shaped article made thereof
+US20080287627A1 (en) *	2007-04-16	2008-11-20	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer compositions and methods of preparing same
+
+=== TABLE 32 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20100151254A1 (en) *	2008-12-17	2010-06-17	Greene, Tweed Of Delaware, Inc.	Perfluoroelastomer Compositions Including Barium Titanate Fillers
+US10401338B2 (en)	2014-02-14	2019-09-03	Sakura Color Products Corporation	Plasma processing detection indicator
+EP3156448A4 (en) *	2014-09-16	2018-02-07	Daikin Industries, Ltd.	Fluoroelastomer composition and molded article
+US10400125B2 (en)	2014-09-16	2019-09-03	Sakura Color Products Corporation	Ink composition for plasma treatment detection, and plasma treatment detection indicator
+
+=== TABLE 33 (9 rows) ===
+Publication number	Publication date
+JP4720501B2 (en)	2011-07-13
+US20060235140A1 (en)	2006-10-19
+TWI335337B (en)	2011-01-01
+TW200427699A (en)	2004-12-16
+JPWO2004094527A1 (en)	2006-07-13
+WO2004094527A1 (en)	2004-11-04
+KR20060015523A (en)	2006-02-17
+KR100697171B1 (en)	2007-03-21
+
+=== TABLE 34 (11 rows) ===
+Publication	Publication Date	Title
+US20060235140A1 (en)	2006-10-19	Fluorine-containing elastomer composition excellent in plasma-aging prevention effect and shaped article made thereof
+JP5487584B2 (en)	2014-05-07	Crosslinkable elastomer composition and molded article comprising the composition
+EP1029875B1 (en)	2004-03-24	Molding material
+US12286523B2 (en)	2025-04-29	Crosslinkable elastomer composition and fluororubber molded article
+KR102101241B1 (en)	2020-04-17	Compositions and molded articles comprising fluorine-containing polymers
+JP4600393B2 (en)	2010-12-15	Fluorine-containing elastomer composition
+JP2008001894A (en)	2008-01-10	Fluorine-containing elastomer composition excellent in plasma resistance and sealing material comprising the same
+JP4086070B2 (en)	2008-05-14	Crosslinkable elastomer composition and molded article comprising the crosslinkable elastomer composition
+CN100352856C (en)	2007-12-05	Fluorine-containing elastomer composition having excellent effect of preventing plasma aging and molded article thereof
+EP3831876B1 (en)	2025-07-16	Composition and molded article containing fluorine-containing polymer
+
+=== TABLE 35 (7 rows) ===
+Date	Code	Title	Description
+2005-10-20	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD.,JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TANAKA, HIROYUKI;FUKUYAMA, KOUJI;NOGUCHI, TSUYOSHI;REEL/FRAME:017887/0114 Effective date: 20050909 Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:TANAKA, HIROYUKI;FUKUYAMA, KOUJI;NOGUCHI, TSUYOSHI;REEL/FRAME:017887/0114 Effective date: 20050909
+2009-12-08	FEPP	Fee payment procedure	Free format text: PAYOR NUMBER ASSIGNED (ORIGINAL EVENT CODE: ASPN); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2010-02-24	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2013-08-21	FPAY	Fee payment	Year of fee payment: 4
+2017-08-31	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552) Year of fee payment: 8
+2021-09-01	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 12

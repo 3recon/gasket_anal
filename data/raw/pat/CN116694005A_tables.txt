@@ -1,0 +1,101 @@
+# CN116694005A :: CN116694005A - High-temperature-resistant perfluoroether rubber composition and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310844028.2A CN116694005B (en)	2023-07-10	2023-07-10	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202310844028.2A CN116694005B (en)	2023-07-10	2023-07-10	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN116694005A true CN116694005A (en)	2023-09-05
+CN116694005B CN116694005B (en)	2024-07-16
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202310844028.2A Active CN116694005B (en)	2023-07-10	2023-07-10	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN116694005B (en)
+
+=== TABLE 5 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN117304625A (en) *	2023-09-19	2023-12-29	上海芯密科技有限公司	A fluorine rubber composition that can effectively reduce adhesion to metal and its preparation method
+CN118006062A (en) *	2024-02-29	2024-05-10	惠州市协同橡塑材料有限公司	A high temperature resistant perfluoroether rubber composition and preparation method thereof
+CN119192756A (en) *	2024-09-23	2024-12-27	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120208830A (en) *	2025-03-27	2025-06-27	四川道弘新材料股份有限公司	A high temperature resistant perfluoroether rubber and its preparation method and use
+CN120484412A (en) *	2025-06-25	2025-08-15	无锡金源半导体科技有限公司	Modified perfluoroether rubber and preparation method and application thereof
+CN120648136A (en) *	2025-06-17	2025-09-16	无锡金源半导体科技有限公司	Sealing composite material and preparation method thereof
+CN120648136B (en) *	2025-06-17	2026-05-19	无锡金源半导体科技有限公司	Sealing composite material and preparation method thereof
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2001164115A (en) *	1999-12-06	2001-06-19	Shin Etsu Chem Co Ltd	Fluoro rubber composition
+CN101307165A (en) *	2007-05-18	2008-11-19	上海道氟化工科技有限公司	Heat resisting fluororubber composition and sulfidization molding products thereof
+CN104356562A (en) *	2013-10-30	2015-02-18	东莞市长安东阳光铝业研发有限公司	Fluororubber rubber compound and preparation method thereof
+WO2023004585A1 (en) *	2021-07-27	2023-02-02	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer composition
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2001164115A (en) *	1999-12-06	2001-06-19	Shin Etsu Chem Co Ltd	Fluoro rubber composition
+CN101307165A (en) *	2007-05-18	2008-11-19	上海道氟化工科技有限公司	Heat resisting fluororubber composition and sulfidization molding products thereof
+CN104356562A (en) *	2013-10-30	2015-02-18	东莞市长安东阳光铝业研发有限公司	Fluororubber rubber compound and preparation method thereof
+WO2023004585A1 (en) *	2021-07-27	2023-02-02	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomer composition
+
+=== TABLE 8 (9 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN117304625A (en) *	2023-09-19	2023-12-29	上海芯密科技有限公司	A fluorine rubber composition that can effectively reduce adhesion to metal and its preparation method
+CN117304625B (en) *	2023-09-19	2024-05-17	上海芯密科技有限公司	Fluororubber composition capable of effectively reducing adhesion with metal and preparation method thereof
+CN118006062A (en) *	2024-02-29	2024-05-10	惠州市协同橡塑材料有限公司	A high temperature resistant perfluoroether rubber composition and preparation method thereof
+CN119192756A (en) *	2024-09-23	2024-12-27	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120208830A (en) *	2025-03-27	2025-06-27	四川道弘新材料股份有限公司	A high temperature resistant perfluoroether rubber and its preparation method and use
+CN120648136A (en) *	2025-06-17	2025-09-16	无锡金源半导体科技有限公司	Sealing composite material and preparation method thereof
+CN120648136B (en) *	2025-06-17	2026-05-19	无锡金源半导体科技有限公司	Sealing composite material and preparation method thereof
+CN120484412A (en) *	2025-06-25	2025-08-15	无锡金源半导体科技有限公司	Modified perfluoroether rubber and preparation method and application thereof
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+CN116694005B (en)	2024-07-16
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN116694005B (en)	2024-07-16	A high temperature resistant perfluoroether rubber composition and its preparation method and application
+CN101514260B (en)	2011-06-29	Silicon rubber composition and preparation method thereof
+JP5700905B2 (en)	2015-04-15	Low scorch polymer composition
+CN106751889A (en)	2017-05-31	A kind of high temperature resistance and high strength rubber composition and preparation method thereof
+JP2008531795A (en)	2008-08-14	Method for preparing a crosslinked polymer
+CN101868499A (en)	2010-10-20	Crosslinkable fluorine-containing elastomer having excellent crosslinkability and process for producing the same
+CN105602078B (en)	2017-11-17	A kind of expansion type flame-retarding eva foam composite and its preparation method and application
+CN111253687A (en)	2020-06-09	A kind of blend rubber of silicone rubber and EPDM rubber and preparation method thereof
+CN117304625B (en)	2024-05-17	Fluororubber composition capable of effectively reducing adhesion with metal and preparation method thereof
+EP4520786A1 (en)	2025-03-12	Semiconductor seal ring rubber material, preparation method therefor, and use thereof
+CN1604938A (en)	2005-04-06	Elastomer formed product
+CN111763357A (en)	2020-10-13	A kind of anti-aging and discoloration cis-butadiene rubber/silicon rubber composite material and preparation method thereof
+EP4001323A1 (en)	2022-05-25	Acrylic rubber sheet having good preservation stability and processability
+CN1516709A (en)	2004-07-28	Polyethylene resin, production method thereof, and blown film comprising the polyethylene resin as a main component
+CN109777010B (en)	2021-03-30	A kind of low pressure variable alloy elastomer seal and preparation method thereof
+CN119192756B (en)	2025-03-21	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN107216658A (en)	2017-09-29	Water-fast silicon rubber and preparation method thereof
+CN112920515A (en)	2021-06-08	Preparation process of EPDM sealing element and product thereof
+CN1876719B (en)	2011-05-18	Silicon rubber mixings composition and method for making same
+CN118638273A (en)	2024-09-13	A modified ethylene propylene diene monomer rubber and its preparation method and application
+CN105175903B (en)	2018-06-26	A kind of modified rubber addition auxiliary agent and preparation method thereof
+CN107216661A (en)	2017-09-29	A kind of ageing-resistant EPT rubber composition and preparation method thereof
+CN103408845B (en)	2016-05-04	A kind of high foamability EPDM foamed material and foam forming method thereof
+CN120648136B (en)	2026-05-19	Sealing composite material and preparation method thereof
+CN117050446B (en)	2024-05-10	High-performance tetrapropylacetonate fluororubber composition and preparation method thereof
+
+=== TABLE 11 (9 rows) ===
+Date	Code	Title	Description
+2023-09-05	PB01	Publication	
+2023-09-05	PB01	Publication	
+2023-09-22	SE01	Entry into force of request for substantive examination	
+2023-09-22	SE01	Entry into force of request for substantive examination	
+2024-07-16	GR01	Patent grant	
+2024-07-16	GR01	Patent grant	
+2025-01-10	CP03	Change of name, title or address	
+2025-01-10	CP03	Change of name, title or address	Address after: South Zone, 1st Floor, Building 13, Lane 2699 Jiangshan Road, Lingang New Area, China (Shanghai) Pilot Free Trade Zone, Pudong New Area, Shanghai, 200131 Patentee after: Shanghai Xinmi Technology Co.,Ltd. Country or region after: China Address before: 200120 South Area, Floor 1, Workshop 13, Lane 2699, Jiangshan Road, Lingang New Area, China (Shanghai) Free Trade Pilot Zone, Pudong New Area, Shanghai Patentee before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China

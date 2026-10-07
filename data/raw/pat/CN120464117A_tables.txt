@@ -1,0 +1,81 @@
+# CN120464117A :: CN120464117A - 
+        A crack-resistant perfluoroether rubber and its preparation method and application
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510653328.1A CN120464117A (en)	2025-05-21	2025-05-21	A crack-resistant perfluoroether rubber and its preparation method and application
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202510653328.1A CN120464117A (en)	2025-05-21	2025-05-21	A crack-resistant perfluoroether rubber and its preparation method and application
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+CN120464117A true CN120464117A (en)	2025-08-12
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202510653328.1A Pending CN120464117A (en)	2025-05-21	2025-05-21	A crack-resistant perfluoroether rubber and its preparation method and application
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN120464117A (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120484412A (en) *	2025-06-25	2025-08-15	无锡金源半导体科技有限公司	Modified perfluoroether rubber and preparation method and application thereof
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20040048983A1 (en) *	2002-09-10	2004-03-11	Hochgesang Paul J.	Fluoroelastomer composition
+US20190309199A1 (en) *	2016-05-30	2019-10-10	Nippon Valqua Industries, Ltd.	Perfluoroelastomer composition and sealing material
+CN116769266A (en) *	2023-07-13	2023-09-19	上海芯密科技有限公司	Semiconductor sealing ring rubber material and preparation method and application thereof
+CN119039757A (en) *	2024-09-19	2024-11-29	四川道弘新材料股份有限公司	Rapid-vulcanization hydrazide-cured perfluoroelastomer composition and preparation method and application thereof
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20040048983A1 (en) *	2002-09-10	2004-03-11	Hochgesang Paul J.	Fluoroelastomer composition
+US20190309199A1 (en) *	2016-05-30	2019-10-10	Nippon Valqua Industries, Ltd.	Perfluoroelastomer composition and sealing material
+CN116769266A (en) *	2023-07-13	2023-09-19	上海芯密科技有限公司	Semiconductor sealing ring rubber material and preparation method and application thereof
+CN119039757A (en) *	2024-09-19	2024-11-29	四川道弘新材料股份有限公司	Rapid-vulcanization hydrazide-cured perfluoroelastomer composition and preparation method and application thereof
+
+=== TABLE 8 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120484412A (en) *	2025-06-25	2025-08-15	无锡金源半导体科技有限公司	Modified perfluoroether rubber and preparation method and application thereof
+
+=== TABLE 9 (26 rows) ===
+Publication	Publication Date	Title
+CN104910632B (en)	2017-10-20	A kind of cryogenic vulcanization heat-conducting silicon rubber and preparation method thereof
+CN106317901B (en)	2019-08-16	A modified nano-composite silica gel sealing ring and its preparation
+CN113652010B (en)	2023-04-21	Silica-filled rubber composite material modified synergistically with terminal functionalized liquid rubber and mercaptosilane coupling agent and its preparation method
+CN119371778A (en)	2025-01-28	A kind of anti-aging electrical epoxy resin and preparation method thereof
+CN108641150A (en)	2018-10-12	A kind of repeatable processing rubber material and preparation method thereof
+CN114395145A (en)	2022-04-26	Preparation method of tannic acid modified GO/polyvinyl alcohol nanocomposite hydrogel
+CN118772666A (en)	2024-10-15	A kind of high dispersibility carbon black and preparation method thereof
+CN119552390A (en)	2025-03-04	A high temperature resistant carbon fiber reinforced phenolic resin composite material and preparation method thereof
+CN111763357B (en)	2023-02-28	A kind of butadiene rubber/silicone rubber composite material anti-aging and discoloration and preparation method thereof
+CN119286150A (en)	2025-01-10	A kind of strong ablation resistant and ceramicized flexible thermal protection material and preparation method thereof
+CN116462891B (en)	2025-09-09	Hindered phenol modified carbon nano tube/isoprene rubber composite material and preparation method thereof
+CN119842342B (en)	2025-10-10	Environment-friendly heat-resistant glue and preparation method thereof
+CN120464116A (en)	2025-08-12	A perfluoroether rubber resistant to strong alkaline solvents and its preparation method and application
+CN119931222A (en)	2025-05-06	High temperature resistant sealing strip for automobile and preparation method thereof
+CN115819984B (en)	2023-09-22	High-resilience fluorosilicone rubber material and preparation method thereof
+CN118852747A (en)	2024-10-29	A method for preparing an aging-resistant high-performance thermally conductive rubber composite material
+CN115874453B (en)	2024-11-08	Composition for phenolic fiber modification, flexible heat insulation material and preparation method
+CN117511012A (en)	2024-02-06	An environmentally friendly rubber composition reinforced with biomass filler and its preparation method
+CN112876778A (en)	2021-06-01	Water gate rubber sealing element with high weather resistance and preparation method thereof
+CN106084340A (en)	2016-11-09	A kind of method preparing the carbon nano-tube filled nitrile rubber of heat oxygen aging resistance
+CN121362414B (en)	2026-03-31	High-performance fluororubber material and preparation method thereof
+CN121108643B (en)	2026-02-27	A water-resistant rubber sealing strip for automobiles and its preparation method
+CN120944261B (en)	2026-01-23	A fluororubber-aramid fiber composite material and its preparation method
+CN120310176B (en)	2026-03-03	Wide-temperature-range anti-gas explosion hydrogenated nitrile rubber sealing material and preparation method thereof
+CN115895175B (en)	2025-10-10	Rubber adhesive, rubber composition and non-tire rubber product
+
+=== TABLE 10 (5 rows) ===
+Date	Code	Title	Description
+2025-08-12	PB01	Publication	
+2025-08-12	PB01	Publication	
+2025-08-29	SE01	Entry into force of request for substantive examination	
+2025-08-29	SE01	Entry into force of request for substantive examination	

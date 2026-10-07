@@ -1,0 +1,75 @@
+# KR20130014651A :: KR20130014651A - Composite of fkm rubber 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020110074646A KR20130014651A (en)	2011-07-27	2011-07-27	Composite of fkm rubber
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020110074646A KR20130014651A (en)	2011-07-27	2011-07-27	Composite of fkm rubber
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR20130014651A true KR20130014651A (en)	2013-02-08
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020110074646A Ceased KR20130014651A (en)	2011-07-27	2011-07-27	Composite of fkm rubber
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR20130014651A (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20210025511A (en)	2020-12-21	2021-03-09	셰플러코리아 유한책임회사	A FKM Compound Having Improved Wear Resistance For Seal
+
+=== TABLE 6 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20210025511A (en)	2020-12-21	2021-03-09	셰플러코리아 유한책임회사	A FKM Compound Having Improved Wear Resistance For Seal
+
+=== TABLE 7 (26 rows) ===
+Publication	Publication Date	Title
+KR101522262B1 (en)	2015-05-21	Lip seal for water pump
+KR102015862B1 (en)	2019-08-29	Fluororubber composition
+JP6183447B2 (en)	2017-08-23	Lip seal for water pump
+US9322476B2 (en)	2016-04-26	Vehicle engine oil seal
+KR20180097627A (en)	2018-08-31	Fluororubber composition
+JPWO2011102296A1 (en)	2013-06-17	Fluoro rubber metal laminate
+US20120299251A1 (en)	2012-11-29	Vehicle transmission oil seal
+JP7447687B2 (en)	2024-03-12	Sealing member
+JP6451626B2 (en)	2019-01-16	Fluoro rubber composition
+JP5294551B2 (en)	2013-09-18	Oil seal for both forward and reverse rotation
+KR20090132269A (en)	2009-12-30	Seal rubber composition for gas lift with improved friction and abrasion resistance
+JP2007039557A5 (en)	2008-08-07	
+JP4617974B2 (en)	2011-01-26	Grease seal
+KR20110047471A (en)	2011-05-09	Rubber composition for sealing member and rubber composition for valve stem sealing member applied to vehicle
+KR20110021251A (en)	2011-03-04	Oil seal composition and oil seals thereof
+KR101423490B1 (en)	2014-07-25	Rubber composite for piston seal
+KR102825710B1 (en)	2025-06-27	Rubber-based elastic material for preventing pipe leakage with excellent tensile modulus and compressive strain and method for manufacturing the same
+WO2016171183A1 (en)	2016-10-27	Fluororubber composition
+JP2021178907A (en)	2021-11-18	Seal member
+KR101953265B1 (en)	2019-02-28	Rubber composite for bearing seal
+KR20210025511A (en)	2021-03-09	A FKM Compound Having Improved Wear Resistance For Seal
+JP2010126720A (en)	2010-06-10	Fluororubber composition
+EP4711414A1 (en)	2026-03-18	Fluororubber composition
+US8841370B1 (en)	2014-09-23	Wear-resistant rubber based on propylene oxide rubber and ultrafine polytetrafluoroethylene
+CN118185205A (en)	2024-06-14	A fluororubber seal resistant to high temperature and synthetic ester lubricating oil
+
+=== TABLE 8 (15 rows) ===
+Date	Code	Title	Description
+2011-07-27	A201	Request for examination	
+2011-07-27	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2011-07-27	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2012-04-26	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2012-05-22	D14-X000	Search report completed	St.27 status event code: A-1-2-D10-D14-srh-X000
+2012-11-22	E902	Notification of reason for refusal	
+2012-11-22	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2013-01-25	E601	Decision to refuse application	
+2013-01-25	PE0601	Decision on rejection of patent	St.27 status event code: N-2-6-B10-B15-exm-PE0601
+2013-02-08	PG1501	Laying open of application	St.27 status event code: A-1-1-Q10-Q12-nap-PG1501
+2016-09-01	P22-X000	Classification modified	St.27 status event code: A-2-2-P10-P22-nap-X000
+2019-07-11	P22-X000	Classification modified	St.27 status event code: A-2-2-P10-P22-nap-X000
+2026-03-27	R18	Changes to party contact information recorded	Free format text: ST27 STATUS EVENT CODE: A-3-3-R10-R18-OTH-X000 (AS PROVIDED BY THE NATIONAL OFFICE)
+2026-03-27	R18-X000	Changes to party contact information recorded	St.27 status event code: A-3-3-R10-R18-oth-X000

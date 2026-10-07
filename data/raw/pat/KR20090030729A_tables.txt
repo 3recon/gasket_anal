@@ -1,0 +1,117 @@
+# KR20090030729A :: KR20090030729A - 
+        Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020070096222A KR100907491B1 (en)	2007-09-21	2007-09-21	Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020070096222A KR100907491B1 (en)	2007-09-21	2007-09-21	Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+KR20090030729A true KR20090030729A (en)	2009-03-25
+KR100907491B1 KR100907491B1 (en)	2009-07-10
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020070096222A Active KR100907491B1 (en)	2007-09-21	2007-09-21	Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR100907491B1 (en)
+
+=== TABLE 5 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP2670797B1 (en)	2011-01-31	2015-03-18	United Initiators GmbH & Co. KG	Peroxide mixtures for the accelerated cure of ethylene-vinyl acetate
+KR101504725B1 (en) *	2014-06-23	2015-03-24	주식회사 씰테크	Sealing material for reaction chamber preparing semiconductor wafer and sealing material using the same
+
+=== TABLE 6 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US6635717B1 (en) *	1997-11-06	2003-10-21	Daikin Industries, Ltd.	Molding material
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+EP2670797B1 (en)	2011-01-31	2015-03-18	United Initiators GmbH & Co. KG	Peroxide mixtures for the accelerated cure of ethylene-vinyl acetate
+US9382405B2 (en)	2011-01-31	2016-07-05	United Initiators Gmbh & Co. Kg	Peroxide blends for cross-linking ethylene vinyl acetate in an accelerated manner
+EP2670797B2 (en) †	2011-01-31	2018-09-12	United Initiators GmbH	Peroxide mixtures for the accelerated cure of ethylene-vinyl acetate
+KR101504725B1 (en) *	2014-06-23	2015-03-24	주식회사 씰테크	Sealing material for reaction chamber preparing semiconductor wafer and sealing material using the same
+
+=== TABLE 8 (2 rows) ===
+Publication number	Publication date
+KR100907491B1 (en)	2009-07-10
+
+=== TABLE 9 (26 rows) ===
+Publication	Publication Date	Title
+CN105849180B (en)	2018-09-21	Fluorine rubber composition, crosslinked rubber molded article, and method for producing the same
+US9815972B2 (en)	2017-11-14	Fluoro-rubber composition and cross-linked rubber article using same
+TWI406897B (en)	2013-09-01	Fluorine-containing rubber composition capable of forming a crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+EP2718338B1 (en)	2017-10-25	Hyperbranched fluoroelastomer additive
+KR102342909B1 (en)	2021-12-23	Perfluoroelastomer composition and sealing material
+KR102445981B1 (en)	2022-09-21	Fluororubber composition and fluororubber crosslinked article
+WO2015098337A1 (en)	2015-07-02	Perfluoroelastomer composition, sealing material and method for producing same
+KR102414805B1 (en)	2022-06-29	Perfluoroelastomer composition and sealing material
+EP3013873A1 (en)	2016-05-04	Fluoroelastomers
+EP3006491A1 (en)	2016-04-13	Low smoke, flexible insulation foam
+WO2015014698A1 (en)	2015-02-05	Fluorine-containing thermoplastic elastomer composition
+KR100907491B1 (en)	2009-07-10	Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+JPH03172352A (en)	1991-07-25	Polyphenylene sulfide resin composition and its production
+KR100870494B1 (en)	2008-11-26	Fluorine rubber with improved chemical resistance
+KR100899134B1 (en)	2009-05-25	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+KR100837122B1 (en)	2008-06-11	Fluorine rubber with improved heat resistance used in semiconductor sealing and its manufacturing method
+KR102354539B1 (en)	2022-01-21	Perfluoroelastomer composition and sealing material
+KR102323568B1 (en)	2021-11-05	Perfluoro elastomer composite with improved heat resistance, and method of fabricating the same
+EP2596057B1 (en)	2014-03-19	Fluoroelastomer composition
+CN110511512A (en)	2019-11-29	A New Anti-aging Flame Retardant Cable Material
+JP2005239835A (en)	2005-09-08	Crosslinkable fluororubber composition
+KR102713660B1 (en)	2024-10-07	Perfluoro elastomer and fluororubber composite with improved heat resistance
+KR20250051188A (en)	2025-04-17	Perfluoro elastomer and fluororubber composite with improved heat resistance
+KR100894110B1 (en)	2009-04-20	Perfluoro rubbers for semiconductor sealing with improved elongation
+KR20200073070A (en)	2020-06-23	Rubber composition of oil seal for cooling water opener of fuel cell vehicle
+
+=== TABLE 10 (42 rows) ===
+Date	Code	Title	Description
+2007-09-21	A201	Request for examination	
+2007-09-21	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2007-09-21	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2009-01-30	E902	Notification of reason for refusal	
+2009-01-30	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2009-03-25	E13-X000	Pre-grant limitation requested	St.27 status event code: A-2-3-E10-E13-lim-X000
+2009-03-25	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2009-03-25	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2009-03-25	PG1501	Laying open of application	St.27 status event code: A-1-1-Q10-Q12-nap-PG1501
+2009-06-30	E701	Decision to grant or registration of patent right	
+2009-06-30	PE0701	Decision of registration	St.27 status event code: A-1-2-D10-D22-exm-PE0701
+2009-07-06	GRNT	Written decision to grant	
+2009-07-06	PR0701	Registration of establishment	St.27 status event code: A-2-4-F10-F11-exm-PR0701
+2009-07-06	PR1002	Payment of registration fee	St.27 status event code: A-2-2-U10-U11-oth-PR1002 Fee payment year number: 1
+2009-07-10	PG1601	Publication of registration	St.27 status event code: A-4-4-Q10-Q13-nap-PG1601
+2012-05-14	FPAY	Annual fee payment	Payment date: 20120514 Year of fee payment: 4
+2012-05-14	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 4
+2013-07-08	FPAY	Annual fee payment	Payment date: 20130708 Year of fee payment: 5
+2013-07-08	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 5
+2014-06-11	PN2301	Change of applicant	St.27 status event code: A-5-5-R10-R13-asn-PN2301 St.27 status event code: A-5-5-R10-R11-asn-PN2301
+2014-06-19	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2014-08-29	FPAY	Annual fee payment	Payment date: 20140829 Year of fee payment: 6
+2014-08-29	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 6
+2015-07-06	FPAY	Annual fee payment	Payment date: 20150706 Year of fee payment: 7
+2015-07-06	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 7
+2016-05-25	FPAY	Annual fee payment	Payment date: 20160525 Year of fee payment: 8
+2016-05-25	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 8
+2017-05-28	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000
+2017-07-06	FPAY	Annual fee payment	Payment date: 20170706 Year of fee payment: 9
+2017-07-06	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 9
+2018-07-06	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 10
+2019-07-08	FPAY	Annual fee payment	Payment date: 20190708 Year of fee payment: 11
+2019-07-08	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 11
+2020-07-06	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 12
+2021-07-06	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 13
+2022-05-27	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2022-07-06	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 14
+2023-07-03	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 15
+2024-07-01	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 16
+2025-05-22	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 17
+2026-01-06	P22-X000	Classification modified	St.27 status event code: A-4-4-P10-P22-nap-X000

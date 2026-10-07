@@ -1,0 +1,12 @@
+# dependencies / caches
+build/node_modules/
+__pycache__/
+*.pyc
+
+# cached Google Patents pages (re-downloadable with tools/patent_tables.py);
+# the extracted tables (*_tables.txt) are kept for traceability
+data/raw/pat/*.html
+
+# Office lock / temp files
+~$*
+*.tmp

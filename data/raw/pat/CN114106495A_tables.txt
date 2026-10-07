@@ -1,0 +1,131 @@
+# CN114106495A :: CN114106495A - Modified perfluoroether fluororubber and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (7 rows) ===
+Composition or procedure	Parameter(s)
+Raw rubber	100 portions of
+75 percent of double-five vulcanizing agent	4 portions of
+TAIC	3 portions of
+N990	20 portions of
+One stage vulcanization	170℃×10min
+Two stage vulcanization	232℃×4h
+
+=== TABLE 1 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202010882711.1A CN114106495A (en)	2020-08-28	2020-08-28	Modified perfluoroether fluororubber and preparation method and application thereof
+EP21859950.4A EP4206279A4 (en)	2020-08-28	2021-07-14	FLUORINATED RUBBER BASED ON MODIFIED PERFLUORINATED ETHER, RELATED PREPARATION METHOD AND ITS APPLICATION
+PCT/CN2021/106246 WO2022042110A1 (en)	2020-08-28	2021-07-14	Modified perfluoroether fluororubber, preparation method therefor, and application thereof
+
+=== TABLE 2 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202010882711.1A CN114106495A (en)	2020-08-28	2020-08-28	Modified perfluoroether fluororubber and preparation method and application thereof
+
+=== TABLE 3 (2 rows) ===
+Publication Number	Publication Date
+CN114106495A true CN114106495A (en)	2022-03-01
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202010882711.1A Pending CN114106495A (en)	2020-08-28	2020-08-28	Modified perfluoroether fluororubber and preparation method and application thereof
+
+=== TABLE 5 (4 rows) ===
+Country	Link
+EP (1)	EP4206279A4 (en)
+CN (1)	CN114106495A (en)
+WO (1)	WO2022042110A1 (en)
+
+=== TABLE 6 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN115466344A (en) *	2022-09-21	2022-12-13	四川道弘新材料有限公司	Transparent peroxide fluororubber intelligent wearing material and preparation method thereof
+CN116574467A (en) *	2023-07-13	2023-08-11	上海森桓新材料科技有限公司	A crystal point-free perfluoroether elastomer composition and preparation method thereof
+CN117070043A (en) *	2023-10-12	2023-11-17	上海森桓新材料科技有限公司	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+CN117362873A (en) *	2023-09-06	2024-01-09	上海森桓新材料科技有限公司	Preparation method of perfluoroether elastomer composition
+CN120607779A (en) *	2025-06-25	2025-09-09	无锡金源半导体科技有限公司	A perfluoroether rubber composite material and preparation method thereof
+CN121045718A (en) *	2025-08-19	2025-12-02	青岛贝斯兰半导体科技有限公司	A modified PTFE material, its preparation method, and its application in a windshield pump.
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN116769266B (en) *	2023-07-13	2024-01-23	上海芯密科技有限公司	Semiconductor sealing ring rubber material and its preparation method and application
+CN117645683B (en) *	2024-01-29	2024-04-12	上海森桓新材料科技有限公司	Method for drying and devolatilizing perfluoroether elastomer and method for producing perfluoroether elastomer composition
+CN119613897B (en) *	2024-12-18	2025-08-12	福建永泓高新材料有限公司	A low-temperature resistant perfluoroether rubber and its preparation method
+CN121673462B (en) *	2026-02-12	2026-04-21	江苏科润膜材料有限公司	A method for preparing perfluoroether rubber
+
+=== TABLE 8 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN1373792A (en) *	1999-09-30	2002-10-09	大金工业株式会社	Transparent elastomer composition
+WO2013097477A1 (en) *	2011-12-29	2013-07-04	中昊晨光化工研究院有限公司	Low-temperature-resistant fluorine-containing elastomer and preparation method therefor
+CN106674840A (en) *	2016-12-30	2017-05-17	安徽京鸿密封件技术有限公司	Engine crankshaft oil seal and preparation method thereof
+
+=== TABLE 9 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO1997008239A1 (en) *	1995-08-30	1997-03-06	Morisei Kako Co., Ltd.	Sealing composition and sealant
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+US5877264A (en)	1996-11-25	1999-03-02	E. I. Du Pont De Nemours And Company	Fast-curing perfluoroelastomer composition
+US6703461B1 (en) *	1998-03-25	2004-03-09	Daikin Industries, Ltd.	Method of reducing metal content in fluoroelastomer
+US20060270780A1 (en) *	2005-05-25	2006-11-30	Ping Xu	High purity perfluoroelastomer composites and a processes to produce the same
+US20110269909A1 (en)	2010-04-29	2011-11-03	E.I. Du Pont De Nemours And Company	Manufacture of perfluoroelastomer compounds containing fibrillating ptfe
+CN108401544B (en) *	2015-02-12	2016-07-13	四川省众望科希盟科技有限公司	The preparation method of the fluorine-containing varicosity gasket of space flight and aviation
+CN105820480A (en)	2016-06-07	2016-08-03	宁波千汇汽车饰件有限公司	High-temperature-resisting fluororubber and preparation method thereof
+CN110713564A (en)	2018-07-12	2020-01-21	中昊晨光化工研究院有限公司	A kind of synthesis method of wide temperature range perfluoroether rubber and perfluoroether rubber
+
+=== TABLE 10 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN1373792A (en) *	1999-09-30	2002-10-09	大金工业株式会社	Transparent elastomer composition
+WO2013097477A1 (en) *	2011-12-29	2013-07-04	中昊晨光化工研究院有限公司	Low-temperature-resistant fluorine-containing elastomer and preparation method therefor
+CN106674840A (en) *	2016-12-30	2017-05-17	安徽京鸿密封件技术有限公司	Engine crankshaft oil seal and preparation method thereof
+
+=== TABLE 11 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN115466344A (en) *	2022-09-21	2022-12-13	四川道弘新材料有限公司	Transparent peroxide fluororubber intelligent wearing material and preparation method thereof
+CN115466344B (en) *	2022-09-21	2023-12-12	四川道弘新材料有限公司	Transparent peroxyfluororubber intelligent wearing material and preparation method thereof
+CN116574467A (en) *	2023-07-13	2023-08-11	上海森桓新材料科技有限公司	A crystal point-free perfluoroether elastomer composition and preparation method thereof
+CN116574467B (en) *	2023-07-13	2023-09-22	上海森桓新材料科技有限公司	A crystal-free perfluoroether elastomer composition and its preparation method
+WO2025010963A1 (en) *	2023-07-13	2025-01-16	上海森桓新材料科技有限公司	"fisheye"-free perfluoropolyether elastomer composition and preparation method therefor
+CN117362873A (en) *	2023-09-06	2024-01-09	上海森桓新材料科技有限公司	Preparation method of perfluoroether elastomer composition
+CN117070043A (en) *	2023-10-12	2023-11-17	上海森桓新材料科技有限公司	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+CN117070043B (en) *	2023-10-12	2024-01-02	上海森桓新材料科技有限公司	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+CN120607779A (en) *	2025-06-25	2025-09-09	无锡金源半导体科技有限公司	A perfluoroether rubber composite material and preparation method thereof
+CN121045718A (en) *	2025-08-19	2025-12-02	青岛贝斯兰半导体科技有限公司	A modified PTFE material, its preparation method, and its application in a windshield pump.
+
+=== TABLE 12 (4 rows) ===
+Publication number	Publication date
+EP4206279A4 (en)	2024-02-28
+EP4206279A1 (en)	2023-07-05
+WO2022042110A1 (en)	2022-03-03
+
+=== TABLE 13 (26 rows) ===
+Publication	Publication Date	Title
+WO2022042110A1 (en)	2022-03-03	Modified perfluoroether fluororubber, preparation method therefor, and application thereof
+CN110903428B (en)	2021-10-22	A kind of low temperature resistant fluoroether rubber and its preparation method and application
+CN110078857B (en)	2021-10-12	Preparation method of raw fluororubber
+CN102786700B (en)	2013-12-11	Preparation method of alkali-proof vulcanized fluororubber
+CN117070043B (en)	2024-01-02	Low-temperature-resistant perfluoroether elastomer composition and preparation method thereof
+CN110713564A (en)	2020-01-21	A kind of synthesis method of wide temperature range perfluoroether rubber and perfluoroether rubber
+TWI813924B (en)	2023-09-01	Fluorinated elastic copolymer and its production method
+CN110684141A (en)	2020-01-14	Peroxide vulcanized fluororubber with low Mooney viscosity and high fluorine content
+CN107868163A (en)	2018-04-03	A kind of low temperature resistant perfluoroether elastomer and preparation method thereof
+TWI751348B (en)	2022-01-01	Fluorinated elastic copolymer and its manufacturing method, fluorinated elastic copolymer composition and crosslinked rubber article
+CN104558364B (en)	2017-05-03	Fluoroelastomer and preparation method thereof
+EP4635995A1 (en)	2025-10-22	High-temperature-resistant perfluoroether fluororubber and preparation method therefor
+CN107814863A (en)	2018-03-20	A kind of preparation method of low temperature resistant fluorine-containing rubber
+CN114230737B (en)	2023-08-01	A kind of perfluoroether fluororubber and its preparation method and application
+CN108017746A (en)	2018-05-11	A kind of peroxide cure fluorubber of low compression set and preparation method thereof
+CN119505065A (en)	2025-02-25	A cross-linkable perfluoroelastomer and its preparation method and application
+CN115725016B (en)	2024-05-14	Ether modified fluororubber and preparation method thereof
+CN110760026B (en)	2021-06-22	Synthesis method of tetrafluoroethylene-propylene rubber and tetrafluoroethylene-propylene rubber thereof
+CN116162199B (en)	2024-09-27	A kind of fluororubber raw rubber and preparation method thereof
+CN116143967B (en)	2024-05-14	Fluoroelastomer for lithium battery sealing and preparation method thereof
+CN117946316A (en)	2024-04-30	A kind of perfluoroether rubber and preparation method thereof
+CN114106496B (en)	2023-04-28	Rubber material and preparation method and application thereof
+TWI854052B (en)	2024-09-01	Fluorinated copolymer compositions and cross-linked rubber articles
+CN113736003A (en)	2021-12-03	Method for modifying polytetrafluoroethylene resin by perfluorovinyl ethers
+CN119930896A (en)	2025-05-06	A kind of perfluoroether fluororubber and its preparation method and application
+
+=== TABLE 14 (7 rows) ===
+Date	Code	Title	Description
+2022-03-01	PB01	Publication	
+2022-03-01	PB01	Publication	
+2022-03-18	SE01	Entry into force of request for substantive examination	
+2022-03-18	SE01	Entry into force of request for substantive examination	
+2023-12-19	RJ01	Rejection of invention patent application after publication	Application publication date: 20220301
+2023-12-19	RJ01	Rejection of invention patent application after publication	

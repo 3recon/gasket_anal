@@ -1,0 +1,90 @@
+# KR20250051188A :: KR20250051188A - Perfluoro elastomer and fluororubber composite with improved heat resistance 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020230133950A KR102925968B1 (en)	2023-10-10	2023-10-10	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020230133950A KR102925968B1 (en)	2023-10-10	2023-10-10	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+KR20250051188A true KR20250051188A (en)	2025-04-17
+KR102925968B1 KR102925968B1 (en)	2026-02-11
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020230133950A Active KR102925968B1 (en)	2023-10-10	2023-10-10	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR102925968B1 (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120865661A (en) *	2025-09-26	2025-10-31	上海熹贾精密技术有限公司	Sealing material of perfluoro ether rubber and preparation method thereof
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR102467058B1 (en)	2021-03-30	2022-11-14	(주)디엔테크	Fluoro rubber composition for o-ring with excellent low compression set at high temperature
+KR20240098438A (en) *	2022-12-21	2024-06-28	한성테크 주식회사	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 7 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR102467058B1 (en)	2021-03-30	2022-11-14	(주)디엔테크	Fluoro rubber composition for o-ring with excellent low compression set at high temperature
+KR20240098438A (en) *	2022-12-21	2024-06-28	한성테크 주식회사	Perfluoro elastomer and fluororubber composite with improved heat resistance
+
+=== TABLE 8 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN120865661A (en) *	2025-09-26	2025-10-31	上海熹贾精密技术有限公司	Sealing material of perfluoro ether rubber and preparation method thereof
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+KR102925968B1 (en)	2026-02-11
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+TWI328021B (en)	2010-08-01	
+JP7265197B2 (en)	2023-04-26	Fluorine-containing elastomer composition and article
+CN101942162B (en)	2014-12-10	Modified fluorocarbon resin composition and molded products
+CN101977981B (en)	2013-08-14	Fluororubber composition capable of forming crack-resistant sealing material and crack-resistant sealing material obtained from the composition
+CN118344739B (en)	2024-08-23	Oil-resistant heat-resistant sealing material and preparation method and application thereof
+KR102925968B1 (en)	2026-02-11	Perfluoro elastomer and fluororubber composite with improved heat resistance
+KR102713660B1 (en)	2024-10-07	Perfluoro elastomer and fluororubber composite with improved heat resistance
+JP2021105179A (en)	2021-07-26	Uncrosslinked rubber composition, rubber product produced using the same, and method for producing the same
+KR102237195B1 (en)	2021-04-07	A rubber blend composition having improved freezing resistance and a method for preparing thereof
+CN100366681C (en)	2008-02-06	Crosslinkable elastomer composition and molded article formed from the crosslinkable elastomer composition
+KR102467058B1 (en)	2022-11-14	Fluoro rubber composition for o-ring with excellent low compression set at high temperature
+EP3228663A1 (en)	2017-10-11	Fluorine rubber composition and cross-linked fluorine rubber
+CN118834484A (en)	2024-10-25	Perfluoroether rubber composition, perfluoroether rubber, and preparation method and application thereof
+KR102323568B1 (en)	2021-11-05	Perfluoro elastomer composite with improved heat resistance, and method of fabricating the same
+KR102959972B1 (en)	2026-05-08	Oil seal including synthetic rubber with improved resistance for heat
+KR20250140194A (en)	2025-09-25	Oil seal including synthetic rubber with improved resistance for heat
+JP6881541B2 (en)	2021-06-02	Compositions and crosslinked products containing fluoropolymers
+KR100899134B1 (en)	2009-05-25	Perfluorinated rubber with improved plasma (PLASA) resistance and manufacturing method thereof
+KR101792329B1 (en)	2017-11-20	Rubber composition for sealing material composing silica, carbonblack, and method thereof
+KR102923956B1 (en)	2026-02-09	Sealing member for hydrogen filling including O-ring with improved freezing resistance
+KR102951730B1 (en)	2026-04-13	O-ring for receptacles with improved freezing resistance
+CN114230950B (en)	2023-04-14	A semiconductor device seal and its preparation method
+KR100907491B1 (en)	2009-07-10	Fluorine rubber for sealing semiconductor equipment with improved heat resistance
+JP2015013972A (en)	2015-01-22	Composition for fluorine-containing rubber-based seal material and fluorine-containing rubber-based seal material
+KR102805771B1 (en)	2025-05-13	Rubber composition for gaskets used in electric compressors
+
+=== TABLE 11 (15 rows) ===
+Date	Code	Title	Description
+2023-10-10	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2023-10-10	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2024-12-08	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2025-04-17	PG1501	Laying open of application	St.27 status event code: A-1-1-Q10-Q12-nap-PG1501
+2025-06-20	E902	Notification of reason for refusal	
+2025-06-20	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2025-08-13	E13	Pre-grant limitation requested	Free format text: ST27 STATUS EVENT CODE: A-2-3-E10-E13-LIM-X000 (AS PROVIDED BY THE NATIONAL OFFICE)
+2025-08-13	E13-X000	Pre-grant limitation requested	St.27 status event code: A-2-3-E10-E13-lim-X000
+2025-08-13	P11	Amendment of application requested	Free format text: ST27 STATUS EVENT CODE: A-2-2-P10-P11-NAP-X000 (AS PROVIDED BY THE NATIONAL OFFICE)
+2025-08-13	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2026-02-04	D22	Grant of ip right intended	Free format text: ST27 STATUS EVENT CODE: A-1-2-D10-D22-EXM-PE0701 (AS PROVIDED BY THE NATIONAL OFFICE)
+2026-02-04	PE0701	Decision of registration	St.27 status event code: A-1-2-D10-D22-exm-PE0701
+2026-02-11	PG1601	Publication of registration	St.27 status event code: A-4-4-Q10-Q13-nap-PG1601
+2026-02-11	Q13	Ip right document published	Free format text: ST27 STATUS EVENT CODE: A-4-4-Q10-Q13-NAP-PG1601 (AS PROVIDED BY THE NATIONAL OFFICE)

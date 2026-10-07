@@ -1,0 +1,73 @@
+# KR20070005865A :: KR20070005865A - 
+        Perfluoroelastomer composition with helium substituents and O-rings produced thereby
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020050060917A KR20070005865A (en)	2005-07-06	2005-07-06	Perfluoroelastomer composition with helium substituents and O-rings produced thereby
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020050060917A KR20070005865A (en)	2005-07-06	2005-07-06	Perfluoroelastomer composition with helium substituents and O-rings produced thereby
+
+=== TABLE 2 (2 rows) ===
+Publication Number	Publication Date
+KR20070005865A true KR20070005865A (en)	2007-01-10
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020050060917A Withdrawn KR20070005865A (en)	2005-07-06	2005-07-06	Perfluoroelastomer composition with helium substituents and O-rings produced thereby
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR20070005865A (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2008130872A3 (en) *	2007-04-16	2008-12-24	3M Innovative Properties Co	Perfluoroelastomer composition and sealing material
+
+=== TABLE 6 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2008130872A3 (en) *	2007-04-16	2008-12-24	3M Innovative Properties Co	Perfluoroelastomer composition and sealing material
+US8013064B2 (en)	2007-04-16	2011-09-06	3M Innovative Properties Company	Perfluoroelastomer composition and sealing material
+
+=== TABLE 7 (26 rows) ===
+Publication	Publication Date	Title
+JP5084617B2 (en)	2012-11-28	Low tightening metal gasket
+CN101230247B (en)	2013-06-19	Rubber/resin composite seal material
+CN102197249B (en)	2015-04-01	Seal
+JPH08227876A (en)	1996-09-03	Protective collar for vacuum seal in plasma etching reactor
+JP2009527712A (en)	2009-07-30	sticker
+CN217328438U (en)	2022-08-30	Sealing structure and etching device
+KR20230026473A (en)	2023-02-24	porous plug bonding
+Wang et al.	2003	Perfluoroelastomer and fluoroelastomer seals for semiconductor wafer processing equipment
+TWI376407B (en)	2012-11-11	Sealing material, parts for plasma-treating equipment having said sealing material and production method of said sealing material
+TW202338057A (en)	2023-10-01	Annular laminate, seal material, and manufacturing method
+JP6424124B2 (en)	2018-11-14	Metal seal
+KR20190002965A (en)	2019-01-09	Substrate processing chamber and the methode for treating substrate using the chamber
+KR101955398B1 (en)	2019-03-19	Pipe of installation for manufacturing semiconductor having improved airtightness and vibration dampering function
+KR20000057983A (en)	2000-09-25	Valve seal
+KR20230128042A (en)	2023-09-01	gasket
+US20110031702A1 (en)	2011-02-10	Polyimide resin gaskets for diss outlet valves
+KR102865748B1 (en)	2025-09-29	Manufacturing method for cryogenic e-band of semiconductor etching device
+KR101343112B1 (en)	2013-12-20	butterfly Valve Using tefron
+JP2006064030A (en)	2006-03-09	Seal member
+US20180019104A1 (en)	2018-01-18	Substrate processing chamber component assembly with plasma resistant seal
+KR102924002B1 (en)	2026-02-09	Substrate processing apparatus
+JP2002241736A (en)	2002-08-28	Seal material
+JP3210423U (en)	2017-05-25	Substrate processing chamber component assembly having a plasma resistant seal
+CN216980509U (en)	2022-07-15	Substrate processing apparatus
+US20250183093A1 (en)	2025-06-05	Hybrid seal for semiconductor processing chambers
+
+=== TABLE 8 (10 rows) ===
+Date	Code	Title	Description
+2005-07-06	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2005-07-15	PN2301	Change of applicant	St.27 status event code: A-3-3-R10-R13-asn-PN2301 St.27 status event code: A-3-3-R10-R11-asn-PN2301
+2005-08-02	PN2301	Change of applicant	St.27 status event code: A-3-3-R10-R13-asn-PN2301 St.27 status event code: A-3-3-R10-R11-asn-PN2301
+2007-01-10	PG1501	Laying open of application	St.27 status event code: A-1-1-Q10-Q12-nap-PG1501
+2010-08-07	PC1203	Withdrawal of no request for examination	St.27 status event code: N-1-6-B10-B12-nap-PC1203
+2010-08-07	WITN	Application deemed withdrawn, e.g. because no request for examination was filed or no examination fee was paid	
+2012-06-21	R18-X000	Changes to party contact information recorded	St.27 status event code: A-3-3-R10-R18-oth-X000
+2016-12-19	P22-X000	Classification modified	St.27 status event code: A-2-2-P10-P22-nap-X000
+2026-01-06	P22-X000	Classification modified	St.27 status event code: A-2-2-P10-P22-nap-X000

@@ -1,0 +1,195 @@
+# US8044132B2 :: US8044132B2 - Fluorine-containing elastomer composition 
+        - Google Patents
+
+=== TABLE 0 (5 rows) ===
+
+	Tetrafluoroethylene	68.4 mol. %
+	Perfluoro(methyl vinyl ether)	30.5 mol. %
+	Perfluoro(2-cyano-3,7-dioxa-8-nonene)	1.1 mol. %
+
+
+=== TABLE 1 (4 rows) ===
+
+	Parts by weight
+
+
+
+=== TABLE 2 (4 rows) ===
+2,2-bis(3-amino-4-hydroxyphenyl)hexafluoropropane	1.4
+Spherical silica (SO-E2; a product of Admatechs Co.,	30
+particle sizes: 0.4-0.6 μm),
+
+
+=== TABLE 3 (5 rows) ===
+
+	Tetrafluoroethylene	71.5 mol. %
+	Perfluoro(methyl vinyl ether)	27.7 mol. %
+	Perfluoro(1-cyano-6-oxa-7-octene)	0.8 mol. %,
+
+
+=== TABLE 4 (5 rows) ===
+
+	Tetrafluoroethylene	69.0 mol. %
+	Perfluoro(methoxypropyl vinyl ether)	30.0 mol. %
+	Perfluoro(2-cyano-3,7-dioxa-8-nonene)	1.0 mol. %
+
+
+=== TABLE 5 (19 rows) ===
+TABLE
+
+Determination •							Comp.	Comp.	Comp.
+evaluation item	Ex. 1	Ex. 2	Ex. 3	Ex. 4	Ex. 5	Ex. 6	Ex. 1	Ex. 2	Ex. 3
+
+Extruded surface state	none	none	none	none	none	none	yes	yes	yes
+(Presence of melt fractures)
+Normal state properties
+Hardness (Shore-A)	81	80	75	70	80	80	81	80	91
+Breaking strength (MPa)	18.4	17.9	18.2	15.4	18.1	18.6	19.7	18.2	20.3
+Elongation at break (%)	250	260	260	200	250	240	140	130	90
+Compression set
+300° C. for 70 hours (%)	29	30	30	36	30	30	30	32	34
+Product surface state
+Presence of spotted	none	none	none	none	none	none	yes	yes	yes
+pattern
+Plasma test
+Weight reduction (%)	9	9	19	10	9	9	21	20	9
+
+
+=== TABLE 6 (5 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2006-271527		2006-10-03	
+JP2006271527		2006-10-03	
+JP2006271527		2006-10-03	
+PCT/JP2007/068561 WO2008041557A1 (en)	2006-10-03	2007-09-25	Fluorine-containing elastomer composition
+
+=== TABLE 7 (3 rows) ===
+Publication Number	Publication Date
+US20100029831A1 US20100029831A1 (en)	2010-02-04
+US8044132B2 true US8044132B2 (en)	2011-10-25
+
+=== TABLE 8 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US12/311,573 Active 2028-02-06 US8044132B2 (en)	2006-10-03	2007-09-25	Fluorine-containing elastomer composition
+
+=== TABLE 9 (5 rows) ===
+Country	Link
+US (1)	US8044132B2 (en)
+EP (1)	EP2070982B1 (en)
+JP (1)	JP5228913B2 (en)
+WO (1)	WO2008041557A1 (en)
+
+=== TABLE 10 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2014172297A1 (en) *	2013-04-16	2014-10-23	Dupont Mitsui Fluorochemicals Company, Ltd.	Fluororesin and mesoporous silica composition and molded product thereof
+
+=== TABLE 11 (10 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2008274104A (en) *	2007-04-27	2008-11-13	Daikin Ind Ltd	Crosslinkable composition and molded article comprising the same
+JP2010024339A (en) *	2008-07-18	2010-02-04	Daikin Ind Ltd	Fluorine-containing elastomer composition and molded product formed of the same
+JP2012505948A (en)	2008-10-22	2012-03-08	ダイキン工業株式会社	Perfluoroelastomer composition
+RU2471827C1 (en) *	2011-07-19	2013-01-10	Федеральное государственное унитарное предприятие "Ордена Ленина и ордена Трудового Красного Знамени научно-исследовательский институт синтетического каучука имени академика С.В. Лебедева"	Elastomeric composition based on copolymer of tetrafluoroethylene and perfluoroalkyl vinyl esters
+EP2776498B1 (en) *	2011-11-09	2018-12-26	3M Innovative Properties Company	Curing compositions for fluoropolymers
+KR102730591B1 (en)	2018-12-04	2024-11-14	주식회사 발카	Elastomer compositions and sealants
+TW202407029A (en) *	2022-05-31	2024-02-16	美商3M新設資產公司	Curable fluoropolymer compositions comprising a catalyst and a bis phthalonitrile-containing compound and cured articles therefrom
+JP2024101544A (en)	2023-01-17	2024-07-29	ユニマテック株式会社	Fluorine-containing elastomer composition
+US12542025B2 (en)	2023-08-17	2026-02-03	Igt	Multiple instrument sheet music employed for symbol generation and display in gaming environments
+
+=== TABLE 12 (17 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3546186A (en)	1966-02-16	1970-12-08	Du Pont	Copolymers of substituted perfluorovinyl ethers
+US3852326A (en)	1972-06-14	1974-12-03	Du Pont	Cyanoperfluoro(vinyl ethers), their preparation and copolymers thereof
+US3933767A (en)	1972-06-14	1976-01-20	E. I. Du Pont De Nemours And Company	Cyanoperfluoroether acid fluorides and copolymers derived therefrom
+US4138426A (en)	1977-04-20	1979-02-06	E. I. Du Pont De Nemours And Company	Alkyl perfluoro-ω-fluoroformyl esters and monomers therefrom
+US4281092A (en)	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+JPH03170319A (en)	1989-11-29	1991-07-23	Toyota Motor Corp	Production of silicon dioxide powder
+JPH0622852A (en)	1992-07-07	1994-02-01	Hitachi Home Tec Ltd	Vacuum bottle pot
+JPH06302527A (en)	1993-04-19	1994-10-28	Mitsubishi Cable Ind Ltd	Seal for semiconductor manufacturing equipment
+JPH0931284A (en)	1995-07-19	1997-02-04	Nippon Mektron Ltd	Fluorine-containing elastomer composition
+JPH0931283A (en)	1995-07-13	1997-02-04	Nippon Mektron Ltd	Fluorine-containing elastomer composition
+US5605973A (en)	1994-10-21	1997-02-25	Nippon Mektron, Limited	Bisamidrazone compound and vulcanizing agent for fluorine-containing elastomer comprising the same
+WO1997019983A1 (en)	1995-12-01	1997-06-05	E.I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+WO2000042100A1 (en)	1999-01-12	2000-07-20	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed article prepared from said composition
+US6191208B1 (en) *	1998-05-20	2001-02-20	Dupont Dow Elastomers L.L.S.	Thermally stable perfluoroelastomer composition
+WO2001032782A1 (en)	1999-11-04	2001-05-10	Daikin Industries, Ltd.	Molded elastomer for semiconductor production apparatus and crosslinkable fluoroelastomer composition
+JP2007126568A (en)	2005-11-04	2007-05-24	Yunimatekku Kk	Fluorine-containing elastomer composition
+
+=== TABLE 13 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2000032782A2 (en) *	1998-12-02	2000-06-08	E.I. Du Pont De Nemours And Company	Plant transcription factors
+JP2001176329A (en) *	1999-12-14	2001-06-29	Asahi Glass Co Ltd	Low dielectric constant material
+US6992143B2 (en) *	2003-08-15	2006-01-31	Dupont Dow Elastomers Llc	Curable perfluoroelastomer composition
+JP2007126558A (en) *	2005-11-04	2007-05-24	Daicel Chem Ind Ltd	Mud modifying agent and mud modifying method using the same
+
+=== TABLE 14 (22 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3546186A (en)	1966-02-16	1970-12-08	Du Pont	Copolymers of substituted perfluorovinyl ethers
+US3852326A (en)	1972-06-14	1974-12-03	Du Pont	Cyanoperfluoro(vinyl ethers), their preparation and copolymers thereof
+US3933767A (en)	1972-06-14	1976-01-20	E. I. Du Pont De Nemours And Company	Cyanoperfluoroether acid fluorides and copolymers derived therefrom
+US4138426A (en)	1977-04-20	1979-02-06	E. I. Du Pont De Nemours And Company	Alkyl perfluoro-ω-fluoroformyl esters and monomers therefrom
+US4281092A (en)	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+JPH03170319A (en)	1989-11-29	1991-07-23	Toyota Motor Corp	Production of silicon dioxide powder
+JPH0622852A (en)	1992-07-07	1994-02-01	Hitachi Home Tec Ltd	Vacuum bottle pot
+JPH06302527A (en)	1993-04-19	1994-10-28	Mitsubishi Cable Ind Ltd	Seal for semiconductor manufacturing equipment
+US5605973A (en)	1994-10-21	1997-02-25	Nippon Mektron, Limited	Bisamidrazone compound and vulcanizing agent for fluorine-containing elastomer comprising the same
+JPH0931283A (en)	1995-07-13	1997-02-04	Nippon Mektron Ltd	Fluorine-containing elastomer composition
+US5637648A (en)	1995-07-13	1997-06-10	Nippon Mektron Limited	Fluorine-containing elastomer composition
+JPH0931284A (en)	1995-07-19	1997-02-04	Nippon Mektron Ltd	Fluorine-containing elastomer composition
+US5668221A (en)	1995-07-19	1997-09-16	Nippon Mektron, Limited	Fluorine-containing elastomer composition
+WO1997019983A1 (en)	1995-12-01	1997-06-05	E.I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+US5696189A (en)	1995-12-01	1997-12-09	E. I. Du Pont De Nemours And Company	Perfluoroelastomer compositions
+US6191208B1 (en) *	1998-05-20	2001-02-20	Dupont Dow Elastomers L.L.S.	Thermally stable perfluoroelastomer composition
+WO2000042100A1 (en)	1999-01-12	2000-07-20	Daikin Industries, Ltd.	Crosslinkable elastomer composition and formed article prepared from said composition
+US20050090598A1 (en)	1999-01-12	2005-04-28	Daikin Industries, Ltd.	Crosslinkable elastomer composition and molded article produced from same
+WO2001032782A1 (en)	1999-11-04	2001-05-10	Daikin Industries, Ltd.	Molded elastomer for semiconductor production apparatus and crosslinkable fluoroelastomer composition
+US20030045623A1 (en)	1999-11-04	2003-03-06	Katsuhiko Higashino	Elastomer molded article and crosslinkable fluorine-containing elastomer composition for semi-conductor production apparatuses
+JP2007126568A (en)	2005-11-04	2007-05-24	Yunimatekku Kk	Fluorine-containing elastomer composition
+
+=== TABLE 15 (2 rows) ===
+Title
+English Translation of International Preliminary Report on Patentability (Chapter I) and Written Opinion of the International Searching Authority from corresponding PCT application No. PCT/JP2007/068561, dated Apr. 30, 2009, 7 pages.
+
+=== TABLE 16 (3 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+WO2014172297A1 (en) *	2013-04-16	2014-10-23	Dupont Mitsui Fluorochemicals Company, Ltd.	Fluororesin and mesoporous silica composition and molded product thereof
+US9346936B2 (en)	2013-04-16	2016-05-24	The Chemours Company Fc, Llc	Fluororesin composition and its molded product
+
+=== TABLE 17 (8 rows) ===
+Publication number	Publication date
+EP2070982A4 (en)	2011-11-16
+JP5228913B2 (en)	2013-07-03
+WO2008041557A1 (en)	2008-04-10
+US20100029831A1 (en)	2010-02-04
+JPWO2008041557A1 (en)	2010-02-04
+EP2070982A1 (en)	2009-06-17
+EP2070982B1 (en)	2012-05-30
+
+=== TABLE 18 (21 rows) ===
+Publication	Publication Date	Title
+US20100029831A1 (en)	2010-02-04	Fluorine-containing elastomer composition
+EP1243617B2 (en)	2010-10-06	Transparent elastomer composition
+CN1891761B (en)	2010-10-06	Cross-linkable elastomer composition and molded article formed from the composition
+KR101352661B1 (en)	2014-01-16	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+CN105899600B (en)	2019-02-22	Perfluoroelastomer composition, and sealing material and method for producing the same
+EP1654311A1 (en)	2006-05-10	Curable perfluoroelastomer composition
+CN1286898C (en)	2006-11-29	Elastomer Molded Products
+CN107075219A (en)	2017-08-18	Fluoroelastomer composition and products formed
+JP4534956B2 (en)	2010-09-01	Fluorine-containing elastomer composition
+EP2596057B1 (en)	2014-03-19	Fluoroelastomer composition
+CN101959955B (en)	2012-10-03	Peroxide curable fluoroelastomer compositions and articles made therefrom
+EP3521339B1 (en)	2024-02-07	Polymer, composition, and molded article
+WO2011163575A2 (en)	2011-12-29	Process for preparing curable perfluoroelastomer compositions
+EP2230263B1 (en)	2017-05-24	Fluorine-containing elastomer
+US20200299467A1 (en)	2020-09-24	Fluoroelastomer composition
+JP7270504B2 (en)	2023-05-10	Elastomer composition and sealing material
+CN104428329B (en)	2016-11-09	Fluoroelastomer and vulcanizable compositions thereof
+TW202313827A (en)	2023-04-01	Fluorine-containing elastomer composition
+WO2013158386A1 (en)	2013-10-24	Cured fluoroelastomer compositions containing magnesium silicate filler
+JP2021130782A (en)	2021-09-09	Halogen-containing rubber vulcanization aid, halogen-containing rubber compound and vulcanizate thereof
+
+=== TABLE 19 (6 rows) ===
+Date	Code	Title	Description
+2009-04-03	AS	Assignment	Owner name: UNIMATEC CO., LTD.,JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MAEDA, MITSURU;YANAI, YASUNORI;REEL/FRAME:022490/0974 Effective date: 20090217 Owner name: UNIMATEC CO., LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:MAEDA, MITSURU;YANAI, YASUNORI;REEL/FRAME:022490/0974 Effective date: 20090217
+2011-10-05	STCF	Information on status: patent grant	Free format text: PATENTED CASE
+2015-04-08	FPAY	Fee payment	Year of fee payment: 4
+2019-04-12	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 8TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1552); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 8
+2023-04-12	MAFP	Maintenance fee payment	Free format text: PAYMENT OF MAINTENANCE FEE, 12TH YEAR, LARGE ENTITY (ORIGINAL EVENT CODE: M1553); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY Year of fee payment: 12

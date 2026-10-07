@@ -1,0 +1,96 @@
+# CN110903428B :: CN110903428B - 
+        A kind of low temperature resistant fluoroether rubber and its preparation method and application
+       
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201811081700.2A CN110903428B (en)	2018-09-17	2018-09-17	A kind of low temperature resistant fluoroether rubber and its preparation method and application
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN201811081700.2A CN110903428B (en)	2018-09-17	2018-09-17	A kind of low temperature resistant fluoroether rubber and its preparation method and application
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN110903428A CN110903428A (en)	2020-03-24
+CN110903428B true CN110903428B (en)	2021-10-22
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN201811081700.2A Active CN110903428B (en)	2018-09-17	2018-09-17	A kind of low temperature resistant fluoroether rubber and its preparation method and application
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN110903428B (en)
+
+=== TABLE 5 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN111471186B (en) *	2020-05-29	2023-01-24	中国工程物理研究院化工材料研究所	High-performance copolymerized liquid fluororubber, preparation method and application
+CN111875732B (en) *	2020-08-18	2021-12-17	山东非金属材料研究所	Low-temperature-resistant fluororubber and preparation method thereof
+CN115725016B (en) *	2021-08-31	2024-05-14	中昊晨光化工研究院有限公司	Ether modified fluororubber and preparation method thereof
+CN116063640B (en) *	2021-11-04	2024-09-27	中昊晨光化工研究院有限公司	A high temperature resistant perfluoroether fluororubber and preparation method thereof
+CN117586446B (en) *	2023-11-28	2026-05-08	福建海德福新材料有限公司	A method for preparing perfluoroether rubber by soap-free emulsion polymerization
+CN119684505B (en) *	2024-12-18	2026-03-24	中国科学院上海有机化学研究所	A perfluoroether raw rubber resistant to low temperatures and strong oxidizing media, its preparation method and application
+CN119613897B (en) *	2024-12-18	2025-08-12	福建永泓高新材料有限公司	A low-temperature resistant perfluoroether rubber and its preparation method
+
+=== TABLE 6 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN102558719A (en) *	2011-12-29	2012-07-11	中昊晨光化工研究院	Low-temperature-resistant elastic body containing fluorine and preparation method thereof
+CN104530292A (en) *	2014-12-19	2015-04-22	中昊晨光化工研究院有限公司	Low-temperature-resistant perfluoroether rubber and synthesis method thereof
+CN104558364A (en) *	2014-12-31	2015-04-29	山东华夏神舟新材料有限公司	Fluoroelastomer and preparation method thereof
+CN106317290A (en) *	2015-07-08	2017-01-11	中昊晨光化工研究院有限公司	Perfluoroether elastomer and preparation method thereof
+CN106854253A (en) *	2015-12-09	2017-06-16	中昊晨光化工研究院有限公司	A kind of new low temperature resistant fluorubber and preparation method thereof
+CN107868163A (en) *	2016-09-27	2018-04-03	中昊晨光化工研究院有限公司	A kind of low temperature resistant perfluoroether elastomer and preparation method thereof
+CN108017746A (en) *	2016-10-28	2018-05-11	中昊晨光化工研究院有限公司	A kind of peroxide cure fluorubber of low compression set and preparation method thereof
+
+=== TABLE 7 (8 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN102558719A (en) *	2011-12-29	2012-07-11	中昊晨光化工研究院	Low-temperature-resistant elastic body containing fluorine and preparation method thereof
+CN104530292A (en) *	2014-12-19	2015-04-22	中昊晨光化工研究院有限公司	Low-temperature-resistant perfluoroether rubber and synthesis method thereof
+CN104558364A (en) *	2014-12-31	2015-04-29	山东华夏神舟新材料有限公司	Fluoroelastomer and preparation method thereof
+CN106317290A (en) *	2015-07-08	2017-01-11	中昊晨光化工研究院有限公司	Perfluoroether elastomer and preparation method thereof
+CN106854253A (en) *	2015-12-09	2017-06-16	中昊晨光化工研究院有限公司	A kind of new low temperature resistant fluorubber and preparation method thereof
+CN107868163A (en) *	2016-09-27	2018-04-03	中昊晨光化工研究院有限公司	A kind of low temperature resistant perfluoroether elastomer and preparation method thereof
+CN108017746A (en) *	2016-10-28	2018-05-11	中昊晨光化工研究院有限公司	A kind of peroxide cure fluorubber of low compression set and preparation method thereof
+
+=== TABLE 8 (2 rows) ===
+Publication number	Publication date
+CN110903428A (en)	2020-03-24
+
+=== TABLE 9 (26 rows) ===
+Publication	Publication Date	Title
+CN110903428A (en)	2020-03-24	A kind of low temperature resistant fluoroether rubber and its preparation method and application
+CN1827657B (en)	2011-08-10	Fluorinated elastomer latex, its production method, fluorinated elastomer and fluororubber molded product
+JP7125263B2 (en)	2022-08-24	Fluorine-containing elastic copolymer, method for producing the same, crosslinked rubber and method for producing the same
+WO2013097477A1 (en)	2013-07-04	Low-temperature-resistant fluorine-containing elastomer and preparation method therefor
+CN114106495A (en)	2022-03-01	Modified perfluoroether fluororubber and preparation method and application thereof
+CN104448095B (en)	2017-01-04	A kind of preparation method of the fluorubber of peroxide curable
+JP2004534118A (en)	2004-11-11	Aqueous emulsion polymerization in the presence of ether as chain transfer agent for producing fluoropolymer
+JP5265688B2 (en)	2013-08-14	Process for producing clean fluoropolymers
+WO2015003451A1 (en)	2015-01-15	Method of preparing fluoroelastomer capable of being vulcanized by using peroxide
+JP2004525239A (en)	2004-08-19	Emulsifier-free aqueous emulsion polymerization process for producing fluoropolymers
+WO2008001895A1 (en)	2008-01-03	Method for producing fluorine-containing elastomer
+CN110684141A (en)	2020-01-14	Peroxide vulcanized fluororubber with low Mooney viscosity and high fluorine content
+CN110713564A (en)	2020-01-21	A kind of synthesis method of wide temperature range perfluoroether rubber and perfluoroether rubber
+CN107868163A (en)	2018-04-03	A kind of low temperature resistant perfluoroether elastomer and preparation method thereof
+EP4635995A1 (en)	2025-10-22	High-temperature-resistant perfluoroether fluororubber and preparation method therefor
+CN104558364B (en)	2017-05-03	Fluoroelastomer and preparation method thereof
+CN107814863A (en)	2018-03-20	A kind of preparation method of low temperature resistant fluorine-containing rubber
+CN101033277A (en)	2007-09-12	Tetrafluoroethylene-propylene fluorine-containing elastic body and preparing method thereof
+CN110818825A (en)	2020-02-21	A kind of fluorine-containing elastomer vulcanized with peroxide and preparation method thereof
+CN106854253A (en)	2017-06-16	A kind of new low temperature resistant fluorubber and preparation method thereof
+CN114230737B (en)	2023-08-01	A kind of perfluoroether fluororubber and its preparation method and application
+CN116143967B (en)	2024-05-14	Fluoroelastomer for lithium battery sealing and preparation method thereof
+CN108299585B (en)	2021-03-19	Method for preparing peroxide vulcanized fluororubber by nano emulsion polymerization
+CN110760026B (en)	2021-06-22	Synthesis method of tetrafluoroethylene-propylene rubber and tetrafluoroethylene-propylene rubber thereof
+CN116063607B (en)	2024-08-13	A high temperature resistant perfluoroether fluororubber and preparation method thereof
+
+=== TABLE 10 (7 rows) ===
+Date	Code	Title	Description
+2020-03-24	PB01	Publication	
+2020-03-24	PB01	Publication	
+2020-04-17	SE01	Entry into force of request for substantive examination	
+2020-04-17	SE01	Entry into force of request for substantive examination	
+2021-10-22	GR01	Patent grant	
+2021-10-22	GR01	Patent grant	

@@ -1,0 +1,101 @@
+# CN117534929A :: CN117534929A - Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202311742177.4A CN117534929B (en)	2023-12-18	2023-12-18	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202311742177.4A CN117534929B (en)	2023-12-18	2023-12-18	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+CN117534929A true CN117534929A (en)	2024-02-09
+CN117534929B CN117534929B (en)	2024-09-24
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202311742177.4A Active CN117534929B (en)	2023-12-18	2023-12-18	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+CN (1)	CN117534929B (en)
+
+=== TABLE 5 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118388949A (en) *	2024-05-22	2024-07-26	上海芯密科技有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN118459966A (en) *	2024-05-22	2024-08-09	上海芯密科技有限公司	A semiconductor sealing ring material and its preparation method and application
+CN119192756A (en) *	2024-09-23	2024-12-27	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120005335A (en) *	2025-02-14	2025-05-16	上海芯密科技股份有限公司	A perfluororubber composition and its preparation method and product
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4281092A (en) *	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+CN1108263A (en) *	1993-12-29	1995-09-13	奥西蒙特公司	New fluoroelastomers comprising monomeric units deriving from a bis-olefin
+US20100144948A1 (en) *	2005-07-26	2010-06-10	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US4281092A (en) *	1978-11-30	1981-07-28	E. I. Du Pont De Nemours And Company	Vulcanizable fluorinated copolymers
+CN1108263A (en) *	1993-12-29	1995-09-13	奥西蒙特公司	New fluoroelastomers comprising monomeric units deriving from a bis-olefin
+US20100144948A1 (en) *	2005-07-26	2010-06-10	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+CN114181484A (en) *	2021-12-15	2022-03-15	上海如实密封科技有限公司	Perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 8 (3 rows) ===
+Title
+宋玉倩等: "FKM和 FFKM在不同硫化体系下其对密封件最高使用温度的影响", 橡胶技术与装备, vol. 49, no. 5, 31 May 2023 (2023-05-31), pages 39 - 44 *
+谢忠麟等: "高性能特种弹性体的扩展（四）——氟橡胶（2）", 橡胶工业, vol. 69, no. 2, 28 February 2022 (2022-02-28), pages 149 - 159 *
+
+=== TABLE 9 (7 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN118388949A (en) *	2024-05-22	2024-07-26	上海芯密科技有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN118459966A (en) *	2024-05-22	2024-08-09	上海芯密科技有限公司	A semiconductor sealing ring material and its preparation method and application
+CN118388949B (en) *	2024-05-22	2024-12-13	上海芯密科技股份有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN119192756A (en) *	2024-09-23	2024-12-27	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120005335A (en) *	2025-02-14	2025-05-16	上海芯密科技股份有限公司	A perfluororubber composition and its preparation method and product
+CN120005335B (en) *	2025-02-14	2026-03-20	上海芯密科技股份有限公司	A perfluororubber composition, its preparation method and products
+
+=== TABLE 10 (2 rows) ===
+Publication number	Publication date
+CN117534929B (en)	2024-09-24
+
+=== TABLE 11 (26 rows) ===
+Publication	Publication Date	Title
+CN117534929B (en)	2024-09-24	A low-corrosive fluorine-containing sealing ring composition and preparation method thereof
+Dong et al.	2018	Thermoplastic polyurethane-carbon black nanocomposite coating: Fabrication and solid particle erosion resistance
+JP5487584B2 (en)	2014-05-07	Crosslinkable elastomer composition and molded article comprising the composition
+US8044132B2 (en)	2011-10-25	Fluorine-containing elastomer composition
+US20120067706A1 (en)	2012-03-22	Belt
+CN102089399B (en)	2014-04-09	Sealing material for piping material excellent in chlorine resistance, manufacturing method of sealing material for piping material excellent in chlorine resistance, sealing material for piping material excellent in oil resistance, and piping material
+TW201038654A (en)	2010-11-01	Crosslinkable fluorine-containing elastomer composition and molded article made of said composition
+CN110709464A (en)	2020-01-17	Rubber cross-linked product and method for producing the same
+CN1286898C (en)	2006-11-29	Elastomer Molded Products
+CN118459966B (en)	2025-02-28	A semiconductor sealing ring material and its preparation method and application
+CN114181484A (en)	2022-03-15	Perfluoroether rubber composition and preparation method and application thereof
+JP6284394B2 (en)	2018-02-28	Carbon fiber composite material and seal member
+CN100366681C (en)	2008-02-06	Crosslinkable elastomer composition and molded article formed from the crosslinkable elastomer composition
+CN119192756B (en)	2025-03-21	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+CN120005335B (en)	2026-03-20	A perfluororubber composition, its preparation method and products
+Mohammed et al.	2018	Effect of nano zinc oxide on tensile properties of natural rubber composite
+CN118388949A (en)	2024-07-26	High-whiteness fluororubber composition and preparation method and application thereof
+Heidarian et al.	2017	Improving heat aging and mechanical properties of fluoroelastomer using carbon nanotubes
+CN115873359A (en)	2023-03-31	Superfine fluororubber sealing piece for protecting electrostatic chuck gap
+CN115246968A (en)	2022-10-28	High-temperature-resistant wear-resistant covering rubber for conveyor belt and preparation method thereof
+CN114181483A (en)	2022-03-15	Tetrapropylene-fluoride rubber composition and preparation method and application thereof
+RU2792564C1 (en)	2023-03-22	Polyethylene powder composition for protection against ice and corrosion of ships' hulls and steel pipelines and method for its production
+CN104011115A (en)	2014-08-27	Process for manufacturing fluoroelastomer compositions containing fluoro-plastic fibrils, the composition so produced and cured articles prepared from said composition
+CN120442077A (en)	2025-08-08	A semiconductor seal and its preparation method and application
+CN116535784A (en)	2023-08-04	Plasma-resistant sealing material and preparation method thereof
+
+=== TABLE 12 (9 rows) ===
+Date	Code	Title	Description
+2024-02-09	PB01	Publication	
+2024-02-09	PB01	Publication	
+2024-03-01	SE01	Entry into force of request for substantive examination	
+2024-03-01	SE01	Entry into force of request for substantive examination	
+2024-09-24	GR01	Patent grant	
+2024-09-24	GR01	Patent grant	
+2024-11-29	CP03	Change of name, title or address	
+2024-11-29	CP03	Change of name, title or address	Address after: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Patentee after: Shanghai Xinmi Technology Co.,Ltd. Country or region after: China Address before: 201306 south area, 1st floor, No. 13, Lane 2699, Jiangshan Road, Lingang xinpian District, China (Shanghai) pilot Free Trade Zone, Pudong New Area, Shanghai Patentee before: Shanghai Xinmi Technology Co.,Ltd. Country or region before: China

@@ -1,0 +1,107 @@
+# KR20190114660A :: KR20190114660A - Fluorocarbon rubber composition having improved adhesion to metal when using bisphenol-based adhesive 
+        - Google Patents
+
+=== TABLE 0 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020180037711A KR102100123B1 (en)	2018-03-30	2018-03-30	Fluorocarbon rubber composition having improved adhesion to metal when using bisphenol-based adhesive
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+KR1020180037711A KR102100123B1 (en)	2018-03-30	2018-03-30	Fluorocarbon rubber composition having improved adhesion to metal when using bisphenol-based adhesive
+
+=== TABLE 2 (3 rows) ===
+Publication Number	Publication Date
+KR20190114660A true KR20190114660A (en)	2019-10-10
+KR102100123B1 KR102100123B1 (en)	2020-04-13
+
+=== TABLE 3 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+KR1020180037711A Active KR102100123B1 (en)	2018-03-30	2018-03-30	Fluorocarbon rubber composition having improved adhesion to metal when using bisphenol-based adhesive
+
+=== TABLE 4 (2 rows) ===
+Country	Link
+KR (1)	KR102100123B1 (en)
+
+=== TABLE 5 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20240074980A (en) *	2022-11-16	2024-05-29	한국에스케이에프씰 주식회사	Fluoro rubber composition to prevent tearing for oil seal
+
+=== TABLE 6 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JP2012224654A (en) *	2011-04-14	2012-11-15	Nok Corp	Fluororubber composition and rubber-metal laminate
+KR20130110228A (en)	2011-02-17	2013-10-08	엔오케이 가부시키가이샤	Fluororubber composition and process for manufacturing crosslinked fluororubber
+KR20150043350A (en)	2012-08-10	2015-04-22	에누오케 가부시키가이샤	Fluororubber composition
+JP2017095592A (en) *	2015-11-24	2017-06-01	ダイキン工業株式会社	Member of air management system and fluororubber composition
+
+=== TABLE 7 (5 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20130110228A (en)	2011-02-17	2013-10-08	엔오케이 가부시키가이샤	Fluororubber composition and process for manufacturing crosslinked fluororubber
+JP2012224654A (en) *	2011-04-14	2012-11-15	Nok Corp	Fluororubber composition and rubber-metal laminate
+KR20150043350A (en)	2012-08-10	2015-04-22	에누오케 가부시키가이샤	Fluororubber composition
+JP2017095592A (en) *	2015-11-24	2017-06-01	ダイキン工業株式会社	Member of air management system and fluororubber composition
+
+=== TABLE 8 (2 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+KR20240074980A (en) *	2022-11-16	2024-05-29	한국에스케이에프씰 주식회사	Fluoro rubber composition to prevent tearing for oil seal
+
+=== TABLE 9 (2 rows) ===
+Publication number	Publication date
+KR102100123B1 (en)	2020-04-13
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN101479336B (en)	2012-01-11	Fluororubber composition for peroxide crosslinking and method for producing rubber laminate
+JP2787073B2 (en)	1998-08-13	Rubber composition
+EP3069870B1 (en)	2018-08-15	Laminate, method for manufacturing same, and fluororubber composition
+EP2966122B1 (en)	2020-11-25	Acrylonitrile butadiene rubber composition, acrylonitrile butadiene rubber molded article, and method for producing same
+EP2315806B1 (en)	2016-03-16	Fluorine-containing elastomer composition and molded article made of same
+EP3135485B1 (en)	2019-03-13	Laminate
+EP2805988B1 (en)	2017-01-04	Method for producing acrylic rubber/fluoro-rubber composition, crosslinked composition, laminate body, and heat-resistant air rubber hose
+US20150353720A1 (en)	2015-12-10	Fluororubber composition
+JP2010024339A (en)	2010-02-04	Fluorine-containing elastomer composition and molded product formed of the same
+US7311978B2 (en)	2007-12-25	Primer for vulcanization bonding
+WO2015133573A1 (en)	2015-09-11	Fluororubber composition and fluororubber molded product
+KR102043478B1 (en)	2019-11-11	Material for gasket
+KR102100123B1 (en)	2020-04-13	Fluorocarbon rubber composition having improved adhesion to metal when using bisphenol-based adhesive
+JP2019199549A (en)	2019-11-21	Rubber composition and seal material
+CN103978751B (en)	2018-02-09	laminate
+EP4324856A1 (en)	2024-02-21	Composition for fluorine rubber crosslinking, molded product, and sealing member
+WO2018181493A1 (en)	2018-10-04	Rubber laminate
+JPH0819265B2 (en)	1996-02-28	Method for manufacturing fluororubber crosslinked products
+EP4506415A1 (en)	2025-02-12	Fluorine-based rubber crosslinking composition and molded article
+EP4417650A1 (en)	2024-08-21	Fluoro rubber crosslinking composition and molded article
+EP3875536B1 (en)	2023-12-20	Fluororubber composition and molded article
+KR100925616B1 (en)	2009-11-06	Envial rubber composition used for phenol resin adhesive
+JP7695471B2 (en)	2025-06-18	sealing device
+JPH09239904A (en)	1997-09-16	Elastic composite material and its manufacture
+JPH08209113A (en)	1996-08-13	Gasket material and its production
+
+=== TABLE 11 (28 rows) ===
+Date	Code	Title	Description
+2018-03-30	A201	Request for examination	
+2018-03-30	PA0109	Patent application	St.27 status event code: A-0-1-A10-A12-nap-PA0109
+2018-03-30	PA0201	Request for examination	St.27 status event code: A-1-2-D10-D11-exm-PA0201
+2018-08-09	D13-X000	Search requested	St.27 status event code: A-1-2-D10-D13-srh-X000
+2018-10-11	D14-X000	Search report completed	St.27 status event code: A-1-2-D10-D14-srh-X000
+2019-09-20	E902	Notification of reason for refusal	
+2019-09-20	PE0902	Notice of grounds for rejection	St.27 status event code: A-1-2-D10-D21-exm-PE0902
+2019-10-10	PG1501	Laying open of application	St.27 status event code: A-1-1-Q10-Q12-nap-PG1501
+2019-11-19	P11-X000	Amendment of application requested	St.27 status event code: A-2-2-P10-P11-nap-X000
+2019-11-19	P13-X000	Application amended	St.27 status event code: A-2-2-P10-P13-nap-X000
+2020-03-26	E701	Decision to grant or registration of patent right	
+2020-03-26	PE0701	Decision of registration	St.27 status event code: A-1-2-D10-D22-exm-PE0701
+2020-04-07	GRNT	Written decision to grant	
+2020-04-07	PR0701	Registration of establishment	St.27 status event code: A-2-4-F10-F11-exm-PR0701
+2020-04-07	PR1002	Payment of registration fee	St.27 status event code: A-2-2-U10-U11-oth-PR1002 Fee payment year number: 1
+2020-04-13	PG1601	Publication of registration	St.27 status event code: A-4-4-Q10-Q13-nap-PG1601
+2020-06-23	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2022-12-16	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2023-03-29	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 4
+2024-01-03	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2024-03-28	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 5
+2024-11-25	PN2301	Change of applicant	St.27 status event code: A-5-5-R10-R13-asn-PN2301 St.27 status event code: A-5-5-R10-R11-asn-PN2301
+2025-03-31	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 6
+2026-01-06	R18	Changes to party contact information recorded	Free format text: ST27 STATUS EVENT CODE: A-5-5-R10-R18-OTH-X000 (AS PROVIDED BY THE NATIONAL OFFICE)
+2026-01-06	R18-X000	Changes to party contact information recorded	St.27 status event code: A-5-5-R10-R18-oth-X000
+2026-03-30	PR1001	Payment of annual fee	St.27 status event code: A-4-4-U10-U11-oth-PR1001 Fee payment year number: 7
+2026-03-30	U11	Full renewal or maintenance fee paid	Free format text: ST27 STATUS EVENT CODE: A-4-4-U10-U11-OTH-PR1001 (AS PROVIDED BY THE NATIONAL OFFICE) Year of fee payment: 7

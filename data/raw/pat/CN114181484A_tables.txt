@@ -1,0 +1,93 @@
+# CN114181484A :: CN114181484A - Perfluoroether rubber composition and preparation method and application thereof 
+        - Google Patents
+
+=== TABLE 0 (8 rows) ===
+	Number 1	Number 2	No. 3	Number 4	Number 5	Number 6
+Perfluoroether rubber PFR94	100.00	100.00	100.00	100.00	100.00	100.00
+Cross-linking agent DBPH 101XL-45	1.50	1.50	1.50	1.50	1.50	1.50
+Accelerator TAIC-S70	2.00	3.50	3.50	3.50	3.50	3.50
+Polytetrafluoroethylene micropowder	20.00				15.00	10.00
+Fine powder of perfluoroalkoxy resin		20.00				
+Polyamide-imide (PAI)) Micro powder			20.00	30.00	5.00	10.00
+Processing aid HT290	0.50	0.50	0.50	0.50	0.50	0.50
+
+=== TABLE 1 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202111536744.1A CN114181484A (en)	2021-12-15	2021-12-15	Perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 2 (2 rows) ===
+Application Number	Priority Date	Filing Date	Title
+CN202111536744.1A CN114181484A (en)	2021-12-15	2021-12-15	Perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 3 (2 rows) ===
+Publication Number	Publication Date
+CN114181484A true CN114181484A (en)	2022-03-15
+
+=== TABLE 4 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+CN202111536744.1A Pending CN114181484A (en)	2021-12-15	2021-12-15	Perfluoroether rubber composition and preparation method and application thereof
+
+=== TABLE 5 (2 rows) ===
+Country	Link
+CN (1)	CN114181484A (en)
+
+=== TABLE 6 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN117534929A (en) *	2023-12-18	2024-02-09	上海芯密科技有限公司	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+CN118388949A (en) *	2024-05-22	2024-07-26	上海芯密科技有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN118459966A (en) *	2024-05-22	2024-08-09	上海芯密科技有限公司	A semiconductor sealing ring material and its preparation method and application
+
+=== TABLE 7 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050054753A1 (en) *	2001-11-30	2005-03-10	1) Koyo Seiko Co., Ltd. 2) Koyo Sealing Techno Co., Ltd	Sealing composition and seals made by using the same
+CN1777644A (en) *	2003-04-22	2006-05-24	大金工业株式会社	Fluorine-containing elastomer composition having excellent effect of preventing plasma aging and molded article thereof
+CN111465649A (en) *	2017-12-15	2020-07-28	科德宝两合公司	Curable fluoroelastomers with low tendency to swell
+
+=== TABLE 8 (4 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US20050054753A1 (en) *	2001-11-30	2005-03-10	1) Koyo Seiko Co., Ltd. 2) Koyo Sealing Techno Co., Ltd	Sealing composition and seals made by using the same
+CN1777644A (en) *	2003-04-22	2006-05-24	大金工业株式会社	Fluorine-containing elastomer composition having excellent effect of preventing plasma aging and molded article thereof
+CN111465649A (en) *	2017-12-15	2020-07-28	科德宝两合公司	Curable fluoroelastomers with low tendency to swell
+
+=== TABLE 9 (6 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN117534929A (en) *	2023-12-18	2024-02-09	上海芯密科技有限公司	Low-corrosiveness fluorine-containing sealing ring composition and preparation method thereof
+CN118388949A (en) *	2024-05-22	2024-07-26	上海芯密科技有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN118459966A (en) *	2024-05-22	2024-08-09	上海芯密科技有限公司	A semiconductor sealing ring material and its preparation method and application
+CN118388949B (en) *	2024-05-22	2024-12-13	上海芯密科技股份有限公司	High-whiteness fluororubber composition and preparation method and application thereof
+CN118459966B (en) *	2024-05-22	2025-02-28	上海芯密科技股份有限公司	A semiconductor sealing ring material and its preparation method and application
+
+=== TABLE 10 (26 rows) ===
+Publication	Publication Date	Title
+CN114181480A (en)	2022-03-15	Fluororubber composition and preparation method and application thereof
+CN109929197B (en)	2021-05-18	Lithium battery-resistant electrolyte fluororubber composition and preparation method thereof
+CN102869685B (en)	2015-07-08	Fluorine resin molded article and production of same
+CN102115563B (en)	2012-12-12	Sealing element raw material applied to electrical appliance in high temperature, high pressure or high humidity environment and preparation method thereof
+CN105899600B (en)	2019-02-22	Perfluoroelastomer composition, and sealing material and method for producing the same
+US20130161873A1 (en)	2013-06-27	Tetrafluoroethylene copolymer composition for injection molding
+CN109153836B (en)	2021-11-02	Perfluoroelastomer composition and sealing material
+US11274199B2 (en)	2022-03-15	Perfluoroelastomer composition and sealing material
+CN113088090A (en)	2021-07-09	High-resilience low-pressure-change silicone rubber material and preparation method thereof
+CN112592548B (en)	2023-02-24	Low-temperature-resistant fluororubber composition and application thereof
+CN114181483A (en)	2022-03-15	Tetrapropylene-fluoride rubber composition and preparation method and application thereof
+CN120098462B (en)	2025-11-07	Fluororesin fluororubber composite material with high breaking work and preparation method thereof
+EP2986667B1 (en)	2019-01-02	Fluororesin and mesoporous silica composition and molded product thereof
+JPS61118455A (en)	1986-06-05	Electrically conductive resin composition
+EP2791217B1 (en)	2016-02-24	Process for manufacturing fluoroelastomer compositions containing fluoro-plastic fibrils, the composition so produced and cured articles prepared from said composition.
+JPS6153349A (en)	1986-03-17	Tetrafluoroethylene resin composition
+CN120865660A (en)	2025-10-31	Fluorine-containing elastomer toughened crystalline fluorine-containing polymer and application of sealing element thereof
+CN118834485B (en)	2025-01-24	A fluororubber composition containing cross-linked perfluoroether rubber and a preparation method thereof
+KR102959972B1 (en)	2026-05-08	Oil seal including synthetic rubber with improved resistance for heat
+JP7697574B1 (en)	2025-06-24	Solid, molded body, and method for producing solid
+EP4600300A1 (en)	2025-08-13	Thermoplastic polymer composition and method for producing same
+JPH08148171A (en)	1996-06-07	Gasket for phosphoric acid fuel cell and manufacture thereof
+JPH0472345A (en)	1992-03-06	Ethylene tetrafluoride resin composition
+CN121699316A (en)	2026-03-20	Perfluoro ether rubber compound composition and preparation method and application thereof
+JPH0535183B2 (en)	1993-05-25	
+
+=== TABLE 11 (5 rows) ===
+Date	Code	Title	Description
+2022-03-15	PB01	Publication	
+2022-03-15	PB01	Publication	
+2022-04-01	SE01	Entry into force of request for substantive examination	
+2022-04-01	SE01	Entry into force of request for substantive examination	

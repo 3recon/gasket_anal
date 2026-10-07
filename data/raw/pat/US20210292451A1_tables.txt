@@ -1,0 +1,277 @@
+# US20210292451A1 :: US20210292451A1 - Fluoropolymer-containing composition and molded article 
+        - Google Patents
+
+=== TABLE 0 (5 rows) ===
+	TABLE 1
+	
+	Example 1	Example 2	Example 3	Example 4	Example 5	Example 6	Example 7
+	
+
+
+=== TABLE 1 (1 rows) ===
+Composition (parts by mass)
+
+=== TABLE 2 (20 rows) ===
+Fluorine-containing	100	100	100	100	100	100	100
+elastomer
+Carbon black	23	23	23	23	23	23	23
+Silicon nitride	0.25	0.25	0.25	0.25	0.25	0.25	0.25
+Urea
+NphAF
+Oxalic acid	0.25	0.5
+Maleic acid			0.25
+Acrylic acid				0.5
+Methacrylic acid					0.5
+Malonic acid						0.25
+Glutaric acid							0.25
+Carnauba (vegetable
+oil)
+Erucic acid amide
+Stearyl amin
+Diethylene glycol
+monomethyl ether
+Peroxide
+(Perhexa 25B)
+
+=== TABLE 3 (1 rows) ===
+Mold releasability
+
+=== TABLE 4 (6 rows) ===
+Mold-remaining	0	0	6	0	5	8	8
+ratio (%)
+Evaluation of	best	best	good	good	good	best	best
+feeling
+relating to
+releasability
+
+=== TABLE 5 (1 rows) ===
+Compression set (%)
+
+=== TABLE 6 (3 rows) ===
+300° C. × 72 hours	17	22	26	18	23	17	18
+300° C. × 168 hours	22	32	33	23	33	23	24
+
+
+=== TABLE 7 (6 rows) ===
+	TABLE 2
+	
+	Comparative	Comparative	Comparative	Comparative	Comparative	Comparative	Comparative	Comparative	Comparative
+	Example 1	Example 2	Example 3	Example 4	Example 5	Example 6	Example 7	Example 8	Example 9
+	
+
+
+=== TABLE 8 (1 rows) ===
+Composition (parts by mass)
+
+=== TABLE 9 (20 rows) ===
+Fluorine-containing	100	100	100	100	100	100	100	100	100
+elastomer
+Carbon black	23	23	23	23	23	23	23	23	23
+Silicon nitride	0.25	0.25
+Urea			0.3
+NphAF				0.8	0.8	0.8	0.8	0.8	0.8
+Oxalic acid
+Maleic acid
+Acrylic acid
+Methacrylic acid
+Malonic acid
+Glutaric acid
+Carnauba (vegetable		0.5			0.5
+oil)
+Erucic acid amide						0.5
+Stearyl amin							0.5
+Diethylene glycol								1.0
+monomethyl ether
+Peroxide									1.0
+(Perhexa 25B)
+
+=== TABLE 10 (1 rows) ===
+Mold releasability
+
+=== TABLE 11 (6 rows) ===
+Mold-remaining	40	26	57	97	65	5	14	97	5
+ratio (%)
+Evaluation of	poor	slightly	poor	poor	slightly	slightly	slightly	slightly	slightly
+feeling		good			good	good	good	good	good
+relating to
+releasability
+
+=== TABLE 12 (1 rows) ===
+Compression set (%)
+
+=== TABLE 13 (3 rows) ===
+300° C. × 72 hours	17	44	43	23	49	34	40	35	41
+300° C. × 168 hours	21	—	—	36	62	48	53	47	53
+
+
+=== TABLE 14 (4 rows) ===
+Application Number	Priority Date	Filing Date	Title
+JP2018142145		2018-07-30	
+JP2018-142145		2018-07-30	
+PCT/JP2019/028985 WO2020026909A1 (en)	2018-07-30	2019-07-24	Fluoropolymer-containing composition and molded article
+
+=== TABLE 15 (3 rows) ===
+Publication Number	Publication Date
+US20210292451A1 true US20210292451A1 (en)	2021-09-23
+US12583957B2 US12583957B2 (en)	2026-03-24
+
+=== TABLE 16 (2 rows) ===
+Application Number	Title	Priority Date	Filing Date
+US17/264,524 Active 2040-12-29 US12583957B2 (en)	2018-07-30	2019-07-24	Fluoropolymer-containing composition and molded article
+
+=== TABLE 17 (8 rows) ===
+Country	Link
+US (1)	US12583957B2 (en)
+EP (1)	EP3831877A4 (en)
+JP (2)	JP6985633B2 (en)
+KR (2)	KR102830613B1 (en)
+CN (1)	CN112543788B (en)
+TW (1)	TWI778283B (en)
+WO (1)	WO2020026909A1 (en)
+
+=== TABLE 18 (11 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+CN112543788B (en) *	2018-07-30	2023-10-24	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+WO2021161620A1 (en) *	2020-02-13	2021-08-19	住友電気工業株式会社	Heat shrink tube
+WO2022092155A1 (en) *	2020-10-28	2022-05-05	セントラル硝子株式会社	Fluorine-containing resin, liquid repellent agent, photosensitive resin composition, cured product and display
+CN117255779A (en)	2021-04-27	2023-12-19	大金工业株式会社	Bisdiaminophenyl compounds, cross-linking agents, compositions and molded articles
+EP4357415A4 (en) *	2021-06-15	2025-06-25	Daikin Industries, Ltd.	Fluorine rubber crosslinking composition, molded article, and sealing material
+EP4450557A4 (en) *	2021-12-13	2025-11-26	Daikin Ind Ltd	PERFLUORELASTOMER COMPOSITION AND LINKED PERFLUORELASTOMER PRODUCT
+EP4502045A4 (en) *	2022-03-31	2026-03-18	Daikin Ind Ltd	COMPOSITION, INTERLOCKED PRODUCT AND SEALING MATERIAL
+WO2025013936A1 (en) *	2023-07-13	2025-01-16	ダイキン工業株式会社	Fluororubber composition and molded article
+WO2025197709A1 (en) *	2024-03-22	2025-09-25	Ａｇｃ株式会社	Fluorine-containing copolymer composition and method for producing same, and crosslinked rubber article and method for producing same
+CN119192756B (en) *	2024-09-23	2025-03-21	上海芯密科技股份有限公司	A plasma-resistant and low-viscosity metal-free perfluoropolymer and a preparation method thereof
+
+=== TABLE 19 (18 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3686143A (en) *	1971-03-22	1972-08-22	Du Pont	Guanidine and amidine accelerators for vulcanization of fluoroelastomers
+US4694045A (en) *	1985-12-11	1987-09-15	E. I. Du Pont De Nemours And Company	Base resistant fluoroelastomers
+JPH10138267A (en) *	1996-11-07	1998-05-26	Shin Etsu Chem Co Ltd	Method for producing conductive fluoro rubber sheet
+JP2000143919A (en) *	1998-11-16	2000-05-26	Nok Corp	Fluorinated blend polymer composition
+US20040214944A1 (en) *	1998-01-06	2004-10-28	Daikin Industries, Ltd.	Aqueous fluoroelastomer curable composition and coated article
+US20110236692A1 (en) *	2010-03-29	2011-09-29	Greene, Tweed Of Delaware, Inc.	Fluoroelastomer compositions having self-bonding characteristics and methods of making same
+US20130158154A1 (en) *	2011-12-15	2013-06-20	E.I.Du Pont De Nemours And Company	Coagent for free radical curing fluoroelastomers
+US8722780B2 (en) *	2008-02-28	2014-05-13	Nichias Corporation	Perfluoroelastomer composition and molded article hereof
+WO2014099453A1 (en) *	2012-12-18	2014-06-26	E. I. Du Pont De Nemours And Company	Process for producing fluoroelastomers
+CN105733039A (en) *	2016-04-26	2016-07-06	安徽润康橡塑科技有限公司	Automotive high-strength rubber
+US20160369021A1 (en) *	2013-06-28	2016-12-22	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomers
+CN106336602A (en) *	2016-08-30	2017-01-18	无锡神意环件法兰有限公司	High temperature resistance socket welding flange
+US20170226336A1 (en) *	2014-08-22	2017-08-10	3M Innovative Properties Company	Fluorothermoplastic polymer compositions
+WO2017208927A1 (en) *	2016-05-30	2017-12-07	日本バルカー工業株式会社	Perfluoroelastomer composition and sealing material
+CN107652559A (en) *	2016-07-26	2018-02-02	周丽	A kind of wearability rubber seal and preparation method thereof
+WO2018225586A1 (en) *	2017-06-05	2018-12-13	Ａｇｃ株式会社	Fluorine-containing elastic copolymer and production method therefor
+US20200016874A1 (en) *	2017-03-30	2020-01-16	Mitsui Chemicals, Inc.	Laminate
+
+=== TABLE 20 (24 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+JPH0259177A (en)	1988-08-26	1990-02-28	Babcock Hitachi Kk	Welding head
+JP2945450B2 (en)	1990-07-24	1999-09-06	古野電気株式会社	Tilt sensor and tilt angle measuring device
+JPH0513961A (en)	1991-06-28	1993-01-22	Toshiba Corp	Multilayer wiring board
+JPH0550070A (en)	1991-08-12	1993-03-02	Japan Carlit Co Ltd:The	Water treating apparatus
+JPH0598116A (en) *	1991-10-09	1993-04-20	Daikin Ind Ltd	Crosslinking composition
+US5546182A (en)	1993-05-21	1996-08-13	Daikin Industries Ltd.	Method for determination of trace metal impurity in fluorine-containing polymer and process for production of fluorine-containing polymer using the method
+US5412034A (en) *	1993-10-26	1995-05-02	E. I. Du Pont De Nemours And Company	Curable elastomeric blends
+JP3398492B2 (en)	1994-10-21	2003-04-21	日本メクトロン株式会社	Fluorine-containing elastomer composition
+JP3484250B2 (en)	1995-01-27	2004-01-06	カヤバ工業株式会社	Cutting oil recovery device
+DE19530636A1 (en)	1995-08-21	1997-02-27	Bayer Ag	Reactive and processable fluororubbers, a process for their preparation, a process for the production of crosslinked, grafted or modified fluoroelastomers using the reactive and processable fluororubbers and their use
+US6140437A (en)	1995-12-28	2000-10-31	Daikin Industries Ltd.	Fluorine-containing elastic copolymers, curable composition containing the same and sealant made therefrom
+JP3966570B2 (en) *	1997-03-14	2007-08-29	株式会社クレハ	Battery binder solution and method for producing the same
+US6794457B2 (en)	2001-04-30	2004-09-21	3M Innovative Properties Company	Fluoropolymer curing system containing a nitrogen cure site monomer
+JP2006316112A (en) *	2005-05-10	2006-11-24	Daikin Ind Ltd	Fluorine-containing elastomer composition and molded article comprising the same
+US8211964B2 (en) *	2005-07-26	2012-07-03	Daikin Industries, Ltd.	Curable composition, molded article obtained from same and process for production of molded article
+US20090124759A1 (en) *	2005-10-27	2009-05-14	Daikin Industries, Ltd.	Crosslinkable composition and molded article made of same
+JPWO2007119834A1 (en) *	2006-04-19	2009-08-27	旭硝子株式会社	Fluorine-containing elastomer composition and fluorine-containing rubber molded product
+CN102076727A (en) *	2008-07-10	2011-05-25	纳幕尔杜邦公司	Applications of ethylene/terafluoroethylene copolymer
+JP2010275560A (en) *	2010-08-10	2010-12-09	Nichias Corp	Perfluoroelastomer composition and molded article thereof
+JP2013144419A (en) *	2012-01-16	2013-07-25	Toyo Ink Sc Holdings Co Ltd	Reflective laminate
+WO2014132840A1 (en) *	2013-02-28	2014-09-04	ダイキン工業株式会社	Rubber composition
+CN107636066B (en) *	2015-06-19	2020-06-05	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+CN112543788B (en) *	2018-07-30	2023-10-24	大金工业株式会社	Compositions and molded articles containing fluoropolymers
+
+=== TABLE 21 (20 rows) ===
+Publication number	Priority date	Publication date	Assignee	Title
+US3686143A (en) *	1971-03-22	1972-08-22	Du Pont	Guanidine and amidine accelerators for vulcanization of fluoroelastomers
+US4694045A (en) *	1985-12-11	1987-09-15	E. I. Du Pont De Nemours And Company	Base resistant fluoroelastomers
+JPH10138267A (en) *	1996-11-07	1998-05-26	Shin Etsu Chem Co Ltd	Method for producing conductive fluoro rubber sheet
+US20040214944A1 (en) *	1998-01-06	2004-10-28	Daikin Industries, Ltd.	Aqueous fluoroelastomer curable composition and coated article
+JP2000143919A (en) *	1998-11-16	2000-05-26	Nok Corp	Fluorinated blend polymer composition
+US8722780B2 (en) *	2008-02-28	2014-05-13	Nichias Corporation	Perfluoroelastomer composition and molded article hereof
+US20110236692A1 (en) *	2010-03-29	2011-09-29	Greene, Tweed Of Delaware, Inc.	Fluoroelastomer compositions having self-bonding characteristics and methods of making same
+US20130158154A1 (en) *	2011-12-15	2013-06-20	E.I.Du Pont De Nemours And Company	Coagent for free radical curing fluoroelastomers
+WO2014099453A1 (en) *	2012-12-18	2014-06-26	E. I. Du Pont De Nemours And Company	Process for producing fluoroelastomers
+US20160369021A1 (en) *	2013-06-28	2016-12-22	Solvay Specialty Polymers Italy S.P.A.	Fluoroelastomers
+US20170226336A1 (en) *	2014-08-22	2017-08-10	3M Innovative Properties Company	Fluorothermoplastic polymer compositions
+CN105733039A (en) *	2016-04-26	2016-07-06	安徽润康橡塑科技有限公司	Automotive high-strength rubber
+WO2017208927A1 (en) *	2016-05-30	2017-12-07	日本バルカー工業株式会社	Perfluoroelastomer composition and sealing material
+US20200317901A1 (en) *	2016-05-30	2020-10-08	Nippon Valqua Industries, Ltd.	Perfluoroelastomer composition and sealing material
+CN107652559A (en) *	2016-07-26	2018-02-02	周丽	A kind of wearability rubber seal and preparation method thereof
+CN106336602A (en) *	2016-08-30	2017-01-18	无锡神意环件法兰有限公司	High temperature resistance socket welding flange
+US20200016874A1 (en) *	2017-03-30	2020-01-16	Mitsui Chemicals, Inc.	Laminate
+WO2018225586A1 (en) *	2017-06-05	2018-12-13	Ａｇｃ株式会社	Fluorine-containing elastic copolymer and production method therefor
+US20200102409A1 (en) *	2017-06-05	2020-04-02	AGC Inc.	Fluorinated elastic copolymer and method for its production
+
+=== TABLE 22 (8 rows) ===
+Title
+American Ingredients Company, https://www.ams.usda.gov/sites/default/files/media/Calcium%20Stearate%20Petition.pdf, September 26, 2001 (Year: 2001) *
+Jaw, "The thermal decomposition behaviors of stearic acid, paraffin wax and polyvinyl butyral", Thermochimica Acta, 367-368 (2001), 165-168 (Year: 2001) *
+Machine translation of CN 105733039 A, retrieved May 2023 (Year: 2023) *
+Machine translation of CN 106336602 A, retrieved May 2023 (Year: 2023) *
+Machine translation of CN 107652559 A, retrieved May 2023 (Year: 2023) *
+Machine translation of JP 10138267 A, retrieved October 2023 (Year: 2023) *
+Machine translation of JP 2000143919 A, retrieved October 2023 (Year: 2023) *
+
+=== TABLE 23 (17 rows) ===
+Publication number	Publication date
+KR20210024137A (en)	2021-03-04
+TW202016194A (en)	2020-05-01
+WO2020026909A1 (en)	2020-02-06
+KR102830613B1 (en)	2025-07-08
+US12583957B2 (en)	2026-03-24
+JPWO2020026909A1 (en)	2021-06-03
+JP7206519B2 (en)	2023-01-18
+JP2022010304A (en)	2022-01-14
+KR20230008884A (en)	2023-01-16
+TWI778283B (en)	2022-09-21
+CN112543788B (en)	2023-10-24
+EP3831877A4 (en)	2022-04-27
+CN112543788A (en)	2021-03-23
+JP6985633B2 (en)	2021-12-22
+EP3831877A1 (en)	2021-06-09
+KR102482329B1 (en)	2022-12-29
+
+=== TABLE 24 (14 rows) ===
+Publication	Publication Date	Title
+US12583957B2 (en)	2026-03-24	Fluoropolymer-containing composition and molded article
+JP5487584B2 (en)	2014-05-07	Crosslinkable elastomer composition and molded article comprising the composition
+US12297341B2 (en)	2025-05-13	Fluorine-containing elastomer composition and article
+TWI601777B (en)	2017-10-11	Fluoroelastomer composition and molded product
+CN111212874B (en)	2022-03-04	Cross-linkable elastomer composition and fluororubber molded article
+US11072700B2 (en)	2021-07-27	Composition comprising fluoropolymer and molded article
+EP3486283B1 (en)	2022-06-15	Composition and molded article
+JP4600393B2 (en)	2010-12-15	Fluorine-containing elastomer composition
+US20240327633A1 (en)	2024-10-03	Perfluoroelastomer composition and perfluoroelastomer crosslinked article
+US12304984B2 (en)	2025-05-20	Composition containing fluorine-containing polymer and crosslinked article
+US12091537B2 (en)	2024-09-17	Composition and molded article containing fluorine-containing polymer
+WO2024147336A1 (en)	2024-07-11	Polymer blend, crosslinkable composition, and article
+JP7165338B2 (en)	2022-11-04	Compositions and articles
+
+=== TABLE 25 (19 rows) ===
+Date	Code	Title	Description
+2021-01-29	AS	Assignment	Owner name: DAIKIN INDUSTRIES, LTD., JAPAN Free format text: ASSIGNMENT OF ASSIGNORS INTEREST;ASSIGNORS:HIRANO, SEIICHI;NOGUCHI, TSUYOSHI;SIGNING DATES FROM 20190903 TO 20190906;REEL/FRAME:055082/0124
+2021-01-29	FEPP	Fee payment procedure	Free format text: ENTITY STATUS SET TO UNDISCOUNTED (ORIGINAL EVENT CODE: BIG.); ENTITY STATUS OF PATENT OWNER: LARGE ENTITY
+2021-08-23	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2023-06-05	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2023-09-11	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2023-10-25	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2024-01-29	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2024-02-09	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2024-05-16	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2024-07-24	STPP	Information on status: patent application and granting procedure in general	Free format text: FINAL REJECTION MAILED
+2024-10-29	STPP	Information on status: patent application and granting procedure in general	Free format text: DOCKETED NEW CASE - READY FOR EXAMINATION
+2024-12-05	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2025-05-06	STPP	Information on status: patent application and granting procedure in general	Free format text: NON FINAL ACTION MAILED
+2025-08-14	STPP	Information on status: patent application and granting procedure in general	Free format text: RESPONSE TO NON-FINAL OFFICE ACTION ENTERED AND FORWARDED TO EXAMINER
+2025-11-24	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2025-11-25	STPP	Information on status: patent application and granting procedure in general	Free format text: NOTICE OF ALLOWANCE MAILED -- APPLICATION RECEIVED IN OFFICE OF PUBLICATIONS
+2026-02-20	STPP	Information on status: patent application and granting procedure in general	Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT RECEIVED Free format text: PUBLICATIONS -- ISSUE FEE PAYMENT VERIFIED
+2026-03-11	STCF	Information on status: patent grant	Free format text: PATENTED CASE

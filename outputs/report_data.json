@@ -1,0 +1,4536 @@
+{
+ "targets": [
+  "hardness_shoreA",
+  "tensile_MPa",
+  "elongation_pct",
+  "m100_MPa",
+  "compression_set_pct"
+ ],
+ "kor": {
+  "hardness_shoreA": "경도 (Shore A)",
+  "tensile_MPa": "인장강도 (MPa)",
+  "elongation_pct": "신율 (%)",
+  "m100_MPa": "100% 모듈러스 (MPa)",
+  "compression_set_pct": "압축영구줄음률 (%)"
+ },
+ "kor_short": {
+  "hardness_shoreA": "경도",
+  "tensile_MPa": "인장강도",
+  "elongation_pct": "신율",
+  "m100_MPa": "M100",
+  "compression_set_pct": "압축영구줄음률"
+ },
+ "unit": {
+  "hardness_shoreA": "Shore A",
+  "tensile_MPa": "MPa",
+  "elongation_pct": "%",
+  "m100_MPa": "MPa",
+  "compression_set_pct": "%p"
+ },
+ "counts": {
+  "raw_rows": 412,
+  "raw_sources": 40,
+  "model_rows": 333,
+  "model_sources": 33,
+  "excl_nonsemi": 22,
+  "pkg_rule": 20,
+  "excl_unknown": 27,
+  "excl_blend": 20,
+  "hard_blank": 8,
+  "el_fix": 1,
+  "fam_dup": 2,
+  "ffkm": 243,
+  "fkm": 90,
+  "cure_counts": {
+   "peroxide": 147,
+   "nitrile_other": 60,
+   "nitrile_triazine": 46,
+   "nitrile_bisaminophenol": 45,
+   "other": 20,
+   "nitrile_organotin": 10,
+   "bisphenol": 5
+  },
+  "n_trials_total": 525,
+  "n_trials_gp": 510,
+  "by_batch": {
+   "batch_daikin": {
+    "n": 82,
+    "s": 8
+   },
+   "batch_dupont3mgt": {
+    "n": 113,
+    "s": 12
+   },
+   "batch_japan": {
+    "n": 158,
+    "s": 11
+   },
+   "batch_krcn": {
+    "n": 59,
+    "s": 9
+   }
+  }
+ },
+ "sources": [
+  [
+   "US11072700B2",
+   "Daikin Industries, Ltd.",
+   "Composition comprising fluoropolymer and molded article",
+   6,
+   6
+  ],
+  [
+   "US11753523B2",
+   "Daikin Industries, Ltd.",
+   "Crosslinkable elastomer composition and fluororubber molded article",
+   15,
+   15
+  ],
+  [
+   "US12091537B2",
+   "Daikin Industries, Ltd.",
+   "Composition and molded article containing fluorine-containing polymer",
+   7,
+   7
+  ],
+  [
+   "US12304984B2",
+   "Daikin Industries, Ltd.",
+   "Composition containing fluorine-containing polymer and crosslinked article",
+   2,
+   2
+  ],
+  [
+   "US6803402B2",
+   "Daikin Industries, Ltd.",
+   "Elastomer molded article and crosslinkable fluorine-containing elastomer composi",
+   5,
+   5
+  ],
+  [
+   "US7678858B2",
+   "Daikin Industries, Ltd.",
+   "Fluorine-containing elastomer composition excellent in plasma-aging prevention e",
+   23,
+   23
+  ],
+  [
+   "US8173727B2",
+   "Daikin Industries, Ltd.",
+   "Crosslinkable elastomer composition and molded article using the same",
+   14,
+   14
+  ],
+  [
+   "US8211964B2",
+   "Daikin Industries, Ltd.",
+   "Curable composition, molded article obtained from same and process for productio",
+   10,
+   10
+  ],
+  [
+   "US20040019153A1",
+   "DuPont Dow Elastomers LLC",
+   "Process for making hig purity translucent perfluoroelastomer articles",
+   3,
+   3
+  ],
+  [
+   "US20050107544A1",
+   "DuPont Dow Elastomers LLC",
+   "Plasma resistant curable fluoroelastomer composition",
+   9,
+   9
+  ],
+  [
+   "US5696189A",
+   "EI Du Pont de Nemours and Co",
+   "Perfluoroelastomer compositions",
+   9,
+   9
+  ],
+  [
+   "US6191208B1",
+   "DuPont Dow Elastomers LLC",
+   "Thermally stable perfluoroelastomer composition",
+   4,
+   4
+  ],
+  [
+   "US6211319B1",
+   "EI Du Pont de Nemours and Co",
+   "Perfluoroelastomer composition having improved processability",
+   1,
+   1
+  ],
+  [
+   "US6281296B1",
+   "DuPont Dow Elastomers LLC",
+   "Curable perfluoroelastomer composition",
+   6,
+   6
+  ],
+  [
+   "US6956085B2",
+   "3M Innovative Properties Co",
+   "Fluoroelastomer compositions",
+   6,
+   6
+  ],
+  [
+   "US6992143B2",
+   "DuPont Dow Elastomers LLC",
+   "Curable perfluoroelastomer composition",
+   9,
+   9
+  ],
+  [
+   "US7247749B2",
+   "Greene Tweed of Delaware Inc",
+   "Bisaminophenyl-based curatives and amidine-based curatives and cure accelerators",
+   34,
+   30
+  ],
+  [
+   "US7354974B2",
+   "DuPont Performance Elastomers LLC",
+   "Blends of perfluoroelastomers and fluoroplastics",
+   10,
+   10
+  ],
+  [
+   "US7402630B2",
+   "3M Innovative Properties Co",
+   "Curing compositions for fluoropolymers",
+   8,
+   3
+  ],
+  [
+   "US8367776B2",
+   "Daikin Industries Ltd; Greene Tweed of Del",
+   "Perfluoroelastomer compositions and methods of preparing same",
+   14,
+   14
+  ],
+  [
+   "EP4249550A1",
+   "Mitsubishi Cable Industries, Ltd.",
+   "Fluorine rubber composition and rubber molded article formed using same",
+   20,
+   20
+  ],
+  [
+   "US10723872B2",
+   "Nichias Corporation",
+   "Crosslinkable elastomer composition, molded article, seal member, plasma treatme",
+   8,
+   0
+  ],
+  [
+   "US11118045B2",
+   "Valqua, Ltd.",
+   "Perfluoroelastomer composition and sealing material",
+   20,
+   19
+  ],
+  [
+   "US12305107B2",
+   "Nichias Corporation",
+   "Perfluoroelastomer composition, cross-linked perfluoroelastomer and molded artic",
+   3,
+   2
+  ],
+  [
+   "US12584054B2",
+   "Mitsubishi Cable Industries, Ltd.",
+   "Semiconductor production device sealing material",
+   22,
+   20
+  ],
+  [
+   "US20090093590A1",
+   "Nippon Valqua Industries, Ltd.",
+   "Seal Material for Semiconductor Production Apparatus",
+   15,
+   3
+  ],
+  [
+   "US20160319102A1",
+   "Valqua, Ltd.",
+   "Perfluoroelastomer composition, sealing material, and method for producing same",
+   15,
+   15
+  ],
+  [
+   "US20230174763A1",
+   "Mitsubishi Cable Industries, Ltd.",
+   "Elastomer composition and sealing material comprising same",
+   13,
+   13
+  ],
+  [
+   "US20230365800A1",
+   "Valqua, Ltd.",
+   "Elastomer Composition, Sealing Material, and Method for Producing Sealing Materi",
+   14,
+   13
+  ],
+  [
+   "US7666948B2",
+   "Nichias Corporation",
+   "Elastomer composition and molded body",
+   9,
+   2
+  ],
+  [
+   "US8349965B2",
+   "Nippon Valqua Industries, Ltd.",
+   "Fluororubber composition capable of forming crack-resistant seal and crack-resis",
+   19,
+   18
+  ],
+  [
+   "CN106633544B",
+   "Shanghai Rushi Sealing Technology Co., Ltd",
+   "Fluororubber material for high-temperature high-pressure resistant sealing eleme",
+   8,
+   0
+  ],
+  [
+   "KR100894110B1",
+   "M&E Co., Ltd.",
+   "Perfluoro rubbers for semiconductor sealing with improved elongation",
+   3,
+   2
+  ],
+  [
+   "KR101467101B1",
+   "M&E Co., Ltd.",
+   "Compound for sealing (FFKM compound for semiconductor/LCD CVD equipment)",
+   16,
+   14
+  ],
+  [
+   "KR102323568B1",
+   "Chung-Ang University Industry-Academic Coo",
+   "Perfluoro elastomer composite with improved heat resistance, and method of fabri",
+   4,
+   0
+  ],
+  [
+   "KR102324534B1",
+   "SHPP Global Technologies B.V.",
+   "Composite material comprising fluoroelastomer and polyimide, method for producin",
+   7,
+   0
+  ],
+  [
+   "KR102400335B1",
+   "M&E Co., Ltd.",
+   "Sealing material for semiconductor manufacturing apparatus with improved plasma ",
+   6,
+   6
+  ],
+  [
+   "KR102713660B1",
+   "Hansung Tech Co., Ltd.",
+   "Method for manufacturing perfluororubber and fluororubber composite with improve",
+   8,
+   0
+  ],
+  [
+   "KR102796110B1",
+   "DYFLEX Co., Ltd.",
+   "Fluororubber-based composition for sealing",
+   5,
+   0
+  ],
+  [
+   "KR20130014651A",
+   "Pyung Hwa Oil Seal Industry Co., Ltd.",
+   "Rubber composition of FKM oil seal with improved wear resistance",
+   2,
+   0
+  ]
+ ],
+ "assignee_groups": {
+  "batch_daikin": 82,
+  "batch_dupont3mgt": 104,
+  "batch_japan": 125,
+  "batch_krcn": 22
+ },
+ "stats": {
+  "hardness_shoreA": {
+   "n": 227,
+   "mean": 70.57797356828195,
+   "std": 8.971688475727017,
+   "min": 51.0,
+   "max": 97.0
+  },
+  "tensile_MPa": {
+   "n": 263,
+   "mean": 14.537794676806083,
+   "std": 4.976061826504262,
+   "min": 4.36,
+   "max": 27.6
+  },
+  "elongation_pct": {
+   "n": 270,
+   "mean": 211.89925925925928,
+   "std": 58.32770005961835,
+   "min": 105.0,
+   "max": 399.0
+  },
+  "m100_MPa": {
+   "n": 264,
+   "mean": 5.371780303030303,
+   "std": 3.613109876292954,
+   "min": 1.01,
+   "max": 20.9
+  },
+  "compression_set_pct": {
+   "n": 250,
+   "mean": 29.212880000000002,
+   "std": 13.962846703227509,
+   "min": 8.0,
+   "max": 95.0
+  }
+ },
+ "corr": {
+  "hardness_shoreA": [
+   [
+    "total_filler_phr",
+    0.6880452210204359
+   ],
+   [
+    "is_FFKM",
+    0.41714015414218514
+   ],
+   [
+    "organic_additive_phr",
+    0.24120318125636753
+   ],
+   [
+    "alumina_phr",
+    0.22756943271721672
+   ]
+  ],
+  "tensile_MPa": [
+   [
+    "alumina_phr",
+    0.3892226388911715
+   ],
+   [
+    "peroxide_phr",
+    0.34143200199293455
+   ],
+   [
+    "organic_additive_phr",
+    0.3116252026347203
+   ],
+   [
+    "total_filler_phr",
+    0.29274230332905915
+   ]
+  ],
+  "elongation_pct": [
+   [
+    "total_filler_phr",
+    -0.2645742234621836
+   ],
+   [
+    "carbon_black_phr",
+    -0.2513019013814636
+   ],
+   [
+    "fluororesin_phr",
+    0.23651387665991205
+   ],
+   [
+    "alumina_phr",
+    -0.22722470723763935
+   ]
+  ],
+  "m100_MPa": [
+   [
+    "total_filler_phr",
+    0.5908084198920474
+   ],
+   [
+    "organic_additive_phr",
+    0.3275346758757308
+   ],
+   [
+    "alumina_phr",
+    0.29627884017187384
+   ],
+   [
+    "carbon_black_phr",
+    0.19438758331626213
+   ]
+  ],
+  "compression_set_pct": [
+   [
+    "carbon_black_phr",
+    -0.2656695817117066
+   ],
+   [
+    "other_inorganic_filler_phr",
+    0.2339476075767376
+   ],
+   [
+    "silica_phr",
+    0.19151214200900857
+   ],
+   [
+    "other_curative_phr",
+    -0.17299832358653178
+   ]
+  ]
+ },
+ "usage": {
+  "carbon_black_phr": 85,
+  "silica_phr": 72,
+  "alumina_phr": 20,
+  "barium_sulfate_phr": 18,
+  "titanium_oxide_phr": 22,
+  "fluororesin_phr": 52,
+  "other_inorganic_filler_phr": 25,
+  "organic_additive_phr": 66,
+  "coagent_phr": 151,
+  "peroxide_phr": 151,
+  "nitrile_curative_phr": 159,
+  "other_curative_phr": 62,
+  "acid_acceptor_phr": 13,
+  "total_filler_phr": 269
+ },
+ "phr_max": {
+  "carbon_black_phr": 65.0,
+  "silica_phr": 25.0,
+  "alumina_phr": 15.0,
+  "barium_sulfate_phr": 40.0,
+  "titanium_oxide_phr": 17.5,
+  "fluororesin_phr": 300.0,
+  "other_inorganic_filler_phr": 69.93,
+  "organic_additive_phr": 50.0,
+  "coagent_phr": 7.0,
+  "peroxide_phr": 3.0,
+  "nitrile_curative_phr": 4.0,
+  "other_curative_phr": 7.05,
+  "acid_acceptor_phr": 9.0,
+  "total_filler_phr": 300.0
+ },
+ "res": {
+  "hardness_shoreA": {
+   "n_total": 227,
+   "n_dev": 181,
+   "n_test": 46,
+   "n_sources": 21,
+   "y_std": 8.971688475727017,
+   "baselines_cv": {
+    "GP_sklearn_default": -1254.0675884167342,
+    "Ridge": 0.5394443226238897,
+    "RandomForest": 0.6652839166773477
+   },
+   "baselines_cv_rmse": {
+    "GP_sklearn_default": 308.1895432712777,
+    "Ridge": 6.1739150176514475,
+    "RandomForest": 5.2508942094643025
+   },
+   "screen": [
+    [
+     "RBF",
+     "ARD",
+     "0.643",
+     "5.44",
+     "91%",
+     "36.1"
+    ],
+    [
+     "RBF",
+     "등방성",
+     "0.676",
+     "5.18",
+     "91%",
+     "1.1"
+    ],
+    [
+     "Matérn ν=1/2",
+     "ARD",
+     "0.623",
+     "5.58",
+     "91%",
+     "44.5"
+    ],
+    [
+     "Matérn ν=1/2",
+     "등방성",
+     "0.662",
+     "5.29",
+     "93%",
+     "1.3"
+    ],
+    [
+     "Matérn ν=3/2",
+     "ARD",
+     "0.612",
+     "5.67",
+     "91%",
+     "42.2"
+    ],
+    [
+     "Matérn ν=3/2",
+     "등방성",
+     "0.663",
+     "5.28",
+     "92%",
+     "2.3"
+    ],
+    [
+     "Matérn ν=5/2",
+     "ARD",
+     "0.639",
+     "5.46",
+     "90%",
+     "39.1"
+    ],
+    [
+     "Matérn ν=5/2",
+     "등방성",
+     "0.665",
+     "5.26",
+     "91%",
+     "1.5"
+    ],
+    [
+     "Rational Quadratic",
+     "등방성",
+     "0.669",
+     "5.23",
+     "92%",
+     "2.4"
+    ]
+   ],
+   "screen_best": {
+    "kernel": "rbf",
+    "ard": false,
+    "R2": 0.675769382897476,
+    "RMSE": 5.1802143560779825,
+    "MAE": 3.6258070273508682,
+    "cov95": 0.9060773480662984,
+    "NLPD": 3.202627433347187,
+    "R2_std": 0.0,
+    "sec": 1.078256368637085
+   },
+   "bo_runs": [
+    {
+     "seed": 0,
+     "best": 0.7239036503226204,
+     "iter": 23,
+     "cfg": {
+      "kernel": "matern12",
+      "ard": true,
+      "linear": true,
+      "x_transform": "std",
+      "y_transform": "none",
+      "feature_set": "compact",
+      "ls_init": 0.3243457292944576,
+      "noise_init": -0.2601533749779472,
+      "noise_floor": -4.177397732801003
+     },
+     "cfg_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+     "first_init_best": 0.7060605698879496,
+     "curve": [
+      0.7019879150221228,
+      0.7019879150221228,
+      0.7019879150221228,
+      0.7019879150221228,
+      0.7019879150221228,
+      0.7060605698879496,
+      0.7060605698879496,
+      0.7060605698879496,
+      0.7060605698879496,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7073321944062552,
+      0.7239036503226204,
+      0.7239036503226204,
+      0.7239036503226204,
+      0.7239036503226204,
+      0.7239036503226204,
+      0.7239036503226204,
+      0.7239036503226204,
+      0.7239036503226204
+     ]
+    },
+    {
+     "seed": 1,
+     "best": 0.7269440964085783,
+     "iter": 7,
+     "cfg": {
+      "kernel": "matern32",
+      "ard": true,
+      "linear": true,
+      "x_transform": "log1p",
+      "y_transform": "log",
+      "feature_set": "full_agg",
+      "ls_init": -0.8753008417002488,
+      "noise_init": -1.0760154925818752,
+      "noise_floor": -2.589468646077373
+     },
+     "cfg_text": "Matérn ν=3/2 + ARD + 선형(DotProduct)",
+     "first_init_best": 0.7269440964085783,
+     "curve": [
+      0.6293209309963268,
+      0.7029112579408483,
+      0.7029112579408483,
+      0.7029112579408483,
+      0.7029112579408483,
+      0.7029112579408483,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783,
+      0.7269440964085783
+     ]
+    },
+    {
+     "seed": 2,
+     "best": 0.7144161341085526,
+     "iter": 18,
+     "cfg": {
+      "kernel": "rq",
+      "ard": false,
+      "linear": false,
+      "x_transform": "std",
+      "y_transform": "none",
+      "feature_set": "full_agg",
+      "ls_init": -0.6647617294564545,
+      "noise_init": -0.4051917618402947,
+      "noise_floor": -2.725102135064584
+     },
+     "cfg_text": "Rational Quadratic (등방성)",
+     "first_init_best": 0.7096463944705562,
+     "curve": [
+      0.676911326649325,
+      0.7019542844579223,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7096463944705562,
+      0.7139121418734375,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526,
+      0.7144161341085526
+     ]
+    }
+   ],
+   "bo_n": 90,
+   "bo_ard_share": 0.5111111111111111,
+   "bo_kernel_counts": {
+    "matern32": 22,
+    "rq": 21,
+    "matern12": 20,
+    "rbf": 14,
+    "matern52": 13
+   },
+   "robust": [
+    {
+     "cfg_text": "Matérn ν=3/2 + ARD + 선형(DotProduct)",
+     "x": "log1p",
+     "y": "log",
+     "fs": "full_agg",
+     "search": 0.7269440964085783,
+     "robust": 0.7358239839450663,
+     "std": 0.017681147952765146,
+     "rmse": 4.673180554805653,
+     "cov": 0.9270718232044199
+    },
+    {
+     "cfg_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+     "x": "std",
+     "y": "none",
+     "fs": "compact",
+     "search": 0.7239036503226204,
+     "robust": 0.6948290683978366,
+     "std": 0.03872479860531482,
+     "rmse": 5.015808611892842,
+     "cov": 0.9281767955801105
+    },
+    {
+     "cfg_text": "Matérn ν=3/2 + ARD",
+     "x": "log1p",
+     "y": "log",
+     "fs": "compact",
+     "search": 0.7182845518611112,
+     "robust": 0.7121767823171609,
+     "std": 0.008684092174501359,
+     "rmse": 4.88016278217743,
+     "cov": 0.9248618784530386
+    }
+   ],
+   "best": {
+    "kernel": "matern32",
+    "ard": true,
+    "linear": true,
+    "x_transform": "log1p",
+    "y_transform": "log",
+    "feature_set": "full_agg",
+    "ls_init": -0.8753008417002488,
+    "noise_init": -1.0760154925818752,
+    "noise_floor": -2.589468646077373,
+    "n_restarts": 3
+   },
+   "best_text": "Matérn ν=3/2 + ARD + 선형(DotProduct)",
+   "best_cv": {
+    "search_R2": 0.7269440964085783,
+    "R2": 0.7358239839450663,
+    "RMSE": 4.673180554805653,
+    "MAE": 3.1569920843543082,
+    "cov95": 0.9270718232044199,
+    "NLPD": 3.2795468091481808,
+    "R2_std": 0.017681147952765146,
+    "sec": 501.8711767196655
+   },
+   "test": {
+    "R2": 0.9192872115097895,
+    "RMSE": 2.3658440935895357,
+    "MAE": 1.74515400898538,
+    "cov95": 0.9782608695652174,
+    "NLPD": 2.5223153601460013
+   },
+   "test_baselines": {
+    "GP_sklearn_default": -8.734311231212782,
+    "Ridge": 0.7746482092637588,
+    "RandomForest": 0.8129429763422555
+   },
+   "test_baselines_rmse": {
+    "GP_sklearn_default": 25.981699751985644,
+    "Ridge": 3.953169651482865,
+    "RandomForest": 3.6016537234610793
+   },
+   "lso": {
+    "R2": 0.37882507314004477,
+    "RMSE": 7.055412901296126,
+    "MAE": 5.599908446796527,
+    "cov95": 0.8810572687224669,
+    "NLPD": 3.5979835501074984,
+    "R2_std": 0.0
+   },
+   "final_kernel": "0.776**2 * Matern(length_scale=[1e+03, 2.81, 0.0724, 1e+03, 1.93, 1e+03, 8.19, 1e+03, 0.107, 15.3, 2.65, 1e+03, 0.133, 710, 1.57, 318, 0.133, 0.133, 0.133], nu=1.5) + 0.157**2 * DotProduct(sigma_0=0.00366) + WhiteKernel(noise_level=0.117)",
+   "lml": -154.57528428050725,
+   "amp": 0.6014758446882265,
+   "noise": 0.1167148643691823,
+   "ls": [
+    999.9999999999998,
+    2.808994009785363,
+    0.07241615422112996,
+    999.9999999999998,
+    1.932792865059521,
+    999.9999999999998,
+    8.193273801623707,
+    999.9999999999998,
+    0.1066339910496383,
+    15.281934438447715,
+    2.6501757947747913,
+    999.9999999999998,
+    0.13325984287682074,
+    710.050748690943,
+    1.5688640230366955,
+    317.71482605930345,
+    0.13325979322204876,
+    0.13325979966397242,
+    0.13325940509240447
+   ],
+   "rq_alpha": null,
+   "nu": 1.5,
+   "features": [
+    "carbon_black_phr",
+    "silica_phr",
+    "alumina_phr",
+    "barium_sulfate_phr",
+    "titanium_oxide_phr",
+    "fluororesin_phr",
+    "other_inorganic_filler_phr",
+    "organic_additive_phr",
+    "coagent_phr",
+    "peroxide_phr",
+    "nitrile_curative_phr",
+    "other_curative_phr",
+    "acid_acceptor_phr",
+    "processing_aid_phr",
+    "total_filler_phr",
+    "total_curative_phr",
+    "is_FFKM",
+    "cure_peroxide",
+    "cure_nitrile"
+   ],
+   "features_kor": [
+    "카본블랙",
+    "실리카",
+    "알루미나",
+    "황산바륨",
+    "산화티탄",
+    "불소수지",
+    "기타 무기필러",
+    "유기첨가제",
+    "가교조제",
+    "과산화물",
+    "니트릴 가교제",
+    "기타 가교제",
+    "수산제",
+    "가공조제",
+    "총 필러량",
+    "총 가교계",
+    "FFKM 여부",
+    "과산화물 가교",
+    "니트릴 가교"
+   ],
+   "ard": {
+    "carbon_black_phr": 1000.0,
+    "silica_phr": 2.809,
+    "alumina_phr": 0.0724,
+    "barium_sulfate_phr": 1000.0,
+    "titanium_oxide_phr": 1.9328,
+    "fluororesin_phr": 1000.0,
+    "other_inorganic_filler_phr": 8.1933,
+    "organic_additive_phr": 1000.0,
+    "coagent_phr": 0.1066,
+    "peroxide_phr": 15.2819,
+    "nitrile_curative_phr": 2.6502,
+    "other_curative_phr": 1000.0,
+    "acid_acceptor_phr": 0.1333,
+    "processing_aid_phr": 710.0507,
+    "total_filler_phr": 1.5689,
+    "total_curative_phr": 317.7148,
+    "is_FFKM": 0.1333,
+    "cure_peroxide": 0.1333,
+    "cure_nitrile": 0.1333
+   },
+   "importance": [
+    [
+     "총 필러량",
+     0.6872102632305803
+    ],
+    [
+     "FFKM 여부",
+     0.38656478743653816
+    ],
+    [
+     "가교조제",
+     0.23321979203244278
+    ],
+    [
+     "니트릴 가교",
+     0.19755233445101728
+    ],
+    [
+     "실리카",
+     0.17608243869592397
+    ],
+    [
+     "과산화물 가교",
+     0.15163525575002515
+    ]
+   ],
+   "ad_n_out": 0,
+   "ad_out_rows": [],
+   "ad_r2_in": 0.9192872115097895,
+   "ad_rmse_in": 2.3658440935895357,
+   "noise_frac": 0.1625123562547405,
+   "top10": {
+    "kernel": {
+     "matern32": 4,
+     "matern12": 3,
+     "matern52": 2,
+     "rq": 1
+    },
+    "ard": {
+     "True": 7,
+     "False": 3
+    },
+    "linear": {
+     "True": 8,
+     "False": 2
+    },
+    "x_transform": {
+     "std": 6,
+     "log1p": 4
+    },
+    "y_transform": {
+     "none": 6,
+     "log": 4
+    },
+    "feature_set": {
+     "full_agg": 6,
+     "compact": 2,
+     "full": 2
+    }
+   },
+   "bo_min": 0.5500000528839437,
+   "bo_median": 0.6877435544457324
+  },
+  "tensile_MPa": {
+   "n_total": 263,
+   "n_dev": 210,
+   "n_test": 53,
+   "n_sources": 26,
+   "y_std": 4.976061826504262,
+   "baselines_cv": {
+    "GP_sklearn_default": -171.87672499624654,
+    "Ridge": -0.06655757724409772,
+    "RandomForest": 0.6167610888386544
+   },
+   "baselines_cv_rmse": {
+    "GP_sklearn_default": 65.90180690977425,
+    "Ridge": 5.02918029645561,
+    "RandomForest": 3.1401334469595135
+   },
+   "screen": [
+    [
+     "RBF",
+     "ARD",
+     "0.622",
+     "3.12",
+     "90%",
+     "43.5"
+    ],
+    [
+     "RBF",
+     "등방성",
+     "0.674",
+     "2.90",
+     "94%",
+     "1.3"
+    ],
+    [
+     "Matérn ν=1/2",
+     "ARD",
+     "0.612",
+     "3.16",
+     "91%",
+     "45.4"
+    ],
+    [
+     "Matérn ν=1/2",
+     "등방성",
+     "0.676",
+     "2.89",
+     "93%",
+     "1.5"
+    ],
+    [
+     "Matérn ν=3/2",
+     "ARD",
+     "0.636",
+     "3.06",
+     "93%",
+     "47.2"
+    ],
+    [
+     "Matérn ν=3/2",
+     "등방성",
+     "0.676",
+     "2.89",
+     "93%",
+     "1.8"
+    ],
+    [
+     "Matérn ν=5/2",
+     "ARD",
+     "0.628",
+     "3.09",
+     "90%",
+     "48.4"
+    ],
+    [
+     "Matérn ν=5/2",
+     "등방성",
+     "0.675",
+     "2.89",
+     "94%",
+     "1.7"
+    ],
+    [
+     "Rational Quadratic",
+     "등방성",
+     "0.674",
+     "2.90",
+     "94%",
+     "4.6"
+    ]
+   ],
+   "screen_best": {
+    "kernel": "matern32",
+    "ard": false,
+    "R2": 0.6756425823684553,
+    "RMSE": 2.88888277515124,
+    "MAE": 2.2785362601968906,
+    "cov95": 0.9333333333333333,
+    "NLPD": 2.5063113202538907,
+    "R2_std": 0.0,
+    "sec": 1.7824153900146484
+   },
+   "bo_runs": [
+    {
+     "seed": 0,
+     "best": 0.6957428808811997,
+     "iter": 30,
+     "cfg": {
+      "kernel": "matern12",
+      "ard": false,
+      "linear": false,
+      "x_transform": "log1p",
+      "y_transform": "none",
+      "feature_set": "full_cure6",
+      "ls_init": 0.9928482856289711,
+      "noise_init": -2.960172163483848,
+      "noise_floor": -2.2687212833782064
+     },
+     "cfg_text": "Matérn ν=1/2 (등방성)",
+     "first_init_best": 0.6691652408656132,
+     "curve": [
+      0.06476280448417426,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6691652408656132,
+      0.6778239543211116,
+      0.6854790017058706,
+      0.6854790017058706,
+      0.6854790259819021,
+      0.6854790259819021,
+      0.6854790259819021,
+      0.6854790259819021,
+      0.687270576606648,
+      0.6917288443243326,
+      0.6917288443243326,
+      0.6917288443243326,
+      0.6917288443243326,
+      0.6917288443243326,
+      0.6917288443243326,
+      0.6957428808811997
+     ]
+    },
+    {
+     "seed": 1,
+     "best": 0.6917286830488267,
+     "iter": 5,
+     "cfg": {
+      "kernel": "matern52",
+      "ard": false,
+      "linear": false,
+      "x_transform": "log1p",
+      "y_transform": "none",
+      "feature_set": "full_cure6",
+      "ls_init": -0.44621759190925836,
+      "noise_init": -2.5180439736746196,
+      "noise_floor": -2.1202983471354697
+     },
+     "cfg_text": "Matérn ν=5/2 (등방성)",
+     "first_init_best": 0.6917286830488267,
+     "curve": [
+      0.23125532675978255,
+      0.6313707242165205,
+      0.6709807212867501,
+      0.6709807212867501,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267,
+      0.6917286830488267
+     ]
+    },
+    {
+     "seed": 2,
+     "best": 0.6967340838729459,
+     "iter": 15,
+     "cfg": {
+      "kernel": "matern32",
+      "ard": false,
+      "linear": false,
+      "x_transform": "log1p",
+      "y_transform": "none",
+      "feature_set": "full_cure6",
+      "ls_init": 0.9827353429010512,
+      "noise_init": -0.934154955865818,
+      "noise_floor": -3.399431058420583
+     },
+     "cfg_text": "Matérn ν=3/2 (등방성)",
+     "first_init_best": 0.671348082896923,
+     "curve": [
+      0.5372420222684962,
+      0.5552017977974382,
+      0.6242028120462055,
+      0.6295881905539271,
+      0.6295881905539271,
+      0.671348082896923,
+      0.671348082896923,
+      0.671348082896923,
+      0.671348082896923,
+      0.671348082896923,
+      0.671348082896923,
+      0.671348082896923,
+      0.671348082896923,
+      0.677823992099666,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459,
+      0.6967340838729459
+     ]
+    }
+   ],
+   "bo_n": 90,
+   "bo_ard_share": 0.36666666666666664,
+   "bo_kernel_counts": {
+    "matern52": 24,
+    "matern32": 18,
+    "rq": 17,
+    "rbf": 16,
+    "matern12": 15
+   },
+   "robust": [
+    {
+     "cfg_text": "Matérn ν=3/2 (등방성)",
+     "x": "log1p",
+     "y": "none",
+     "fs": "full_cure6",
+     "search": 0.6967340838729459,
+     "robust": 0.6890583488109705,
+     "std": 0.01421541216441601,
+     "rmse": 2.8277744879033846,
+     "cov": 0.9333333333333332
+    },
+    {
+     "cfg_text": "Matérn ν=1/2 (등방성)",
+     "x": "log1p",
+     "y": "none",
+     "fs": "full_cure6",
+     "search": 0.6957428808811997,
+     "robust": 0.6911580806491857,
+     "std": 0.009959065551003071,
+     "rmse": 2.818577458001201,
+     "cov": 0.9476190476190476
+    },
+    {
+     "cfg_text": "Matérn ν=5/2 (등방성)",
+     "x": "log1p",
+     "y": "none",
+     "fs": "full_cure6",
+     "search": 0.6917288493436151,
+     "robust": 0.6853352886203389,
+     "std": 0.014053549087750262,
+     "rmse": 2.8446858993540887,
+     "cov": 0.9314285714285713
+    }
+   ],
+   "best": {
+    "kernel": "matern12",
+    "ard": false,
+    "linear": false,
+    "x_transform": "log1p",
+    "y_transform": "none",
+    "feature_set": "full_cure6",
+    "ls_init": 0.9928482856289711,
+    "noise_init": -2.960172163483848,
+    "noise_floor": -2.2687212833782064,
+    "n_restarts": 3
+   },
+   "best_text": "Matérn ν=1/2 (등방성)",
+   "best_cv": {
+    "search_R2": 0.6957428808811997,
+    "R2": 0.6911580806491857,
+    "RMSE": 2.818577458001201,
+    "MAE": 2.1496504581490665,
+    "cov95": 0.9476190476190476,
+    "NLPD": 2.475168882956598,
+    "R2_std": 0.009959065551003071,
+    "sec": 29.32317066192627
+   },
+   "test": {
+    "R2": 0.4834092692493802,
+    "RMSE": 3.249445997931024,
+    "MAE": 2.341804779871744,
+    "cov95": 0.9245283018867925,
+    "NLPD": 2.752793890738104
+   },
+   "test_baselines": {
+    "GP_sklearn_default": -3.725352655273703,
+    "Ridge": 0.15710124905784628,
+    "RandomForest": 0.4049465682217446
+   },
+   "test_baselines_rmse": {
+    "GP_sklearn_default": 9.827728089690504,
+    "Ridge": 4.1507227402521005,
+    "RandomForest": 3.4874982738559557
+   },
+   "lso": {
+    "R2": 0.3030631661727776,
+    "RMSE": 4.146247743427498,
+    "MAE": 3.3666554732310994,
+    "cov95": 0.9657794676806084,
+    "NLPD": 2.8164525434599255,
+    "R2_std": 0.0
+   },
+   "final_kernel": "1.47**2 * Matern(length_scale=13.2, nu=0.5) + WhiteKernel(noise_level=0.22)",
+   "lml": -269.0072754614393,
+   "amp": 2.1754511144625472,
+   "noise": 0.2199704154506859,
+   "ls": 13.20751284408567,
+   "rq_alpha": null,
+   "nu": 0.5,
+   "features": [
+    "carbon_black_phr",
+    "silica_phr",
+    "alumina_phr",
+    "barium_sulfate_phr",
+    "titanium_oxide_phr",
+    "fluororesin_phr",
+    "other_inorganic_filler_phr",
+    "organic_additive_phr",
+    "coagent_phr",
+    "peroxide_phr",
+    "nitrile_curative_phr",
+    "other_curative_phr",
+    "acid_acceptor_phr",
+    "processing_aid_phr",
+    "is_FFKM",
+    "cure_peroxide",
+    "cure_nitrile_triazine",
+    "cure_nitrile_bisaminophenol",
+    "cure_nitrile_organotin",
+    "cure_nitrile_other",
+    "cure_bisphenol"
+   ],
+   "features_kor": [
+    "카본블랙",
+    "실리카",
+    "알루미나",
+    "황산바륨",
+    "산화티탄",
+    "불소수지",
+    "기타 무기필러",
+    "유기첨가제",
+    "가교조제",
+    "과산화물",
+    "니트릴 가교제",
+    "기타 가교제",
+    "수산제",
+    "가공조제",
+    "FFKM 여부",
+    "과산화물 가교",
+    "트리아진 가교",
+    "비스아미노페놀 가교",
+    "유기주석 가교",
+    "기타 니트릴 가교",
+    "비스페놀 가교"
+   ],
+   "ard": null,
+   "importance": [
+    [
+     "카본블랙",
+     0.4058273116324289
+    ],
+    [
+     "알루미나",
+     0.3099023434821779
+    ],
+    [
+     "가공조제",
+     0.1736911600167736
+    ],
+    [
+     "불소수지",
+     0.17048971378985145
+    ],
+    [
+     "실리카",
+     0.12737190993600628
+    ],
+    [
+     "유기첨가제",
+     0.08966575591705034
+    ]
+   ],
+   "ad_n_out": 2,
+   "ad_out_rows": [
+    "US7247749B2 Sample 8",
+    "EP4249550A1 Example 8"
+   ],
+   "ad_r2_in": 0.4789641536613236,
+   "ad_rmse_in": 3.3106053371106032,
+   "noise_frac": 0.09182952257202667,
+   "top10": {
+    "kernel": {
+     "matern52": 3,
+     "rbf": 3,
+     "rq": 2,
+     "matern32": 1,
+     "matern12": 1
+    },
+    "ard": {
+     "False": 10
+    },
+    "linear": {
+     "False": 10
+    },
+    "x_transform": {
+     "log1p": 10
+    },
+    "y_transform": {
+     "none": 10
+    },
+    "feature_set": {
+     "full_cure6": 10
+    }
+   },
+   "bo_min": 0.0607056729713878,
+   "bo_median": 0.6132788756257843
+  },
+  "elongation_pct": {
+   "n_total": 270,
+   "n_dev": 216,
+   "n_test": 54,
+   "n_sources": 28,
+   "y_std": 58.32770005961835,
+   "baselines_cv": {
+    "GP_sklearn_default": -6466.22221172553,
+    "Ridge": 0.42401784574978185,
+    "RandomForest": 0.49921560473919424
+   },
+   "baselines_cv_rmse": {
+    "GP_sklearn_default": 3939.3981480710727,
+    "Ridge": 42.92371698982652,
+    "RandomForest": 40.02988066617645
+   },
+   "screen": [
+    [
+     "RBF",
+     "ARD",
+     "0.591",
+     "36.18",
+     "92%",
+     "43.3"
+    ],
+    [
+     "RBF",
+     "등방성",
+     "0.496",
+     "40.15",
+     "94%",
+     "1.8"
+    ],
+    [
+     "Matérn ν=1/2",
+     "ARD",
+     "0.622",
+     "34.77",
+     "93%",
+     "48.2"
+    ],
+    [
+     "Matérn ν=1/2",
+     "등방성",
+     "0.509",
+     "39.62",
+     "93%",
+     "2.1"
+    ],
+    [
+     "Matérn ν=3/2",
+     "ARD",
+     "0.621",
+     "34.82",
+     "93%",
+     "44.7"
+    ],
+    [
+     "Matérn ν=3/2",
+     "등방성",
+     "0.507",
+     "39.72",
+     "93%",
+     "2.0"
+    ],
+    [
+     "Matérn ν=5/2",
+     "ARD",
+     "0.612",
+     "35.23",
+     "93%",
+     "43.6"
+    ],
+    [
+     "Matérn ν=5/2",
+     "등방성",
+     "0.502",
+     "39.92",
+     "93%",
+     "1.9"
+    ],
+    [
+     "Rational Quadratic",
+     "등방성",
+     "0.500",
+     "39.99",
+     "93%",
+     "3.9"
+    ]
+   ],
+   "screen_best": {
+    "kernel": "matern12",
+    "ard": true,
+    "R2": 0.6222722332404368,
+    "RMSE": 34.767205862671254,
+    "MAE": 24.922569039769332,
+    "cov95": 0.9259259259259259,
+    "NLPD": 5.079734790205295,
+    "R2_std": 0.0,
+    "sec": 48.210389852523804
+   },
+   "bo_runs": [
+    {
+     "seed": 0,
+     "best": 0.6542027855377106,
+     "iter": 25,
+     "cfg": {
+      "kernel": "matern12",
+      "ard": true,
+      "linear": true,
+      "x_transform": "std",
+      "y_transform": "none",
+      "feature_set": "compact",
+      "ls_init": -0.28993232049883555,
+      "noise_init": -2.9695539734022574,
+      "noise_floor": -2.706758439569493
+     },
+     "cfg_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+     "first_init_best": 0.6007073372778651,
+     "curve": [
+      0.5345382214534669,
+      0.5418803018071181,
+      0.5523073189112906,
+      0.5523073189112906,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6007073372778651,
+      0.6203696459882736,
+      0.6203696459882736,
+      0.6542027855377106,
+      0.6542027855377106,
+      0.6542027855377106,
+      0.6542027855377106,
+      0.6542027855377106,
+      0.6542027855377106
+     ]
+    },
+    {
+     "seed": 1,
+     "best": 0.649695233981965,
+     "iter": 25,
+     "cfg": {
+      "kernel": "matern12",
+      "ard": true,
+      "linear": true,
+      "x_transform": "std",
+      "y_transform": "log",
+      "feature_set": "compact",
+      "ls_init": -0.48660647816983627,
+      "noise_init": -0.006892936216326806,
+      "noise_floor": -4.660602622246218
+     },
+     "cfg_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+     "first_init_best": 0.6007068365342736,
+     "curve": [
+      0.50446855668144,
+      0.5196097195731946,
+      0.5196097195731946,
+      0.5978937265811208,
+      0.5978937265811208,
+      0.5978937265811208,
+      0.5978937265811208,
+      0.6007068365342736,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6091139261118104,
+      0.6452844577028656,
+      0.6452844577028656,
+      0.6452844577028656,
+      0.6452844577028656,
+      0.6452844577028656,
+      0.6452844577028656,
+      0.6452844577028656,
+      0.649695233981965,
+      0.649695233981965,
+      0.649695233981965,
+      0.649695233981965,
+      0.649695233981965,
+      0.649695233981965
+     ]
+    },
+    {
+     "seed": 2,
+     "best": 0.6441406686524949,
+     "iter": 29,
+     "cfg": {
+      "kernel": "matern12",
+      "ard": true,
+      "linear": true,
+      "x_transform": "std",
+      "y_transform": "log",
+      "feature_set": "compact",
+      "ls_init": -0.6365565689045289,
+      "noise_init": -0.27870746686949754,
+      "noise_floor": -5.833101954607596
+     },
+     "cfg_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+     "first_init_best": 0.6087643270805634,
+     "curve": [
+      0.5846139561413508,
+      0.5846139561413508,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6087643270805634,
+      0.6207997001111347,
+      0.6365437068683684,
+      0.6365437068683684,
+      0.6365437068683684,
+      0.6365437068683684,
+      0.6365437068683684,
+      0.6365437068683684,
+      0.6365437068683684,
+      0.6439975405539554,
+      0.6441406686524949,
+      0.6441406686524949
+     ]
+    }
+   ],
+   "bo_n": 90,
+   "bo_ard_share": 0.6,
+   "bo_kernel_counts": {
+    "matern12": 29,
+    "rq": 22,
+    "matern52": 18,
+    "matern32": 14,
+    "rbf": 7
+   },
+   "robust": [
+    {
+     "cfg_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+     "x": "std",
+     "y": "none",
+     "fs": "compact",
+     "search": 0.6542027855377106,
+     "robust": 0.6273137918759717,
+     "std": 0.023186374373896517,
+     "rmse": 34.5180853688511,
+     "cov": 0.9342592592592593
+    },
+    {
+     "cfg_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+     "x": "std",
+     "y": "log",
+     "fs": "compact",
+     "search": 0.649695233981965,
+     "robust": 0.6301492788852464,
+     "std": 0.011932666963073562,
+     "rmse": 34.398388901839965,
+     "cov": 0.9305555555555556
+    },
+    {
+     "cfg_text": "Matérn ν=5/2 + ARD + 선형(DotProduct)",
+     "x": "std",
+     "y": "log",
+     "fs": "compact",
+     "search": 0.6365437068683684,
+     "robust": 0.625293751198344,
+     "std": 0.007517572140701374,
+     "rmse": 34.62612457397334,
+     "cov": 0.9314814814814815
+    }
+   ],
+   "best": {
+    "kernel": "matern12",
+    "ard": true,
+    "linear": true,
+    "x_transform": "std",
+    "y_transform": "log",
+    "feature_set": "compact",
+    "ls_init": -0.48660647816983627,
+    "noise_init": -0.006892936216326806,
+    "noise_floor": -4.660602622246218,
+    "n_restarts": 3
+   },
+   "best_text": "Matérn ν=1/2 + ARD + 선형(DotProduct)",
+   "best_cv": {
+    "search_R2": 0.649695233981965,
+    "R2": 0.6301492788852464,
+    "RMSE": 34.398388901839965,
+    "MAE": 24.214959870444638,
+    "cov95": 0.9305555555555556,
+    "NLPD": 5.116162232536478,
+    "R2_std": 0.011932666963073562,
+    "sec": 416.18024611473083
+   },
+   "test": {
+    "R2": -0.19179893517096214,
+    "RMSE": 70.25901342155818,
+    "MAE": 35.030430790871314,
+    "cov95": 0.9259259259259259,
+    "NLPD": 4.939978025056082
+   },
+   "test_baselines": {
+    "GP_sklearn_default": -1052.5173620889418,
+    "Ridge": 0.47057621822438145,
+    "RandomForest": 0.5974144453015642
+   },
+   "test_baselines_rmse": {
+    "GP_sklearn_default": 2088.918033791039,
+    "Ridge": 46.82764028420775,
+    "RandomForest": 40.834725873351594
+   },
+   "lso": {
+    "R2": -0.016057840677430324,
+    "RMSE": 58.685164412332895,
+    "MAE": 42.64657831671638,
+    "cov95": 0.8592592592592593,
+    "NLPD": 5.441945441832211,
+    "R2_std": 0.0
+   },
+   "final_kernel": "0.654**2 * Matern(length_scale=[0.0178, 1.05, 836, 3.34, 0.861, 18.5, 0.367, 23.3, 12.4, 854, 0.01, 0.0617, 0.01], nu=0.5) + 0.161**2 * DotProduct(sigma_0=0.00267) + WhiteKernel(noise_level=0.192)",
+   "lml": -253.17366666842122,
+   "amp": 0.42750697708931545,
+   "noise": 0.19231779086401807,
+   "ls": [
+    0.017753754465461954,
+    1.0477770280260579,
+    836.2142698867605,
+    3.3353995425312086,
+    0.8610293254137662,
+    18.46154819096268,
+    0.36744108998362685,
+    23.336503994077855,
+    12.432712976270395,
+    853.550896669107,
+    0.010000000000000004,
+    0.06174150321306506,
+    0.010000000000000004
+   ],
+   "rq_alpha": null,
+   "nu": 0.5,
+   "features": [
+    "carbon_black_phr",
+    "white_inorganic_phr",
+    "fluororesin_phr",
+    "organic_additive_phr",
+    "coagent_phr",
+    "peroxide_phr",
+    "nitrile_curative_phr",
+    "other_curative_phr",
+    "acid_acceptor_phr",
+    "total_filler_phr",
+    "is_FFKM",
+    "cure_peroxide",
+    "cure_nitrile"
+   ],
+   "features_kor": [
+    "카본블랙",
+    "백색 무기필러",
+    "불소수지",
+    "유기첨가제",
+    "가교조제",
+    "과산화물",
+    "니트릴 가교제",
+    "기타 가교제",
+    "수산제",
+    "총 필러량",
+    "FFKM 여부",
+    "과산화물 가교",
+    "니트릴 가교"
+   ],
+   "ard": {
+    "carbon_black_phr": 0.0178,
+    "white_inorganic_phr": 1.0478,
+    "fluororesin_phr": 836.2143,
+    "organic_additive_phr": 3.3354,
+    "coagent_phr": 0.861,
+    "peroxide_phr": 18.4615,
+    "nitrile_curative_phr": 0.3674,
+    "other_curative_phr": 23.3365,
+    "acid_acceptor_phr": 12.4327,
+    "total_filler_phr": 853.5509,
+    "is_FFKM": 0.01,
+    "cure_peroxide": 0.0617,
+    "cure_nitrile": 0.01
+   },
+   "importance": [
+    [
+     "총 필러량",
+     0.4028282222881665
+    ],
+    [
+     "가교조제",
+     0.33657908842100087
+    ],
+    [
+     "니트릴 가교제",
+     0.30992253867010905
+    ],
+    [
+     "FFKM 여부",
+     0.2655256763794305
+    ],
+    [
+     "카본블랙",
+     0.24082212154424795
+    ],
+    [
+     "과산화물",
+     0.2024630248211667
+    ]
+   ],
+   "ad_n_out": 4,
+   "ad_out_rows": [
+    "US12584054B2 Example 4",
+    "US7354974B2 Example 5",
+    "US7247749B2 Sample 8",
+    "US7354974B2 Example 6"
+   ],
+   "ad_r2_in": 0.6559243507978638,
+   "ad_rmse_in": 36.87704397722935,
+   "noise_frac": 0.3102776797691596,
+   "top10": {
+    "kernel": {
+     "matern12": 8,
+     "matern52": 1,
+     "rbf": 1
+    },
+    "ard": {
+     "True": 10
+    },
+    "linear": {
+     "True": 10
+    },
+    "x_transform": {
+     "std": 10
+    },
+    "y_transform": {
+     "log": 7,
+     "none": 3
+    },
+    "feature_set": {
+     "compact": 10
+    }
+   },
+   "bo_min": 0.47761370140238,
+   "bo_median": 0.5855309016859588
+  },
+  "m100_MPa": {
+   "n_total": 264,
+   "n_dev": 211,
+   "n_test": 53,
+   "n_sources": 26,
+   "y_std": 3.613109876292954,
+   "baselines_cv": {
+    "GP_sklearn_default": -1198.9414088631704,
+    "Ridge": 0.45827387739141245,
+    "RandomForest": 0.6038076316815797
+   },
+   "baselines_cv_rmse": {
+    "GP_sklearn_default": 129.91103411870557,
+    "Ridge": 2.7749538142350225,
+    "RandomForest": 2.372642512081038
+   },
+   "screen": [
+    [
+     "RBF",
+     "ARD",
+     "0.515",
+     "2.63",
+     "92%",
+     "40.9"
+    ],
+    [
+     "RBF",
+     "등방성",
+     "0.602",
+     "2.38",
+     "94%",
+     "1.7"
+    ],
+    [
+     "Matérn ν=1/2",
+     "ARD",
+     "0.541",
+     "2.55",
+     "92%",
+     "40.3"
+    ],
+    [
+     "Matérn ν=1/2",
+     "등방성",
+     "0.618",
+     "2.33",
+     "94%",
+     "1.9"
+    ],
+    [
+     "Matérn ν=3/2",
+     "ARD",
+     "0.545",
+     "2.54",
+     "92%",
+     "47.0"
+    ],
+    [
+     "Matérn ν=3/2",
+     "등방성",
+     "0.617",
+     "2.33",
+     "94%",
+     "1.8"
+    ],
+    [
+     "Matérn ν=5/2",
+     "ARD",
+     "0.534",
+     "2.57",
+     "92%",
+     "50.4"
+    ],
+    [
+     "Matérn ν=5/2",
+     "등방성",
+     "0.612",
+     "2.35",
+     "93%",
+     "1.7"
+    ],
+    [
+     "Rational Quadratic",
+     "등방성",
+     "0.611",
+     "2.35",
+     "93%",
+     "3.5"
+    ]
+   ],
+   "screen_best": {
+    "kernel": "matern12",
+    "ard": false,
+    "R2": 0.6179446061595932,
+    "RMSE": 2.3304738335687483,
+    "MAE": 1.5425105623014819,
+    "cov95": 0.943127962085308,
+    "NLPD": 2.274698582343528,
+    "R2_std": 0.0,
+    "sec": 1.9353899955749512
+   },
+   "bo_runs": [
+    {
+     "seed": 0,
+     "best": 0.7286320208335783,
+     "iter": 9,
+     "cfg": {
+      "kernel": "matern12",
+      "ard": false,
+      "linear": true,
+      "x_transform": "std",
+      "y_transform": "none",
+      "feature_set": "full_cure6",
+      "ls_init": 0.9219744817257234,
+      "noise_init": -2.7118094481033856,
+      "noise_floor": -5.709593265912936
+     },
+     "cfg_text": "Matérn ν=1/2 (등방성) + 선형(DotProduct)",
+     "first_init_best": 0.6934787227333654,
+     "curve": [
+      0.6934787227333654,
+      0.6934787227333654,
+      0.6934787227333654,
+      0.6934787227333654,
+      0.6934787227333654,
+      0.6934787227333654,
+      0.6934787227333654,
+      0.6934787227333654,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783,
+      0.7286320208335783
+     ]
+    },
+    {
+     "seed": 1,
+     "best": 0.7286315685037039,
+     "iter": 26,
+     "cfg": {
+      "kernel": "matern12",
+      "ard": false,
+      "linear": true,
+      "x_transform": "std",
+      "y_transform": "none",
+      "feature_set": "full_cure6",
+      "ls_init": 0.39417084421890336,
+      "noise_init": -0.7468776898737444,
+      "noise_floor": -3.2220278948407164
+     },
+     "cfg_text": "Matérn ν=1/2 (등방성) + 선형(DotProduct)",
+     "first_init_best": 0.7118657661421555,
+     "curve": [
+      0.598842452184609,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7118657661421555,
+      0.7286315685037039,
+      0.7286315685037039,
+      0.7286315685037039,
+      0.7286315685037039,
+      0.7286315685037039
+     ]
+    },
+    {
+     "seed": 2,
+     "best": 0.714698828036658,
+     "iter": 23,
+     "cfg": {
+      "kernel": "matern52",
+      "ard": true,
+      "linear": false,
+      "x_transform": "log1p",
+      "y_transform": "log",
+      "feature_set": "full_agg",
+      "ls_init": 0.7380174366164798,
+      "noise_init": -1.0264859807922582,
+      "noise_floor": -5.853714372777397
+     },
+     "cfg_text": "Matérn ν=5/2 + ARD",
+     "first_init_best": 0.7041899320725638,
+     "curve": [
+      0.5951893153295262,
+      0.6022620954570613,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7041899320725638,
+      0.7133407338938366,
+      0.7133407338938366,
+      0.7133407338938366,
+      0.7133407338938366,
+      0.7133407338938366,
+      0.7133407338938366,
+      0.714698828036658,
+      0.714698828036658,
+      0.714698828036658,
+      0.714698828036658,
+      0.714698828036658,
+      0.714698828036658,
+      0.714698828036658,
+      0.714698828036658
+     ]
+    }
+   ],
+   "bo_n": 90,
+   "bo_ard_share": 0.4444444444444444,
+   "bo_kernel_counts": {
+    "matern12": 31,
+    "rbf": 17,
+    "matern52": 16,
+    "rq": 13,
+    "matern32": 13
+   },
+   "robust": [
+    {
+     "cfg_text": "Matérn ν=1/2 (등방성) + 선형(DotProduct)",
+     "x": "std",
+     "y": "none",
+     "fs": "full_cure6",
+     "search": 0.7286320208335783,
+     "robust": 0.7168543708768041,
+     "std": 0.02283640769983291,
+     "rmse": 2.0046144246526163,
+     "cov": 0.9478672985781991
+    },
+    {
+     "cfg_text": "Matérn ν=3/2 (등방성) + 선형(DotProduct)",
+     "x": "std",
+     "y": "none",
+     "fs": "full_cure6",
+     "search": 0.7273657383135432,
+     "robust": 0.7208684614244767,
+     "std": 0.01960297767085287,
+     "rmse": 1.9907392838707167,
+     "cov": 0.9440758293838863
+    },
+    {
+     "cfg_text": "Rational Quadratic (등방성) + 선형(DotProduct)",
+     "x": "std",
+     "y": "none",
+     "fs": "full_cure6",
+     "search": 0.7258909584917905,
+     "robust": 0.7203522176574111,
+     "std": 0.018659256478796793,
+     "rmse": 1.992698631024906,
+     "cov": 0.9421800947867298
+    }
+   ],
+   "best": {
+    "kernel": "matern32",
+    "ard": false,
+    "linear": true,
+    "x_transform": "std",
+    "y_transform": "none",
+    "feature_set": "full_cure6",
+    "ls_init": 0.9219744817257234,
+    "noise_init": -2.7118094481033856,
+    "noise_floor": -5.709593265912936,
+    "n_restarts": 3
+   },
+   "best_text": "Matérn ν=3/2 (등방성) + 선형(DotProduct)",
+   "best_cv": {
+    "search_R2": 0.7273657383135432,
+    "R2": 0.7208684614244767,
+    "RMSE": 1.9907392838707167,
+    "MAE": 1.3807752135002866,
+    "cov95": 0.9440758293838863,
+    "NLPD": 2.1008804823628386,
+    "R2_std": 0.01960297767085287,
+    "sec": 82.58475875854492
+   },
+   "test": {
+    "R2": 0.8142502853840807,
+    "RMSE": 1.2212026592368947,
+    "MAE": 0.95480702034793,
+    "cov95": 1.0,
+    "NLPD": 1.7714070196078948
+   },
+   "test_baselines": {
+    "GP_sklearn_default": -528.0704841429313,
+    "Ridge": 0.4355498891000562,
+    "RandomForest": 0.6695255896064634
+   },
+   "test_baselines_rmse": {
+    "GP_sklearn_default": 65.17490857049563,
+    "Ridge": 2.128807762134131,
+    "RandomForest": 1.628893093680329
+   },
+   "lso": {
+    "R2": 0.25908959695893663,
+    "RMSE": 3.1041301782373845,
+    "MAE": 2.1173537642700544,
+    "cov95": 0.9242424242424242,
+    "NLPD": 2.3828302293261863,
+    "R2_std": 0.0
+   },
+   "final_kernel": "0.646**2 * Matern(length_scale=2.14, nu=1.5) + 0.232**2 * DotProduct(sigma_0=0.00102) + WhiteKernel(noise_level=0.146)",
+   "lml": -224.62577380947658,
+   "amp": 0.4170740067125586,
+   "noise": 0.14640885689406216,
+   "ls": 2.139098378214088,
+   "rq_alpha": null,
+   "nu": 1.5,
+   "features": [
+    "carbon_black_phr",
+    "silica_phr",
+    "alumina_phr",
+    "barium_sulfate_phr",
+    "titanium_oxide_phr",
+    "fluororesin_phr",
+    "other_inorganic_filler_phr",
+    "organic_additive_phr",
+    "coagent_phr",
+    "peroxide_phr",
+    "nitrile_curative_phr",
+    "other_curative_phr",
+    "acid_acceptor_phr",
+    "processing_aid_phr",
+    "is_FFKM",
+    "cure_peroxide",
+    "cure_nitrile_triazine",
+    "cure_nitrile_bisaminophenol",
+    "cure_nitrile_organotin",
+    "cure_nitrile_other",
+    "cure_bisphenol"
+   ],
+   "features_kor": [
+    "카본블랙",
+    "실리카",
+    "알루미나",
+    "황산바륨",
+    "산화티탄",
+    "불소수지",
+    "기타 무기필러",
+    "유기첨가제",
+    "가교조제",
+    "과산화물",
+    "니트릴 가교제",
+    "기타 가교제",
+    "수산제",
+    "가공조제",
+    "FFKM 여부",
+    "과산화물 가교",
+    "트리아진 가교",
+    "비스아미노페놀 가교",
+    "유기주석 가교",
+    "기타 니트릴 가교",
+    "비스페놀 가교"
+   ],
+   "ard": null,
+   "importance": [
+    [
+     "카본블랙",
+     0.7515274253091963
+    ],
+    [
+     "유기첨가제",
+     0.6003857346837581
+    ],
+    [
+     "FFKM 여부",
+     0.3204287069686233
+    ],
+    [
+     "실리카",
+     0.25578901482844646
+    ],
+    [
+     "불소수지",
+     0.2152164170448556
+    ],
+    [
+     "가교조제",
+     0.21230214835647548
+    ]
+   ],
+   "ad_n_out": 0,
+   "ad_out_rows": [],
+   "ad_r2_in": 0.8142502853840807,
+   "ad_rmse_in": 1.2212026592368947,
+   "noise_frac": 0.25982841067598683,
+   "top10": {
+    "kernel": {
+     "matern12": 4,
+     "matern52": 3,
+     "matern32": 1,
+     "rq": 1,
+     "rbf": 1
+    },
+    "ard": {
+     "False": 7,
+     "True": 3
+    },
+    "linear": {
+     "True": 7,
+     "False": 3
+    },
+    "x_transform": {
+     "std": 8,
+     "log1p": 2
+    },
+    "y_transform": {
+     "none": 7,
+     "log": 3
+    },
+    "feature_set": {
+     "full_cure6": 8,
+     "full_agg": 2
+    }
+   },
+   "bo_min": 0.4427374931856521,
+   "bo_median": 0.6519209047502968
+  },
+  "compression_set_pct": {
+   "n_total": 250,
+   "n_dev": 200,
+   "n_test": 50,
+   "n_sources": 24,
+   "y_std": 13.962846703227509,
+   "baselines_cv": {
+    "GP_sklearn_default": -66297.51132920868,
+    "Ridge": 0.16027097721847028,
+    "RandomForest": 0.3150421227395541
+   },
+   "baselines_cv_rmse": {
+    "GP_sklearn_default": 3333.3243195287805,
+    "Ridge": 13.017604272716504,
+    "RandomForest": 11.75605758852239
+   },
+   "screen": [
+    [
+     "RBF",
+     "ARD",
+     "0.325",
+     "11.67",
+     "91%",
+     "50.7"
+    ],
+    [
+     "RBF",
+     "등방성",
+     "0.338",
+     "11.56",
+     "94%",
+     "1.5"
+    ],
+    [
+     "Matérn ν=1/2",
+     "ARD",
+     "0.321",
+     "11.71",
+     "92%",
+     "46.7"
+    ],
+    [
+     "Matérn ν=1/2",
+     "등방성",
+     "0.323",
+     "11.69",
+     "94%",
+     "2.6"
+    ],
+    [
+     "Matérn ν=3/2",
+     "ARD",
+     "0.335",
+     "11.58",
+     "92%",
+     "48.2"
+    ],
+    [
+     "Matérn ν=3/2",
+     "등방성",
+     "0.337",
+     "11.57",
+     "94%",
+     "1.5"
+    ],
+    [
+     "Matérn ν=5/2",
+     "ARD",
+     "0.326",
+     "11.66",
+     "92%",
+     "48.6"
+    ],
+    [
+     "Matérn ν=5/2",
+     "등방성",
+     "0.338",
+     "11.56",
+     "94%",
+     "1.8"
+    ],
+    [
+     "Rational Quadratic",
+     "등방성",
+     "0.338",
+     "11.56",
+     "94%",
+     "3.3"
+    ]
+   ],
+   "screen_best": {
+    "kernel": "rbf",
+    "ard": false,
+    "R2": 0.33823557838566365,
+    "RMSE": 11.55618836579264,
+    "MAE": 7.512174794386335,
+    "cov95": 0.935,
+    "NLPD": 3.8890689165161807,
+    "R2_std": 0.0,
+    "sec": 1.5482993125915527
+   },
+   "bo_runs": [
+    {
+     "seed": 0,
+     "best": 0.365598612611875,
+     "iter": 24,
+     "cfg": {
+      "kernel": "matern52",
+      "ard": true,
+      "linear": true,
+      "x_transform": "log1p",
+      "y_transform": "log",
+      "feature_set": "compact",
+      "ls_init": -0.3181919388695382,
+      "noise_init": -1.3216011132539034,
+      "noise_floor": -2.063928602413659
+     },
+     "cfg_text": "Matérn ν=5/2 + ARD + 선형(DotProduct)",
+     "first_init_best": 0.3187439591744434,
+     "curve": [
+      0.29777824872468994,
+      0.29777824872468994,
+      0.29777824872468994,
+      0.29777824872468994,
+      0.31594016038047723,
+      0.31695445559781543,
+      0.31695445559781543,
+      0.3187439591744434,
+      0.3187439591744434,
+      0.35066046360628145,
+      0.35066046360628145,
+      0.35066046360628145,
+      0.35066046360628145,
+      0.35066046360628145,
+      0.35066046360628145,
+      0.35066046360628145,
+      0.35066046360628145,
+      0.35549610007803145,
+      0.35549610007803145,
+      0.35549610007803145,
+      0.3643736883163581,
+      0.3643736883163581,
+      0.3643736883163581,
+      0.365598612611875,
+      0.365598612611875,
+      0.365598612611875,
+      0.365598612611875,
+      0.365598612611875,
+      0.365598612611875,
+      0.365598612611875
+     ]
+    },
+    {
+     "seed": 1,
+     "best": 0.3683586918409987,
+     "iter": 12,
+     "cfg": {
+      "kernel": "matern52",
+      "ard": true,
+      "linear": false,
+      "x_transform": "log1p",
+      "y_transform": "log",
+      "feature_set": "full",
+      "ls_init": -0.6797680335622733,
+      "noise_init": -1.0878491240209078,
+      "noise_floor": -2.519028836219338
+     },
+     "cfg_text": "Matérn ν=5/2 + ARD",
+     "first_init_best": 0.33436944155698733,
+     "curve": [
+      0.2995473861190141,
+      0.2995473861190141,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.33436944155698733,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987,
+      0.3683586918409987
+     ]
+    },
+    {
+     "seed": 2,
+     "best": 0.3797624836842344,
+     "iter": 18,
+     "cfg": {
+      "kernel": "rbf",
+      "ard": true,
+      "linear": true,
+      "x_transform": "log1p",
+      "y_transform": "log",
+      "feature_set": "full",
+      "ls_init": -0.9431889467572763,
+      "noise_init": -0.0813724630738899,
+      "noise_floor": -4.573927800537495
+     },
+     "cfg_text": "RBF + ARD + 선형(DotProduct)",
+     "first_init_best": 0.36529161170176727,
+     "curve": [
+      0.27590192065077523,
+      0.32070601462094994,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.36529161170176727,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344,
+      0.3797624836842344
+     ]
+    }
+   ],
+   "bo_n": 90,
+   "bo_ard_share": 0.4888888888888889,
+   "bo_kernel_counts": {
+    "matern52": 25,
+    "rq": 21,
+    "rbf": 20,
+    "matern32": 14,
+    "matern12": 10
+   },
+   "robust": [
+    {
+     "cfg_text": "RBF + ARD + 선형(DotProduct)",
+     "x": "log1p",
+     "y": "log",
+     "fs": "full",
+     "search": 0.3797624836842344,
+     "robust": 0.31191392922731265,
+     "std": 0.05960176303225977,
+     "rmse": 11.772767795807662,
+     "cov": 0.892
+    },
+    {
+     "cfg_text": "Matérn ν=5/2 + ARD",
+     "x": "log1p",
+     "y": "log",
+     "fs": "full",
+     "search": 0.3683586918409987,
+     "robust": 0.32745566159351763,
+     "std": 0.04277019621140746,
+     "rmse": 11.644071356761021,
+     "cov": 0.9099999999999999
+    },
+    {
+     "cfg_text": "Matérn ν=5/2 + ARD + 선형(DotProduct)",
+     "x": "log1p",
+     "y": "log",
+     "fs": "compact",
+     "search": 0.365598612611875,
+     "robust": 0.31554295096882373,
+     "std": 0.02630415480112337,
+     "rmse": 11.750439220146887,
+     "cov": 0.9
+    }
+   ],
+   "best": {
+    "kernel": "matern52",
+    "ard": true,
+    "linear": false,
+    "x_transform": "log1p",
+    "y_transform": "log",
+    "feature_set": "full",
+    "ls_init": -0.6797680335622733,
+    "noise_init": -1.0878491240209078,
+    "noise_floor": -2.519028836219338,
+    "n_restarts": 3
+   },
+   "best_text": "Matérn ν=5/2 + ARD",
+   "best_cv": {
+    "search_R2": 0.3683586918409987,
+    "R2": 0.32745566159351763,
+    "RMSE": 11.644071356761021,
+    "MAE": 7.623708735467166,
+    "cov95": 0.9099999999999999,
+    "NLPD": 4.124881307987304,
+    "R2_std": 0.04277019621140746,
+    "sec": 555.7792022228241
+   },
+   "test": {
+    "R2": 0.09747608741403979,
+    "RMSE": 12.144395998277185,
+    "MAE": 7.729567900683487,
+    "cov95": 0.86,
+    "NLPD": 5.384389301159907
+   },
+   "test_baselines": {
+    "GP_sklearn_default": -20.48468435668348,
+    "Ridge": 0.06542272027242702,
+    "RandomForest": 0.16532004205815642
+   },
+   "test_baselines_rmse": {
+    "GP_sklearn_default": 59.25309637602911,
+    "Ridge": 12.358170159037359,
+    "RandomForest": 11.679024084684306
+   },
+   "lso": {
+    "R2": -0.13594421463427397,
+    "RMSE": 14.851904267731609,
+    "MAE": 10.651308162534699,
+    "cov95": 0.892,
+    "NLPD": 4.882234745354292,
+    "R2_std": 0.0
+   },
+   "final_kernel": "0.983**2 * Matern(length_scale=[1.44, 2.22, 5.73, 2.35, 0.135, 2.11, 1.86, 3.74, 1e+03, 653, 0.342, 2.28, 0.209, 1e+03, 0.209, 0.209, 0.209, 0.0424], nu=2.5) + WhiteKernel(noise_level=0.269)",
+   "lml": -287.6171319231239,
+   "amp": 0.9660739137749215,
+   "noise": 0.2688699356592383,
+   "ls": [
+    1.436128491878241,
+    2.216844154044093,
+    5.727830601892295,
+    2.349583696633065,
+    0.13532989417054758,
+    2.105338688054855,
+    1.8561555617781176,
+    3.738013833332713,
+    999.9999999999998,
+    652.9691050283162,
+    0.34233785119136445,
+    2.281937865142928,
+    0.20904757450771158,
+    999.9999999999998,
+    0.20903954309586745,
+    0.2090238377387824,
+    0.20900309593683367,
+    0.042386476846459006
+   ],
+   "rq_alpha": null,
+   "nu": 2.5,
+   "features": [
+    "carbon_black_phr",
+    "silica_phr",
+    "alumina_phr",
+    "barium_sulfate_phr",
+    "titanium_oxide_phr",
+    "fluororesin_phr",
+    "other_inorganic_filler_phr",
+    "organic_additive_phr",
+    "coagent_phr",
+    "peroxide_phr",
+    "nitrile_curative_phr",
+    "other_curative_phr",
+    "acid_acceptor_phr",
+    "processing_aid_phr",
+    "is_FFKM",
+    "cure_peroxide",
+    "cure_nitrile",
+    "cs_temp_C"
+   ],
+   "features_kor": [
+    "카본블랙",
+    "실리카",
+    "알루미나",
+    "황산바륨",
+    "산화티탄",
+    "불소수지",
+    "기타 무기필러",
+    "유기첨가제",
+    "가교조제",
+    "과산화물",
+    "니트릴 가교제",
+    "기타 가교제",
+    "수산제",
+    "가공조제",
+    "FFKM 여부",
+    "과산화물 가교",
+    "니트릴 가교",
+    "CS 시험온도"
+   ],
+   "ard": {
+    "carbon_black_phr": 1.4361,
+    "silica_phr": 2.2168,
+    "alumina_phr": 5.7278,
+    "barium_sulfate_phr": 2.3496,
+    "titanium_oxide_phr": 0.1353,
+    "fluororesin_phr": 2.1053,
+    "other_inorganic_filler_phr": 1.8562,
+    "organic_additive_phr": 3.738,
+    "coagent_phr": 1000.0,
+    "peroxide_phr": 652.9691,
+    "nitrile_curative_phr": 0.3423,
+    "other_curative_phr": 2.2819,
+    "acid_acceptor_phr": 0.209,
+    "processing_aid_phr": 1000.0,
+    "is_FFKM": 0.209,
+    "cure_peroxide": 0.209,
+    "cure_nitrile": 0.209,
+    "cs_temp_C": 0.0424
+   },
+   "importance": [
+    [
+     "CS 시험온도",
+     0.35095578194548405
+    ],
+    [
+     "기타 무기필러",
+     0.1691728276263181
+    ],
+    [
+     "니트릴 가교제",
+     0.16490679244197215
+    ],
+    [
+     "FFKM 여부",
+     0.13225897000624492
+    ],
+    [
+     "과산화물 가교",
+     0.12744873596906786
+    ],
+    [
+     "니트릴 가교",
+     0.12582084690249792
+    ]
+   ],
+   "ad_n_out": 2,
+   "ad_out_rows": [
+    "US7354974B2 Example 5",
+    "US12305107B2 Example 1"
+   ],
+   "ad_r2_in": 0.01028798107937523,
+   "ad_rmse_in": 12.036127424443302,
+   "noise_frac": 0.21771834871879567,
+   "top10": {
+    "kernel": {
+     "matern52": 4,
+     "rq": 3,
+     "rbf": 2,
+     "matern32": 1
+    },
+    "ard": {
+     "True": 7,
+     "False": 3
+    },
+    "linear": {
+     "True": 8,
+     "False": 2
+    },
+    "x_transform": {
+     "log1p": 10
+    },
+    "y_transform": {
+     "log": 6,
+     "none": 4
+    },
+    "feature_set": {
+     "compact": 5,
+     "full": 4,
+     "full_agg": 1
+    }
+   },
+   "bo_min": 0.0915240123008928,
+   "bo_median": 0.3092919484659997
+  }
+ },
+ "hp_effect": {
+  "hardness_shoreA": {
+   "kernel": {
+    "best": "matern52",
+    "worst": "rbf",
+    "range": 0.038918371258065076,
+    "levels": {
+     "matern12": 0.6758617447088023,
+     "matern32": 0.6753137686117197,
+     "matern52": 0.6895871458015289,
+     "rbf": 0.6506687745434638,
+     "rq": 0.6877435544457324
+    }
+   },
+   "ard": {
+    "best": "True",
+    "worst": "False",
+    "range": 0.018267978604359025,
+    "levels": {
+     "False": 0.6708629872190782,
+     "True": 0.6891309658234372
+    }
+   },
+   "linear": {
+    "best": "True",
+    "worst": "False",
+    "range": 0.020356791623496906,
+    "levels": {
+     "False": 0.6693313667857558,
+     "True": 0.6896881584092527
+    }
+   },
+   "x_transform": {
+    "best": "std",
+    "worst": "log1p",
+    "range": 0.0291745394990941,
+    "levels": {
+     "log1p": 0.6634606487167511,
+     "std": 0.6926351882158452
+    }
+   },
+   "y_transform": {
+    "best": "log",
+    "worst": "none",
+    "range": 0.013784240005794257,
+    "levels": {
+     "log": 0.6886087486464993,
+     "none": 0.6748245086407051
+    }
+   },
+   "feature_set": {
+    "best": "full_agg",
+    "worst": "full",
+    "range": 0.03467915482206552,
+    "levels": {
+     "compact": 0.6680213477338353,
+     "full": 0.665300593043244,
+     "full_agg": 0.6999797478653095,
+     "full_cure6": 0.6793892262670387
+    }
+   }
+  },
+  "tensile_MPa": {
+   "kernel": {
+    "best": "rq",
+    "worst": "matern52",
+    "range": 0.055127931691264065,
+    "levels": {
+     "matern12": 0.6348293146253471,
+     "matern32": 0.6351055442745452,
+     "matern52": 0.5858706236325191,
+     "rbf": 0.6119476478644605,
+     "rq": 0.6409985553237831
+    }
+   },
+   "ard": {
+    "best": "False",
+    "worst": "True",
+    "range": 0.05652343454901332,
+    "levels": {
+     "False": 0.6600162898906805,
+     "True": 0.6034928553416672
+    }
+   },
+   "linear": {
+    "best": "False",
+    "worst": "True",
+    "range": 0.10852484234300142,
+    "levels": {
+     "False": 0.6606980612065819,
+     "True": 0.5521732188635805
+    }
+   },
+   "x_transform": {
+    "best": "log1p",
+    "worst": "std",
+    "range": 0.12274792921487376,
+    "levels": {
+     "log1p": 0.659334518574779,
+     "std": 0.5365865893599052
+    }
+   },
+   "y_transform": {
+    "best": "log",
+    "worst": "none",
+    "range": 0.001294636383847192,
+    "levels": {
+     "log": 0.6242028120462055,
+     "none": 0.6229081756623583
+    }
+   },
+   "feature_set": {
+    "best": "full_cure6",
+    "worst": "compact",
+    "range": 0.18574918815589692,
+    "levels": {
+     "compact": 0.4855988098101084,
+     "full": 0.6251592996875602,
+     "full_agg": 0.6230156078125078,
+     "full_cure6": 0.6713479979660053
+    }
+   }
+  },
+  "elongation_pct": {
+   "kernel": {
+    "best": "matern12",
+    "worst": "matern32",
+    "range": 0.041456802839332174,
+    "levels": {
+     "matern12": 0.6007073372778651,
+     "matern32": 0.5592505344385329,
+     "matern52": 0.5928186493746621,
+     "rbf": 0.5908576502876033,
+     "rq": 0.5823840502914505
+    }
+   },
+   "ard": {
+    "best": "True",
+    "worst": "False",
+    "range": 0.05601393540820032,
+    "levels": {
+     "False": 0.5418803018071181,
+     "True": 0.5978942372153184
+    }
+   },
+   "linear": {
+    "best": "True",
+    "worst": "False",
+    "range": 0.02940264726003161,
+    "levels": {
+     "False": 0.5684910793210892,
+     "True": 0.5978937265811208
+    }
+   },
+   "x_transform": {
+    "best": "std",
+    "worst": "log1p",
+    "range": 0.011468791684175916,
+    "levels": {
+     "log1p": 0.5804784740422949,
+     "std": 0.5919472657264708
+    }
+   },
+   "y_transform": {
+    "best": "log",
+    "worst": "none",
+    "range": 0.0006993907005741207,
+    "levels": {
+     "log": 0.5858347598880447,
+     "none": 0.5851353691874706
+    }
+   },
+   "feature_set": {
+    "best": "compact",
+    "worst": "full_cure6",
+    "range": 0.09039875094990446,
+    "levels": {
+     "compact": 0.597895503961809,
+     "full": 0.5082448196620559,
+     "full_agg": 0.5281304757698007,
+     "full_cure6": 0.5074967530119046
+    }
+   }
+  },
+  "m100_MPa": {
+   "kernel": {
+    "best": "matern12",
+    "worst": "rbf",
+    "range": 0.042782607507633075,
+    "levels": {
+     "matern12": 0.6585110278215704,
+     "matern32": 0.616799289525748,
+     "matern52": 0.652677540748857,
+     "rbf": 0.6157284203139374,
+     "rq": 0.6377885415217148
+    }
+   },
+   "ard": {
+    "best": "False",
+    "worst": "True",
+    "range": 0.012989944282157273,
+    "levels": {
+     "False": 0.6506379868676496,
+     "True": 0.6376480425854923
+    }
+   },
+   "linear": {
+    "best": "True",
+    "worst": "False",
+    "range": 0.03355250444094671,
+    "levels": {
+     "False": 0.6209482377875287,
+     "True": 0.6545007422284754
+    }
+   },
+   "x_transform": {
+    "best": "std",
+    "worst": "log1p",
+    "range": 0.036384212347548184,
+    "levels": {
+     "log1p": 0.620208334364456,
+     "std": 0.6565925467120042
+    }
+   },
+   "y_transform": {
+    "best": "log",
+    "worst": "none",
+    "range": 0.012122331142246479,
+    "levels": {
+     "log": 0.651371505314426,
+     "none": 0.6392491741721795
+    }
+   },
+   "feature_set": {
+    "best": "full_cure6",
+    "worst": "full",
+    "range": 0.07841413567222799,
+    "levels": {
+     "compact": 0.6010609565494242,
+     "full": 0.596673989141652,
+     "full_agg": 0.652677540748857,
+     "full_cure6": 0.67508812481388
+    }
+   }
+  },
+  "compression_set_pct": {
+   "kernel": {
+    "best": "rq",
+    "worst": "matern32",
+    "range": 0.02210991540126639,
+    "levels": {
+     "matern12": 0.3102148340608514,
+     "matern32": 0.2985954453301328,
+     "matern52": 0.3151893750195894,
+     "rbf": 0.30721082547339446,
+     "rq": 0.3207053607313992
+    }
+   },
+   "ard": {
+    "best": "False",
+    "worst": "True",
+    "range": 0.00459960429240025,
+    "levels": {
+     "False": 0.3151898152337318,
+     "True": 0.31059021094133155
+    }
+   },
+   "linear": {
+    "best": "True",
+    "worst": "False",
+    "range": 0.019187790724239095,
+    "levels": {
+     "False": 0.2972595172649072,
+     "True": 0.3164473079891463
+    }
+   },
+   "x_transform": {
+    "best": "log1p",
+    "worst": "std",
+    "range": 0.05332648091795844,
+    "levels": {
+     "log1p": 0.334609451228406,
+     "std": 0.2812829703104476
+    }
+   },
+   "y_transform": {
+    "best": "log",
+    "worst": "none",
+    "range": 0.010020688597950855,
+    "levels": {
+     "log": 0.31451110931530885,
+     "none": 0.304490420717358
+    }
+   },
+   "feature_set": {
+    "best": "full",
+    "worst": "full_cure6",
+    "range": 0.04357273731304234,
+    "levels": {
+     "compact": 0.31132075759698197,
+     "full": 0.32548462367100617,
+     "full_agg": 0.3123780773279128,
+     "full_cure6": 0.2819118863579638
+    }
+   }
+  }
+ },
+ "pool_bo": {
+  "tensile_MPa": {
+   "target": "tensile_MPa",
+   "maximize": true,
+   "pool_size": 263,
+   "global_best": 27.6,
+   "top5_threshold": 23.54,
+   "bo_ei": {
+    "mean_curve": [
+     20.865666666666666,
+     21.446333333333328,
+     21.942999999999994,
+     22.775333333333332,
+     23.196999999999996,
+     23.305666666666657,
+     23.638999999999996,
+     23.814333333333327,
+     24.012666666666657,
+     24.301333333333325,
+     24.809999999999995,
+     25.229999999999997,
+     25.29,
+     25.45,
+     25.754666666666665,
+     25.818666666666665,
+     25.973333333333336,
+     26.05,
+     26.160000000000004,
+     26.30466666666667,
+     26.30466666666667,
+     26.352000000000007,
+     26.399333333333338,
+     26.614666666666675,
+     26.614666666666675,
+     26.614666666666675,
+     26.677333333333344,
+     26.680666666666678,
+     26.736000000000008,
+     26.846000000000007,
+     26.90133333333334,
+     26.914666666666673,
+     26.97000000000001,
+     26.977333333333338,
+     27.06933333333334,
+     27.096000000000007
+    ],
+    "p25": [
+     18.1,
+     18.155,
+     19.675,
+     20.174999999999997,
+     22.72,
+     22.72,
+     22.72,
+     23.2,
+     23.2,
+     23.5,
+     24.075,
+     24.3,
+     24.3,
+     24.3,
+     24.330000000000002,
+     24.42,
+     24.445,
+     24.445,
+     24.915,
+     24.935,
+     24.935,
+     24.935,
+     24.935,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535,
+     26.535
+    ],
+    "p75": [
+     23.9575,
+     24.52,
+     24.52,
+     24.52,
+     24.52,
+     24.52,
+     25.705000000000002,
+     25.705000000000002,
+     26.1,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     27.245,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6,
+     27.6
+    ],
+    "exp_to_top5_mean": 6.733333333333333,
+    "success_rate_top5": 1.0
+   },
+   "greedy": {
+    "mean_curve": [
+     20.865666666666666,
+     21.32966666666666,
+     21.913,
+     22.05933333333333,
+     22.17133333333333,
+     22.25333333333333,
+     22.410666666666664,
+     22.52333333333333,
+     22.770333333333326,
+     23.01166666666666,
+     23.110999999999994,
+     23.356333333333325,
+     23.532999999999994,
+     23.542999999999992,
+     24.19066666666666,
+     24.395333333333323,
+     24.61999999999999,
+     24.69066666666666,
+     24.909999999999986,
+     25.030666666666658,
+     25.064666666666657,
+     25.237999999999992,
+     25.384666666666657,
+     25.629333333333324,
+     25.799333333333326,
+     25.799333333333326,
+     25.799333333333326,
+     25.893999999999995,
+     25.90133333333333,
+     25.95666666666666,
+     25.95666666666666,
+     25.96066666666666,
+     25.964666666666663,
+     25.97866666666666,
+     25.97866666666666,
+     25.98266666666666
+    ],
+    "p25": [
+     18.1,
+     18.11,
+     18.55,
+     18.55,
+     18.625,
+     19.315,
+     19.315,
+     19.315,
+     19.315,
+     19.9,
+     19.9,
+     20.564999999999998,
+     22.185,
+     22.185,
+     23.2,
+     23.2,
+     23.5,
+     23.625,
+     24.3,
+     24.3,
+     24.3,
+     24.3,
+     24.330000000000002,
+     24.330000000000002,
+     24.330000000000002,
+     24.330000000000002,
+     24.330000000000002,
+     24.330000000000002,
+     24.445,
+     24.86,
+     24.86,
+     24.86,
+     24.86,
+     24.86,
+     24.86,
+     24.86
+    ],
+    "p75": [
+     23.9575,
+     24.39,
+     24.495,
+     24.52,
+     24.52,
+     24.52,
+     25.765,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18
+    ],
+    "exp_to_top5_mean": 8.933333333333334,
+    "success_rate_top5": 1.0
+   },
+   "random": {
+    "mean_curve": [
+     20.865666666666666,
+     21.521333333333335,
+     22.175000000000004,
+     22.390333333333334,
+     22.508,
+     22.722,
+     22.967333333333332,
+     22.98733333333333,
+     23.331999999999997,
+     23.910666666666668,
+     23.992,
+     23.992,
+     24.122666666666667,
+     24.122666666666667,
+     24.245333333333335,
+     24.365333333333336,
+     24.48966666666667,
+     24.613,
+     24.692999999999998,
+     24.743333333333332,
+     24.743333333333332,
+     24.906,
+     24.906,
+     24.987666666666666,
+     25.07133333333333,
+     25.07133333333333,
+     25.213666666666665,
+     25.39966666666667,
+     25.412666666666667,
+     25.428333333333335,
+     25.428333333333335,
+     25.428333333333335,
+     25.464,
+     25.493333333333332,
+     25.569333333333336,
+     25.589000000000002
+    ],
+    "p25": [
+     18.1,
+     18.155,
+     19.825,
+     19.825,
+     19.825,
+     20.325,
+     20.975,
+     21.125,
+     21.59,
+     23.155,
+     23.2,
+     23.2,
+     23.21,
+     23.21,
+     23.21,
+     23.21,
+     23.24,
+     23.314999999999998,
+     23.314999999999998,
+     23.5625,
+     23.5625,
+     23.63,
+     23.63,
+     23.68,
+     23.947499999999998,
+     23.947499999999998,
+     24.3,
+     24.52,
+     24.52,
+     24.52,
+     24.52,
+     24.52,
+     24.52,
+     24.52,
+     24.5675,
+     24.76
+    ],
+    "p75": [
+     23.9575,
+     24.39,
+     24.495,
+     24.495,
+     24.495,
+     24.495,
+     24.495,
+     24.495,
+     24.6625,
+     25.009999999999998,
+     25.009999999999998,
+     25.009999999999998,
+     25.009999999999998,
+     25.009999999999998,
+     25.8525,
+     26.1,
+     26.1,
+     26.1,
+     26.1,
+     26.1,
+     26.1,
+     26.1,
+     26.1,
+     26.16,
+     26.16,
+     26.16,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18,
+     26.18
+    ],
+    "exp_to_top5_mean": 7.703703703703703,
+    "success_rate_top5": 0.9
+   }
+  },
+  "compression_set_pct": {
+   "target": "compression_set_pct",
+   "maximize": false,
+   "pool_size": 250,
+   "global_best": 8.0,
+   "top5_threshold": 11.450000000000001,
+   "bo_ei": {
+    "mean_curve": [
+     17.466666666666665,
+     16.166666666666668,
+     15.5,
+     14.856666666666666,
+     13.871999999999998,
+     13.591,
+     13.535333333333334,
+     13.096666666666666,
+     12.361999999999998,
+     11.995333333333331,
+     11.549666666666667,
+     11.402,
+     11.102,
+     11.012,
+     11.012,
+     10.697666666666668,
+     10.697666666666668,
+     10.356333333333335,
+     10.348333333333334,
+     10.348333333333334,
+     10.348333333333334,
+     10.088333333333335,
+     9.955000000000002,
+     9.866000000000001,
+     9.766,
+     9.685000000000002,
+     9.684666666666669,
+     9.611333333333334,
+     9.578333333333335,
+     9.445,
+     9.430666666666669,
+     9.430666666666669,
+     9.430666666666669,
+     9.430666666666669,
+     9.430666666666669,
+     9.422666666666668
+    ],
+    "p25": [
+     11.5,
+     11.0,
+     11.0,
+     11.0,
+     9.05,
+     9.05,
+     9.05,
+     8.57,
+     8.57,
+     8.57,
+     8.39,
+     8.39,
+     8.39,
+     8.39,
+     8.39,
+     8.39,
+     8.39,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33
+    ],
+    "p75": [
+     20.75,
+     18.375,
+     18.0,
+     17.925,
+     17.55,
+     17.55,
+     17.55,
+     17.55,
+     15.75,
+     15.5,
+     11.75,
+     11.75,
+     11.75,
+     11.75,
+     11.75,
+     11.75,
+     11.75,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0
+    ],
+    "exp_to_top5_mean": 6.884615384615385,
+    "success_rate_top5": 0.8666666666666667
+   },
+   "greedy": {
+    "mean_curve": [
+     17.466666666666665,
+     16.57,
+     15.306666666666667,
+     15.023333333333332,
+     14.863333333333332,
+     14.863333333333332,
+     14.543333333333331,
+     13.88333333333333,
+     13.213333333333333,
+     12.875333333333334,
+     12.66133333333333,
+     12.483333333333333,
+     12.283333333333333,
+     11.928666666666667,
+     11.725333333333333,
+     11.692,
+     11.684,
+     11.404,
+     11.404,
+     11.397333333333334,
+     11.397333333333334,
+     11.397333333333334,
+     11.187333333333333,
+     11.106333333333334,
+     11.106333333333334,
+     11.106333333333334,
+     11.099666666666668,
+     10.785,
+     10.785,
+     10.785,
+     10.585,
+     10.485000000000003,
+     10.485000000000003,
+     10.396000000000003,
+     10.296000000000001,
+     10.162666666666668
+    ],
+    "p25": [
+     11.5,
+     11.0,
+     11.0,
+     10.25,
+     10.25,
+     10.25,
+     9.649999999999999,
+     9.2,
+     9.2,
+     9.2,
+     9.2,
+     9.2,
+     9.2,
+     9.05,
+     9.05,
+     9.05,
+     9.05,
+     9.05,
+     9.05,
+     9.05,
+     9.05,
+     9.05,
+     9.0,
+     8.6775,
+     8.6775,
+     8.6775,
+     8.6775,
+     8.39,
+     8.39,
+     8.39,
+     8.39,
+     8.39,
+     8.39,
+     8.33,
+     8.33,
+     8.33
+    ],
+    "p75": [
+     20.75,
+     19.625,
+     17.925,
+     17.7,
+     17.7,
+     17.7,
+     17.7,
+     17.7,
+     17.0,
+     16.5,
+     15.0,
+     14.75,
+     14.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0,
+     12.0
+    ],
+    "exp_to_top5_mean": 8.666666666666666,
+    "success_rate_top5": 0.7
+   },
+   "random": {
+    "mean_curve": [
+     17.466666666666665,
+     17.033333333333335,
+     16.409666666666666,
+     15.156666666666666,
+     14.456666666666667,
+     13.623333333333333,
+     12.901,
+     12.867666666666667,
+     12.867666666666667,
+     12.531,
+     12.077666666666667,
+     11.977666666666668,
+     11.844333333333335,
+     11.634333333333334,
+     11.398000000000001,
+     11.231333333333335,
+     11.221333333333332,
+     11.211333333333334,
+     11.211333333333334,
+     10.893666666666666,
+     10.760666666666667,
+     10.487333333333334,
+     10.104999999999999,
+     10.071666666666665,
+     10.071666666666665,
+     9.905,
+     9.905,
+     9.905,
+     9.876,
+     9.842666666666666,
+     9.842666666666666,
+     9.842666666666666,
+     9.776333333333332,
+     9.776333333333332,
+     9.776333333333332,
+     9.776333333333332
+    ],
+    "p25": [
+     11.5,
+     11.5,
+     11.0,
+     9.99,
+     9.99,
+     9.99,
+     9.397499999999999,
+     9.397499999999999,
+     9.397499999999999,
+     9.05,
+     9.0,
+     9.0,
+     9.0,
+     9.0,
+     9.0,
+     9.0,
+     9.0,
+     9.0,
+     9.0,
+     9.0,
+     8.39,
+     8.39,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.33,
+     8.0825,
+     8.0825,
+     8.0825,
+     8.0,
+     8.0,
+     8.0,
+     8.0
+    ],
+    "p75": [
+     20.75,
+     20.0,
+     20.0,
+     18.0,
+     18.0,
+     17.925,
+     17.25,
+     17.1,
+     17.1,
+     17.0,
+     14.75,
+     14.75,
+     13.75,
+     13.0,
+     13.0,
+     12.75,
+     12.75,
+     12.75,
+     12.75,
+     12.0,
+     12.0,
+     11.75,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0,
+     11.0
+    ],
+    "exp_to_top5_mean": 7.4,
+    "success_rate_top5": 0.8333333333333334
+   }
+  },
+  "hardness_shoreA": {
+   "target": "hardness_shoreA",
+   "maximize": true,
+   "pool_size": 227,
+   "global_best": 97.0,
+   "top5_threshold": 83.69999999999999,
+   "bo_ei": {
+    "mean_curve": [
+     81.4,
+     88.33333333333333,
+     92.0,
+     92.5,
+     95.43333333333334,
+     96.5,
+     96.5,
+     96.66666666666667,
+     96.66666666666667,
+     96.83333333333333,
+     96.83333333333333,
+     96.83333333333333,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0
+    ],
+    "p25": [
+     77.0,
+     82.0,
+     89.75,
+     92.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0
+    ],
+    "p75": [
+     83.5,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0
+    ],
+    "exp_to_top5_mean": 1.5333333333333334,
+    "success_rate_top5": 1.0
+   },
+   "greedy": {
+    "mean_curve": [
+     81.4,
+     85.33333333333333,
+     86.46666666666667,
+     87.93333333333334,
+     89.0,
+     89.1,
+     89.36666666666666,
+     90.83333333333333,
+     90.9,
+     91.7,
+     92.6,
+     93.43333333333334,
+     93.53333333333333,
+     94.13333333333334,
+     94.4,
+     94.9,
+     94.9,
+     94.9,
+     94.93333333333334,
+     94.93333333333334,
+     94.93333333333334,
+     94.93333333333334,
+     95.73333333333333,
+     95.9,
+     95.9,
+     95.9,
+     96.4,
+     96.4,
+     96.4,
+     96.4,
+     96.4,
+     96.4,
+     96.56666666666666,
+     96.56666666666666,
+     96.56666666666666,
+     96.56666666666666
+    ],
+    "p25": [
+     77.0,
+     78.25,
+     78.25,
+     82.0,
+     82.0,
+     82.0,
+     82.0,
+     83.75,
+     83.75,
+     89.0,
+     89.75,
+     92.0,
+     92.0,
+     92.0,
+     92.0,
+     93.25,
+     93.25,
+     93.25,
+     93.25,
+     93.25,
+     93.25,
+     93.25,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0
+    ],
+    "p75": [
+     83.5,
+     95.75,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0,
+     97.0
+    ],
+    "exp_to_top5_mean": 4.933333333333334,
+    "success_rate_top5": 1.0
+   },
+   "random": {
+    "mean_curve": [
+     81.4,
+     82.1,
+     83.7,
+     83.96666666666667,
+     84.66666666666667,
+     85.33333333333333,
+     85.53333333333333,
+     85.63333333333334,
+     85.73333333333333,
+     85.76666666666667,
+     85.9,
+     86.26666666666667,
+     86.6,
+     86.6,
+     86.7,
+     87.43333333333334,
+     88.56666666666666,
+     88.66666666666667,
+     88.66666666666667,
+     88.96666666666667,
+     89.23333333333333,
+     89.76666666666667,
+     90.46666666666667,
+     90.46666666666667,
+     90.46666666666667,
+     90.46666666666667,
+     91.06666666666666,
+     91.06666666666666,
+     91.36666666666666,
+     91.36666666666666,
+     91.7,
+     91.7,
+     91.7,
+     91.8,
+     92.03333333333333,
+     92.03333333333333
+    ],
+    "p25": [
+     77.0,
+     78.0,
+     79.0,
+     79.0,
+     79.25,
+     80.0,
+     80.0,
+     80.25,
+     81.0,
+     81.0,
+     81.0,
+     82.0,
+     82.0,
+     82.0,
+     82.0,
+     82.25,
+     83.25,
+     84.0,
+     84.0,
+     84.0,
+     84.25,
+     86.0,
+     86.5,
+     86.5,
+     86.5,
+     86.5,
+     88.25,
+     88.25,
+     89.0,
+     89.0,
+     89.0,
+     89.0,
+     89.0,
+     89.0,
+     89.0,
+     89.0
+    ],
+    "p75": [
+     83.5,
+     83.75,
+     89.0,
+     89.0,
+     89.0,
+     89.0,
+     91.25,
+     91.25,
+     91.25,
+     91.25,
+     91.25,
+     91.25,
+     91.25,
+     91.25,
+     91.25,
+     92.0,
+     92.0,
+     92.0,
+     92.0,
+     92.0,
+     92.0,
+     92.0,
+     94.25,
+     94.25,
+     94.25,
+     94.25,
+     95.0,
+     95.0,
+     96.5,
+     96.5,
+     96.5,
+     96.5,
+     96.5,
+     96.5,
+     97.0,
+     97.0
+    ],
+    "exp_to_top5_mean": 9.551724137931034,
+    "success_rate_top5": 0.9666666666666667
+   }
+  }
+ },
+ "inverse_design": {
+  "family": "FFKM / nitrile",
+  "n_family_rows": 161,
+  "spec": {
+   "hardness_shoreA": [
+    70.0,
+    80.0
+   ],
+   "elongation_pct": [
+    150.0,
+    null
+   ],
+   "compression_set_pct": [
+    null,
+    30.0
+   ]
+  },
+  "practical": {
+   "total_filler_phr": 60.0,
+   "fluororesin_phr": 50.0
+  },
+  "n_generated": 30000,
+  "models_used": [
+   "tensile_MPa",
+   "hardness_shoreA",
+   "elongation_pct"
+  ],
+  "incumbent_tensile": 22.56,
+  "n_candidates": 27467,
+  "n_feasible_obs": 39
+ },
+ "recs": [
+  {
+   "rank": 1,
+   "polymer_type": "FFKM",
+   "cure_system": "nitrile_triazine",
+   "carbon_black_phr": 0.0,
+   "silica_phr": 0.0,
+   "alumina_phr": 0.0,
+   "barium_sulfate_phr": 0.0,
+   "titanium_oxide_phr": 6.34539920415559,
+   "fluororesin_phr": 49.93261698522221,
+   "other_inorganic_filler_phr": 0.0,
+   "organic_additive_phr": 0.0,
+   "coagent_phr": 0.0,
+   "peroxide_phr": 0.0,
+   "nitrile_curative_phr": 0.2963850916905507,
+   "other_curative_phr": 0.0,
+   "acid_acceptor_phr": 0.0,
+   "processing_aid_phr": 0.0,
+   "total_filler_phr": 56.2780161893778,
+   "pred_tensile_MPa": 18.75125490004878,
+   "std_tensile_MPa": 4.501948346512564,
+   "pred_hardness_shoreA": 76.76974243316072,
+   "std_hardness_shoreA": 6.687174247785927,
+   "pred_elongation_pct": 238.08557904060743,
+   "std_elongation_pct": 39.55428428762984,
+   "EI_tensile": 0.496652663644579,
+   "P_feasible": 0.5229107676298084,
+   "cEI": 0.2597050255917758,
+   "nearest_example": "US5696189A Comparative Example B",
+   "dist_to_nearest": 1.8588978401403653
+  },
+  {
+   "rank": 2,
+   "polymer_type": "FFKM",
+   "cure_system": "nitrile_triazine",
+   "carbon_black_phr": 0.0,
+   "silica_phr": 0.0,
+   "alumina_phr": 6.707911977978548,
+   "barium_sulfate_phr": 0.0,
+   "titanium_oxide_phr": 0.0,
+   "fluororesin_phr": 49.86831938641783,
+   "other_inorganic_filler_phr": 0.0,
+   "organic_additive_phr": 0.0,
+   "coagent_phr": 0.0,
+   "peroxide_phr": 0.0,
+   "nitrile_curative_phr": 0.3516875424916345,
+   "other_curative_phr": 0.0,
+   "acid_acceptor_phr": 0.0,
+   "processing_aid_phr": 0.0,
+   "total_filler_phr": 56.57623136439638,
+   "pred_tensile_MPa": 19.29332976671308,
+   "std_tensile_MPa": 4.454595468377647,
+   "pred_hardness_shoreA": 76.77484831224781,
+   "std_hardness_shoreA": 9.179561628038948,
+   "pred_elongation_pct": 241.62498814379143,
+   "std_elongation_pct": 39.85225440653701,
+   "EI_tensile": 0.5990024899311518,
+   "P_feasible": 0.4027114541079412,
+   "cEI": 0.2412251637344515,
+   "nearest_example": "US7354974B2 Example 1",
+   "dist_to_nearest": 2.04273799039854
+  },
+  {
+   "rank": 3,
+   "polymer_type": "FFKM",
+   "cure_system": "nitrile_triazine",
+   "carbon_black_phr": 0.0,
+   "silica_phr": 1.3466528332572243,
+   "alumina_phr": 0.0,
+   "barium_sulfate_phr": 0.0,
+   "titanium_oxide_phr": 6.975100653298155,
+   "fluororesin_phr": 31.16911940486447,
+   "other_inorganic_filler_phr": 0.0,
+   "organic_additive_phr": 0.0,
+   "coagent_phr": 0.0,
+   "peroxide_phr": 0.0,
+   "nitrile_curative_phr": 0.5226796149296556,
+   "other_curative_phr": 0.0,
+   "acid_acceptor_phr": 0.0,
+   "processing_aid_phr": 0.0,
+   "total_filler_phr": 39.490872891419855,
+   "pred_tensile_MPa": 18.419869803997173,
+   "std_tensile_MPa": 4.450525585055786,
+   "pred_hardness_shoreA": 77.3907933883935,
+   "std_hardness_shoreA": 6.1282071514614,
+   "pred_elongation_pct": 258.03719786976944,
+   "std_elongation_pct": 38.788972023088775,
+   "EI_tensile": 0.4209651651813949,
+   "P_feasible": 0.5494856268553818,
+   "cEI": 0.2313143076739781,
+   "nearest_example": "US5696189A Comparative Example B",
+   "dist_to_nearest": 1.6877256077045888
+  },
+  {
+   "rank": 4,
+   "polymer_type": "FFKM",
+   "cure_system": "nitrile_triazine",
+   "carbon_black_phr": 9.884475884799434,
+   "silica_phr": 0.0,
+   "alumina_phr": 0.0,
+   "barium_sulfate_phr": 0.0,
+   "titanium_oxide_phr": 0.0,
+   "fluororesin_phr": 37.92305261052919,
+   "other_inorganic_filler_phr": 0.0,
+   "organic_additive_phr": 0.0,
+   "coagent_phr": 0.0,
+   "peroxide_phr": 0.0,
+   "nitrile_curative_phr": 0.1757718216762427,
+   "other_curative_phr": 0.0,
+   "acid_acceptor_phr": 0.0,
+   "processing_aid_phr": 0.0,
+   "total_filler_phr": 47.80752849532863,
+   "pred_tensile_MPa": 19.051820452011597,
+   "std_tensile_MPa": 3.8872953637243626,
+   "pred_hardness_shoreA": 78.72258430653467,
+   "std_hardness_shoreA": 4.072060180198488,
+   "pred_elongation_pct": 213.66048374493087,
+   "std_elongation_pct": 46.64567349323909,
+   "EI_tensile": 0.3868085360414376,
+   "P_feasible": 0.5547282892266128,
+   "cEI": 0.2145736374565172,
+   "nearest_example": "US7354974B2 Control D",
+   "dist_to_nearest": 2.3900148767468066
+  },
+  {
+   "rank": 5,
+   "polymer_type": "FFKM",
+   "cure_system": "nitrile_triazine",
+   "carbon_black_phr": 0.0,
+   "silica_phr": 0.0,
+   "alumina_phr": 0.0,
+   "barium_sulfate_phr": 0.0,
+   "titanium_oxide_phr": 7.930710878415809,
+   "fluororesin_phr": 25.8938466679826,
+   "other_inorganic_filler_phr": 0.0,
+   "organic_additive_phr": 0.0,
+   "coagent_phr": 0.0,
+   "peroxide_phr": 0.0,
+   "nitrile_curative_phr": 1.1688257614732116,
+   "other_curative_phr": 0.0,
+   "acid_acceptor_phr": 0.0,
+   "processing_aid_phr": 0.0,
+   "total_filler_phr": 33.82455754639841,
+   "pred_tensile_MPa": 18.19761935709124,
+   "std_tensile_MPa": 4.484993328375726,
+   "pred_hardness_shoreA": 73.84574932785982,
+   "std_hardness_shoreA": 6.614528828799819,
+   "pred_elongation_pct": 268.2102370959745,
+   "std_elongation_pct": 44.945523952551326,
+   "EI_tensile": 0.3918808811104042,
+   "P_feasible": 0.5411198117942388,
+   "cEI": 0.2120545086322224,
+   "nearest_example": "US5696189A Comparative Example B",
+   "dist_to_nearest": 1.2581202270419891
+  }
+ ],
+ "kernel_kor": {
+  "rbf": "RBF",
+  "matern12": "Matérn ν=1/2",
+  "matern32": "Matérn ν=3/2",
+  "matern52": "Matérn ν=5/2",
+  "rq": "Rational Quadratic"
+ },
+ "fs_kor": {
+  "full": "full (개별 성분 14 + 지표 3)",
+  "full_agg": "full_agg (full + 총필러·총가교계)",
+  "full_cure6": "full_cure6 (개별 성분 + 가교계 6종 지시변수)",
+  "compact": "compact (그룹화 9 + 총필러 + 지표)"
+ },
+ "feat_kor": {
+  "carbon_black_phr": "카본블랙",
+  "silica_phr": "실리카",
+  "alumina_phr": "알루미나",
+  "barium_sulfate_phr": "황산바륨",
+  "titanium_oxide_phr": "산화티탄",
+  "fluororesin_phr": "불소수지",
+  "other_inorganic_filler_phr": "기타 무기필러",
+  "organic_additive_phr": "유기첨가제",
+  "coagent_phr": "가교조제",
+  "peroxide_phr": "과산화물",
+  "nitrile_curative_phr": "니트릴 가교제",
+  "other_curative_phr": "기타 가교제",
+  "acid_acceptor_phr": "수산제",
+  "processing_aid_phr": "가공조제",
+  "total_filler_phr": "총 필러량",
+  "white_inorganic_phr": "백색 무기필러",
+  "total_curative_phr": "총 가교계",
+  "is_FFKM": "FFKM 여부",
+  "cure_peroxide": "과산화물 가교",
+  "cure_nitrile": "니트릴 가교",
+  "cs_temp_C": "CS 시험온도",
+  "cure_nitrile_triazine": "트리아진 가교",
+  "cure_nitrile_bisaminophenol": "비스아미노페놀 가교",
+  "cure_nitrile_organotin": "유기주석 가교",
+  "cure_nitrile_other": "기타 니트릴 가교",
+  "cure_bisphenol": "비스페놀 가교",
+  "cure_other": "기타 가교계"
+ }
+}
